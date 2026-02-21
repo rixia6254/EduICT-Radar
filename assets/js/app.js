@@ -875,6 +875,53 @@ function bindEvents() {
   }, { passive: true });
   scrollBtn.addEventListener('click', () => window.scrollTo({ top: 0, behavior: 'smooth' }));
 
+  /* ---- タブスクロールアロウ ---- */
+  const tabScroll     = document.getElementById('tab-scroll');
+  const tabNav        = document.getElementById('tab-nav');
+  const arrowLeft     = document.getElementById('tab-arrow-left');
+  const arrowRight    = document.getElementById('tab-arrow-right');
+  const SCROLL_AMOUNT = 200;
+
+  function updateTabArrows() {
+    if (!tabScroll) return;
+    const scrollLeft  = tabScroll.scrollLeft;
+    const maxScroll   = tabScroll.scrollWidth - tabScroll.clientWidth;
+    const hasOverflow = tabScroll.scrollWidth > tabScroll.clientWidth + 4;
+
+    // 左矢印：スクロール済みなら表示
+    arrowLeft.hidden  = scrollLeft <= 4;
+    // 右矢印：まだ右に余地があるなら表示
+    arrowRight.hidden = !hasOverflow || scrollLeft >= maxScroll - 4;
+
+    // フェード用クラス制御
+    tabNav.classList.toggle('scrolled', scrollLeft > 4);
+    tabNav.classList.toggle('at-end',   !hasOverflow || scrollLeft >= maxScroll - 4);
+  }
+
+  if (tabScroll) {
+    tabScroll.addEventListener('scroll', updateTabArrows, { passive: true });
+    // リサイズ時も再計算
+    new ResizeObserver(updateTabArrows).observe(tabScroll);
+    // 初期状態を設定
+    updateTabArrows();
+  }
+
+  arrowRight?.addEventListener('click', () => {
+    tabScroll.scrollBy({ left: SCROLL_AMOUNT, behavior: 'smooth' });
+  });
+  arrowLeft?.addEventListener('click', () => {
+    tabScroll.scrollBy({ left: -SCROLL_AMOUNT, behavior: 'smooth' });
+  });
+
+  // タブクリック時、選択タブが見えるようスクロール調整
+  document.querySelectorAll('.tab-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      setTimeout(() => {
+        btn.scrollIntoView({ inline: 'nearest', block: 'nearest', behavior: 'smooth' });
+      }, 50);
+    });
+  });
+
   /* ---- キーボードショートカット ---- */
   document.addEventListener('keydown', e => {
     // Escape でモーダルを閉じる
