@@ -2,11 +2,10 @@ name: 📡 Fetch RSS Feeds
 
 on:
   schedule:
-    # 毎日 JST 6:00 / 12:00 / 18:00 に実行 (UTC 21/3/9)
     - cron: '0 21 * * *'
     - cron: '0 3  * * *'
     - cron: '0 9  * * *'
-  workflow_dispatch:    # 手動実行ボタン
+  workflow_dispatch:
     inputs:
       dry_run:
         description: 'Dry run (items.json を更新しない)'
@@ -14,7 +13,7 @@ on:
         default: false
 
 permissions:
-  contents: write   # items.json を commit するため
+  contents: write
 
 jobs:
   fetch:
@@ -22,25 +21,19 @@ jobs:
     timeout-minutes: 15
 
     steps:
-      # ── リポジトリ取得 ──────────────────────────
       - name: ⬇ Checkout repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 1
 
-      # ── Node.js セットアップ ──────────────────────
       - name: 🟩 Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '20'
-          cache: 'npm'
 
-      # ── 依存インストール ──────────────────────────
       - name: 📦 Install dependencies
-        run: npm ci --production
-        working-directory: .
+        run: npm install --production
 
-      # ── フィード取得 ─────────────────────────────
       - name: 🔄 Fetch feeds
         id: fetch
         run: |
@@ -53,7 +46,6 @@ jobs:
           NODE_ENV: production
           TZ: Asia/Tokyo
 
-      # ── 変更確認 ─────────────────────────────────
       - name: 🔍 Check for changes
         id: check
         run: |
@@ -66,7 +58,6 @@ jobs:
             echo "items.json 変更あり: $ADDED"
           fi
 
-      # ── commit & push ─────────────────────────────
       - name: 💾 Commit and push items.json
         if: steps.check.outputs.changed == 'true' && github.event.inputs.dry_run != 'true'
         run: |
@@ -78,7 +69,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # ── サマリー出力 ───────────────────────────────
       - name: 📊 Job summary
         if: always()
         run: |
