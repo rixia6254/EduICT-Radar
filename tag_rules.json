@@ -1,0 +1,124 @@
+{
+  "version": "1.0",
+  "description": "タグ付けルール辞書。keywordsにマッチした記事に対してtagsを付与する。priorityが高いルールが優先される。",
+  "rules": [
+    {
+      "id": "exam",
+      "category": "exam",
+      "tags": ["共通テスト", "入試"],
+      "keywords": [
+        "共通テスト", "大学入試", "情報Ⅰ", "情報I", "センター試験",
+        "入学試験", "受験", "試験問題", "過去問", "模試",
+        "大学入学共通テスト", "入試改革", "CBT"
+      ],
+      "priority": 10
+    },
+    {
+      "id": "ai",
+      "category": "ai",
+      "tags": ["生成AI", "AI活用"],
+      "keywords": [
+        "生成AI", "ChatGPT", "GPT-4", "GPT-4o", "Claude",
+        "Gemini", "Copilot", "LLM", "大規模言語モデル",
+        "AI活用", "人工知能", "機械学習", "深層学習", "ディープラーニング",
+        "AIツール", "Perplexity", "GitHub Copilot", "OpenAI",
+        "Anthropic", "Google AI", "生成系AI", "AIアシスタント",
+        "プロンプト", "RAG", "ファインチューニング"
+      ],
+      "priority": 9
+    },
+    {
+      "id": "lesson",
+      "category": "lesson",
+      "tags": ["授業実践", "情報Ⅰ"],
+      "keywords": [
+        "授業実践", "情報Ⅰ", "情報I", "情報科", "プログラミング授業",
+        "アルゴリズム", "データ活用", "情報デザイン", "ネットワーク授業",
+        "データサイエンス授業", "学習指導要領", "情報教育", "コンピュータ授業",
+        "ICT活用授業", "デジタル教材", "授業設計", "学習活動"
+      ],
+      "priority": 8
+    },
+    {
+      "id": "dx",
+      "category": "dx",
+      "tags": ["校務DX", "GIGA"],
+      "keywords": [
+        "GIGA", "GIGAスクール", "1人1台", "端末", "MDM",
+        "校務DX", "デジタル化", "電子黒板", "学習管理システム",
+        "LMS", "Google Workspace", "Microsoft 365", "Chromebook",
+        "iPad", "タブレット", "アカウント管理", "デジタル庁",
+        "学校DX", "教育DX", "校務支援", "クラウド"
+      ],
+      "priority": 8
+    },
+    {
+      "id": "security",
+      "category": "security",
+      "tags": ["セキュリティ", "情報モラル"],
+      "keywords": [
+        "セキュリティ", "情報モラル", "個人情報", "サイバー",
+        "フィッシング", "マルウェア", "ウイルス", "不正アクセス",
+        "プライバシー", "著作権", "ネットリテラシー", "デジタル市民",
+        "情報漏洩", "パスワード", "二段階認証", "ゼロトラスト",
+        "情報セキュリティ", "ランサムウェア"
+      ],
+      "priority": 7
+    },
+    {
+      "id": "tools",
+      "category": "tools",
+      "tags": ["教材", "ツール"],
+      "keywords": [
+        "教材", "ツール", "アプリ", "ソフトウェア", "プラットフォーム",
+        "EdTech", "教育ツール", "学習ツール", "授業ツール",
+        "Scratch", "Python", "プログラミング環境", "シミュレーター",
+        "デジタル教科書", "ドリル", "評価ツール", "採点"
+      ],
+      "priority": 6
+    },
+    {
+      "id": "admin",
+      "category": "admin",
+      "tags": ["行政", "文科省"],
+      "keywords": [
+        "文部科学省", "文科省", "MEXT", "教育委員会", "行政",
+        "通知", "告示", "指導要領", "学習指導要領", "政策",
+        "法律", "法改正", "補助金", "予算", "文教",
+        "デジタル庁", "総務省", "経産省"
+      ],
+      "priority": 7
+    },
+    {
+      "id": "edu_news",
+      "category": "edu_news",
+      "tags": ["教育ニュース"],
+      "keywords": [
+        "教育", "学校", "高校", "中学", "小学",
+        "教員", "教師", "先生", "生徒", "学習",
+        "EdTech", "教育改革", "授業", "学力", "文部科学"
+      ],
+      "priority": 3
+    }
+  ],
+  "source_category_map": {
+    "ict_edu_news": ["edu_news", "lesson", "dx"],
+    "mext": ["admin", "edu_news"],
+    "itmedia_edu": ["edu_news", "tools", "dx"],
+    "itmedia_ai": ["ai"],
+    "edtechzine": ["edu_news", "lesson", "tools", "dx"],
+    "impress_watch": ["tech"],
+    "internet_watch": ["tech", "security"],
+    "prtimes_edu": ["edu_news", "tools"],
+    "prtimes_ai": ["ai", "tools"],
+    "note_joho1": ["lesson", "exam"]
+  },
+  "priority_boost": {
+    "description": "このキーワードにマッチした場合、ピックアップ優先度を上げる",
+    "keywords": [
+      "情報Ⅰ", "情報I", "共通テスト", "大学入試", "ChatGPT",
+      "生成AI", "GIGAスクール", "文部科学省", "学習指導要領",
+      "プログラミング", "データサイエンス", "CBT"
+    ]
+  }
+}

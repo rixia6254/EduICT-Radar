@@ -1,0 +1,24 @@
+{
+  "name": "info-teacher-radar",
+  "version": "1.0.0",
+  "description": "高校情報科教員向け情報収集ポータル — GitHub Pages",
+  "private": true,
+  "scripts": {
+    "fetch": "node scripts/fetch_feeds.js",
+    "fetch:dry": "node scripts/fetch_feeds.js --dry-run",
+    "preview": "npx serve . -p 8080"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "node-fetch": "^3.3.2",
+    "rss-parser": "^3.13.0"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rixia6254/info-teacher-radar.git"
+  },
+  "license": "MIT"
+}

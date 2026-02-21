@@ -1,0 +1,167 @@
+{
+  "sources": [
+    {
+      "id": "ict_edu_news",
+      "name": "ICT教育ニュース",
+      "url": "https://ict-enews.net/",
+      "rss": "https://ict-enews.net/feed/",
+      "category": "edu_news",
+      "priority": 1,
+      "tags": ["教育ニュース", "ICT"],
+      "active": true
+    },
+    {
+      "id": "mext",
+      "name": "文部科学省",
+      "url": "https://www.mext.go.jp/",
+      "rss": "https://www.mext.go.jp/b_menu/news/index_00001.htm",
+      "rss_note": "MEXTはRSSなし。GitHub ActionsでスクレイピングまたはHTMLパース",
+      "category": "admin",
+      "priority": 1,
+      "tags": ["行政", "文科省", "制度"],
+      "active": true,
+      "fetch_type": "scrape",
+      "scrape_url": "https://www.mext.go.jp/b_menu/news/index_00001.htm",
+      "scrape_selector": ".list-item"
+    },
+    {
+      "id": "itmedia_edu",
+      "name": "ITmedia 教育IT",
+      "url": "https://www.itmedia.co.jp/news/subtop/edu/",
+      "rss": "https://rss.itmedia.co.jp/rss/2.0/news_edu.xml",
+      "category": "edu_news",
+      "priority": 2,
+      "tags": ["教育IT", "ICT", "EdTech"],
+      "active": true
+    },
+    {
+      "id": "itmedia_ai",
+      "name": "ITmedia AI+",
+      "url": "https://www.itmedia.co.jp/aiplus/",
+      "rss": "https://rss.itmedia.co.jp/rss/2.0/aiplus.xml",
+      "category": "ai",
+      "priority": 2,
+      "tags": ["生成AI", "AI", "LLM"],
+      "active": true
+    },
+    {
+      "id": "edtechzine",
+      "name": "EdTechZine",
+      "url": "https://edtechzine.jp/",
+      "rss": "https://edtechzine.jp/rss/new",
+      "category": "edu_news",
+      "priority": 2,
+      "tags": ["EdTech", "教育ICT", "授業実践"],
+      "active": true
+    },
+    {
+      "id": "impress_watch",
+      "name": "Impress Watch",
+      "url": "https://www.watch.impress.co.jp/",
+      "rss": "https://www.watch.impress.co.jp/data/rss/1.0/ipw/feed.rdf",
+      "category": "tech",
+      "priority": 3,
+      "tags": ["テクノロジー", "デジタル"],
+      "active": true
+    },
+    {
+      "id": "internet_watch",
+      "name": "INTERNET Watch",
+      "url": "https://internet.watch.impress.co.jp/",
+      "rss": "https://internet.watch.impress.co.jp/data/rss/1.0/iw/feed.rdf",
+      "category": "tech",
+      "priority": 3,
+      "tags": ["インターネット", "セキュリティ"],
+      "active": true
+    },
+    {
+      "id": "prtimes_edu",
+      "name": "PR TIMES (教育)",
+      "url": "https://prtimes.jp/",
+      "rss": "https://prtimes.jp/rss/new/industry/id/30.rss",
+      "rss_note": "教育カテゴリ=30",
+      "category": "edu_news",
+      "priority": 3,
+      "tags": ["プレスリリース", "EdTech", "教育"],
+      "active": true
+    },
+    {
+      "id": "prtimes_ai",
+      "name": "PR TIMES (AI・テクノロジー)",
+      "url": "https://prtimes.jp/",
+      "rss": "https://prtimes.jp/rss/new/industry/id/32.rss",
+      "rss_note": "テクノロジー/AI系カテゴリ",
+      "category": "ai",
+      "priority": 3,
+      "tags": ["プレスリリース", "AI", "テクノロジー"],
+      "active": true
+    },
+    {
+      "id": "note_joho1",
+      "name": "note（情報科教員）",
+      "url": "https://note.com/",
+      "rss": "https://note.com/hashtag/%E6%83%85%E5%A0%B11/rss",
+      "rss_note": "#情報1 ハッシュタグのRSS",
+      "category": "lesson",
+      "priority": 2,
+      "tags": ["授業実践", "情報Ⅰ", "教材"],
+      "active": true
+    }
+  ],
+  "categories": [
+    {
+      "id": "lesson",
+      "label": "授業実践（情報Ⅰ）",
+      "icon": "📚",
+      "color": "#4f46e5"
+    },
+    {
+      "id": "exam",
+      "label": "共通テスト/入試",
+      "icon": "📝",
+      "color": "#0891b2"
+    },
+    {
+      "id": "edu_news",
+      "label": "教育ニュース",
+      "icon": "📰",
+      "color": "#059669"
+    },
+    {
+      "id": "dx",
+      "label": "校務DX/GIGA",
+      "icon": "🏫",
+      "color": "#d97706"
+    },
+    {
+      "id": "ai",
+      "label": "生成AI/AI活用",
+      "icon": "🤖",
+      "color": "#7c3aed"
+    },
+    {
+      "id": "security",
+      "label": "セキュリティ/情報モラル",
+      "icon": "🔒",
+      "color": "#dc2626"
+    },
+    {
+      "id": "tools",
+      "label": "教材・ツール",
+      "icon": "🛠️",
+      "color": "#be185d"
+    },
+    {
+      "id": "admin",
+      "label": "教育行政",
+      "icon": "🏛️",
+      "color": "#475569"
+    },
+    {
+      "id": "tech",
+      "label": "テクノロジー",
+      "icon": "💻",
+      "color": "#64748b"
+    }
+  ]
+}

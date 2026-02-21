@@ -1,0 +1,413 @@
+<!DOCTYPE html>
+<html lang="ja" data-theme="light">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="高校情報科教員向け情報収集ポータル — 授業準備・校務DX・入試対策・生成AI最新情報を集約">
+  <title>情報科 Teacher Radar 📡</title>
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Noto+Sans+JP:wght@300;400;500;700&display=swap" rel="stylesheet">
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.5.0/css/all.min.css">
+  <!-- Main CSS -->
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+
+<!-- ===== HEADER ===== -->
+<header class="site-header" id="site-header">
+  <div class="header-inner">
+    <div class="header-brand">
+      <span class="header-icon">📡</span>
+      <div class="header-title-group">
+        <h1 class="header-title">情報科 Teacher Radar</h1>
+        <span class="header-subtitle">高校情報科教員向け情報収集ポータル</span>
+      </div>
+    </div>
+    <div class="header-actions">
+      <span class="update-badge" id="update-badge">
+        <i class="fas fa-circle-dot"></i>
+        <span id="last-updated-text">更新中...</span>
+      </span>
+      <button class="btn-icon" id="btn-clip-modal" title="手動クリップを追加" aria-label="手動クリップを追加">
+        <i class="fas fa-paperclip"></i>
+      </button>
+      <button class="btn-icon" id="btn-export" title="エクスポート" aria-label="ブックマークをエクスポート">
+        <i class="fas fa-file-export"></i>
+      </button>
+      <button class="btn-icon" id="btn-import" title="インポート" aria-label="ブックマークをインポート">
+        <i class="fas fa-file-import"></i>
+      </button>
+      <input type="file" id="import-file-input" accept=".json" style="display:none" aria-hidden="true">
+      <button class="btn-icon" id="btn-theme" title="テーマ切替" aria-label="ダーク/ライトモード切替">
+        <i class="fas fa-moon" id="theme-icon"></i>
+      </button>
+      <button class="btn-icon mobile-only" id="btn-mobile-filter" title="フィルタ" aria-label="フィルタを開く">
+        <i class="fas fa-sliders"></i>
+      </button>
+    </div>
+  </div>
+</header>
+
+<!-- ===== MAIN LAYOUT ===== -->
+<div class="layout-wrapper">
+
+  <!-- ===== SIDEBAR (desktop filter) ===== -->
+  <aside class="sidebar" id="sidebar" aria-label="フィルタパネル">
+    <div class="sidebar-inner">
+
+      <!-- Search -->
+      <div class="filter-section">
+        <div class="search-box">
+          <i class="fas fa-search search-icon"></i>
+          <input type="search" id="search-input" class="search-input"
+            placeholder="キーワードで検索..." aria-label="記事を検索" autocomplete="off">
+          <button class="search-clear" id="search-clear" aria-label="検索をクリア" hidden>
+            <i class="fas fa-xmark"></i>
+          </button>
+        </div>
+      </div>
+
+      <!-- Period filter -->
+      <div class="filter-section">
+        <h3 class="filter-label"><i class="fas fa-calendar"></i> 期間</h3>
+        <div class="btn-group" role="group" aria-label="期間フィルタ">
+          <button class="filter-btn active" data-period="all">すべて</button>
+          <button class="filter-btn" data-period="1">今日</button>
+          <button class="filter-btn" data-period="3">3日</button>
+          <button class="filter-btn" data-period="7">7日</button>
+          <button class="filter-btn" data-period="30">30日</button>
+        </div>
+      </div>
+
+      <!-- Sort -->
+      <div class="filter-section">
+        <h3 class="filter-label"><i class="fas fa-arrow-up-wide-short"></i> 並び替え</h3>
+        <div class="btn-group" role="group" aria-label="並び替え">
+          <button class="filter-btn active" data-sort="priority">おすすめ</button>
+          <button class="filter-btn" data-sort="newest">新しい順</button>
+        </div>
+      </div>
+
+      <!-- Source filter -->
+      <div class="filter-section">
+        <h3 class="filter-label"><i class="fas fa-rss"></i> 出典</h3>
+        <div class="source-list" id="source-filter-list" role="group" aria-label="出典フィルタ">
+          <!-- JS で生成 -->
+        </div>
+      </div>
+
+      <!-- Tag filter -->
+      <div class="filter-section">
+        <h3 class="filter-label"><i class="fas fa-tag"></i> タグ</h3>
+        <div class="tag-cloud" id="tag-filter-cloud" role="group" aria-label="タグフィルタ">
+          <!-- JS で生成 -->
+        </div>
+      </div>
+
+      <!-- Filter reset -->
+      <div class="filter-section">
+        <button class="btn-reset-filter" id="btn-reset-filter">
+          <i class="fas fa-rotate-left"></i> フィルタをリセット
+        </button>
+      </div>
+
+    </div>
+  </aside>
+
+  <!-- ===== MAIN CONTENT ===== -->
+  <main class="main-content" id="main-content">
+
+    <!-- Stats bar -->
+    <div class="stats-bar" id="stats-bar">
+      <div class="stats-item">
+        <span class="stats-value" id="stats-total">0</span>
+        <span class="stats-label">件の記事</span>
+      </div>
+      <div class="stats-item">
+        <span class="stats-value" id="stats-starred">0</span>
+        <span class="stats-label">スター済み</span>
+      </div>
+      <div class="stats-item">
+        <span class="stats-value" id="stats-today">0</span>
+        <span class="stats-label">今日の新着</span>
+      </div>
+      <div class="stats-item">
+        <span class="stats-value" id="stats-clips">0</span>
+        <span class="stats-label">クリップ</span>
+      </div>
+    </div>
+
+    <!-- Category tabs -->
+    <nav class="tab-nav" id="tab-nav" aria-label="カテゴリタブ">
+      <div class="tab-scroll">
+        <button class="tab-btn active" data-tab="pickup" aria-selected="true">
+          <span class="tab-icon">⭐</span>
+          <span class="tab-label">今日のピックアップ</span>
+        </button>
+        <button class="tab-btn" data-tab="all" aria-selected="false">
+          <span class="tab-icon">📋</span>
+          <span class="tab-label">すべて</span>
+          <span class="tab-count" id="tab-count-all"></span>
+        </button>
+        <button class="tab-btn" data-tab="lesson" aria-selected="false">
+          <span class="tab-icon">📚</span>
+          <span class="tab-label">授業実践</span>
+          <span class="tab-count" id="tab-count-lesson"></span>
+        </button>
+        <button class="tab-btn" data-tab="exam" aria-selected="false">
+          <span class="tab-icon">📝</span>
+          <span class="tab-label">共通テスト/入試</span>
+          <span class="tab-count" id="tab-count-exam"></span>
+        </button>
+        <button class="tab-btn" data-tab="edu_news" aria-selected="false">
+          <span class="tab-icon">📰</span>
+          <span class="tab-label">教育ニュース</span>
+          <span class="tab-count" id="tab-count-edu_news"></span>
+        </button>
+        <button class="tab-btn" data-tab="dx" aria-selected="false">
+          <span class="tab-icon">🏫</span>
+          <span class="tab-label">校務DX/GIGA</span>
+          <span class="tab-count" id="tab-count-dx"></span>
+        </button>
+        <button class="tab-btn" data-tab="ai" aria-selected="false">
+          <span class="tab-icon">🤖</span>
+          <span class="tab-label">生成AI/AI活用</span>
+          <span class="tab-count" id="tab-count-ai"></span>
+        </button>
+        <button class="tab-btn" data-tab="security" aria-selected="false">
+          <span class="tab-icon">🔒</span>
+          <span class="tab-label">セキュリティ</span>
+          <span class="tab-count" id="tab-count-security"></span>
+        </button>
+        <button class="tab-btn" data-tab="tools" aria-selected="false">
+          <span class="tab-icon">🛠️</span>
+          <span class="tab-label">教材・ツール</span>
+          <span class="tab-count" id="tab-count-tools"></span>
+        </button>
+        <button class="tab-btn" data-tab="starred" aria-selected="false">
+          <span class="tab-icon">★</span>
+          <span class="tab-label">スター済み</span>
+          <span class="tab-count" id="tab-count-starred"></span>
+        </button>
+        <button class="tab-btn" data-tab="clips" aria-selected="false">
+          <span class="tab-icon">📌</span>
+          <span class="tab-label">クリップ</span>
+          <span class="tab-count" id="tab-count-clips"></span>
+        </button>
+      </div>
+    </nav>
+
+    <!-- Loading state -->
+    <div class="state-loading" id="state-loading" aria-live="polite">
+      <div class="spinner"></div>
+      <p>情報を読み込んでいます...</p>
+    </div>
+
+    <!-- Error state -->
+    <div class="state-error" id="state-error" hidden aria-live="assertive">
+      <div class="state-icon">⚠️</div>
+      <h3>データの読み込みに失敗しました</h3>
+      <p id="error-message">items.json が見つからないか、形式が正しくありません。</p>
+      <button class="btn-primary" id="btn-retry">
+        <i class="fas fa-rotate-right"></i> 再試行
+      </button>
+    </div>
+
+    <!-- Empty state -->
+    <div class="state-empty" id="state-empty" hidden>
+      <div class="state-icon">🔍</div>
+      <h3>記事が見つかりません</h3>
+      <p>フィルタやキーワードを変更してみてください。</p>
+      <button class="btn-secondary" id="btn-reset-filter-2">
+        <i class="fas fa-rotate-left"></i> フィルタをリセット
+      </button>
+    </div>
+
+    <!-- Article grid -->
+    <div class="article-grid" id="article-grid" aria-label="記事一覧" aria-live="polite">
+      <!-- JS で生成 -->
+    </div>
+
+    <!-- Load more -->
+    <div class="load-more-wrapper" id="load-more-wrapper" hidden>
+      <button class="btn-load-more" id="btn-load-more">
+        <i class="fas fa-chevron-down"></i> もっと見る
+        (<span id="load-more-remaining">0</span>件)
+      </button>
+    </div>
+
+  </main>
+</div>
+
+<!-- ===== CLIP MODAL ===== -->
+<div class="modal-overlay" id="modal-clip" role="dialog" aria-modal="true" aria-labelledby="modal-clip-title" hidden>
+  <div class="modal-box">
+    <div class="modal-header">
+      <h2 class="modal-title" id="modal-clip-title">
+        <i class="fas fa-paperclip"></i> 手動クリップを追加
+      </h2>
+      <button class="modal-close" id="modal-clip-close" aria-label="閉じる">
+        <i class="fas fa-xmark"></i>
+      </button>
+    </div>
+    <div class="modal-body">
+      <div class="form-group">
+        <label class="form-label" for="clip-url">URL <span class="required">*</span></label>
+        <input type="url" id="clip-url" class="form-input" placeholder="https://..." required>
+      </div>
+      <div class="form-group">
+        <label class="form-label" for="clip-title">タイトル <span class="required">*</span></label>
+        <input type="text" id="clip-title" class="form-input" placeholder="記事タイトル" required>
+      </div>
+      <div class="form-group">
+        <label class="form-label" for="clip-memo">メモ</label>
+        <textarea id="clip-memo" class="form-textarea" placeholder="メモ・要約など..." rows="3"></textarea>
+      </div>
+      <div class="form-group">
+        <label class="form-label" for="clip-tags">タグ（カンマ区切り）</label>
+        <input type="text" id="clip-tags" class="form-input" placeholder="授業実践, 情報Ⅰ, ...">
+      </div>
+    </div>
+    <div class="modal-footer">
+      <button class="btn-secondary" id="modal-clip-cancel">キャンセル</button>
+      <button class="btn-primary" id="modal-clip-save">
+        <i class="fas fa-bookmark"></i> 保存
+      </button>
+    </div>
+  </div>
+</div>
+
+<!-- ===== MOBILE FILTER DRAWER ===== -->
+<div class="drawer-overlay" id="drawer-overlay" hidden aria-hidden="true"></div>
+<div class="filter-drawer" id="filter-drawer" role="dialog" aria-modal="true" aria-label="フィルタ" hidden>
+  <div class="drawer-header">
+    <h2 class="drawer-title"><i class="fas fa-sliders"></i> フィルタ</h2>
+    <button class="modal-close" id="drawer-close" aria-label="閉じる">
+      <i class="fas fa-xmark"></i>
+    </button>
+  </div>
+  <div class="drawer-body">
+    <!-- フィルタ内容はサイドバーと同期 (JS) -->
+
+    <div class="filter-section">
+      <div class="search-box">
+        <i class="fas fa-search search-icon"></i>
+        <input type="search" id="search-input-mobile" class="search-input"
+          placeholder="キーワードで検索..." aria-label="記事を検索（モバイル）" autocomplete="off">
+      </div>
+    </div>
+
+    <div class="filter-section">
+      <h3 class="filter-label"><i class="fas fa-calendar"></i> 期間</h3>
+      <div class="btn-group" role="group" aria-label="期間フィルタ（モバイル）">
+        <button class="filter-btn active" data-period-m="all">すべて</button>
+        <button class="filter-btn" data-period-m="1">今日</button>
+        <button class="filter-btn" data-period-m="3">3日</button>
+        <button class="filter-btn" data-period-m="7">7日</button>
+        <button class="filter-btn" data-period-m="30">30日</button>
+      </div>
+    </div>
+
+    <div class="filter-section">
+      <h3 class="filter-label"><i class="fas fa-arrow-up-wide-short"></i> 並び替え</h3>
+      <div class="btn-group" role="group" aria-label="並び替え（モバイル）">
+        <button class="filter-btn active" data-sort-m="priority">おすすめ</button>
+        <button class="filter-btn" data-sort-m="newest">新しい順</button>
+      </div>
+    </div>
+
+    <div class="filter-section">
+      <h3 class="filter-label"><i class="fas fa-rss"></i> 出典</h3>
+      <div class="source-list" id="source-filter-list-m" role="group" aria-label="出典フィルタ（モバイル）"></div>
+    </div>
+
+    <div class="filter-section">
+      <h3 class="filter-label"><i class="fas fa-tag"></i> タグ</h3>
+      <div class="tag-cloud" id="tag-filter-cloud-m" role="group" aria-label="タグフィルタ（モバイル）"></div>
+    </div>
+
+    <div class="filter-section">
+      <button class="btn-reset-filter" id="btn-reset-filter-m">
+        <i class="fas fa-rotate-left"></i> フィルタをリセット
+      </button>
+    </div>
+
+  </div>
+  <div class="drawer-footer">
+    <button class="btn-primary btn-full" id="drawer-apply">
+      <i class="fas fa-check"></i> 適用して閉じる
+    </button>
+  </div>
+</div>
+
+<!-- ===== TOAST ===== -->
+<div class="toast-container" id="toast-container" aria-live="polite" aria-atomic="true"></div>
+
+<!-- ===== SCROLL TO TOP ===== -->
+<button class="scroll-top-btn" id="scroll-top-btn" aria-label="ページトップへ戻る" hidden>
+  <i class="fas fa-chevron-up"></i>
+</button>
+
+<!-- ===== ARTICLE CARD TEMPLATE ===== -->
+<template id="tpl-article-card">
+  <article class="article-card" data-id="">
+    <div class="card-header">
+      <div class="card-meta">
+        <span class="card-source"></span>
+        <span class="card-date"></span>
+      </div>
+      <div class="card-actions">
+        <button class="btn-star" aria-label="スターを付ける" title="スター（ピン留め）">
+          <i class="far fa-star"></i>
+        </button>
+      </div>
+    </div>
+    <div class="card-body">
+      <h3 class="card-title"></h3>
+      <p class="card-summary"></p>
+    </div>
+    <div class="card-footer">
+      <div class="card-tags"></div>
+      <a class="card-open-btn" href="#" target="_blank" rel="noopener noreferrer">
+        <span>記事を開く</span>
+        <i class="fas fa-arrow-up-right-from-square"></i>
+      </a>
+    </div>
+  </article>
+</template>
+
+<!-- ===== CLIP CARD TEMPLATE ===== -->
+<template id="tpl-clip-card">
+  <article class="article-card clip-card" data-id="">
+    <div class="card-header">
+      <div class="card-meta">
+        <span class="card-source"><i class="fas fa-paperclip"></i> 手動クリップ</span>
+        <span class="card-date"></span>
+      </div>
+      <div class="card-actions">
+        <button class="btn-delete-clip" aria-label="クリップを削除" title="削除">
+          <i class="fas fa-trash-can"></i>
+        </button>
+      </div>
+    </div>
+    <div class="card-body">
+      <h3 class="card-title"></h3>
+      <p class="card-summary clip-memo"></p>
+    </div>
+    <div class="card-footer">
+      <div class="card-tags"></div>
+      <a class="card-open-btn" href="#" target="_blank" rel="noopener noreferrer">
+        <span>開く</span>
+        <i class="fas fa-arrow-up-right-from-square"></i>
+      </a>
+    </div>
+  </article>
+</template>
+
+<!-- Main JS -->
+<script src="assets/js/app.js"></script>
+</body>
+</html>
