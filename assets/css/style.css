@@ -416,13 +416,73 @@ input, textarea, select { font-family: inherit; }
 }
 
 /* ----- Tabs ----- */
-.tab-nav {
+/* タブナビ全体のラッパー（スクロールボタン配置用） */
+.tab-nav-wrapper {
+  position: relative;
   margin-bottom: 1.25rem;
+}
+
+.tab-nav {
   background: var(--clr-surface);
   border: 1px solid var(--clr-border);
   border-radius: var(--radius-lg);
-  overflow: hidden;
+  overflow: hidden;   /* 角丸を保持しつつ内側でスクロール */
+  position: relative;
 }
+
+/* 右端フェード（スクロール余地を示す） */
+.tab-nav::after {
+  content: '';
+  position: absolute;
+  top: 0; right: 0; bottom: 0;
+  width: 48px;
+  background: linear-gradient(to right, transparent, var(--clr-surface));
+  pointer-events: none;
+  border-radius: 0 var(--radius-lg) var(--radius-lg) 0;
+  transition: opacity var(--trans-base);
+}
+/* スクロール末端に達したらフェードを消す */
+.tab-nav.at-end::after { opacity: 0; }
+
+/* 左端フェード */
+.tab-nav::before {
+  content: '';
+  position: absolute;
+  top: 0; left: 0; bottom: 0;
+  width: 48px;
+  background: linear-gradient(to left, transparent, var(--clr-surface));
+  pointer-events: none;
+  border-radius: var(--radius-lg) 0 0 var(--radius-lg);
+  z-index: 1;
+  opacity: 0;
+  transition: opacity var(--trans-base);
+}
+.tab-nav.scrolled::before { opacity: 1; }
+
+/* スクロールアロウボタン */
+.tab-scroll-arrow {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 10;
+  width: 28px; height: 28px;
+  border-radius: 50%;
+  display: flex; align-items: center; justify-content: center;
+  background: var(--clr-surface);
+  border: 1px solid var(--clr-border);
+  color: var(--clr-text-2);
+  font-size: .75rem;
+  box-shadow: var(--shadow-md);
+  cursor: pointer;
+  transition: all var(--trans-fast);
+}
+.tab-scroll-arrow:hover {
+  background: var(--clr-primary);
+  color: white;
+  border-color: var(--clr-primary);
+}
+.tab-scroll-arrow-left  { left:  -10px; }
+.tab-scroll-arrow-right { right: -10px; }
 
 .tab-scroll {
   display: flex;
