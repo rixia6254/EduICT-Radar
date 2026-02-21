@@ -1,0 +1,95 @@
+name: 📡 Fetch RSS Feeds
+
+on:
+  schedule:
+    # 毎日 JST 6:00 / 12:00 / 18:00 に実行 (UTC 21/3/9)
+    - cron: '0 21 * * *'
+    - cron: '0 3  * * *'
+    - cron: '0 9  * * *'
+  workflow_dispatch:    # 手動実行ボタン
+    inputs:
+      dry_run:
+        description: 'Dry run (items.json を更新しない)'
+        type: boolean
+        default: false
+
+permissions:
+  contents: write   # items.json を commit するため
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      # ── リポジトリ取得 ──────────────────────────
+      - name: ⬇ Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      # ── Node.js セットアップ ──────────────────────
+      - name: 🟩 Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      # ── 依存インストール ──────────────────────────
+      - name: 📦 Install dependencies
+        run: npm ci --production
+        working-directory: .
+
+      # ── フィード取得 ─────────────────────────────
+      - name: 🔄 Fetch feeds
+        id: fetch
+        run: |
+          if [ "${{ github.event.inputs.dry_run }}" = "true" ]; then
+            node scripts/fetch_feeds.js --dry-run
+          else
+            node scripts/fetch_feeds.js
+          fi
+        env:
+          NODE_ENV: production
+          TZ: Asia/Tokyo
+
+      # ── 変更確認 ─────────────────────────────────
+      - name: 🔍 Check for changes
+        id: check
+        run: |
+          if git diff --quiet items.json; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "items.json に変更なし"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+            ADDED=$(git diff --stat items.json | tail -1)
+            echo "items.json 変更あり: $ADDED"
+          fi
+
+      # ── commit & push ─────────────────────────────
+      - name: 💾 Commit and push items.json
+        if: steps.check.outputs.changed == 'true' && github.event.inputs.dry_run != 'true'
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add items.json
+          git commit -m "chore: update items.json [$(date +'%Y-%m-%d %H:%M JST')]"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # ── サマリー出力 ───────────────────────────────
+      - name: 📊 Job summary
+        if: always()
+        run: |
+          echo "## 📡 Teacher Radar — Feed Update" >> "$GITHUB_STEP_SUMMARY"
+          echo "" >> "$GITHUB_STEP_SUMMARY"
+          if [ -f items.json ]; then
+            TOTAL=$(node -e "const d=require('./items.json'); console.log(d.total ?? d.items?.length ?? 0)")
+            GEN=$(node -e "const d=require('./items.json'); console.log(d.generated_at ?? 'N/A')")
+            echo "| 項目 | 値 |" >> "$GITHUB_STEP_SUMMARY"
+            echo "|---|---|" >> "$GITHUB_STEP_SUMMARY"
+            echo "| 記事件数 | ${TOTAL} 件 |" >> "$GITHUB_STEP_SUMMARY"
+            echo "| 生成日時 | ${GEN} |" >> "$GITHUB_STEP_SUMMARY"
+            echo "| 変更あり | ${{ steps.check.outputs.changed }} |" >> "$GITHUB_STEP_SUMMARY"
+          fi
