@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-02-22T04:52:11.013Z",
+  "generated_at": "2026-02-22T09:38:53.453Z",
   "total": 103,
   "items": [
+    {
+      "id": "item_5a2c7864b68dcd43",
+      "title": "過去の文部科学省ホームページ（※国立国会図書館ホームページへリンク）",
+      "url": "https://warp.ndl.go.jp/waid/3475",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-02-22T09:38:39.078Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
     {
       "id": "item_21f8651de3f2baea",
       "title": "文部科学省ホームページトップはこちら",
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-02-22T04:51:59.279Z",
+      "published_at": "2026-02-22T09:38:39.077Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +44,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-02-22T04:51:59.279Z",
+      "published_at": "2026-02-22T09:38:39.077Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -38,22 +56,21 @@
       "priority_score": 50
     },
     {
-      "id": "item_5a2c7864b68dcd43",
-      "title": "過去の文部科学省ホームページ（※国立国会図書館ホームページへリンク）",
-      "url": "https://warp.ndl.go.jp/waid/3475",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-02-22T04:51:59.279Z",
-      "summary": "",
+      "id": "item_b61b7dc8edc39957",
+      "title": "応用情報の勉強記録（2ヶ月目）",
+      "url": "https://note.com/petit_happiness/n/n3ede2793f47a",
+      "source_id": "note_joho1",
+      "source_name": "note（情報科教員）",
+      "published_at": "2026-02-22T06:54:03.000Z",
+      "summary": "応用情報技術者試験（AP）に向けた勉強過程を記録する。今回は「2ヶ月目」と題し、2026年1月23日〜2026年2月22日の記録を残す。1ヶ月目の勉強記録は以下の記事にまとめてある。 続きをみる",
       "starred": false,
-      "category": "admin",
+      "category": "lesson",
       "tags": [
-        "行政",
-        "文科省",
-        "制度",
-        "教育ニュース"
+        "授業実践",
+        "情報Ⅰ",
+        "教材"
       ],
-      "priority_score": 60
+      "priority_score": 50
     },
     {
       "id": "item_78e677916353831a",
@@ -1789,25 +1806,6 @@
         "入試"
       ],
       "priority_score": 70
-    },
-    {
-      "id": "item_db9e58b14b927733",
-      "title": "共通テスト2026 数学Ⅰ、ⅠA、ⅡBC、情報Ⅰ（リンク集）",
-      "url": "https://note.com/newricefield_m/n/nab582b93419b",
-      "source_id": "note_joho1",
-      "source_name": "note（情報科教員）",
-      "published_at": "2026-01-18T21:17:58.000Z",
-      "summary": "今日の記事はほぼリンク集です🙇まだ解いていないので、後日追記します。 リセマムへのリンクは、予備校の分析記事です。 河合塾の問題、解答、分析へのリンクはこちら↓。印刷しやすいのでこちらがお気に入りです。 2026年度 大学入学共通テスト速報 | 大学入試解答速報 | 大学受験の予備校・塾 河合塾2026年度 大学入学共通テスト速報では、河合塾が作成した分析コメントを公開しています。大学受験の予備…",
-      "starred": false,
-      "category": "exam",
-      "tags": [
-        "授業実践",
-        "情報Ⅰ",
-        "教材",
-        "共通テスト",
-        "入試"
-      ],
-      "priority_score": 80
     }
   ],
   "clips": []
