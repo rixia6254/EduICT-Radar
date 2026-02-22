@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-02-21T21:16:50.932Z",
+  "generated_at": "2026-02-22T04:52:11.013Z",
   "total": 103,
   "items": [
+    {
+      "id": "item_21f8651de3f2baea",
+      "title": "文部科学省ホームページトップはこちら",
+      "url": "https://www.mext.go.jp/",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-02-22T04:51:59.279Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
     {
       "id": "item_bd1951ae70f98dac",
       "title": "サイトマップはこちら",
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-02-21T21:16:40.780Z",
+      "published_at": "2026-02-22T04:51:59.279Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -25,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-02-21T21:16:40.780Z",
+      "published_at": "2026-02-22T04:51:59.279Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -38,22 +56,36 @@
       "priority_score": 60
     },
     {
-      "id": "item_21f8651de3f2baea",
-      "title": "文部科学省ホームページトップはこちら",
-      "url": "https://www.mext.go.jp/",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-02-21T21:16:40.779Z",
-      "summary": "",
+      "id": "item_78e677916353831a",
+      "title": "チープカシオ「F-91W」にクリアバンド+メタルカラーの新色",
+      "url": "https://www.watch.impress.co.jp/docs/news/2087038.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-02-22T01:00:00.000Z",
+      "summary": "カシオ計算機は、「CASIO Collection」の新作として、F-91Wのカラーバリエーションモデル「F-91WS」2機種を発売した。クオーツ式の腕時計で、価格は3,300円。",
       "starred": false,
-      "category": "admin",
+      "category": "tech",
       "tags": [
-        "行政",
-        "文科省",
-        "制度",
-        "教育ニュース"
+        "テクノロジー",
+        "デジタル"
       ],
-      "priority_score": 60
+      "priority_score": 50
+    },
+    {
+      "id": "item_5e13a18c224d8769",
+      "title": "【いつモノコト】旅行のカバンが軽くなる。フィリップスのコンパクトシェーバーが便利",
+      "url": "https://www.watch.impress.co.jp/docs/series/itsmo/2086210.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-02-22T00:00:00.000Z",
+      "summary": "旅行や出張の準備をしているとき、意外とかさばって場所を取るのが電動シェーバーです。筆者は2018年からフィリップスの「9000シリーズ(S9511/26)」を愛用してきましたが、剃り味には満足していても、持ち運ぶとなると専用ケースを含めたサイズ感が気になっていました。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_6e17a47c0cb26000",
@@ -523,41 +555,6 @@
         "AI活用"
       ],
       "priority_score": 50
-    },
-    {
-      "id": "item_bb54c8f43af0b21c",
-      "title": "「SaaS is Dead」にSmartHRが反論　SaaSこそAIを活かせる",
-      "url": "https://www.watch.impress.co.jp/docs/news/2087312.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-02-20T00:00:00.000Z",
-      "summary": "SmartHRは19日、報道関係者向け勉強会を開催し、「SaaS is Dead」論に対する同社の見解と今後の戦略を示した。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_ed8fab809b3ea132",
-      "title": "イプシロンS、26年度打上げ再開　トラブルの2段モータを\"先祖返り\"する狙いとは?",
-      "url": "https://www.watch.impress.co.jp/docs/topic/2086310.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-02-19T23:40:00.000Z",
-      "summary": "文部科学省は、開発が難航している「イプシロンS」ロケットについて、2段モータを旧型ベースへと戻し、早期の打上げ再開を優先する「Block 1」開発へ舵を切りました。能力増強を先送りする決断の背景には、運用空白期間の長期化を避ける必要性があります。将来の「Block 2」で小型衛星の需要を掴むためにイプシロンSをどう再始動していくのか、その展望を解説します。",
-      "starred": false,
-      "category": "admin",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "行政",
-        "文科省",
-        "教育ニュース"
-      ],
-      "priority_score": 60
     },
     {
       "id": "item_b447a6a4dc0a7e85",
