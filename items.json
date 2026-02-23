@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-23T10:02:59.710Z",
+  "generated_at": "2026-02-23T21:37:50.328Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-02-23T10:02:45.698Z",
+      "published_at": "2026-02-23T21:37:38.849Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-02-23T10:02:45.698Z",
+      "published_at": "2026-02-23T21:37:38.849Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-02-23T10:02:45.698Z",
+      "published_at": "2026-02-23T21:37:38.849Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,56 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_984eadaaf08826c1",
+      "title": "【1999年のINTERNET Watch】ドコモの携帯電話向け「iモード」と、ブロードバンド回線「ADSL」が始まる",
+      "url": "https://internet.watch.impress.co.jp/docs/special/30th/2076349.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-02-23T21:30:00.000Z",
+      "summary": "1999年（平成11年）は「1999年7の月に人類が滅亡する」とする「ノストラダムスの大予言」の年だった。またIT業界の話題としては、2000年以降の運用を想定せず、年を西暦の下2桁の数字だけで計算していたソフトウェアが、「99」から「00」になることで問題を起こす可能性を指摘する「西暦2000年問題」（2000年問題／Y2K問題）も大きな話題になった。",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_c50fde09538dc1f9",
+      "title": "LANケーブルの”ややこしい”話　「カテゴリー8」ってどうなの？【イニシャルB】",
+      "url": "https://internet.watch.impress.co.jp/docs/column/shimizu/2086089.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-02-23T21:00:00.000Z",
+      "summary": "通販サイトで、おすすめとして頻繁に表示される「カテゴリー8」のLANケーブル。「どうなの？」と質問されることもあるのだが、正直、答えに困っている。なぜなら、25Gbpsや40Gbpsでつながる機器がほぼないため、検証のしようがないからだ。もちろん、10Gbpsでつなぐことはできるが、だったら安いカテゴリー6Aでいい。このケーブルが、そもそもどんなものなのかを解説する。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_e9aba3070d5198b2",
+      "title": "UGREENのNASキット「NASync」が最大15％オフに！ さらに本誌限定クーポンも配信中!![Sponsored]",
+      "url": "https://internet.watch.impress.co.jp/docs/topic/special/2083837.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-02-23T21:00:00.000Z",
+      "summary": "株式会社ユーグリーン・ジャパン（UGREEN）は、Amazon.co.jpのUGREENストアページにて、2月23日～3月9日の期間限定でNASキット「NASync」シリーズのセールを実施している。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_fa1c5ce45d3a3fd2",
@@ -1396,60 +1446,6 @@
         "ツール"
       ],
       "priority_score": 60
-    },
-    {
-      "id": "item_060e59434e8bced1",
-      "title": "アサヒグループHD、ランサムウェア攻撃によるシステム障害について、調査が完了した内容と再発防止策を公開　取引先や従業員の情報約11万5000件の漏えいを確認",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2087007.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-02-18T22:00:00.000Z",
-      "summary": "アサヒグループホールディングス株式会社は2月18日、2025年9月29日に発生したサイバー攻撃によるシステム障害について、調査が完了した内容と再発防止策を公開した。",
-      "starred": false,
-      "category": "security",
-      "tags": [
-        "インターネット",
-        "セキュリティ",
-        "情報モラル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_3688e0025f10be20",
-      "title": "KDDI総研、ホワイトリストの自動生成・AI再構成で運用コストを削減するセキュリティ技術「KWAF」開発　2026年度内の商用化を目指す",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2086906.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-02-18T21:30:00.000Z",
-      "summary": "株式会社KDDI総合研究所は2月18日、ホワイトリストの自動生成・生成AIによる自動再構成で、未知のサイバー攻撃からシステムを守るセキュリティ技術「KWAF」（ケイワフ）を開発し、ウェブトラフィックを用いた実証に成功したと発表した。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "インターネット",
-        "セキュリティ",
-        "生成AI",
-        "AI活用",
-        "情報モラル"
-      ],
-      "priority_score": 60
-    },
-    {
-      "id": "item_2fae68bf59aac41c",
-      "title": "大切な写真に、もう一段階の安心を。バッファロー「おもいでばこ」のデータをバックアップする【自宅Wi-Fiの“わからない”をスッキリ！】",
-      "url": "https://internet.watch.impress.co.jp/docs/column/homewifi/2086065.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-02-18T21:00:00.000Z",
-      "summary": "スマートフォンで撮った写真や動画を、iCloudやGoogleのクラウドに保存していると、すぐに容量が足りなくなってしまう。そこで、容量が大きな外付けストレージを接続してバックアップする方法を、第254回から実践してきた。第261回からは、バッファローの「おもいでばこ」という、スマートフォンの写真・動画のバックアップおよび整理・再生が簡単にできる製品を見ている。",
-      "starred": false,
-      "category": "dx",
-      "tags": [
-        "インターネット",
-        "セキュリティ",
-        "校務DX",
-        "GIGA"
-      ],
-      "priority_score": 50
     },
     {
       "id": "item_b74848996f67d0b1",
