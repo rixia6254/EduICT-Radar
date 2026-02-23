@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-22T21:18:01.980Z",
+  "generated_at": "2026-02-23T05:01:33.184Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-02-22T21:17:51.191Z",
+      "published_at": "2026-02-23T05:01:22.104Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-02-22T21:17:51.191Z",
+      "published_at": "2026-02-23T05:01:22.104Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-02-22T21:17:51.191Z",
+      "published_at": "2026-02-23T05:01:22.104Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,24 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_6e0ca2766c0355d0",
+      "title": "OpenAIのアルトマンCEO、「宇宙データセンターは馬鹿げている」　インドでの対談で",
+      "url": "https://www.itmedia.co.jp/news/articles/2602/23/news014.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-02-22T22:25:00.000Z",
+      "summary": "OpenAIのサム・アルトマンCEOは、インドでのインタビューでAIの未来について語った。AGIやASIの実現が近づいているとし、AIインフラ整備を「人類史上最大のプロジェクト」と表現。また、AppleとGoogleの提携や、イーロン・マスク氏についての質問にも答えた。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_b61b7dc8edc39957",
@@ -1432,23 +1450,6 @@
         "セキュリティ",
         "校務DX",
         "GIGA"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_7af7dd0528ea4c0d",
-      "title": "バイブコーディングはもう古い？　その限界を乗り越える「エージェンティックエンジニアリング」",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2602/19/news018.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-02-18T20:00:00.000Z",
-      "summary": "「バイブコーディング」という言葉が生まれてから1年。さらに大きく変化しつつあるAI開発スタイルに、あらためて名前が与えられた。それはどんな考え方で、どんな開発なのか。なぜ今、その言葉が必要とされているのか。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
       ],
       "priority_score": 50
     },
