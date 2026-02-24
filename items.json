@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-02-24T09:59:19.609Z",
+  "generated_at": "2026-02-24T21:27:51.074Z",
   "total": 103,
   "items": [
+    {
+      "id": "item_21f8651de3f2baea",
+      "title": "文部科学省ホームページトップはこちら",
+      "url": "https://www.mext.go.jp/",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-02-24T21:27:39.686Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
     {
       "id": "item_bd1951ae70f98dac",
       "title": "サイトマップはこちら",
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-02-24T09:59:08.470Z",
+      "published_at": "2026-02-24T21:27:39.686Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -25,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-02-24T09:59:08.470Z",
+      "published_at": "2026-02-24T21:27:39.686Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -38,22 +56,126 @@
       "priority_score": 60
     },
     {
-      "id": "item_21f8651de3f2baea",
-      "title": "文部科学省ホームページトップはこちら",
-      "url": "https://www.mext.go.jp/",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-02-24T09:59:08.469Z",
-      "summary": "",
+      "id": "item_e5ebc77538b0c4ec",
+      "title": "業界初の「データSLA」を実現したIoT向けエッジゲートウェイサービス「P3EG」、IIJ子会社が提供",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2088152.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-02-24T21:00:00.000Z",
+      "summary": "株式会社インターネットイニシアティブ（IIJ）子会社のネットチャート株式会社は、マネージド型エッジゲートウェイサービス「P3EG」（Profile Programmable Proxy Edge computing Gateway）の販売を開始した。",
       "starred": false,
-      "category": "admin",
+      "category": "tech",
       "tags": [
-        "行政",
-        "文科省",
-        "制度",
-        "教育ニュース"
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_be29c52c75842c10",
+      "title": "VS Code拡張機能「Python Environments」正式版を触って分かった機能とUIの全体像",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2602/25/news022.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-02-24T20:00:00.000Z",
+      "summary": "Pythonでは仮想環境や依存するパッケージを管理する方法はさまざまだ。各種ツールと連携して、環境管理に統一的なUIをもたらす拡張機能の一般提供がついに開始された。",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_3469f04dd4213567",
+      "title": "【Excelで学ぶデータ分析】待ち時間の長いラーメン店ほど評価が高いのか？（順位相関の検定）",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2602/25/news013.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-02-24T20:00:00.000Z",
+      "summary": "初歩から応用までステップアップしながら学んでいく『やさしいデータ分析』シリーズ（仮説検定編）の第13回。前回、前々回と、ノンパラメトリック検定に取り組んでいますが、今回は、順位を基にした相関係数の検定方法について解説します。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_5f8ccccc8d6ad3a2",
+      "title": "MetaとAMD、AIインフラで6GWの大型契約　ロードマップを共有",
+      "url": "https://www.watch.impress.co.jp/docs/news/2088305.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-02-24T15:42:32.000Z",
+      "summary": "Metaは24日(米国時間)、AMDとの複数年契約を締結し、最大6GW(ギガワット)相当の「AMD Instinct GPU」を導入し、AIインフラを強化すると発表した。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_0a704edb0167a816",
+      "title": "Claude、今度は金融に魔の手？　自律型AI「Cowork」に財務系プラグイン追加",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2602/25/news065.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-02-24T15:28:00.000Z",
+      "summary": "米Anthropicが、非プログラミング業務向けAIエージェント機能「Cowork」のアップデートを発表した。金融・財務系業務を支援するプラグイン（拡張機能）を新たに5つ公開。いずれも、AIコーディングツール「Claude Code」でも利用可能だ。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用",
+        "教材",
+        "ツール"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_3e507b19ce53c898",
+      "title": "X、スパム対策でAIの自動返信を制限　「ボット殺し作戦」",
+      "url": "https://www.watch.impress.co.jp/docs/news/2088276.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-02-24T11:00:00.000Z",
+      "summary": "Xは24日、スパム対策を強化した。LLM/大規模言語モデルによる生成AIスパム活動に対処するため、X API v2を更新し、POST /2/tweetsを利用したプログラムによるリプライに制限を加えた。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "生成AI",
+        "AI活用"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_8c986f17648677c6",
+      "title": "Yahoo!ショッピングのLOHACO、アスクル復旧で3割引「感謝祭」",
+      "url": "https://www.watch.impress.co.jp/docs/news/2088263.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-02-24T09:56:50.000Z",
+      "summary": "LINEヤフーとアスクルは、「Yahoo!ショッピング」内の「LOHACO by ASKUL」(LOHACO)において、最大30%OFFクーポンを配布する「復活感謝祭」を開催する。期間は5月19日まで。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_88d9a75850533f3e",
@@ -1185,54 +1307,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_78e677916353831a",
-      "title": "チープカシオ「F-91W」にクリアバンド+メタルカラーの新色",
-      "url": "https://www.watch.impress.co.jp/docs/news/2087038.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-02-22T01:00:00.000Z",
-      "summary": "カシオ計算機は、「CASIO Collection」の新作として、F-91Wのカラーバリエーションモデル「F-91WS」2機種を発売した。クオーツ式の腕時計で、価格は3,300円。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_5e13a18c224d8769",
-      "title": "【いつモノコト】旅行のカバンが軽くなる。フィリップスのコンパクトシェーバーが便利",
-      "url": "https://www.watch.impress.co.jp/docs/series/itsmo/2086210.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-02-22T00:00:00.000Z",
-      "summary": "旅行や出張の準備をしているとき、意外とかさばって場所を取るのが電動シェーバーです。筆者は2018年からフィリップスの「9000シリーズ(S9511/26)」を愛用してきましたが、剃り味には満足していても、持ち運ぶとなると専用ケースを含めたサイズ感が気になっていました。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_6e17a47c0cb26000",
-      "title": "カシオ プロトレック、デジタル初の角型ケース",
-      "url": "https://www.watch.impress.co.jp/docs/news/2086687.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-02-21T01:00:00.000Z",
-      "summary": "カシオ計算機は、「PRO TREK」Climber Lineの新型「PRG-69」を発売した。価格は29,700円。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_e3e3afd642bc6589",
       "title": "富士通、開発の全工程をAIで自動化し「生産性100倍」　自社LLMのTakaneを活用",
       "url": "https://www.itmedia.co.jp/enterprise/articles/2602/21/news013.html",
@@ -1308,40 +1382,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_95a12bef5e5be9f6",
-      "title": "カシオ、AIペットロボット「Moflin」を小児病棟に提供　無菌病床で活用",
-      "url": "https://www.itmedia.co.jp/aiplus/articles/2602/20/news087.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-02-20T06:13:00.000Z",
-      "summary": "無菌病床で入院生活を送る子どもたちの心に寄り添い、日々の不安や緊張を和らげる。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_176c196926e4ff16",
-      "title": "ソフトバンクのAI開発企業・SB Intuitions、突然の社長交代",
-      "url": "https://www.itmedia.co.jp/aiplus/articles/2602/20/news085.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-02-20T06:09:00.000Z",
-      "summary": "ソフトバンクの子会社でAIの研究開発などを手掛けるSB Intuitionsは、代表取締役を交代すると発表した。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_d2c22a718183e531",
       "title": "コラボ広告動画の強制表示、さらに起動時の画面ブラックアウト……LINEが炎上中【やじうまWatch】",
       "url": "https://internet.watch.impress.co.jp/docs/yajiuma/2087528.html",
@@ -1408,23 +1448,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_c8f65a8391c2b371",
-      "title": "関西電力が「AIファースト企業」化に本気　脱JTCを図る背景と全従業員“AI武装化”の全貌",
-      "url": "https://www.itmedia.co.jp/enterprise/articles/2601/28/news006.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-02-19T23:00:00.000Z",
-      "summary": "関西電力は「AIファースト企業」を目指し、DXに取り組んでいる。同社がAIファースト企業を目指す背景と、ミッションクリティカル分野も適用範囲に含める554件のAIユースケース、AI人材化計画の全貌に迫る。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_b854ffc2c0202e9c",
       "title": "約6割が職場のインターネット環境に「不満」、1日20分以上を無駄にしている従業員も～ソニービズネットワークス調査",
       "url": "https://internet.watch.impress.co.jp/docs/news/2087329.html",
@@ -1432,22 +1455,6 @@
       "source_name": "INTERNET Watch",
       "published_at": "2026-02-19T23:00:00.000Z",
       "summary": "ソニービズネットワークス株式会社は2月19日、同社が実施した「中小企業における社内ネットワーク速度への不満と業務ストレス調査」の結果を発表した。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_95eaba704181dd64",
-      "title": "クイズ形式でスキルアップできる「ミックの楽しいSQLパズル　解いて身につくSQLの考え方＆書き方」、インプレスが発売",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2083874.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-02-19T22:30:00.000Z",
-      "summary": "株式会社インプレスは、SQLの演習問題集「ミックの楽しいSQLパズル 解いて身につくSQLの考え方＆書き方」を2月20日に発売する。紙書籍版の定価、電子書籍版の販売価格はともに2750円。",
       "starred": false,
       "category": "tech",
       "tags": [
