@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-26T09:58:01.084Z",
+  "generated_at": "2026-02-26T21:26:46.582Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-02-26T09:57:48.041Z",
+      "published_at": "2026-02-26T21:26:32.400Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-02-26T09:57:48.041Z",
+      "published_at": "2026-02-26T21:26:32.400Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-02-26T09:57:48.041Z",
+      "published_at": "2026-02-26T21:26:32.400Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,144 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_2ef855c2db8bb5ac",
+      "title": "「ネット詐欺を見分ける自信がある」そんな令和のデジタルネイティブがハマる落とし穴【読めば身に付くネットリテラシー】",
+      "url": "https://internet.watch.impress.co.jp/docs/column/netliteracy/2087788.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-02-26T21:00:00.000Z",
+      "summary": "BBSS株式会社は2月13日、「ネット詐欺に関する意識調査 2026」のレポートを公開しました。",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_859e40be305b6da1",
+      "title": "村井純氏が総括する「インターネット文明」のこれまでと、次世代につなぐバトン　「インターネット白書」30周年特別インタビュー 全文公開",
+      "url": "https://internet.watch.impress.co.jp/docs/special/2086429.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-02-26T21:00:00.000Z",
+      "summary": "日本の大学間ネットワーク「JUNET」の構築以来、インターネットの技術と思想を牽引し、日本のインターネットの父と呼ばれる村井純氏。コンピューターと通信、アカデミズムとビジネスなどさまざまな境界を越えながら築かれてきた「インターネット文明」は、いま私たちの生活に深く溶け込んでいる。誕生から40年余を経たインターネットをどう振り返り、次の世代へ何を託すのか。『インターネット白書』30周年の節目に、その…",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_e320915180ecb018",
+      "title": "Windowsで「pipが通らない」を減らす　Python install manager 26.0のグローバルショートカット",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2602/27/news031.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-02-26T20:00:00.000Z",
+      "summary": "Windows向けのPython install manager 26.0が公開された。Pythonパッケージが提供するコマンドラインツールを使いやすくする新機能が追加されるなど、着実に進化している本ツールを紹介する。",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_ea64b6976ebf2515",
+      "title": "Claude Sonnet 4.6登場　Opus級の知能が“普段使い”の価格に、AIが「作業する存在」へ",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2602/27/news027.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-02-26T20:00:00.000Z",
+      "summary": "最上位モデルOpus 4.6に迫る性能と、従来Sonnet水準の価格を両立したClaude Sonnet 4.6。本稿では主要ベンチマークや新機能を軸にその特徴を整理しつつ、編集長コメントでは巨大コンテキストや実務での活用可能性についても開発者視点から考察する。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_9027927b9ad68386",
+      "title": "SwitchBot AIハブ、AIエージェント「OpenClaw」に対応　単体の実行環境に",
+      "url": "https://www.watch.impress.co.jp/docs/news/2089038.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-02-26T11:50:22.000Z",
+      "summary": "SWITCHBOTは、映像理解とローカル処理に対応した次世代スマートホームハブ「SwitchBot AIハブ」でAIエージェント「OpenClaw」をサポートした。アップデートにより「OpenClaw」をAIハブ上で実行可能になり、チャットアプリからの会話を通じて、スマートホームの操作・提案・実行までを一気通貫で行なえるようになる。",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_f996b735d8a9190f",
+      "title": "大井町駅前複合施設「OIMACHI TRACKS」　3月28日開業",
+      "url": "https://www.watch.impress.co.jp/docs/news/2089002.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-02-26T10:22:05.000Z",
+      "summary": "JR東日本は、東京・大井町駅前で開発を進めてきた複合施設「OIMACHI TRACKS」を3月28日にまちびらきする。地域・企業・行政が連携して新たな価値を創出する“都市生活共創拠点”として整備され、商業・ホテル・レジデンス・オフィス・シネマ・広場など多機能が一体となる大規模プロジェクトとなる。",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "行政",
+        "文科省"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_13924338f6550e5d",
+      "title": "横浜・関内駅前の大規模街区「BASEGATE」全55店舗公開　3月19日開業",
+      "url": "https://www.watch.impress.co.jp/docs/news/2089000.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-02-26T10:11:52.000Z",
+      "summary": "JR関内駅前にて3月19日にオープンする複合施設「BASEGATE横浜関内」の、入居テナントの全店情報が公開された。施設全体で55店舗が出店する。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_2b5a1fc32db49df4",
+      "title": "ポケモン30周年、記念施策を発表　1025種ロゴやグッズも",
+      "url": "https://www.watch.impress.co.jp/docs/news/2088978.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-02-26T09:53:15.000Z",
+      "summary": "ポケモンは26日、1996年2月27日に「ポケットモンスター 赤・緑」が発売されてから30周年を迎えることを記念し、報道関係者向け発表会を実施した。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_e1b979eff12c3a20",
@@ -465,7 +603,7 @@
     },
     {
       "id": "item_7931715bb56b7612",
-      "title": "【石野純也のモバイル通信SE】Androidスマホ日本一を見据えるサムスン「Galaxy S26シリーズ」の狙い",
+      "title": "【石野純也のモバイル通信SE】Android日本一を見据える「Galaxy S26シリーズ」の狙い",
       "url": "https://www.watch.impress.co.jp/docs/series/ishino/2087940.html",
       "source_id": "impress_watch",
       "source_name": "Impress Watch",
@@ -1012,74 +1150,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_55ee1d3ef82fd362",
-      "title": "「Samsung Wallet」が楽天ポイントカード・楽天ペイ決済に対応",
-      "url": "https://www.watch.impress.co.jp/docs/news/2087033.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-02-25T18:06:00.000Z",
-      "summary": "サムスン電子ジャパンは、Galaxyユーザー向けデジタルウォレット「Samsung Wallet」において、4月以降に楽天ポイントカードおよび楽天ペイに対応する。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_b3e29394bf744264",
-      "title": "サムスン、音質と操作性を強化した「Galaxy Buds4」シリーズ",
-      "url": "https://www.watch.impress.co.jp/docs/news/2086982.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-02-25T18:03:00.000Z",
-      "summary": "サムスンは26日、ワイヤレスイヤフォン「Galaxy Buds 4」シリーズを発表した。通常モデルの「Galaxy Buds4」と上位モデルの「Galaxy Buds4 Pro」を展開する。前モデル「Galaxy Buds3」シリーズのブレードデザインを踏襲しつつ、音質や操作性を強化した。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_4925183968474b81",
-      "title": "「Galaxy S26」シリーズ登場　世界初のぞき見防止のUltraも",
-      "url": "https://www.watch.impress.co.jp/docs/news/2086942.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-02-25T18:00:00.000Z",
-      "summary": "サムスンは26日、Galaxy最新スマートフォン「Galaxy S26」シリーズをグローバル向けに発表した。OSにはAndroid 16ベースのOne UI 8.5を搭載。Galaxyシリーズでは初めて韓国や米国などと同時タイミングでの発売となる3月12日に発売する。ラインアップは6.9型でペンが付属する「Galaxy S26 Ultra」と6.3型の「Galaxy S26」、より大きい6.7型の…",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_d6885fe64d6a7ffa",
-      "title": "Yahoo!ショッピング、相談しながら買える「AIエージェント」導入",
-      "url": "https://www.watch.impress.co.jp/docs/news/2088657.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-02-25T11:08:24.000Z",
-      "summary": "LINEヤフーは、「Yahoo!ショッピング」において、ユーザーの一連の購買行動を生成AIがサポートする新機能「Yahoo!ショッピング AIエージェント」の提供を開始した。「Yahoo!ショッピング」のアプリやPC向けを含むWebブラウザで利用できる。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "生成AI",
-        "AI活用",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 60
-    },
-    {
       "id": "item_6703d1fe37415c37",
       "title": "AIエージェント「OpenClaw」がメールを全削除している──MetaのAI研究者、Mac Miniまで全力ダッシュ",
       "url": "https://www.itmedia.co.jp/news/articles/2602/25/news125.html",
@@ -1234,23 +1304,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_73342f8e945c7f2f",
-      "title": "“AIインプレゾンビ”に大打撃？　XがAPIの仕様変更　自動返信しにくく",
-      "url": "https://www.itmedia.co.jp/news/articles/2602/25/news078.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-02-25T02:04:00.000Z",
-      "summary": "米XがAPIの仕様を変更し、投稿への自動返信をしにくくした。AIを使ったスパム行為への対策という。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_862b5d901554e8c7",
       "title": "Xiaomi（シャオミ）製SIMフリースマートフォンがAmazonでお買い得！　6.77インチ有機ELディスプレイの普及モデル「POCO M8 5G」が3万2980円",
       "url": "https://internet.watch.impress.co.jp/docs/shopping/2088355.html",
@@ -1299,26 +1352,6 @@
         "セキュリティ"
       ],
       "priority_score": 50
-    },
-    {
-      "id": "item_efa75c2df3aa9925",
-      "title": "Google、AI音楽制作のProducerを買収し、Labsの新サービスとして統合",
-      "url": "https://www.itmedia.co.jp/aiplus/articles/2602/25/news075.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-02-25T01:23:00.000Z",
-      "summary": "Google DeepMindは、AI音楽制作プラットフォーム「ProducerAI」を発表した。買収したProducer（旧Riffusion）の技術と、最新モデル「Lyria 3」や動画生成AI「Veo」を統合。プロンプトによる楽曲生成から高度な編集まで対応する。SynthIDによる電子透かしも導入した。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 60
     },
     {
       "id": "item_384134db861a98c4",
@@ -1390,38 +1423,6 @@
         "校務DX",
         "GIGA",
         "情報モラル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_a4b4018ec2d9ea1e",
-      "title": "フルノ、超高層ビル建設現場で躯体工事段階からStarlinkによるWi-Fi環境を構築し、有効性を確認",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2088098.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-02-24T21:30:00.000Z",
-      "summary": "古野電気株式会社（FURUNO）は2月20日、超高層ビル「パークタワー大阪堂島浜」の建設現場において、建設現場向けWi-Fiシステム「ゼンゲンバLANシリーズ」および「スターリンク屋外用キット」を導入し、新たなネットワーク構築手法の有効性を確認したと発表した。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_e5ebc77538b0c4ec",
-      "title": "業界初の「データSLA」を実現したIoT向けエッジゲートウェイサービス「P3EG」、IIJ子会社が提供",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2088152.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-02-24T21:00:00.000Z",
-      "summary": "株式会社インターネットイニシアティブ（IIJ）子会社のネットチャート株式会社は、マネージド型エッジゲートウェイサービス「P3EG」（Profile Programmable Proxy Edge computing Gateway）の販売を開始した。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
       ],
       "priority_score": 50
     },
