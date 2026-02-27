@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-02-27T09:52:56.487Z",
+  "generated_at": "2026-02-27T21:22:52.195Z",
   "total": 103,
   "items": [
+    {
+      "id": "item_21f8651de3f2baea",
+      "title": "文部科学省ホームページトップはこちら",
+      "url": "https://www.mext.go.jp/",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-02-27T21:22:41.449Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
     {
       "id": "item_bd1951ae70f98dac",
       "title": "サイトマップはこちら",
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-02-27T09:52:45.427Z",
+      "published_at": "2026-02-27T21:22:41.449Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -25,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-02-27T09:52:45.427Z",
+      "published_at": "2026-02-27T21:22:41.449Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -38,22 +56,79 @@
       "priority_score": 60
     },
     {
-      "id": "item_21f8651de3f2baea",
-      "title": "文部科学省ホームページトップはこちら",
-      "url": "https://www.mext.go.jp/",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-02-27T09:52:45.426Z",
-      "summary": "",
+      "id": "item_1bf38d05e51cf4bd",
+      "title": "OpenAI、17兆円の新規調達　アマゾン、NVIDIA、ソフトバンクG",
+      "url": "https://www.watch.impress.co.jp/docs/news/2089421.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-02-27T14:51:54.000Z",
+      "summary": "OpenAIは27日(米国時間)、7,300億ドルのプレマネー評価額で、1,100億ドル(約17.1兆円)の新規調達を発表した。内訳はソフトバンクから300億ドル、NVIDIAから300億ドル、Amazonから500億ドルの投資を受ける。さらにAmazonとは戦略的提携を締結し、NVIDIAとは次世代推論コンピューティングを確保するなど、資金だけでない提携強化を図っていく。",
       "starred": false,
-      "category": "admin",
+      "category": "ai",
       "tags": [
-        "行政",
-        "文科省",
-        "制度",
+        "テクノロジー",
+        "デジタル",
+        "生成AI",
+        "AI活用"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_f345b2e2779982da",
+      "title": "住信SBIネット銀、チャット+“生成UI”で振込できる「NEOBANK ai」",
+      "url": "https://www.watch.impress.co.jp/docs/news/2089362.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-02-27T11:10:00.000Z",
+      "summary": "住信SBIネット銀行は27日、生成AIとの対話を通じて最適な画面を自動生成する“ジェネレーティブUI”を採用した「NEOBANK ai」エージェントのベータテストを開始した。振込などの取引や目的に応じてUIを生成し、実行できるAIエージェントを銀行アプリ上で顧客に提供するのは国内の銀行で初としている。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "生成AI",
+        "AI活用",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_bea42850a4d4185a",
+      "title": "「18歳未満の画像をAIで性的加工」2025年に114件　被害者は中高生が9割　警察庁",
+      "url": "https://www.itmedia.co.jp/news/articles/2602/27/news136.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-02-27T10:49:00.000Z",
+      "summary": "警察庁が、2025年に発生した少年非行や子どもの性被害に関するレポートを公開した。生成AIやそうと思しきツールを悪用して18歳未満の性的画像を作成・加工した事案についても公表。警察が把握している事案は計114件で、被害者は9割が中高生、加害者は約6割が同級生や同じ学校の生徒だった。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用",
+        "教材",
+        "ツール",
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_a1241f11c4ab5fc2",
+      "title": "最高気温40℃以上の日は「炎暑日」「酷暑日」? 気象庁がアンケート開始",
+      "url": "https://www.watch.impress.co.jp/docs/news/2089352.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-02-27T10:22:29.000Z",
+      "summary": "気象庁は27日、最高気温40℃以上の日の名称を決めるための国民向けのアンケートを開始した。35℃以上の日である「猛暑日」を超え、40℃を超える日についての名称を募集する。候補は、「炎暑日」「熱暑日」「酷暑日」「極暑日」など13の名称と自由回答欄が用意されている。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_04a19e84e95b0e40",
@@ -1170,58 +1245,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_9027927b9ad68386",
-      "title": "SwitchBot AIハブ、AIエージェント「OpenClaw」に対応　単体の実行環境に",
-      "url": "https://www.watch.impress.co.jp/docs/news/2089038.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-02-26T11:50:22.000Z",
-      "summary": "SWITCHBOTは、映像理解とローカル処理に対応した次世代スマートホームハブ「SwitchBot AIハブ」でAIエージェント「OpenClaw」をサポートした。アップデートにより「OpenClaw」をAIハブ上で実行可能になり、チャットアプリからの会話を通じて、スマートホームの操作・提案・実行までを一気通貫で行なえるようになる。",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_f996b735d8a9190f",
-      "title": "大井町駅前複合施設「OIMACHI TRACKS」　3月28日開業",
-      "url": "https://www.watch.impress.co.jp/docs/news/2089002.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-02-26T10:22:05.000Z",
-      "summary": "JR東日本は、東京・大井町駅前で開発を進めてきた複合施設「OIMACHI TRACKS」を3月28日にまちびらきする。地域・企業・行政が連携して新たな価値を創出する“都市生活共創拠点”として整備され、商業・ホテル・レジデンス・オフィス・シネマ・広場など多機能が一体となる大規模プロジェクトとなる。",
-      "starred": false,
-      "category": "admin",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "行政",
-        "文科省"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_13924338f6550e5d",
-      "title": "横浜・関内駅前の大規模街区「BASEGATE」全55店舗公開　3月19日開業",
-      "url": "https://www.watch.impress.co.jp/docs/news/2089000.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-02-26T10:11:52.000Z",
-      "summary": "JR関内駅前にて3月19日にオープンする複合施設「BASEGATE横浜関内」の、入居テナントの全店情報が公開された。施設全体で55店舗が出店する。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_c312edd64bdc6dbc",
       "title": "ソフトバンク子会社のAI企業、NICTと共同研究　“安全なAI”実現へ",
       "url": "https://www.itmedia.co.jp/aiplus/articles/2602/26/news119.html",
@@ -1272,23 +1295,6 @@
         "AI活用"
       ],
       "priority_score": 70
-    },
-    {
-      "id": "item_4c424f2917b79f78",
-      "title": "M-1王者「たくろう」、Googleのジェームズ（実在）から手紙をもらう　コラボCMも公開",
-      "url": "https://www.itmedia.co.jp/aiplus/articles/2602/26/news103.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-02-26T04:26:00.000Z",
-      "summary": "米Googleの日本法人であるグーグルは、「M-1グランプリ2025」で優勝したお笑いコンビ「たくろう」とのコラボCMを公開した。同日に公開したインタビュー映像では、実在するGoogleのジェームズ氏から手紙をもらう一幕もあった。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
     },
     {
       "id": "item_9f030bab1511cd54",
