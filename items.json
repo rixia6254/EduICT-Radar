@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-02-28T09:33:28.163Z",
+  "generated_at": "2026-02-28T21:14:44.534Z",
   "total": 103,
   "items": [
+    {
+      "id": "item_5a2c7864b68dcd43",
+      "title": "過去の文部科学省ホームページ（※国立国会図書館ホームページへリンク）",
+      "url": "https://warp.ndl.go.jp/waid/3475",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-02-28T21:14:34.477Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
     {
       "id": "item_21f8651de3f2baea",
       "title": "文部科学省ホームページトップはこちら",
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-02-28T09:33:16.867Z",
+      "published_at": "2026-02-28T21:14:34.476Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +44,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-02-28T09:33:16.867Z",
+      "published_at": "2026-02-28T21:14:34.476Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -38,22 +56,22 @@
       "priority_score": 50
     },
     {
-      "id": "item_5a2c7864b68dcd43",
-      "title": "過去の文部科学省ホームページ（※国立国会図書館ホームページへリンク）",
-      "url": "https://warp.ndl.go.jp/waid/3475",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-02-28T09:33:16.867Z",
-      "summary": "",
+      "id": "item_f1715367dbf44689",
+      "title": "OpenAI、17兆円超の資金調達　Amazon、NVIDIA、SBGが出資",
+      "url": "https://www.itmedia.co.jp/news/articles/2602/28/news035.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-02-28T09:50:00.000Z",
+      "summary": "OpenAIは、企業価値7300億ドルの評価に基づき、総額1100億ドルの資金調達を発表した。Amazon、NVIDIA、ソフトバンクGが参画。Amazonとは戦略的提携を結び、AWS上で記憶を保持するAIエージェント基盤「Stateful Runtime」を共同構築する。Amazon独自チップの活用も進め、計5GWに及ぶ計算資源を確保する計画だ。",
       "starred": false,
-      "category": "admin",
+      "category": "ai",
       "tags": [
-        "行政",
-        "文科省",
-        "制度",
-        "教育ニュース"
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
       ],
-      "priority_score": 60
+      "priority_score": 50
     },
     {
       "id": "item_6dcf655f4ffa9bb0",
@@ -1277,24 +1295,6 @@
         "LLM",
         "教材",
         "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_ea64b6976ebf2515",
-      "title": "Claude Sonnet 4.6登場　Opus級の知能が“普段使い”の価格に、AIが「作業する存在」へ",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2602/27/news027.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-02-26T20:00:00.000Z",
-      "summary": "最上位モデルOpus 4.6に迫る性能と、従来Sonnet水準の価格を両立したClaude Sonnet 4.6。本稿では主要ベンチマークや新機能を軸にその特徴を整理しつつ、編集長コメントでは巨大コンテキストや実務での活用可能性についても開発者視点から考察する。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
       ],
       "priority_score": 50
     },
