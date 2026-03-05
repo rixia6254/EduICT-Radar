@@ -1,32 +1,14 @@
 {
-  "generated_at": "2026-03-05T04:48:06.989Z",
+  "generated_at": "2026-03-05T09:54:25.249Z",
   "total": 103,
   "items": [
-    {
-      "id": "item_21f8651de3f2baea",
-      "title": "文部科学省ホームページトップはこちら",
-      "url": "https://www.mext.go.jp/",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-03-05T04:47:55.229Z",
-      "summary": "",
-      "starred": false,
-      "category": "admin",
-      "tags": [
-        "行政",
-        "文科省",
-        "制度",
-        "教育ニュース"
-      ],
-      "priority_score": 60
-    },
     {
       "id": "item_bd1951ae70f98dac",
       "title": "サイトマップはこちら",
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-03-05T04:47:55.229Z",
+      "published_at": "2026-03-05T09:54:11.156Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +25,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-03-05T04:47:55.229Z",
+      "published_at": "2026-03-05T09:54:11.156Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +36,198 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_21f8651de3f2baea",
+      "title": "文部科学省ホームページトップはこちら",
+      "url": "https://www.mext.go.jp/",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-03-05T09:54:11.155Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_f59034185f47168c",
+      "title": "ソフトバンク、災害時のドローン基地局を全国配備　スターリンクも活用",
+      "url": "https://www.watch.impress.co.jp/docs/news/2090938.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-03-05T08:46:20.000Z",
+      "summary": "ソフトバンクは、災害時の通信確保を目的とした「有線給電ドローン無線中継システム(ドローン基地局)」の改良型を全国10拠点に配備した。2022年の初期配備以降に得られた課題を踏まえ、安定性や操作性を大幅に向上。これにより災害発生時に全国規模でより迅速に臨時通信エリアを構築できる体制を強化する。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_938f1917d375f4d6",
+      "title": "NTTタウンページ、詐欺の電話番号を警告する無料アプリ",
+      "url": "https://www.watch.impress.co.jp/docs/news/2090924.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-03-05T08:22:20.000Z",
+      "summary": "NTTタウンページは5日、トビラシステムズと協業し、詐欺の可能性がある電話番号からの着信を警告するアプリ「詐欺対策 by NTTタウンページ」を無料で提供開始した。iOS、Androidともに対応。「特殊詐欺対策アプリに係る警察庁推奨制度」の認定を受けたアプリとなる。",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_e934a197852d9772",
+      "title": "池袋サンシャインシティに巨大アニメ制作拠点「Studio One Base」",
+      "url": "https://www.watch.impress.co.jp/docs/news/2090908.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-03-05T08:02:51.000Z",
+      "summary": "KADOKAWAは今秋、池袋・サンシャインシティ内にアニメ制作スタジオを集約した新たな制作拠点「Studio One Base」を開設する。KADOKAWA、豊島区、サンシャインシティの3者は、池袋をエンタメとクリエイションが一体となった「世界に誇るアニメシティ」へと発展させるための連携を強化する。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_db930aaed844a689",
+      "title": "スマホ使いすぎ?　KDDI、スマホ依存を1分で測るチェックツール",
+      "url": "https://www.watch.impress.co.jp/docs/news/2090912.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-03-05T07:59:44.000Z",
+      "summary": "KDDIとKDDI総合研究所は、スマートフォンの使い方や依存傾向をスコア化し、スマホ習慣についてアドバイスを受け取れるチェックツール「スマホ習慣セルフチェック」をKDDI公式サイトに公開した。",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_525780f240e14d7a",
+      "title": "Claude Codeに「オートモード」登場　承認作業をAIで自動化",
+      "url": "https://www.itmedia.co.jp/news/articles/2603/05/news116.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-03-05T07:38:00.000Z",
+      "summary": "米Anthropicが、AIコーディング支援ツール「Claude Code」に、承認作業をAIで自動化する新モード「auto mode」を追加することが、ユーザー向けの通知から分かった。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用",
+        "教材",
+        "ツール",
+        "行政",
+        "文科省"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_869baef9e8022024",
+      "title": "豪州主導の国際文書「AI・機械学習のサプライチェーンリスクと緩和策」に日本も共同署名",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2090872.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-03-05T07:00:00.000Z",
+      "summary": "国家サイバー統括室（NCO）は3月5日、豪州通信情報局（ASD）豪州サイバーセキュリティセンター（ACSC）が策定した国際文書「AI・機械学習のサプライチェーンリスクと緩和策」の共同署名に加わったと発表した。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "生成AI",
+        "AI活用",
+        "情報モラル",
+        "教育ニュース"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_fb25c195b4e83e4c",
+      "title": "Kindle電子書籍リーダーが安い！　Amazon新生活先行セール　「Kindle Paperwhite」は1万8980円。カラー版の「Kindle Colorsoft」は2万9980円",
+      "url": "https://internet.watch.impress.co.jp/docs/shopping/2090714.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-03-05T06:30:00.000Z",
+      "summary": "Amazon.co.jpでは現在、3月6日から3月9日までの期間限定でビッグセール「新生活セール」を実施する。それに先駆けて先行セールが開催されており、同社の「Kindle電子書籍リーダー」のセールを実施中だ。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_6e300663deee5033",
+      "title": "グーグル、AIモードのCanvas強化　文章・コード作成可能に",
+      "url": "https://www.watch.impress.co.jp/docs/news/2090823.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-03-05T05:35:07.000Z",
+      "summary": "Googleは4日(米国時間)、検索機能「AIモード」の「Canvas」機能をアップデートし、米国ユーザー向けに一般提供を開始した。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_1ed7d3cf5b22513d",
+      "title": "ホンダ、米国生産車を日本へ導入　日米関税交渉の新制度活用",
+      "url": "https://www.watch.impress.co.jp/docs/news/2090830.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-03-05T05:26:00.000Z",
+      "summary": "ホンダは、米国で生産するAcuraブランドの「ACURA INTEGRA Type S」とホンダブランドの「PASSPORT TRAILSPORT ELITE」の2モデルを日本市場に導入し、2026年後半より順次発売する。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_0d17c58a8ed3ec01",
+      "title": "ナカバヤシ、通勤用に擬態できる推し活リュック",
+      "url": "https://www.watch.impress.co.jp/docs/news/2090818.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-03-05T05:01:18.000Z",
+      "summary": "ナカバヤシは、さりげなく推し活できるリュック「Ura-Oshiバックパック CB-289」を発売した。価格は9,400円。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_f5324f2789e0d669",
@@ -159,17 +333,19 @@
     },
     {
       "id": "item_e8f7fa34f5a59f8f",
-      "title": "三井住友Olive、PayPay残高払いに今秋対応　PayPay/Vポイント交換は3月24日開始",
+      "title": "三井住友Olive、PayPay機能をアプリに統合へ　クレカ積立0.5%増など春のアップデート",
       "url": "https://www.watch.impress.co.jp/docs/news/2090645.html",
       "source_id": "impress_watch",
       "source_name": "Impress Watch",
       "published_at": "2026-03-05T02:47:18.000Z",
-      "summary": "三井住友グループの個人向け金融サービス「Olive」が「春のアップデート」を発表した。「PayPay」との連携を強化し、PayPayへの三井住友カードからのチャージが無料となるほか、3月24日からVポイントとPayPayポイントの相互連携を開始する。",
+      "summary": "三井住友グループの個人向け金融サービス「Olive」が「春のアップデート」を発表した。「PayPay」との連携を強化し、PayPayに紐づけた三井住友カードからの支払いの手数料を無料とし、3月24日からVポイントとPayPayポイントの相互連携を開始する。",
       "starred": false,
-      "category": "tech",
+      "category": "tools",
       "tags": [
         "テクノロジー",
-        "デジタル"
+        "デジタル",
+        "教材",
+        "ツール"
       ],
       "priority_score": 50
     },
@@ -913,7 +1089,7 @@
     },
     {
       "id": "item_cdea851614e293e1",
-      "title": "アップル「MacBook Neo」登場　99800円から",
+      "title": "アップル「MacBook Neo」発売　99800円から",
       "url": "https://www.watch.impress.co.jp/docs/news/2090658.html",
       "source_id": "impress_watch",
       "source_name": "Impress Watch",
@@ -951,120 +1127,6 @@
       "source_name": "Impress Watch",
       "published_at": "2026-03-04T10:24:46.000Z",
       "summary": "クレディセゾンは、「シネマイレージカードセゾン」をリニューアルし、新たに「TOHO-ONEセゾンカード」として提供開始した。東宝のポイントプログラム「TOHO-ONE」に対応し、カード会員はTOHO-ONEのスタンダードプランと同等の特典を利用できる。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_fed7eb74c28dfe49",
-      "title": "iPhoneがホテルのルームキーに　銀座・渋谷・水道橋の三井系ホテル",
-      "url": "https://www.watch.impress.co.jp/docs/news/2090596.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-03-04T09:57:43.000Z",
-      "summary": "三井不動産と三井不動産ホテルマネジメントは、三井ガーデンホテル銀座プレミア、渋谷・MIYASHITA PARKおよび水道橋のsequenceの宿泊者を対象に、Appleウォレットでのルームキーの取り扱いを3月4日に開始した。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_ca90cae150bf30f1",
-      "title": "仙台市地下鉄東西線、全駅でクレカタッチ乗車に対応",
-      "url": "https://www.watch.impress.co.jp/docs/news/2090547.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-03-04T08:54:48.000Z",
-      "summary": "仙台市交通局は、3月17日の始発から仙台市地下鉄東西線で、クレジットカードなどのタッチ決済による乗車サービスを開始する。宮城県の鉄道事業者では初の取り組みとなり、三井住友カードの公共交通機関向けソリューション「stera transit」を活用する。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_0fe442ce1960609c",
-      "title": "JR西など10社、北九州市へ移住促進で連携　月1万ポイント付与",
-      "url": "https://www.watch.impress.co.jp/docs/news/2090555.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-03-04T08:33:27.000Z",
-      "summary": "JR西日本と北九州市に関係する不動産会社・金融機関など計10社が「北九州移住促進協議会」を設立した。各業界を横断的に連携させ、移住と新幹線通勤を組み合わせた全国初の官民連携モデルを構築し、北九州市への移住促進を図る。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_d50af448e0db00da",
-      "title": "Google Pixel機能アプデ 「かこって検索」強化や通勤経路アラート",
-      "url": "https://www.watch.impress.co.jp/docs/news/2090518.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-03-04T07:56:37.000Z",
-      "summary": "Googleは、Pixelシリーズのスマートフォンやスマートウォッチを対象にした機能アップデート群「Pixel Drop」の提供を開始した。今後数週間にわたって展開される。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_6d51cca94f1b0240",
-      "title": "X、戦争のフェイク動画投稿者は収益化停止",
-      "url": "https://www.watch.impress.co.jp/docs/news/2090454.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-03-04T06:33:43.000Z",
-      "summary": "Xは、生成AIによる戦争関連動画をAI使用の明示なしに投稿した場合、クリエイターの収益化を停止する方針を発表した。初回違反者は90日間収益化を停止し、再犯でプログラムから永久に排除される。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "生成AI",
-        "AI活用"
-      ],
-      "priority_score": 60
-    },
-    {
-      "id": "item_c3bd02675e602325",
-      "title": "ソニーが「wena」商標を譲渡 新製品? 予告も",
-      "url": "https://www.watch.impress.co.jp/docs/news/2090451.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-03-04T05:30:08.000Z",
-      "summary": "ソニーは、スマートウォッチとして展開していた「wena」(ウェナ)の商標と関連ドメイン「wena.jp」について、augment AI(オーグメントエーアイ)へ譲渡・移管したことを明らかにした。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_1be031f54e3b3055",
-      "title": "山の上ホテル、明治大学らが保存・再生へ　27年開業",
-      "url": "https://www.watch.impress.co.jp/docs/news/2090450.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-03-04T05:12:55.000Z",
-      "summary": "明治大学と竹中工務店は、2024年11月に明治大学が取得した「山の上ホテル」の歴史的建築物の保存・継承に向け、2026年3月2日に、期間約18年(改修工事期間を除く)の定期建物賃貸借契約を締結した。",
       "starred": false,
       "category": "tech",
       "tags": [
@@ -1189,38 +1251,6 @@
         "セキュリティ",
         "校務DX",
         "GIGA"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_348681ae14e7294d",
-      "title": "なめたネジでも外せる「ネジザウルス」などのお助け工具が安い！　Amazon新生活先行セール　錆びたネジもつかんで回す「ネジサウルスGT」は1814円",
-      "url": "https://internet.watch.impress.co.jp/docs/shopping/2090291.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-03-04T01:30:00.000Z",
-      "summary": "Amazon.co.jpでは現在、3月6日から3月9日までの期間限定でビッグセール「新生活セール」を実施する。それに先駆けて先行セールが開催されており、ENGINEERストアページでは「ネジザウルス」シリーズや電工向け工具がタイムセール中だ。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_adb60f7d5b023887",
-      "title": "バッファローのWi-Fiルーターが安い！　Amazon新生活先行セール　WAN、LAN10Gbps対応のWi-Fi 6Eルーター「WXR-11000XE12/N」が3万8230円など",
-      "url": "https://internet.watch.impress.co.jp/docs/shopping/2090289.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-03-04T01:00:00.000Z",
-      "summary": "Amazon.co.jpでは現在、3月6日から3月9日までの期間限定でビッグセール「新生活セール」を実施する。それに先駆けて先行セールが開催されており、バッファローストアページでは、Wi-Fiルーターがセール中だ。なお、紹介する製品はいずれもメッシュ標準規格「Wi-Fi EasyMesh」に対応している。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
       ],
       "priority_score": 50
     },
@@ -1407,23 +1437,6 @@
         "AI活用"
       ],
       "priority_score": 60
-    },
-    {
-      "id": "item_b0dd77845f35dbc6",
-      "title": "“米国のAI覇権”に終止符？　「中国AI」の台頭が突き付ける日本企業への3つの問い",
-      "url": "https://www.itmedia.co.jp/aiplus/articles/2603/03/news031.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-03-03T03:00:00.000Z",
-      "summary": "中国のAI企業が相次いで新たなAIモデルを公開した。「中国AI」の台頭は何を意味するのか。動向とともに解説する。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
     },
     {
       "id": "item_10fc9ef9a45687a1",
