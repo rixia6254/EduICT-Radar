@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-03-05T09:54:25.249Z",
+  "generated_at": "2026-03-05T21:27:48.805Z",
   "total": 103,
   "items": [
+    {
+      "id": "item_21f8651de3f2baea",
+      "title": "文部科学省ホームページトップはこちら",
+      "url": "https://www.mext.go.jp/",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-03-05T21:27:34.368Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
     {
       "id": "item_bd1951ae70f98dac",
       "title": "サイトマップはこちら",
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-03-05T09:54:11.156Z",
+      "published_at": "2026-03-05T21:27:34.368Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -25,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-03-05T09:54:11.156Z",
+      "published_at": "2026-03-05T21:27:34.368Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -38,22 +56,110 @@
       "priority_score": 60
     },
     {
-      "id": "item_21f8651de3f2baea",
-      "title": "文部科学省ホームページトップはこちら",
-      "url": "https://www.mext.go.jp/",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-03-05T09:54:11.155Z",
-      "summary": "",
+      "id": "item_0ce7cedfd3d99198",
+      "title": "「QRコード詐欺」の被害が拡大中！ 引っ掛からないために、さまざまな手口を知っておこう【読めば身に付くネットリテラシー】",
+      "url": "https://internet.watch.impress.co.jp/docs/column/netliteracy/2090501.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-03-05T21:00:00.000Z",
+      "summary": "QRコードを悪用した詐欺が猛威を振るっています。米Palo Alto Networksのセキュリティインシデント対応チームであるUnit 42が取りまとめたレポートによると、同社がウェブ上で1日に検出するQRコードのうち、15％にあたる1万1000件以上が悪質な詐欺サイトへの誘導であることが判明しました。",
       "starred": false,
-      "category": "admin",
+      "category": "security",
       "tags": [
-        "行政",
-        "文科省",
-        "制度",
-        "教育ニュース"
+        "インターネット",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_6ff521d82688cc02",
+      "title": "ChatGPTやGeminiからClaudeへカンタンに移行できる？　新しい「メモリインポート機能」を試してみた",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2603/06/news022.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-03-05T20:00:00.000Z",
+      "summary": "多くのチャットボットサービスにはユーザー情報を要約したメモリと呼ばれるものがあります。そして、Claudeでは他のサービスのメモリをカンタンにインポートできるようになったので、ちょっと試してみましたよ。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_7a53d56a4c921232",
+      "title": "LLM「Qwen3.5」の開発コアメンバーが突然の辞任　「オープンウェイト戦略は継続」、開発元のAlibabaがコメント",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2603/05/news133.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-03-05T12:02:00.000Z",
+      "summary": "オープンなLLM「Qwen3.5」シリーズの小型モデル発表直後に開発コアメンバーが辞任を発表したことで、ユーザーや開発コミュニティーから開発体制に対する不安の声が上がっている。同社はITmedia AI＋の取材に対し「オープンウェイトモデル戦略は継続する」と回答した。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_62c13fc2c61198fb",
+      "title": "家計簿アプリ「ワンバンク」、Apple Payに対応",
+      "url": "https://www.watch.impress.co.jp/docs/news/2089495.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-03-05T11:45:07.000Z",
+      "summary": "スマートバンクは、会計管理サービス「ワンバンク」で、2月26日からApple Payに対応した。Visaのタッチ決済対応の店舗で、iPhoneやApple Watchによる支払いが可能となった。",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_e8d0a0e4d5f85e00",
+      "title": "“70年前の今日のラジオ”をAIで再現？　当時のニュースやヒット曲を流せるデバイス　介護施設に導入へ",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2603/05/news129.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-03-05T10:28:00.000Z",
+      "summary": "博報堂傘下で広告事業を手掛けるTBWA HAKUHODOは、AIが過去のニュースやヒット曲をラジオ番組風に紹介するデバイス「RADIO TIME MACHINE」（ラジオタイムマシーン）を開発したと発表した。介護施設への導入も検証する。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_d52ecfe025a25781",
+      "title": "LINEの入口、新しい「ホームタブ」開始　“いまの空気”を感じるコンテンツエリア",
+      "url": "https://www.watch.impress.co.jp/docs/news/2090990.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-03-05T10:17:29.000Z",
+      "summary": "LINEヤフーは、3月5日から「LINE」アプリの「ホームタブ」リニューアルを開始した。ニュースなどの最新情報や短いコンテンツをすぐに見られる点が特徴となる。新しい「ホームタブ」は、LINEバージョン26.2.0以上で、一部ユーザーから提供を開始し、順次拡大する。",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_f59034185f47168c",
@@ -506,7 +612,7 @@
     },
     {
       "id": "item_ee8b36eaf38876f1",
-      "title": "撮れるメガネ「Linse」使ってみた【ミニレビュー】",
+      "title": "撮れるメガネ「Linse」使ってみた　Vlog向き?【ミニレビュー】",
       "url": "https://www.watch.impress.co.jp/docs/review/minireview/2088272.html",
       "source_id": "impress_watch",
       "source_name": "Impress Watch",
@@ -1104,38 +1210,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_c35c2c2b0e3c5549",
-      "title": "楽天市場・楽天トラベル「スーパーSALE」開始　カメラ半額・宿泊25%オフ",
-      "url": "https://www.watch.impress.co.jp/docs/news/2090471.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-03-04T11:00:00.000Z",
-      "summary": "楽天市場・楽天トラベルは、3月4日20時から「スーパーSALE」をスタートしました。楽天市場では11日1時59分まで、楽天トラベルでは20日23時59分まで、多くのセールが実施されます。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_9b3f136046665b48",
-      "title": "「TOHO-ONEセゾンカード」誕生　木曜は映画500円も",
-      "url": "https://www.watch.impress.co.jp/docs/news/2090603.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-03-04T10:24:46.000Z",
-      "summary": "クレディセゾンは、「シネマイレージカードセゾン」をリニューアルし、新たに「TOHO-ONEセゾンカード」として提供開始した。東宝のポイントプログラム「TOHO-ONE」に対応し、カード会員はTOHO-ONEのスタンダードプランと同等の特典を利用できる。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_b49d3c35bcd00c41",
       "title": "パナソニックの充電池「エネループ」が安い！　Amazon新生活先行セール　スタンダードタイプ「エネループ」の単3形・単4形×4本セットが1980円",
       "url": "https://internet.watch.impress.co.jp/docs/shopping/2090320.html",
@@ -1233,24 +1307,6 @@
       "tags": [
         "インターネット",
         "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_bdd138986d1080f6",
-      "title": "Amazonのスマートスピーカー・ディスプレイ「Echo」シリーズが新生活先行セールで安い！　スマートスピーカー「Echo Dot Max」は7480円",
-      "url": "https://internet.watch.impress.co.jp/docs/shopping/2090301.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-03-04T02:00:00.000Z",
-      "summary": "Amazon.co.jpでは現在、3月6日から3月9日までの期間限定でビッグセール「新生活セール」を実施する。それに先駆けて先行セールが開催されており、同社の「Echo」シリーズのスマートスピーカー・ディスプレイ各種がセール価格で販売中だ。「Echo」シリーズは、音声認識エンジン「Alexa」を搭載したスマート端末。音声操作で各種操作を行うことができる。",
-      "starred": false,
-      "category": "dx",
-      "tags": [
-        "インターネット",
-        "セキュリティ",
-        "校務DX",
-        "GIGA"
       ],
       "priority_score": 50
     },
@@ -1385,58 +1441,6 @@
         "ツール"
       ],
       "priority_score": 50
-    },
-    {
-      "id": "item_41891b2fa31f7f4a",
-      "title": "MacBook Proに「M5 Pro」「M5 Max」登場　AI性能はM4世代比で最大4倍　若干値上げも",
-      "url": "https://www.itmedia.co.jp/news/articles/2603/04/news073.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-03-03T15:10:00.000Z",
-      "summary": "米Appleは3月3日、「MacBook Pro」に新チップ「M5 Pro」「M5 Max」を追加した。「AI向けにゼロから設計した」としており、前世代の「M4 Pro」「M4 Max」と比べてAIパフォーマンスを大幅に向上したという。4日から予約受付を開始し、11日に販売を開始する。また、M5チップモデルは標準ストレージを1TBに増量。3万円高い27万8800円スタートとなる。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_d5bdf501aeb4e455",
-      "title": "反AIのXアカウント（フォロワー数1.1万人）、9万円で売れる──SNSアカウント譲渡サイトでの取引が話題に",
-      "url": "https://www.itmedia.co.jp/news/articles/2603/03/news159.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-03-03T11:15:00.000Z",
-      "summary": "反AI活動などで運用していたSNSアカウントが9万円で売れる──とあるSNSアカウント譲渡サイトでの取引がXで話題になっている。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_508733db7836d0e0",
-      "title": "AIをよく使う社員ほど「残業が長い」――原因と対策は？　専門家が語る“効率化のわな”",
-      "url": "https://www.itmedia.co.jp/aiplus/articles/2603/03/news143.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-03-03T09:31:00.000Z",
-      "summary": "AIのヘビーユーザーほど残業時間が長い――パーソルホールディングス傘下のパーソル総合研究所は、生成AIと正規雇用者の働き方に関する実態について、このような調査結果を発表した。その原因と対策を、同社の田村元樹研究員が解説した。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 60
     },
     {
       "id": "item_10fc9ef9a45687a1",
