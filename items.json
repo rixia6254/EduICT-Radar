@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-06T09:49:59.957Z",
+  "generated_at": "2026-03-06T21:23:12.098Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-03-06T09:49:44.458Z",
+      "published_at": "2026-03-06T21:23:02.652Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-03-06T09:49:44.458Z",
+      "published_at": "2026-03-06T21:23:02.652Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-03-06T09:49:44.458Z",
+      "published_at": "2026-03-06T21:23:02.652Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,44 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_d84f170131b6bca4",
+      "title": "宇都宮に\"食\"のランドマーク「フレスポうつのみや市場」3月20日開業",
+      "url": "https://www.watch.impress.co.jp/docs/news/2091370.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-03-06T11:00:00.000Z",
+      "summary": "大和リースは、宇都宮市中央卸売市場の\"賑わいエリア\"において、複合商業施設「フレスポうつのみや市場」を3月20日に開業する。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_435656cdd97aae3f",
+      "title": "デジタル庁、ガバメントAI用国産LLMを選定　tsuzumi 2やPLaMo 2.0など",
+      "url": "https://www.watch.impress.co.jp/docs/news/2091358.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-03-06T09:45:18.000Z",
+      "summary": "デジタル庁は6日、「ガバメントAI」で試用する国内大規模言語モデル(LLM)を選定した。NTTデータの「tsuzumi 2」、KDDI/ELYZAの「Llama-3.1-ELYZA-JP-70B」、Preferred Networksの「PLaMo 2.0 Prime」などが選定された。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "生成AI",
+        "AI活用",
+        "校務DX",
+        "GIGA",
+        "行政",
+        "文科省"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_2c2b7f57fa957efd",
@@ -981,38 +1019,6 @@
       "tags": [
         "教育ニュース",
         "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_3a6b696468881b3f",
-      "title": "【鈴木淳也のPay Attention】“かざす”をなくす改札 東京メトロの“Bluetooth”タッチレス改札機を検証",
-      "url": "https://www.watch.impress.co.jp/docs/series/suzukij/2090937.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-03-05T23:20:00.000Z",
-      "summary": "既報の通り、東京地下鉄(東京メトロ)は3月2日から10日までの期間にわたり、「タッチレス改札機」の東京メトロ社員向け実証試験を東京メトロ南北線の白金台駅で実施している。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_4a47bf862e2352d0",
-      "title": "パナソニックのコーヒーメーカーが大ヒット　7年ぶりの新機種で価格を下げたワケ",
-      "url": "https://www.watch.impress.co.jp/docs/topic/2086489.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-03-05T23:20:00.000Z",
-      "summary": "パナソニックが約7年ぶりに発売した全自動コーヒーメーカー「NC-A58」がヒットしています。2018年発売の「NC-A57」からフルモデルチェンジし、2025年4月の発売直後から初期の計画台数を大きく上回るペースで売れ、増産体制に入ったといいますが9月には1カ月待ちの状況に。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
       ],
       "priority_score": 50
     },
