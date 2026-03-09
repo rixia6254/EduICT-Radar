@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-09T10:00:44.668Z",
-  "total": 83,
+  "generated_at": "2026-03-09T21:26:02.046Z",
+  "total": 103,
   "items": [
     {
       "id": "item_21f8651de3f2baea",
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-03-09T10:00:33.048Z",
+      "published_at": "2026-03-09T21:25:50.491Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-03-09T10:00:33.048Z",
+      "published_at": "2026-03-09T21:25:50.491Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-03-09T10:00:33.048Z",
+      "published_at": "2026-03-09T21:25:50.491Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,112 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_55b0125996a81b86",
+      "title": "組織が「内部脅威管理チーム」を編成するときのポイントは？ 米CISAのインフォグラフィックを解説 ほか【海の向こうの“セキュリティ”】",
+      "url": "https://internet.watch.impress.co.jp/docs/column/security/2090997.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-03-09T21:00:00.000Z",
+      "summary": "2026年1月、米サイバーセキュリティ・インフラセキュリティ庁（Cybersecurity & Infrastructure Security Agency、以降CISA）はインフォグラフィック「多分野にわたる内部脅威管理チームの編成（Assembling a Multi-Disciplinary Insider Threat Management Team）」を公開しました。",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_a2dad4fcd00ba5ab",
+      "title": "複数のAIエージェントをどう組み合わせる？　3つのワークフローパターンをAnthropicが解説",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2603/10/news017.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-03-09T20:00:00.000Z",
+      "summary": "複数のAIエージェントで問題を解決する場合、単に丸投げするのではなく、AIエージェントが活躍できるような仕組みが必要です。そのために必要な3つのワークフローパターンをAnthropicが公開したブログ記事を基に紹介します。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_11f6a52fc249153e",
+      "title": "【無料】Anthropic公式「エージェントスキル入門」講座が公開　Claude Codeでの活用法が分かる22分の動画",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2603/10/news010.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-03-09T20:00:00.000Z",
+      "summary": "Anthropicのオンライン講座「Anthropic Academy」に、Claude Codeの重要機能「エージェントスキル（Agent Skills）」を解説する新コースが追加された。約22分の動画で、AIエージェントの新しい開発スタイルを学べる講座の内容を整理し、技術の背景も含めて紹介する。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_335c914363beee82",
+      "title": "Microsoft版Claude Cowork登場　「Copilot Cowork」が業務を自律作業",
+      "url": "https://www.watch.impress.co.jp/docs/news/2091878.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-03-09T15:11:48.000Z",
+      "summary": "Microsoftは9日(米国時間)、「Microsoft 365」のAI機能「Microsoft 365 Copilot」の強化を発表した。AnthropicのAIモデル「Claude」をCopilotに本格導入するほか、Claude Coworkの基盤技術をCopilotに搭載した「Copilot Cowork」の研究プレビューを提供開始するなど多くのアップデートを盛り込んでいる。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "生成AI",
+        "AI活用",
+        "校務DX",
+        "GIGA"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_4b71c03e4879f33a",
+      "title": "DeNAが“AI社員”を育成中　AIエージェント「OpenClaw」活用　南場会長「毎朝けんか」",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2603/09/news106.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-03-09T11:54:00.000Z",
+      "summary": "DeNAの南場智子代表取締役会長は、自律的にタスクをこなす独自のAIエージェントを開発中と明かした。同社のIT本部がオープンソースのAIエージェント開発基盤「OpenClaw」で作成しているもので、名前は「Lemonクン」。秘書やチームの一員としての活用を目指す。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_dcd252d3d6d5a4a1",
+      "title": "神戸市内バス、クレカ乗車で敬老割引　マイナカード連携で",
+      "url": "https://www.watch.impress.co.jp/docs/news/2091842.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-03-09T11:00:00.000Z",
+      "summary": "兵庫県神戸市でコミュニティバスを運行するみなと観光バスは、公共交通機関向けソリューション「stera transit」とマイナンバーカードを連携した敬老割引サービスの実証実験を開始した。対象は神戸市内に住所を有する満70歳以上で、運賃は小児料金と同額となる。登録はすでに始まっており、割引適用は4月1日から開始する。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_e3771e87772cdc7c",
@@ -1099,6 +1205,26 @@
       "priority_score": 50
     },
     {
+      "id": "item_a1fd6de9d89aa13b",
+      "title": "【共通テスト情報Ⅰ プログラミング対策 #1】変数の中身、ちゃんと追えてる？",
+      "url": "https://note.com/riccio_info/n/n704de7361ab1",
+      "source_id": "note_joho1",
+      "source_name": "note（情報科教員）",
+      "published_at": "2026-03-08T08:51:20.000Z",
+      "summary": "はじめに 情報Ⅰを教えていると、プログラミングの問題で同じところでつまずく生徒をよく見かけます。 続きをみる",
+      "starred": false,
+      "category": "exam",
+      "tags": [
+        "授業実践",
+        "情報Ⅰ",
+        "教材",
+        "共通テスト",
+        "入試",
+        "教育ニュース"
+      ],
+      "priority_score": 80
+    },
+    {
       "id": "item_af2db8c6a7bc12dc",
       "title": "100円ショップで作る“持ち運ぶ防災”　770円のミニ防災セット",
       "url": "https://www.watch.impress.co.jp/docs/topic/2090529.html",
@@ -1106,38 +1232,6 @@
       "source_name": "Impress Watch",
       "published_at": "2026-03-08T00:00:00.000Z",
       "summary": "地震や豪雨などの災害は、いつ起きてもおかしくありません。防災対策というと「家に備蓄しておく」「非常用袋を玄関に置く」といった“自宅前提”の備えも大切なのですが、実際に災害が起きる瞬間は、家の中とは限りません。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_481fbd6bc7574d0d",
-      "title": "G-SHOCK、伸縮クロスバンド+新型バックルの3機種",
-      "url": "https://www.watch.impress.co.jp/docs/news/2089855.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-03-07T01:00:00.000Z",
-      "summary": "カシオ計算機は、「G-SHOCK」の新作として、新型のバンドを組み合わせたNEW CLOTH BANDシリーズ(DW-5600MNC)3機種を3月に発売する。価格はそれぞれ19,800円。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_c13eaf65a42d3c3c",
-      "title": "【いつモノコト】ハイエンドの安心感　NECの無線ルーター導入で気づいた安定した通信の重要性",
-      "url": "https://www.watch.impress.co.jp/docs/series/itsmo/2087370.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-03-07T00:15:00.000Z",
-      "summary": "数カ月前に引っ越しを行ない、新生活に合わせて自宅のWi-Fi環境を見直しました。旧宅では楽天モバイル回線のみで運用していましたが、新居はワンルームから戸建て(2階建て)となり、手持ちの約5年前のWi-Fi6ルーターでは家全体をカバーできそうにありません。また、最大10Gbpsを謳う回線をフレッツの光コラボを契約したこともあり、速度を最大限発揮するためにもWi-Fi 7に対応する機材を用意したいと思…",
       "starred": false,
       "category": "tech",
       "tags": [
@@ -1293,25 +1387,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_b6176c3b5958fd8c",
-      "title": "GMOとPFNが資本提携、合弁会社を設立　「国産AI環境」提供へ",
-      "url": "https://www.itmedia.co.jp/aiplus/articles/2603/06/news085.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-03-06T03:19:00.000Z",
-      "summary": "Preferred Networksは、GMOインターネットグループと同社傘下のGMOサイバーセキュリティ byイエラエと資本業務提携し、合弁会社「GMO Preferred Security」を設立したと発表した。",
-      "starred": false,
-      "category": "security",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "セキュリティ",
-        "情報モラル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_c168a66d15c63cfc",
       "title": "AIコンテンツへのタグ付けの動きが強まる。今度はApple MusicがAI生成音楽にタグ導入へ【やじうまWatch】",
       "url": "https://internet.watch.impress.co.jp/docs/yajiuma/2091127.html",
@@ -1346,23 +1421,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_ce029719eac5ebba",
-      "title": "「国産四足歩行ロボ」でクマを追い払う　東大発スタートアップのねらい　イメージは「エヴァ」？",
-      "url": "https://www.itmedia.co.jp/aiplus/articles/2603/06/news034.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-03-06T03:00:00.000Z",
-      "summary": "国産の四足歩行ロボットでクマ被害を未然に防ぐプロジェクト「KUMAKARA MAMORU」。同プロジェクトを手掛けるHighlandersの代表に、詳細や今後の展望などを聞いた。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_64d2573af7664b13",
       "title": "本格的なコーヒーを飲みたいけれど、面倒なことは避けたい……。そんなわがままを叶えてくれる、デロンギ「エレッタ エクスプロア」 【テレワークグッズ・ミニレビュー 第157回】",
       "url": "https://internet.watch.impress.co.jp/docs/column/teleworkgoods/2090619.html",
@@ -1379,40 +1437,374 @@
       "priority_score": 50
     },
     {
-      "id": "item_aca490dd6e81dede",
-      "title": "Amazon「Kindle本新生活フェア」で、最大50％の高率ポイント還元中！　「因果推論の科学」が1800ポイント還元など。2万冊以上がキャンペーン対象",
-      "url": "https://internet.watch.impress.co.jp/docs/shopping/2091093.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-03-06T02:50:00.000Z",
-      "summary": "Amazon.co.jpのKindleストアでは、3月9日までの期間限定で「Kindle本新生活フェア」」bnを実施している。2万冊以上の電子書籍がキャンペーン対象で、購入金額の50％がポイント還元される。その一環として、科学・コンピュータ・IT関連書が多数ラインアップされている。",
+      "id": "item_10fc9ef9a45687a1",
+      "title": "エンジニア出身の現役ITコンサルが共通テスト「情報Ⅰ」を解いてみた【2026年度速報】",
+      "url": "https://note.com/tasohauska/n/n1e24696e94ff",
+      "source_id": "note_joho1",
+      "source_name": "note（情報科教員）",
+      "published_at": "2026-02-23T22:00:52.000Z",
+      "summary": "2026年度、2回目の実施となった共通テスト「情報Ⅰ」。 公開時点での平均点は56.59点とのこと。昨年に引き続き、今年も現役ITコンサルの私がガチで挑戦してみました。 続きをみる",
       "starred": false,
-      "category": "tech",
+      "category": "exam",
       "tags": [
-        "インターネット",
-        "セキュリティ"
+        "授業実践",
+        "情報Ⅰ",
+        "教材",
+        "共通テスト",
+        "入試"
+      ],
+      "priority_score": 70
+    },
+    {
+      "id": "item_b61b7dc8edc39957",
+      "title": "応用情報の勉強記録（2ヶ月目）",
+      "url": "https://note.com/petit_happiness/n/n3ede2793f47a",
+      "source_id": "note_joho1",
+      "source_name": "note（情報科教員）",
+      "published_at": "2026-02-22T06:54:03.000Z",
+      "summary": "応用情報技術者試験（AP）に向けた勉強過程を記録する。今回は「2ヶ月目」と題し、2026年1月23日〜2026年2月22日の記録を残す。1ヶ月目の勉強記録は以下の記事にまとめてある。 続きをみる",
+      "starred": false,
+      "category": "lesson",
+      "tags": [
+        "授業実践",
+        "情報Ⅰ",
+        "教材"
       ],
       "priority_score": 50
     },
     {
-      "id": "item_c7dbbfd19e62dc99",
-      "title": "Anthropic、AIの労働市場インパクトを測る新指標　プログラマーは75％、清掃員は0％",
-      "url": "https://www.itmedia.co.jp/aiplus/articles/2603/06/news076.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-03-06T00:00:00.000Z",
-      "summary": "Anthropicは、AIが労働市場に与える影響を測定する新指標を発表した。理論上の能力だけでなく、実際のClaude利用データを組み合わせた「実測露出度」を用いているのが特徴だ。プログラマーなどの職種で影響が高い一方、肉体労働への影響は限定的。現時点で失業率の構造的な上昇は見られないが、政策対応のための早期警告として活用を目指す。",
+      "id": "item_f12f11130a00481e",
+      "title": "「情報」が苦手な高校生へ。現役大学生が教える、教科書を開く前に知っておくべき「3つの攻略法」",
+      "url": "https://note.com/sho_info_edu/n/n86e1b212bb35",
+      "source_id": "note_joho1",
+      "source_name": "note（情報科教員）",
+      "published_at": "2026-02-19T07:31:44.000Z",
+      "summary": "「用語が多すぎて覚えられない」「プログラミングなんて自分には無理……」 そう思って、情報の教科書を閉じたくなっていませんか？ 断言します。情報は決してあなたの敵ではありません。 むしろ、一度その「仕組み」を理解してしまえば、どんな難問や初見の問題さえも、自分の手で解くことができます。 続きをみる",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "授業実践",
+        "情報Ⅰ",
+        "教材",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_b74848996f67d0b1",
+      "title": "エンジニア出身の現役ITコンサルが、2025年共通テスト「情報Ⅰ」をガチで解いてみた結果",
+      "url": "https://note.com/tasohauska/n/n8e9af3502559",
+      "source_id": "note_joho1",
+      "source_name": "note（情報科教員）",
+      "published_at": "2026-02-16T23:41:18.000Z",
+      "summary": "「ITのプロなら、共通テストなんて満点余裕でしょ？」 そんな声が聞こえてきそうですが、現実はそう甘くありませんでした。 2025年度の大学入学共通テスト。新課程の目玉である「情報Ⅰ」の平均点は69.26点。 ITコンサルとして日々システムや業務フローと向き合っている私が、あえて「無対策」で挑んだ結果を、恥を忍んで公開します。 続きをみる",
+      "starred": false,
+      "category": "exam",
+      "tags": [
+        "授業実践",
+        "情報Ⅰ",
+        "教材",
+        "共通テスト",
+        "入試"
+      ],
+      "priority_score": 70
+    },
+    {
+      "id": "item_413bafa6b34c97bd",
+      "title": "【2/17(火)朝刊】中学受験 Daily Report #45 〜「情報I」難化ショックと、教育界を揺るがす「信用の崩壊」〜",
+      "url": "https://note.com/hiromu_cantera/n/n214bc4fe09b5",
+      "source_id": "note_joho1",
+      "source_name": "note（情報科教員）",
+      "published_at": "2026-02-16T23:22:54.000Z",
+      "summary": "おはようございます。 2026年2月17日、火曜日。 新学年が本格始動して約2週間。多くのご家庭で、一変した生活リズムと、週を追うごとに積み上がる「膨大な宿題」との格闘が続いていることでしょう。しかし、目の前のテキストや単語帳に没頭している間にも、日本の教育ランドスケープは劇的な、そして不可逆的な変化を見せています。 続きをみる",
+      "starred": false,
+      "category": "exam",
+      "tags": [
+        "授業実践",
+        "情報Ⅰ",
+        "教材",
+        "共通テスト",
+        "入試",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_20d8aaeccdbf98a0",
+      "title": "情報科教員による共通テスト2026「情報」本試験解説（＋感想）：第４問",
+      "url": "https://note.com/takeshi_fujioka/n/ndbfa24702572",
+      "source_id": "note_joho1",
+      "source_name": "note（情報科教員）",
+      "published_at": "2026-02-08T03:53:47.000Z",
+      "summary": "問題・解答はこちら 河合塾「2026年度 大学入学共通テスト速報」 共通テスト「情報」第4問（データの活用）は、初年度（2025）は大変示唆に富んだ問題（新たな指標を作成してその意味を理解し、思考・判断する）でしたが、今年（2026）はそれと比べて頭一つ抜けていた感じがします（特に問3と問4）。「桜の開花日」がテーマで、決して難問ではなく、問題の質が素晴らしいと感じました。とても学びが多い問題なの…",
+      "starred": false,
+      "category": "exam",
+      "tags": [
+        "授業実践",
+        "情報Ⅰ",
+        "教材",
+        "共通テスト",
+        "入試",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_bf847384140faa43",
+      "title": "【大学受験突破シリーズ】「情報Ⅰ」を後回しにする人は大損する？［高校１・２年生対象］",
+      "url": "https://note.com/kubotag/n/n507ac2ed19af",
+      "source_id": "note_joho1",
+      "source_name": "note（情報科教員）",
+      "published_at": "2026-02-08T01:00:00.000Z",
+      "summary": "高1・2で決まる“合格への先行投資”術 「情報なんて、パソコンの使い方の延長でしょ？」 「直前に詰め込めばなんとかなる副教科でしょ？」 続きをみる",
+      "starred": false,
+      "category": "exam",
+      "tags": [
+        "授業実践",
+        "情報Ⅰ",
+        "教材",
+        "共通テスト",
+        "入試",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_93259ce8c8855210",
+      "title": "共通テスト情報Ⅰ用疑似言語 (DNCL)について。実装、Pythonへの変換…",
+      "url": "https://note.com/newricefield_m/n/nf56650efc982",
+      "source_id": "note_joho1",
+      "source_name": "note（情報科教員）",
+      "published_at": "2026-02-02T21:49:05.000Z",
+      "summary": "今日の記事はあまり教育に振っていません。 以前の記事で、共通テスト2026情報Ⅰのプログラミングの問題を、実際にProcessingでコーディングする、という勉強をしたことを書きました。 共通テストでは、専用の疑似言語でプログラムが書かれています。仕様は大学入試センターのHPに掲載されています。 以前から知ってはいたのですが、この疑似言語（DNCL）がそのまま動く環境を構築されている方がたくさんい…",
+      "starred": false,
+      "category": "exam",
+      "tags": [
+        "授業実践",
+        "情報Ⅰ",
+        "教材",
+        "共通テスト",
+        "入試",
+        "ツール",
+        "教育ニュース"
+      ],
+      "priority_score": 90
+    },
+    {
+      "id": "item_cab728ce1d7a78bc",
+      "title": "共通テスト2026情報Ⅰ　Processingでプログラミングしてみました。",
+      "url": "https://note.com/newricefield_m/n/n40eb82b1f06a",
+      "source_id": "note_joho1",
+      "source_name": "note（情報科教員）",
+      "published_at": "2026-02-01T04:12:58.000Z",
+      "summary": "情報Ⅰの待ち時間表示プログラム（疑似コードで書かれたもの）を、Processingでコーディングしてみました。 問２の２人目以降の来訪者の待ち時間を求めるプログラム： 続きをみる",
+      "starred": false,
+      "category": "exam",
+      "tags": [
+        "授業実践",
+        "情報Ⅰ",
+        "教材",
+        "共通テスト",
+        "入試"
+      ],
+      "priority_score": 80
+    },
+    {
+      "id": "item_7fc387c57079fe9e",
+      "title": "2026共通テスト　情報Ⅰ　第4問解説と感",
+      "url": "https://note.com/create_app/n/nf05c0644330c",
+      "source_id": "note_joho1",
+      "source_name": "note（情報科教員）",
+      "published_at": "2026-01-26T12:50:26.000Z",
+      "summary": "第4問解説：桜の開花データから読み解く分析の作法 「桜の開花日」に統計的な分析をする事例です。オープンデータの定義、仮説の検証、そして予測モデルの評価と進む過程を、問題にしています。 続きをみる",
+      "starred": false,
+      "category": "exam",
+      "tags": [
+        "授業実践",
+        "情報Ⅰ",
+        "教材",
+        "共通テスト",
+        "入試"
+      ],
+      "priority_score": 70
+    },
+    {
+      "id": "item_ec559f31cce9fa89",
+      "title": "こぎん刺しのモドコ（模様）の対称性　共通テスト2026 情報Ⅰの題材から",
+      "url": "https://note.com/newricefield_m/n/na540bc850809",
+      "source_id": "note_joho1",
+      "source_name": "note（情報科教員）",
+      "published_at": "2026-01-25T05:22:46.000Z",
+      "summary": "ぼちぼち解いています。受験生の皆さんと受験業界の皆さんは２次試験に向けて頑張っていらっしゃることと思います。心から応援しています。 この記事は情報Ⅰの教科としての問題分析ではありません。ほとんどこぎん刺しという手芸の話です。ご了解の上、この先を読むかどうか決めていただくようお願いします 基本的にスキが高じただけのノリで書いている記事です… 2026年の共通テスト情報Ⅰで、クロスステッチを題材にした…",
+      "starred": false,
+      "category": "exam",
+      "tags": [
+        "授業実践",
+        "情報Ⅰ",
+        "教材",
+        "共通テスト",
+        "入試"
+      ],
+      "priority_score": 70
+    },
+    {
+      "id": "item_58e4706e5c419611",
+      "title": "AIと一緒にアプリを創る！中高生女子向けプログラミング体験イベント開催のお知らせ 🌸",
+      "url": "https://note.com/highschoolpython/n/n91d7530ebefc",
+      "source_id": "note_joho1",
+      "source_name": "note（情報科教員）",
+      "published_at": "2026-01-24T08:49:44.000Z",
+      "summary": "こんにちは！！ハイスクールPython運営事務局の穂苅です。 この度、2026年3月26日（木）に、中高生女子の皆さん向けに「AIと始める『アイデアをカタチにする』アプリ制作体験」を開催することになりました！ 今回は、GoogleのAI「Gemini Canvas」を使って、プログラミング未経験でもアプリが作れてしまう、特別なイベントです✨ 👉 イベント詳細・応募はこちら 続きをみる",
       "starred": false,
       "category": "ai",
       "tags": [
+        "授業実践",
+        "情報Ⅰ",
+        "教材",
         "生成AI",
-        "AI",
-        "LLM",
         "AI活用",
-        "行政",
-        "文科省"
+        "ツール"
       ],
-      "priority_score": 50
+      "priority_score": 60
+    },
+    {
+      "id": "item_88b4d747e62a260e",
+      "title": "「高校数学１０分プログラミング」に挑戦！記録　140　数学B　確率分布と統計的な推測「同時分布を考える」配列の理解が…(/ω＼)情報Ⅰはこぎん刺しで",
+      "url": "https://note.com/newricefield_m/n/n3607bd80d52f",
+      "source_id": "note_joho1",
+      "source_name": "note（情報科教員）",
+      "published_at": "2026-01-23T23:20:34.000Z",
+      "summary": "MK's papaさんのnote「高校数学１０分プログラミング」に挑戦して、その備忘録を書いていきます。プログラミングの初歩学習の過程と、教えることの再確認の記録です。 高校数学とプログラミングをシームレスにつないだ授業をしたい！ また、高校数学を学ぶ方にヒントとなるような記事であることも目指しています。 数学B「確率分布と統計的な推測」です。 続きをみる",
+      "starred": false,
+      "category": "exam",
+      "tags": [
+        "授業実践",
+        "情報Ⅰ",
+        "教材",
+        "共通テスト",
+        "入試",
+        "教育ニュース"
+      ],
+      "priority_score": 70
+    },
+    {
+      "id": "item_a0664cfa19637376",
+      "title": "大学入学共通テスト　2026年度（令和８年度）　情報Ⅰ　の解説動画　まとめ",
+      "url": "https://note.com/yukarik001/n/nac89b7571cfd",
+      "source_id": "note_joho1",
+      "source_name": "note（情報科教員）",
+      "published_at": "2026-01-23T22:28:47.000Z",
+      "summary": "大学入学共通テスト 2026年度（令和８年度） 情報Ⅰ の解説動画がすべて完成しましたので、まとめました。 問題をご用意してご視聴ください。 続きをみる",
+      "starred": false,
+      "category": "exam",
+      "tags": [
+        "授業実践",
+        "情報Ⅰ",
+        "教材",
+        "共通テスト",
+        "入試"
+      ],
+      "priority_score": 70
+    },
+    {
+      "id": "item_96e2b2755cfe3050",
+      "title": "2026共通テスト　情報Ⅰ　第3問解説と感",
+      "url": "https://note.com/create_app/n/nc6dc7dca9ebe",
+      "source_id": "note_joho1",
+      "source_name": "note（情報科教員）",
+      "published_at": "2026-01-23T06:11:10.000Z",
+      "summary": "1. 待ち時間の計算アルゴリズムの理解 まず、図1を用いて、来訪者がいつゲームを開始し、いつ終了するかというルールを整理します 。 続きをみる",
+      "starred": false,
+      "category": "exam",
+      "tags": [
+        "授業実践",
+        "情報Ⅰ",
+        "教材",
+        "共通テスト",
+        "入試"
+      ],
+      "priority_score": 70
+    },
+    {
+      "id": "item_357b69e2612e5032",
+      "title": "2026年度（令和8年度）共通テスト「情報Ⅰ」第３問の解説動画",
+      "url": "https://note.com/yukarik001/n/n5f214473da10",
+      "source_id": "note_joho1",
+      "source_name": "note（情報科教員）",
+      "published_at": "2026-01-21T10:07:49.000Z",
+      "summary": "2026年1月18日に実施された、大学入学共通テスト「情報Ⅰ」。 新課程となって2年目、受験生の皆さんは本当にお疲れ様でした。 第３問は、いよいよプログラミング（アルゴリズム）の問題です。 丁寧な待ち時間の計算があるとともに、二重ループのプログラムなど、スピードと正確性が求められる問題でした。 続きをみる",
+      "starred": false,
+      "category": "exam",
+      "tags": [
+        "授業実践",
+        "情報Ⅰ",
+        "教材",
+        "共通テスト",
+        "入試"
+      ],
+      "priority_score": 80
+    },
+    {
+      "id": "item_574820e6e8528d85",
+      "title": "2026年度共通テスト 情報Ⅰ 第2問 解説と感想",
+      "url": "https://note.com/create_app/n/n782a3c271401",
+      "source_id": "note_joho1",
+      "source_name": "note（情報科教員）",
+      "published_at": "2026-01-21T04:13:02.000Z",
+      "summary": "2026年度の情報Ⅰ第2問のプロセスを書いていきます。前半の【A】では行政サービスのデジタル化と情報セキュリティについて、後半の【B】ではコンピュータにおける画像合成の数学的な仕組みについて解説します。 続きをみる",
+      "starred": false,
+      "category": "exam",
+      "tags": [
+        "授業実践",
+        "情報Ⅰ",
+        "教材",
+        "共通テスト",
+        "入試",
+        "校務DX",
+        "GIGA",
+        "セキュリティ"
+      ],
+      "priority_score": 70
+    },
+    {
+      "id": "item_4ec33a26b1db3187",
+      "title": "2026共通テスト　情報Ⅰの問１の解説と感想",
+      "url": "https://note.com/create_app/n/n6a15fcd98386",
+      "source_id": "note_joho1",
+      "source_name": "note（情報科教員）",
+      "published_at": "2026-01-20T05:45:54.000Z",
+      "summary": "この第1問は、ハードウェアの基礎知識、デジタル表現（2進数・16進数）、インタフェースデザイン（統計的思考）、そしてネットワークとセキュリティの基礎を横断的に問う構成になっています。 -------------------------------------------------------------------------------- 続きをみる",
+      "starred": false,
+      "category": "exam",
+      "tags": [
+        "授業実践",
+        "情報Ⅰ",
+        "教材",
+        "共通テスト",
+        "入試",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 70
+    },
+    {
+      "id": "item_66d528193dd88104",
+      "title": "2026年度（令和8年度）共通テスト「情報Ⅰ」第2問の最速解説動画です 。",
+      "url": "https://note.com/yukarik001/n/n32b3b2cf8627",
+      "source_id": "note_joho1",
+      "source_name": "note（情報科教員）",
+      "published_at": "2026-01-20T05:23:09.000Z",
+      "summary": "2026年1月18日に実施された、大学入学共通テスト「情報Ⅰ」。 新課程となって2年目、受験生の皆さんは本当にお疲れ様でした。 特に第2問は、**「情報システム（住民情報の取得）」や「画像処理と論理演算（OR・AND）」**など、実社会に即した応用力が問われる難所でした。 「問題文が長くて状況が掴みづらかった」「論理演算の組み合わせで迷ってしまった」という方も多かったのではないでしょうか。 続きを…",
+      "starred": false,
+      "category": "exam",
+      "tags": [
+        "授業実践",
+        "情報Ⅰ",
+        "教材",
+        "共通テスト",
+        "入試"
+      ],
+      "priority_score": 70
     }
   ],
   "clips": []
