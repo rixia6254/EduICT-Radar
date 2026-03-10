@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-03-10T09:54:28.745Z",
+  "generated_at": "2026-03-10T21:24:05.336Z",
   "total": 103,
   "items": [
+    {
+      "id": "item_21f8651de3f2baea",
+      "title": "文部科学省ホームページトップはこちら",
+      "url": "https://www.mext.go.jp/",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-03-10T21:23:52.581Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
     {
       "id": "item_bd1951ae70f98dac",
       "title": "サイトマップはこちら",
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-03-10T09:54:16.682Z",
+      "published_at": "2026-03-10T21:23:52.581Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -25,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-03-10T09:54:16.682Z",
+      "published_at": "2026-03-10T21:23:52.581Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -38,22 +56,93 @@
       "priority_score": 60
     },
     {
-      "id": "item_21f8651de3f2baea",
-      "title": "文部科学省ホームページトップはこちら",
-      "url": "https://www.mext.go.jp/",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-03-10T09:54:16.681Z",
-      "summary": "",
+      "id": "item_4b60241cb8181e74",
+      "title": "手のひらサイズの5ポートスイッチングハブ「LAN-GIGAC503BK」、サンワサプライが発売",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2092055.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-03-10T21:00:00.000Z",
+      "summary": "サンワサプライ株式会社は3月10日、5ポートのスイッチングハブ「LAN-GIGAC503BK」を発売した。市場想定価格は5720円。",
       "starred": false,
-      "category": "admin",
+      "category": "dx",
       "tags": [
-        "行政",
-        "文科省",
-        "制度",
-        "教育ニュース"
+        "インターネット",
+        "セキュリティ",
+        "校務DX",
+        "GIGA"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_77f8528344d89a69",
+      "title": "【Excelで学ぶデータ分析】生成AIによって応答時間に差はあるか？［架空事例］（分散分析超入門）",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2603/11/news012.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-03-10T20:00:00.000Z",
+      "summary": "初歩から応用までステップアップしながら学んでいく『やさしいデータ分析』シリーズ（仮説検定編）の第14回。これまで、13回にわたって、主に2群の差や分散などについて検定の考え方やその手順を見てきました。今回は、3群以上の場合にも対応するために、分散分析の考え方や手順を解説します。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_27b778d5a3817776",
+      "title": "空白から草案を作り出すGoogleドキュメント スプシ・スライドもGemini強化",
+      "url": "https://www.watch.impress.co.jp/docs/news/2092253.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-03-10T15:47:12.000Z",
+      "summary": "Googleは10日(米国時間)、Google ドキュメント、スプレッドシート、スライド、ドライブにおけるGeminiを大幅に強化すると発表した。新機能は、Google AI Ultra(月額36,400円)/Pro(同2,900円)とGoogle Workspaceに導入される。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "生成AI",
+        "AI活用",
+        "校務DX",
+        "GIGA"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_e931bfc6a9c2ecb3",
+      "title": "桜の写真から「満開日」予測　地域毎に一番の見頃を特定　ウェザーニュース",
+      "url": "https://www.watch.impress.co.jp/docs/news/2092197.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-03-10T11:00:00.000Z",
+      "summary": "ウェザーニューズは、「ウェザーニュース」において、桜(ソメイヨシノ)のつぼみの写真から「開花日」と「満開日」を予測する「桜AI開花予想」の提供を開始した。今年は新たに「満開日」の予測に対応した。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_f53dc001e4ec217d",
+      "title": "JR東、故障の復旧にAIとドローン活用　運転再開までの時間「3割減」へ",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2603/10/news125.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-03-10T09:33:00.000Z",
+      "summary": "JR東日本は、鉄道設備の故障の復旧にAIとドローンを活用すると発表した。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_12a7e2502b358329",
@@ -144,7 +233,7 @@
     },
     {
       "id": "item_3f2e79f4cd203a53",
-      "title": "JR東日本、新幹線に日本初の地震左右動ダンパ　E3・E6系などに導入",
+      "title": "JR東日本、新幹線に日本初の地震左右動ダンパ　E5・E6・E7・E8系に導入",
       "url": "https://www.watch.impress.co.jp/docs/news/2092121.html",
       "source_id": "impress_watch",
       "source_name": "Impress Watch",
@@ -971,22 +1060,6 @@
       "priority_score": 60
     },
     {
-      "id": "item_dcd74fa536f6a833",
-      "title": "ミズノ、陸上スパイクベースのストラップ構造スニーカー",
-      "url": "https://www.watch.impress.co.jp/docs/news/2091816.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-03-09T23:00:00.000Z",
-      "summary": "ミズノは、サマースニーカー「WAVE PROPHECY STRAP 2」を発売した。陸上スプリントスパイク由来のフィット理論やアッパー構造をベースにしている。価格は24,200円。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_5d0cf28f7cdf0a7d",
       "title": "自由に差し込める「車輪差し」電源タップに、マグネットと雷ガードを搭載した新シリーズ、サンワサプライが発売",
       "url": "https://internet.watch.impress.co.jp/docs/news/2091714.html",
@@ -1139,26 +1212,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_335c914363beee82",
-      "title": "Microsoft版Claude Cowork登場　「Copilot Cowork」が業務を自律作業",
-      "url": "https://www.watch.impress.co.jp/docs/news/2091878.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-03-09T15:11:48.000Z",
-      "summary": "Microsoftは9日(米国時間)、「Microsoft 365」のAI機能「Microsoft 365 Copilot」の強化を発表した。AnthropicのAIモデル「Claude」をCopilotに本格導入するほか、Claude Coworkの基盤技術をCopilotに搭載した「Copilot Cowork」の研究プレビューを提供開始するなど多くのアップデートを盛り込んでいる。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "生成AI",
-        "AI活用",
-        "校務DX",
-        "GIGA"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_4b71c03e4879f33a",
       "title": "DeNAが“AI社員”を育成中　AIエージェント「OpenClaw」活用　南場会長「毎朝けんか」",
       "url": "https://www.itmedia.co.jp/aiplus/articles/2603/09/news106.html",
@@ -1247,41 +1300,6 @@
         "LLM"
       ],
       "priority_score": 50
-    },
-    {
-      "id": "item_be8b358ccf5aa2be",
-      "title": "ローカルで動く日本語対応の音声認識AIモデル「Voxtral Transcribe 2」公開",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2603/09/news037.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-03-09T04:00:00.000Z",
-      "summary": "Mistral AIは音声認識AIモデル「Voxtral Transcribe 2」を発表した。高精度で低価格なバッチ処理向けと、超低遅延なリアルタイム対応の2モデルで構成される。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_ec78b390aee0d452",
-      "title": "X、画像投稿時に「Grokによる修正をブロック」選べるように",
-      "url": "https://www.itmedia.co.jp/news/articles/2603/09/news075.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-03-09T03:41:00.000Z",
-      "summary": "Xに画像を投稿する際、生成AI「Grok」による編集を一部ブロックする設定が選択可能になった。3月9日時点では一部ユーザー向けに提供しているとみられ、ITmedia NEWS編集部が確認した限りでは、Grokの公式アカウントにメンションしての画像編集を拒否できた。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 60
     },
     {
       "id": "item_a21f4873ba158605",
@@ -1412,22 +1430,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_c09cde5258d41af5",
-      "title": "24時間再生可能、IPX7防水のBluetooth対応スピーカー「400-SP125」、サンワサプライが発売",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2091307.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-03-08T23:00:00.000Z",
-      "summary": "サンワサプライ株式会社は3月3日、ポータブルBluetoothスピーカー「400-SP125」を発売した。直販サイト「サンワダイレクト」での価格は3980円。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_a1fd6de9d89aa13b",
       "title": "【共通テスト情報Ⅰ プログラミング対策 #1】変数の中身、ちゃんと追えてる？",
       "url": "https://note.com/riccio_info/n/n704de7361ab1",
@@ -1454,7 +1456,7 @@
       "source_id": "note_joho1",
       "source_name": "note（情報科教員）",
       "published_at": "2026-02-23T22:00:52.000Z",
-      "summary": "2026年度、2回目の実施となった共通テスト「情報Ⅰ」。 公開時点での平均点は56.59点とのこと。昨年に引き続き、今年も現役ITコンサルの私がガチで挑戦してみました。 続きをみる",
+      "summary": "2026年度、2回目の実施となった共通テスト「情報Ⅰ」。 続きをみる",
       "starred": false,
       "category": "exam",
       "tags": [
@@ -1508,7 +1510,7 @@
       "source_id": "note_joho1",
       "source_name": "note（情報科教員）",
       "published_at": "2026-02-16T23:41:18.000Z",
-      "summary": "「ITのプロなら、共通テストなんて満点余裕でしょ？」 そんな声が聞こえてきそうですが、現実はそう甘くありませんでした。 2025年度の大学入学共通テスト。新課程の目玉である「情報Ⅰ」の平均点は69.26点。 ITコンサルとして日々システムや業務フローと向き合っている私が、あえて「無対策」で挑んだ結果を、恥を忍んで公開します。 続きをみる",
+      "summary": "「ITのプロなら、共通テストなんて満点余裕でしょ？」 そんな声が聞こえてきそうですが、現実はそう甘くありませんでした。 続きをみる",
       "starred": false,
       "category": "exam",
       "tags": [
