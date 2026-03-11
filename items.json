@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-03-11T04:45:43.220Z",
+  "generated_at": "2026-03-11T09:53:08.778Z",
   "total": 103,
   "items": [
+    {
+      "id": "item_21f8651de3f2baea",
+      "title": "文部科学省ホームページトップはこちら",
+      "url": "https://www.mext.go.jp/",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-03-11T09:52:56.167Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
     {
       "id": "item_bd1951ae70f98dac",
       "title": "サイトマップはこちら",
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-03-11T04:45:31.531Z",
+      "published_at": "2026-03-11T09:52:56.167Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -25,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-03-11T04:45:31.531Z",
+      "published_at": "2026-03-11T09:52:56.167Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -38,22 +56,102 @@
       "priority_score": 60
     },
     {
-      "id": "item_21f8651de3f2baea",
-      "title": "文部科学省ホームページトップはこちら",
-      "url": "https://www.mext.go.jp/",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-03-11T04:45:31.530Z",
-      "summary": "",
+      "id": "item_94ed82edf372066e",
+      "title": "囲碁AI「AlphaGo」が世界最強を破り10年　グーグルが描くAIの未来",
+      "url": "https://www.watch.impress.co.jp/docs/news/2092543.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-03-11T09:33:30.000Z",
+      "summary": "Google DeepMindは、AIシステム「AlphaGo」が囲碁の世界チャンピオンを破ってから10年を迎え、その後の技術展開と研究成果、今後のAI開発の方向性を紹介した。",
       "starred": false,
-      "category": "admin",
+      "category": "tech",
       "tags": [
-        "行政",
-        "文科省",
-        "制度",
-        "教育ニュース"
+        "テクノロジー",
+        "デジタル"
       ],
-      "priority_score": 60
+      "priority_score": 50
+    },
+    {
+      "id": "item_862c7bee3f7ebb36",
+      "title": "「数秒で室温変化」などの広告も \"冷えないエアコン\"に注意　国民生活センター",
+      "url": "https://www.watch.impress.co.jp/docs/news/2092551.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-03-11T09:06:01.000Z",
+      "summary": "国民生活センターは、ECサイト等で販売されている、冷房や暖房機能をうたいながら、実際にはそうした空調能力が無いエアコン製品について注意喚起を行なった。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_6f3e7a871da68c8f",
+      "title": "アートギャラリーと一体のスタバ　東京・谷中に",
+      "url": "https://www.watch.impress.co.jp/docs/news/2092449.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-03-11T06:30:00.000Z",
+      "summary": "スターバックス コーヒー ジャパンは、東京・谷中に、地域と連携するアートギャラリーを備えた新たなスタイルの店舗「スターバックス カフェ & アートギャラリー 谷中御殿坂」を3月28日にオープンする。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_21ce8a3ac5cba7d1",
+      "title": "アマゾン、健康管理AI「Health AI」を米国で展開",
+      "url": "https://www.watch.impress.co.jp/docs/news/2092429.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-03-11T05:58:36.000Z",
+      "summary": "Amazonは10日(米国時間)、健康関連の質問への回答や医療記録の説明、処方薬更新の管理、診療予約などに対応するAIエージェント「Health AI」を発表した。Amazon.comとAmazonアプリで米国のプライム会員向けに順次展開する。無料で利用でき、米国の全ユーザーへの提供を目指す。",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_2ca4ae566b1c1ce3",
+      "title": "JR東日本、AIとドローンで復旧迅速化　運転再開時間を3割短縮",
+      "url": "https://www.watch.impress.co.jp/docs/news/2092434.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-03-11T05:35:15.000Z",
+      "summary": "JR東日本は、山手線にパンタグラフ監視カメラを導入し、AIによるパンタグラフの状態のモニタリングを開始する。さらに、鉄道敷地外飛行を防ぐ安全システムを搭載したドローン点検を導入し、電気設備点検時などで運転再開までの時間を約30%短縮することを目指す。都市部の鉄道敷地内で安全システムを搭載したドローンを導入するのは日本初。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_80a2e7c1aa61be5d",
+      "title": "YouTube、AI生成のなりすまし検出を政治家・ジャーナリストへ拡大",
+      "url": "https://www.watch.impress.co.jp/docs/news/2092410.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-03-11T05:00:00.000Z",
+      "summary": "YouTubeは3月10日、AI生成コンテンツにおける人物のなりすましを検出する機能「likeness detection(類似検出)」の提供対象を、政府関係者やジャーナリスト、政治候補者に拡大する試験運用を開始した。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_57d53bf82e07e444",
@@ -1061,38 +1159,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_3f2e79f4cd203a53",
-      "title": "JR東日本、新幹線に日本初の地震左右動ダンパ　E5・E6・E7・E8系に導入",
-      "url": "https://www.watch.impress.co.jp/docs/news/2092121.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-03-10T07:45:46.000Z",
-      "summary": "JR東日本は2027年秋から、地震による脱線リスクを低減する新たな装置「地震対策左右動ダンパ」を順次新幹線に搭載し、E5系、E6系、E7系、E8系で2032年度までに導入する。車両改造費やメンテナンス設備整備費を含む工事費は約100億円。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_7e844ca647b81647",
-      "title": "日立、エージェントAIの標準化団体「AAIF」に参画　日本企業初",
-      "url": "https://www.watch.impress.co.jp/docs/news/2092111.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-03-10T07:33:35.000Z",
-      "summary": "日立製作所は10日、日本企業として初めて「Agentic AI Foundation(AAIF)」にゴールドメンバーとして加入したと発表した。AAIFはThe Linux Foundation傘下でエージェント型AIの透明性や標準化を推進する中立的組織。日立はAAIFの中核プロジェクトであるModel Context Protocol(MCP)などの活動に参画する。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_3ba8d4ecef9ef4be",
       "title": "ヤン・ルカン率いるAI新興、1600億円超を調達　NVIDIAやトヨタなどが支援　「世界モデル」開発へ",
       "url": "https://www.itmedia.co.jp/aiplus/articles/2603/10/news109.html",
@@ -1106,56 +1172,6 @@
         "生成AI",
         "AI",
         "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_3180bbd83ee69f53",
-      "title": "ポタ電で動くアウトドア電気クッカー エレコムから",
-      "url": "https://www.watch.impress.co.jp/docs/news/2092077.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-03-10T07:01:58.000Z",
-      "summary": "エレコムは、アウトドアブランド「NESTOUT」(ネストアウト)の新製品として、ポータブル電源などからの電力で調理ができる電気調理器「COOKER-1」を発売した。同社直販サイトでの価格は11,980円。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_dca06a1d5c22199e",
-      "title": "KDDI、問い合わせ対応にAIエージェント導入",
-      "url": "https://www.watch.impress.co.jp/docs/news/2092042.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-03-10T05:22:22.000Z",
-      "summary": "KDDIは、独自の自律型AIエージェントによる問い合わせ対応を開始した。AIとデジタルヒューマンを組み合わせたオンラインサポート「auサポート AIアドバイザー」と、スマートフォンのチャットアプリやホームページから利用できる「チャットサポート」に導入する。",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_3bf8c2cf42394cad",
-      "title": "アストロスケール、\"宇宙パトロール\"実証ミッション　27年打上げ",
-      "url": "https://www.watch.impress.co.jp/docs/news/2092044.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-03-10T05:17:07.000Z",
-      "summary": "アストロスケールは、「宇宙のロードサービス」を実現する軌道上サービスの一環として、宇宙の安全パトロールサービスに向けた観測サービスの取り組みを開始した。道路の安全パトロール隊が現場に赴き点検するように、宇宙の軌道にある故障した衛星やデブリなど特定の物体に接近してその状態を把握する。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
       ],
       "priority_score": 50
     },
@@ -1175,22 +1191,6 @@
         "LLM",
         "教材",
         "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_21cea3c486ed0d7d",
-      "title": "メルカード、ETCカードを発行開始　利用金額の1%還元",
-      "url": "https://www.watch.impress.co.jp/docs/news/2092039.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-03-10T05:03:15.000Z",
-      "summary": "メルペイは10日、クレジットカード「メルカード」に付帯するETCカードを提供開始した。年会費は初年度無料。2年目以降は550円だが、前年度にETCカードの利用が1回以上あれば翌年度も無料となる。「メルカードゴールド」(年会費5,000円)会員は年会費永年無料で利用できる。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
       ],
       "priority_score": 50
     },
