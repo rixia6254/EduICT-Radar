@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-11T09:53:08.778Z",
+  "generated_at": "2026-03-11T21:26:11.611Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-03-11T09:52:56.167Z",
+      "published_at": "2026-03-11T21:25:59.846Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-03-11T09:52:56.167Z",
+      "published_at": "2026-03-11T21:25:59.846Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-03-11T09:52:56.167Z",
+      "published_at": "2026-03-11T21:25:59.846Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,92 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_770fdb5d755a53a1",
+      "title": "LINEのトーク履歴を消さずに引き継ぐ！ iPhoneをバックアップから復元する前の事前準備【自宅Wi-Fiの“わからない”をスッキリ！】",
+      "url": "https://internet.watch.impress.co.jp/docs/column/homewifi/2091741.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-03-11T21:00:00.000Z",
+      "summary": "前回からはスマートフォンのデータをPCへバックアップする手法を実践している。まずはiPhoneのデータWindows PCにバックアップする手法として、Windowsに「Appleデバイス」アプリをインストールしてバックアップするまでの手順を紹介した。",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_ae420209d4312f55",
+      "title": "AIコーディングはなぜ後から苦しくなるのか？　技術負債に続く「理解負債」「認知負債」という新たな落とし穴",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2603/12/news016.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-03-11T20:00:00.000Z",
+      "summary": "AIコーディングが普及する中で注目され始めた「理解負債」と「認知負債」。従来の技術負債と合わせた「AIコーディング時代の三大負債」を整理し、なぜ開発が後から苦しくなるのかを分かりやすく解説する。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_76379cf67a7de2d3",
+      "title": "「ららぽーと豊洲」20周年　中庭や廊下など大規模リニューアル",
+      "url": "https://www.watch.impress.co.jp/docs/news/2092566.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-03-11T11:00:00.000Z",
+      "summary": "三井不動産は、東京・豊洲のショッピングセンター「ららぽーと豊洲」の大規模リニューアルについて詳細を発表した。共用部が大規模に刷新されるほか、3月から順次、合計31店舗が新規または改装オープンする。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_5eedae538089017d",
+      "title": "タクシー配車「S.RIDE」、千葉県市原で開始　県内1000台超",
+      "url": "https://www.watch.impress.co.jp/docs/news/2092578.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-03-11T09:54:09.000Z",
+      "summary": "S.RIDEは、千葉県市原市(市原交通圏)でタクシーアプリ「S.RIDE」のサービス導入を開始した。導入台数は132台で、千葉県内の対応車両は1,000台を突破した。",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_5b273eac4fdc32dd",
+      "title": "都営バスの「AI翻訳透明ディスプレイ」実証再開　強度不足での破損経て約2カ月ぶり",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2603/11/news115.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-03-11T09:45:00.000Z",
+      "summary": "東京都は3月11日、音声認識した内容を翻訳して表示する「AI翻訳透明ディスプレイ」の都営バスへの試験導入を再開すると発表した。1月15日から浅草エリアのバス路線で試験導入を始めたものの、強度不足により機器が破損したため、18日から一時中断していた。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_94ed82edf372066e",
@@ -73,7 +159,7 @@
     },
     {
       "id": "item_862c7bee3f7ebb36",
-      "title": "「数秒で室温変化」などの広告も \"冷えないエアコン\"に注意　国民生活センター",
+      "title": "\"冷えないエアコン\"に注意　国民生活センター",
       "url": "https://www.watch.impress.co.jp/docs/news/2092551.html",
       "source_id": "impress_watch",
       "source_name": "Impress Watch",
@@ -1104,22 +1190,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_83b9a20857a1efdd",
-      "title": "JR東日本、米づくり支援で新会社　耕作放棄地を活用",
-      "url": "https://www.watch.impress.co.jp/docs/news/2092141.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-03-10T08:26:22.000Z",
-      "summary": "JR東日本グループは、日本の米づくりの課題を解決する新会社「JR東日本豊里創生」を4月に設立する。稲作の担い手不足、耕作放棄地の増加という地域課題の解決に取り組んでいく。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_03f0784fffb89d9b",
       "title": "“AI幕僚能力”獲得へ　富士通、防衛用マルチAIエージェント開発に向け、パートナー企業募集",
       "url": "https://www.itmedia.co.jp/aiplus/articles/2603/10/news120.html",
@@ -1133,28 +1203,6 @@
         "生成AI",
         "AI",
         "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_bcce9b124f97b6ee",
-      "title": "Yahoo! JAPANアプリ、デジタル認証アプリでの本人確認に対応",
-      "url": "https://www.watch.impress.co.jp/docs/news/2092133.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-03-10T08:10:43.000Z",
-      "summary": "LINEヤフーは10日、「Yahoo! JAPAN ID」にログインできなくなった場合のアカウント復旧などの本人確認で、デジタル庁が提供する「デジタル認証アプリ」を導入した。「デジタル認証アプリ」の利用により、オンラインサービスにおける本人確認手続きを安全かつ利便性高く利用できるようにする取り組み。",
-      "starred": false,
-      "category": "dx",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "校務DX",
-        "GIGA",
-        "教材",
-        "ツール",
-        "行政",
-        "文科省"
       ],
       "priority_score": 50
     },
@@ -1271,28 +1319,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_f23225de14f7b51e",
-      "title": "OpenAI、Promptfoo買収　AIエージェント構築プラットフォーム「Frontier」のセキュリティ強化へ",
-      "url": "https://www.itmedia.co.jp/aiplus/articles/2603/10/news073.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-03-10T02:25:00.000Z",
-      "summary": "OpenAIは、AIセキュリティ新興企業のPromptfooを買収した。同社の脆弱性特定・評価技術を、AIエージェント構築プラットフォーム「Frontier」に統合し、セキュリティ機能をネイティブ化するのが狙い。買収後も既存のオープンソースプロジェクトは維持され、従業員はOpenAIに合流して開発を継続する。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用",
-        "セキュリティ",
-        "情報モラル",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_b48e5c365d4a5e43",
       "title": "FreeBSD系など一部のオープンソースOS、米国の一部の州での利用が禁止に。その理由とは【やじうまWatch】",
       "url": "https://internet.watch.impress.co.jp/docs/yajiuma/2091911.html",
@@ -1321,28 +1347,6 @@
       "tags": [
         "インターネット",
         "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_2206ca1aabc2d34a",
-      "title": "Microsoft、Anthropicの自律型AIエージェント「Claude Cowork」採用の「Copilot Cowork」発表",
-      "url": "https://www.itmedia.co.jp/aiplus/articles/2603/10/news065.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-03-10T01:30:00.000Z",
-      "summary": "Microsoftは、Anthropicの自律型AI「Claude Cowork」の技術を統合した新ツール「Copilot Cowork」を発表した。ユーザーの指示を具体的な計画に変換し、「Microsoft 365」のアプリを横断してタスクを自律実行する。現在は限定プレビュー版として提供されており、3月下旬から「Frontier program」を通じて広範に展開される予定。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用",
-        "校務DX",
-        "GIGA",
-        "教材",
-        "ツール"
       ],
       "priority_score": 50
     },
@@ -1419,22 +1423,6 @@
       "source_name": "INTERNET Watch",
       "published_at": "2026-03-09T21:55:00.000Z",
       "summary": "前週に閲覧数の多かった記事を、カテゴリーごとに上位5位までレポートします。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_79ed4882a1413654",
-      "title": "ソーラーパネル一体型の屋外用Wi-Fiネットワークカメラ「400-SSA012」、サンワサプライが発売",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2091667.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-03-09T21:30:00.000Z",
-      "summary": "サンワサプライ株式会社は3月9日、屋外用ネットワークカメラ「400-SSA012」を発売した。直販サイト「サンワダイレクト」での価格は1万3800円。",
       "starred": false,
       "category": "tech",
       "tags": [
