@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-12T09:53:35.924Z",
+  "generated_at": "2026-03-12T21:26:24.316Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-03-12T09:53:23.516Z",
+      "published_at": "2026-03-12T21:26:11.963Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-03-12T09:53:23.516Z",
+      "published_at": "2026-03-12T21:26:11.963Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-03-12T09:53:23.516Z",
+      "published_at": "2026-03-12T21:26:11.963Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,161 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_4913a003cf53ce73",
+      "title": "ネット詐欺のターゲットは人間ではなく、AIエージェントに？　F-Secureの予測を紹介【読めば身に付くネットリテラシー】",
+      "url": "https://internet.watch.impress.co.jp/docs/column/netliteracy/2091933.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-03-12T21:00:00.000Z",
+      "summary": "サイバーセキュリティ企業のF-Secureが2月に発表したレポートによると、2026年のサイバー空間では、自律的に判断を下す「AIエージェント」（エージェント型AI）が攻撃の新たな標的になることなどが指摘されています。今回は、同レポートの中で予測されている2026年のサイバー脅威について紹介します。",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_33837601e93ca573",
+      "title": "スマホの容量が足りない！　だったらNAS＋大容量HDDがいいんじゃない？　家族のスマホもプライバシーを守りながらバックアップする方法[Sponsored]",
+      "url": "https://internet.watch.impress.co.jp/docs/topic/special/2087341.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-03-12T21:00:00.000Z",
+      "summary": "大量の写真や動画で、スマートフォンの容量がそろそろ限界……。そんな悩みを解決できるのがNASを利用したバックアップだ。サブスク不要、家族全員で使えるうえ、転送速度も速いとメリットは多いが、唯一、心配なのが「プライバシー」だ。",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_316d7cc9d7627a4c",
+      "title": "VS Codeの安定版が毎週リリースへ　第1弾のバージョン1.111ではAIエージェント運用を強化",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2603/13/news023.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-03-12T20:00:00.000Z",
+      "summary": "Visual Studio Codeの安定版が毎週リリースへ移行した。その第1弾となるバージョン1.111では、AIエージェントの自律実行や権限管理、デバッグ支援などが強化されている。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_0c709da44f4306b6",
+      "title": "GPT-5.4登場、“やり抜くAI”へ　100万トークンとCodexアプリがもたらす“実務完遂力”",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2603/13/news009.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-03-12T20:00:00.000Z",
+      "summary": "OpenAIの新モデル「GPT-5.4」が登場した。100万トークンの巨大コンテキストやCodexアプリとの連携により、AIが実務タスクを自律的に完遂する能力が大きく強化されている。本稿では、その特徴と実際の使いどころを整理する。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_21e09ee2925c0efd",
+      "title": "Genspark 3.0はAIが”社員”になる　「AIを使う」から「AIが働く」へ",
+      "url": "https://www.watch.impress.co.jp/docs/news/2092846.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-03-12T15:00:00.000Z",
+      "summary": "Gensparkは3月13日、AIワークスペース「Genspark」に「Genspark Claw」を含む「AI Workspace 3.0」を発表した。個人向けユーザーに同日から先行公開し、法人プランのユーザーにも随時対応する予定。「人間がAIでより速く働く」段階から、「AIが働く」段階への移行を打ち出した。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_0664fc9311f52dee",
+      "title": "横浜・関内駅前の大規模街区「BASEGATE」を見てきた　充実のエンタメ・飲食",
+      "url": "https://www.watch.impress.co.jp/docs/news/2093036.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-03-12T12:22:32.000Z",
+      "summary": "JR関内駅前にて3月19日にオープンする複合施設「BASEGATE横浜関内」の内覧会が実施された。常設型ライブビューイングアリーナや55店舗が出店する商業エリア、旧横浜市庁舎行政棟を活用したホテルなどを見ることができた。",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "行政",
+        "文科省"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_1a0c1d7057afd2e0",
+      "title": "池袋マルイ跡地「IT tower TOKYO」 3月14日開業　ビックカメラも出店",
+      "url": "https://www.watch.impress.co.jp/docs/news/2092997.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-03-12T10:50:31.000Z",
+      "summary": "池袋駅西口の池袋マルイ跡地に新たなランドマーク「IT tower TOKYO」が3月14日に開業する。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_2f811b5803034c86",
+      "title": "Perplexity、Mac miniを専用エージェントにする「パーソナルコンピュータ」",
+      "url": "https://www.watch.impress.co.jp/docs/news/2092993.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-03-12T10:24:44.000Z",
+      "summary": "AIサービスを展開するPerplexityは11日(米国時間)、Mac mini上のローカルで動作し、24時間365日動作するエージェントにする「パーソナルコンピューター(Personal Computer)」を発表した。ウェイトリストで初期ユーザーの募集を開始している。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "生成AI",
+        "AI活用"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_ea3f7d75d714bc0e",
+      "title": "Yahoo!乗換案内、地域連携ICカード運賃に対応　独自の割引を反映",
+      "url": "https://www.watch.impress.co.jp/docs/news/2092961.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-03-12T10:09:48.000Z",
+      "summary": "LINEヤフーは、「Yahoo!乗換案内」および「Yahoo!路線情報」において、検索結果に表示する運賃種別を変更した。これまで「ICカード」と「現金」の2種類だった運賃表示を、「全国共通ICカード」「地域連携ICカード」「現金」の3種類から選択できるようにした。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_826227564e63009f",
@@ -194,7 +349,7 @@
     },
     {
       "id": "item_c4da004539899917",
-      "title": "東京23区で家賃が最も安い駅は江戸川区に　SUUMO調査",
+      "title": "東京23区で家賃が最も安い駅は唯一の6万円台　SUUMO調査",
       "url": "https://www.watch.impress.co.jp/docs/news/2092760.html",
       "source_id": "impress_watch",
       "source_name": "Impress Watch",
@@ -1000,40 +1155,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_76379cf67a7de2d3",
-      "title": "「ららぽーと豊洲」20周年　中庭や廊下など大規模リニューアル",
-      "url": "https://www.watch.impress.co.jp/docs/news/2092566.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-03-11T11:00:00.000Z",
-      "summary": "三井不動産は、東京・豊洲のショッピングセンター「ららぽーと豊洲」の大規模リニューアルについて詳細を発表した。共用部が大規模に刷新されるほか、3月から順次、合計31店舗が新規または改装オープンする。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_5eedae538089017d",
-      "title": "タクシー配車「S.RIDE」、千葉県市原で開始　県内1000台超",
-      "url": "https://www.watch.impress.co.jp/docs/news/2092578.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-03-11T09:54:09.000Z",
-      "summary": "S.RIDEは、千葉県市原市(市原交通圏)でタクシーアプリ「S.RIDE」のサービス導入を開始した。導入台数は132台で、千葉県内の対応車両は1,000台を突破した。",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_5b273eac4fdc32dd",
       "title": "都営バスの「AI翻訳透明ディスプレイ」実証再開　強度不足での破損経て約2カ月ぶり",
       "url": "https://www.itmedia.co.jp/aiplus/articles/2603/11/news115.html",
@@ -1047,54 +1168,6 @@
         "生成AI",
         "AI",
         "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_94ed82edf372066e",
-      "title": "囲碁AI「AlphaGo」が世界最強を破り10年　グーグルが描くAIの未来",
-      "url": "https://www.watch.impress.co.jp/docs/news/2092543.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-03-11T09:33:30.000Z",
-      "summary": "Google DeepMindは、AIシステム「AlphaGo」が囲碁の世界チャンピオンを破ってから10年を迎え、その後の技術展開と研究成果、今後のAI開発の方向性を紹介した。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_862c7bee3f7ebb36",
-      "title": "\"冷えないエアコン\"に注意　国民生活センター",
-      "url": "https://www.watch.impress.co.jp/docs/news/2092551.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-03-11T09:06:01.000Z",
-      "summary": "国民生活センターは、ECサイト等で販売されている、冷房や暖房機能をうたいながら、実際にはそうした空調能力が無いエアコン製品について注意喚起を行なった。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_6f3e7a871da68c8f",
-      "title": "アートギャラリーと一体のスタバ　東京・谷中に",
-      "url": "https://www.watch.impress.co.jp/docs/news/2092449.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-03-11T06:30:00.000Z",
-      "summary": "スターバックス コーヒー ジャパンは、東京・谷中に、地域と連携するアートギャラリーを備えた新たなスタイルの店舗「スターバックス カフェ & アートギャラリー 谷中御殿坂」を3月28日にオープンする。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
       ],
       "priority_score": 50
     },
@@ -1284,46 +1357,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_9b8fb08dc93db4e8",
-      "title": "NVIDIA、ムラティ氏率いるThinking Machines Labに大規模出資　Vera Rubin導入でAI開発加速",
-      "url": "https://www.itmedia.co.jp/news/articles/2603/11/news060.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-03-10T23:59:00.000Z",
-      "summary": "ミラ・ムラティ氏率いるThinking Machines Labは、NVIDIAと複数年にわたる戦略的提携を締結した。1GW規模の次世代AIシステム「Vera Rubin」を導入し、最先端モデルの学習とカスタマイズ可能なAIプラットフォーム構築を推進する。NVIDIAは同社へ大規模出資も実施する。",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "教材",
-        "ツール",
-        "教育ニュース"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_eed2e1f1dad7559c",
-      "title": "Google、WorkspaceにGeminiを深く統合　アプリ横断のAI活用が可能に",
-      "url": "https://www.itmedia.co.jp/news/articles/2603/11/news059.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-03-10T23:38:00.000Z",
-      "summary": "Googleは、Gemini AIをWorkspaceの各アプリに深く統合した新機能を発表した。ドキュメントやスプレッドシート等で、メールやファイルを横断的に参照したコンテンツ作成や情報検索が可能になる。法人向けテスト参加者や特定の有料プランユーザーを対象に英語圏から順次展開され、数カ月以内に一般提供される予定だ。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_424923825a0ec2c1",
       "title": "サンワサプライ、センサーライトとソーラーパネル付き屋外用ネットワークカメラ「400-SSA013」発売",
       "url": "https://internet.watch.impress.co.jp/docs/news/2092106.html",
@@ -1381,40 +1414,6 @@
       "source_name": "INTERNET Watch",
       "published_at": "2026-03-10T21:30:00.000Z",
       "summary": "KDDI株式会社と株式会社ワイヤ・アンド・ワイヤレス（Wi2）は3月10日、衛星インターネット「Starlink」を活用した船上Wi-Fiサービス「au StarlinkフェリーWi-Fi」の導入船舶を拡大し、新たに7隻に導入することを発表した。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_4b60241cb8181e74",
-      "title": "手のひらサイズの5ポートスイッチングハブ「LAN-GIGAC503BK」、サンワサプライが発売",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2092055.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-03-10T21:00:00.000Z",
-      "summary": "サンワサプライ株式会社は3月10日、5ポートのスイッチングハブ「LAN-GIGAC503BK」を発売した。市場想定価格は5720円。",
-      "starred": false,
-      "category": "dx",
-      "tags": [
-        "インターネット",
-        "セキュリティ",
-        "校務DX",
-        "GIGA"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_28ee33c2c1ec26b0",
-      "title": "東芝の充電池やアルカリ乾電池が安い！　Amazonタイムセール　繰り返し充電1000回の充電池単3×4本が1106円、20本が4717円。",
-      "url": "https://internet.watch.impress.co.jp/docs/shopping/2091894.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-03-10T02:30:00.000Z",
-      "summary": "Amazon.co.jpの東芝ストアでは現在、繰り返し使える充電池やアルカリ電池がセール価格で販売中だ。",
       "starred": false,
       "category": "tech",
       "tags": [
