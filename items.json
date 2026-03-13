@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-13T09:49:38.079Z",
+  "generated_at": "2026-03-13T21:26:47.236Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-03-13T09:49:23.084Z",
+      "published_at": "2026-03-13T21:26:32.458Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-03-13T09:49:23.084Z",
+      "published_at": "2026-03-13T21:26:32.458Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-03-13T09:49:23.084Z",
+      "published_at": "2026-03-13T21:26:32.458Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,73 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_f0ca9dd94623359c",
+      "title": "TikTok、Apple Music連携で楽曲フル再生　同時試聴も",
+      "url": "https://www.watch.impress.co.jp/docs/news/2093396.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-03-13T11:00:00.000Z",
+      "summary": "TikTokは、Apple Musicと連携した新機能「楽曲をフル尺再生(Play Full Song)」と「リスニングパーティー(Listening Party)」を発表した。Apple Music加入者は、TikTokアプリで楽曲をフル尺で再生できるようになる。いずれも今後数週間で順次利用可能となる。",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_dbf85822612acb16",
+      "title": "三井不動産、“オール顔認証”の賃貸マンションを横浜に",
+      "url": "https://www.watch.impress.co.jp/docs/news/2093400.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-03-13T10:00:42.000Z",
+      "summary": "三井不動産レジデンシャルは、“オール顔認証”を実現したという賃貸レジデンス「パークアクシス横浜伊勢佐木町通り」が完成したと発表した。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_e6fea6bad259f961",
+      "title": "ホンダ、慶大・阪大とAI開発の協働研究所　人材育成を加速",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2603/13/news108.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-03-13T09:53:00.000Z",
+      "summary": "本田技研工業は、慶應義塾大学および大阪大学とAI開発で産学連携するプロジェクト「BRIDGE」（ブリッジ）を始めると発表した。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_39c8a804f5a3c5eb",
+      "title": "国立競技場に「NTTドコモ ゲート」　ドコモMAXラウンジも",
+      "url": "https://www.watch.impress.co.jp/docs/news/2093393.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-03-13T09:48:08.000Z",
+      "summary": "国立競技場「MUFGスタジアム」の南側正面に位置するEゲートの名称が「NTTドコモ ゲートE」と命名された。また、新たなホスピタリティラウンジエリア「LIMINAL SUITE」の3階東側ラウンジが「ドコモ MAX Lounge」と命名され、4月1日から運用を開始する。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_acbddc254e7e901c",
@@ -1120,58 +1187,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_2f811b5803034c86",
-      "title": "Perplexity、Mac miniを専用エージェントにする「パーソナルコンピュータ」",
-      "url": "https://www.watch.impress.co.jp/docs/news/2092993.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-03-12T10:24:44.000Z",
-      "summary": "AIサービスを展開するPerplexityは11日(米国時間)、Mac mini上のローカルで動作し、24時間365日動作するエージェントにする「パーソナルコンピューター(Personal Computer)」を発表した。ウェイトリストで初期ユーザーの募集を開始している。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "生成AI",
-        "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_ea3f7d75d714bc0e",
-      "title": "Yahoo!乗換案内、地域連携ICカード運賃に対応　独自の割引を反映",
-      "url": "https://www.watch.impress.co.jp/docs/news/2092961.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-03-12T10:09:48.000Z",
-      "summary": "LINEヤフーは、「Yahoo!乗換案内」および「Yahoo!路線情報」において、検索結果に表示する運賃種別を変更した。これまで「ICカード」と「現金」の2種類だった運賃表示を、「全国共通ICカード」「地域連携ICカード」「現金」の3種類から選択できるようにした。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_826227564e63009f",
-      "title": "運転席がないロボタクシー「Zoox」、Uberアプリから乗車予約が可能に",
-      "url": "https://www.watch.impress.co.jp/docs/news/2092905.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-03-12T08:45:11.000Z",
-      "summary": "Amazon傘下で完全自動運転タクシーを展開するZooxは10日(米国時間)、Uberとの連携開始を発表した。Zooxのロボタクシー車両をUberアプリから呼び出し可能とするもので、2026年後半にラスベガスで、2027年にはロサンゼルスでサービス開始予定。",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_7bfb253161e27ec9",
       "title": "タイミー「掲載求人のほぼ全てがAIで代替困難」　AI普及の影響は「極めて限定的」",
       "url": "https://www.itmedia.co.jp/aiplus/articles/2603/12/news110.html",
@@ -1382,25 +1397,6 @@
         "GIGA",
         "教材",
         "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_406eece82dac595e",
-      "title": "データ激増時代に変化するIT部門の役割　データガバナンス実装の現実解",
-      "url": "https://www.itmedia.co.jp/enterprise/articles/2603/12/news011.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-03-11T23:00:00.000Z",
-      "summary": "データ活用の拡大によってデータ基盤のサイロ化も進んでいる。複雑なデータ基盤を管理する企業のIT担当者に求められている新たな役割とは何か。そして、事業の信頼を支えるデータガバナンスの実現に必要な思想とは。",
-      "starred": false,
-      "category": "lesson",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "授業実践",
-        "情報Ⅰ"
       ],
       "priority_score": 50
     },
