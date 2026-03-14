@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-13T21:26:47.236Z",
+  "generated_at": "2026-03-14T04:45:38.385Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-03-13T21:26:32.458Z",
+      "published_at": "2026-03-14T04:45:27.730Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-03-13T21:26:32.458Z",
+      "published_at": "2026-03-14T04:45:27.730Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-03-13T21:26:32.458Z",
+      "published_at": "2026-03-14T04:45:27.730Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,92 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_39ea1e96285afa2b",
+      "title": "シチズン、レトロモデルに90sポップカラー",
+      "url": "https://www.watch.impress.co.jp/docs/news/2093357.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-03-14T01:00:00.000Z",
+      "summary": "シチズン時計は、「レコードレーベル」の新作として、90年代テイストのポップなカラーを施したバリエーションモデル4製品を発売した。価格は33,000円～40,700円。いずれも数量限定。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_27f20277aa44f2b4",
+      "title": "【いつモノコト】ソニー最強イヤフォン「WF-1000XM6」でボッチ飯がはかどる話",
+      "url": "https://www.watch.impress.co.jp/docs/series/itsmo/2091602.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-03-14T00:15:00.000Z",
+      "summary": "ノイズキャンセリング性能や音質などトータルで発売前から評価が高かったソニーの完全ワイヤレスイヤフォン「WF-1000XM6」を買ってみました。Amazon.co.jpにて45,000円でした。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_623e862cbb1256a5",
+      "title": "マイナポータル、「ホーム画面」の改善を実証　タブを下から上に",
+      "url": "https://www.watch.impress.co.jp/docs/news/2093418.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-03-13T23:30:00.000Z",
+      "summary": "デジタル庁は、「マイナポータル」のホーム画面の改善に向けた実証を3月18日から30日まで実施する。画面下部のタブをなくし、「やること」と「さがす」をホーム画面上部に配置するなどの変更を一部のユーザー向けに展開する。",
+      "starred": false,
+      "category": "dx",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "校務DX",
+        "GIGA",
+        "行政",
+        "文科省"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_9876a02ec37c51f7",
+      "title": "AIボットの猛攻でソーシャルニュースサイトDiggが再起動2カ月後に「ハードリセット」",
+      "url": "https://www.itmedia.co.jp/news/articles/2603/14/news025.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-03-13T23:15:00.000Z",
+      "summary": "ソーシャルニュースサイトのDiggは、サイトを一時停止すると発表した。1月のオープンベータ公開から約2カ月での決断となる。原因はAIボットによる大量のスパム投稿で、人間によるコミュニティの信頼維持が困難になったためとしている。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_df7bd65b057d6091",
+      "title": "AIによるbot通信の8割がクローラー　Metaが過半数を占める実態",
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2603/14/news013.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-03-13T23:00:00.000Z",
+      "summary": "FastlyはAIによるbot通信の実態を分析したレポートを発表した。通信の約8割をクローラーが占め、Metaが過半を生成していると判明した。高頻度アクセスによるサーバ負荷や、bot識別の難しさが課題となっている。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_f0ca9dd94623359c",
@@ -1137,56 +1223,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_21e09ee2925c0efd",
-      "title": "Genspark 3.0はAIが”社員”になる　「AIを使う」から「AIが働く」へ",
-      "url": "https://www.watch.impress.co.jp/docs/news/2092846.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-03-12T15:00:00.000Z",
-      "summary": "Gensparkは3月13日、AIワークスペース「Genspark」に「Genspark Claw」を含む「AI Workspace 3.0」を発表した。個人向けユーザーに同日から先行公開し、法人プランのユーザーにも随時対応する予定。「人間がAIでより速く働く」段階から、「AIが働く」段階への移行を打ち出した。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_0664fc9311f52dee",
-      "title": "横浜・関内駅前の大規模街区「BASEGATE」を見てきた　充実のエンタメ・飲食",
-      "url": "https://www.watch.impress.co.jp/docs/news/2093036.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-03-12T12:22:32.000Z",
-      "summary": "JR関内駅前にて3月19日にオープンする複合施設「BASEGATE横浜関内」の内覧会が実施された。常設型ライブビューイングアリーナや55店舗が出店する商業エリア、旧横浜市庁舎行政棟を活用したホテルなどを見ることができた。",
-      "starred": false,
-      "category": "admin",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "行政",
-        "文科省"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_1a0c1d7057afd2e0",
-      "title": "池袋マルイ跡地「IT tower TOKYO」 3月14日開業　ビックカメラも出店",
-      "url": "https://www.watch.impress.co.jp/docs/news/2092997.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-03-12T10:50:31.000Z",
-      "summary": "池袋駅西口の池袋マルイ跡地に新たなランドマーク「IT tower TOKYO」が3月14日に開業する。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_7bfb253161e27ec9",
       "title": "タイミー「掲載求人のほぼ全てがAIで代替困難」　AI普及の影響は「極めて限定的」",
       "url": "https://www.itmedia.co.jp/aiplus/articles/2603/12/news110.html",
@@ -1358,45 +1394,6 @@
         "GIGA",
         "セキュリティ",
         "情報モラル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_56c50d5e3d88d018",
-      "title": "Meta、自社製AIチップ「MTIA」新モデルと次世代データセンター構想発表",
-      "url": "https://www.itmedia.co.jp/news/articles/2603/12/news068.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-03-11T23:46:00.000Z",
-      "summary": "Metaは、AI関連タスクに特化した自社製カスタムチップ「MTIA」シリーズの最新4モデルを公開した。推論処理の最適化とコスト削減を狙い、開発サイクルを大幅に短縮。並行して、NVIDIA製GPUを大量投入した巨大クラスタの構築や、将来的な5GW規模の超巨大データセンター「Hyperion」の稼働計画も進めている。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_6b20ae9af2a7a80c",
-      "title": "M365版「Cowork」登場　Anthropicとの連携が生んだ「新しい仕事の進め方」",
-      "url": "https://www.itmedia.co.jp/enterprise/articles/2603/12/news045.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-03-11T23:00:00.000Z",
-      "summary": "「Microsoft 365 Copilot」の新機能「Copilot Cowork」が発表された。AIが各アプリを横断して業務を遂行する。機能の詳細とユースケースについて解説する。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用",
-        "校務DX",
-        "GIGA",
-        "教材",
-        "ツール"
       ],
       "priority_score": 50
     },
