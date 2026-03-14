@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-14T09:41:06.966Z",
+  "generated_at": "2026-03-14T21:20:38.564Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-03-14T09:40:48.981Z",
+      "published_at": "2026-03-14T21:20:25.332Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-03-14T09:40:48.981Z",
+      "published_at": "2026-03-14T21:20:25.332Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-03-14T09:40:48.981Z",
+      "published_at": "2026-03-14T21:20:25.332Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,27 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_e458ae8890921e3f",
+      "title": "【無料ツール】LucidLogicの使い方完全ガイド｜情報Ⅰのプログラムをビジュアルで学ぼう",
+      "url": "https://note.com/riccio_info/n/nff9f1e51fc3a",
+      "source_id": "note_joho1",
+      "source_name": "note（情報科教員）",
+      "published_at": "2026-03-14T13:11:39.000Z",
+      "summary": "LucidLogicとは？ LucidLogic（ルシッドロジック）は、高校「情報Ⅰ」のプログラミング学習に特化した無料のビジュアルプログラミングツールです。 続きをみる",
+      "starred": false,
+      "category": "exam",
+      "tags": [
+        "授業実践",
+        "情報Ⅰ",
+        "教材",
+        "共通テスト",
+        "入試",
+        "ツール",
+        "教育ニュース"
+      ],
+      "priority_score": 70
     },
     {
       "id": "item_39ea1e96285afa2b",
@@ -1781,25 +1802,6 @@
         "入試",
         "セキュリティ",
         "情報モラル"
-      ],
-      "priority_score": 70
-    },
-    {
-      "id": "item_66d528193dd88104",
-      "title": "2026年度（令和8年度）共通テスト「情報Ⅰ」第2問の最速解説動画です 。",
-      "url": "https://note.com/yukarik001/n/n32b3b2cf8627",
-      "source_id": "note_joho1",
-      "source_name": "note（情報科教員）",
-      "published_at": "2026-01-20T05:23:09.000Z",
-      "summary": "2026年1月18日に実施された、大学入学共通テスト「情報Ⅰ」。 新課程となって2年目、受験生の皆さんは本当にお疲れ様でした。 特に第2問は、**「情報システム（住民情報の取得）」や「画像処理と論理演算（OR・AND）」**など、実社会に即した応用力が問われる難所でした。 「問題文が長くて状況が掴みづらかった」「論理演算の組み合わせで迷ってしまった」という方も多かったのではないでしょうか。 続きを…",
-      "starred": false,
-      "category": "exam",
-      "tags": [
-        "授業実践",
-        "情報Ⅰ",
-        "教材",
-        "共通テスト",
-        "入試"
       ],
       "priority_score": 70
     }
