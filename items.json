@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-15T05:08:38.095Z",
+  "generated_at": "2026-03-15T09:41:48.193Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-03-15T05:08:24.915Z",
+      "published_at": "2026-03-15T09:41:35.442Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-03-15T05:08:24.915Z",
+      "published_at": "2026-03-15T09:41:35.442Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-03-15T05:08:24.915Z",
+      "published_at": "2026-03-15T09:41:35.442Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,24 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_38c5bb370a1d2cf7",
+      "title": "薬物教室",
+      "url": "https://note.com/terushon/n/n44e938b79a1d",
+      "source_id": "note_joho1",
+      "source_name": "note（情報科教員）",
+      "published_at": "2026-03-15T06:36:20.000Z",
+      "summary": "2026年4月から高校情報科教員になるわけだけど、どんな教育者になりたいのだろうかをこの記事を読んでいたら解像度が高くなった気がするのでここに記したいと思う。 続きをみる",
+      "starred": false,
+      "category": "lesson",
+      "tags": [
+        "授業実践",
+        "情報Ⅰ",
+        "教材",
+        "教育ニュース"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_919d13ea0802f6f4",
@@ -1777,27 +1795,6 @@
         "校務DX",
         "GIGA",
         "セキュリティ"
-      ],
-      "priority_score": 70
-    },
-    {
-      "id": "item_4ec33a26b1db3187",
-      "title": "2026共通テスト　情報Ⅰの問１の解説と感想",
-      "url": "https://note.com/create_app/n/n6a15fcd98386",
-      "source_id": "note_joho1",
-      "source_name": "note（情報科教員）",
-      "published_at": "2026-01-20T05:45:54.000Z",
-      "summary": "この第1問は、ハードウェアの基礎知識、デジタル表現（2進数・16進数）、インタフェースデザイン（統計的思考）、そしてネットワークとセキュリティの基礎を横断的に問う構成になっています。 -------------------------------------------------------------------------------- 続きをみる",
-      "starred": false,
-      "category": "exam",
-      "tags": [
-        "授業実践",
-        "情報Ⅰ",
-        "教材",
-        "共通テスト",
-        "入試",
-        "セキュリティ",
-        "情報モラル"
       ],
       "priority_score": 70
     }
