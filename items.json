@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-15T09:41:48.193Z",
+  "generated_at": "2026-03-15T21:21:41.275Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-03-15T09:41:35.442Z",
+      "published_at": "2026-03-15T21:21:25.733Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-03-15T09:41:35.442Z",
+      "published_at": "2026-03-15T21:21:25.733Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-03-15T09:41:35.442Z",
+      "published_at": "2026-03-15T21:21:25.733Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -52,6 +52,64 @@
         "文科省",
         "制度",
         "教育ニュース"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_9b460f19e79ee84d",
+      "title": "Windows 10のEOSで会社のPCは良くなった？　アンケート結果で見えた現状と、今の時代に買うべきハイコスパPC 3選[Sponsored]",
+      "url": "https://internet.watch.impress.co.jp/docs/topic/special/2089812.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-03-15T21:00:00.000Z",
+      "summary": "2025年12月から2026年1月にかけて、INTERNET Watchとマウスコンピューター共同で「Windows 10のEOSで仕事のPCはよくなった？」と題した読者アンケートを実施した。その結果、Windows 10 EOSによる仕事用PCのスペック改善が確認されたが、まだまだ課題が残されていることも浮き彫りとなった。そこで、アンケートの結果を紹介しつつ、その課題を解決するために、予算別のハ…",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "行政",
+        "文科省"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_46f25373fbe9cd9e",
+      "title": "MCPは死んでない？　MCPの2026年ロードマップ公開　「AIツール接続」から「AI自律連携インフラ」へ",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2603/16/news011.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-03-15T20:00:00.000Z",
+      "summary": "AIと外部ツールをつなぐ規格「MCP（Model Context Protocol）」の2026年ロードマップは、MCPの役割が「単なるツール接続の仕組み」から「AI同士が連携する基盤」へと広がりつつあることを示している。そのポイントを整理し、「MCP vs. CLI」論争についても触れる。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_4ab220fc4b63aeaf",
+      "title": "Open WebUIと自作MCPツールで「ローカル操作を“安全に”自動化する」方法",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2603/16/news007.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-03-15T20:00:00.000Z",
+      "summary": "気軽に試せるラップトップ環境で、チャットbotを提供するオールインワンの生成AI環境構築から始め、Kubernetesを活用した本格的なGPUクラスタの構築やモデルのファインチューニングまで解説する本連載。今回は、MCPサーバを自作し、日々の作業を効率化、自動化するアプローチを解説します。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用",
+        "教材",
+        "ツール"
       ],
       "priority_score": 60
     },
@@ -1363,23 +1421,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_2933f7e7e5d73f41",
-      "title": "Uberと日産、日本でロボタクシー展開へ　2026年後半から検証",
-      "url": "https://www.itmedia.co.jp/aiplus/articles/2603/12/news074.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-03-12T02:36:00.000Z",
-      "summary": "米Uber Technologiesは、日本でのロボタクシー（自動運転タクシー）の展開に向け、日産自動車および自動運転システムを手掛ける英Wayveと協業すると発表した。2026年後半に、東京でロボタクシーの試験運転を始める予定だ。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_df72d46115887e22",
       "title": "Insta360のアクションカムや360°カメラがAmazonでセール中！　4Kカメラ「Insta360 Ace Pro 2」が5万1799円に",
       "url": "https://internet.watch.impress.co.jp/docs/shopping/2092625.html",
@@ -1403,43 +1444,6 @@
       "source_name": "INTERNET Watch",
       "published_at": "2026-03-12T01:30:00.000Z",
       "summary": "Amazon.co.jpのGMKtecストアページでは現在、同社のミニPCがタイムセール中だ。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_68dd8101096204ff",
-      "title": "Google、クラウドとAIセキュリティのWiz買収を完了　過去最大の案件に",
-      "url": "https://www.itmedia.co.jp/news/articles/2603/12/news069.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-03-12T00:46:00.000Z",
-      "summary": "Googleは、クラウドとAIセキュリティ企業Wizの買収を320億ドルで完了した。WizはGoogle Cloud部門に統合されるが、ブランドは維持され、AWSやAzureなどマルチクラウド環境へのサービス提供も継続する。Wizの専門知識とGoogleのAI技術の融合により、サイバー攻撃への対応迅速化と運用コスト削減を目指す。",
-      "starred": false,
-      "category": "dx",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "校務DX",
-        "GIGA",
-        "セキュリティ",
-        "情報モラル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_959b329da30d52e4",
-      "title": "最大5台を同時充電、厚さ18mmのUSBポートつき電源タップ「700-TAP092BK」、サンワサプライが発売",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2092101.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-03-11T22:30:00.000Z",
-      "summary": "サンワサプライ株式会社は3月10日、厚さ18mmの電源タップ「700-TAP092BK」を発売した。直販サイト「サンワダイレクト」での価格は5780円。",
       "starred": false,
       "category": "tech",
       "tags": [
