@@ -1,14 +1,31 @@
 {
-  "generated_at": "2026-03-16T10:10:58.594Z",
+  "generated_at": "2026-03-16T21:32:23.613Z",
   "total": 103,
   "items": [
+    {
+      "id": "item_bd1951ae70f98dac",
+      "title": "サイトマップはこちら",
+      "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-03-16T21:32:09.049Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度"
+      ],
+      "priority_score": 50
+    },
     {
       "id": "item_5a2c7864b68dcd43",
       "title": "過去の文部科学省ホームページ（※国立国会図書館ホームページへリンク）",
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-03-16T10:10:46.908Z",
+      "published_at": "2026-03-16T21:32:09.049Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +43,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-03-16T10:10:46.907Z",
+      "published_at": "2026-03-16T21:32:09.048Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -39,19 +56,128 @@
       "priority_score": 60
     },
     {
-      "id": "item_bd1951ae70f98dac",
-      "title": "サイトマップはこちら",
-      "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-03-16T10:10:46.907Z",
-      "summary": "",
+      "id": "item_41108d3afdd57e40",
+      "title": "偽・誤情報対策は“予防接種”（プレバンキング）が重要に～あらかじめ手口を知ることで、拡散行動は減少する　総務省、偽・誤情報等への対策技術開発実証事業の成果発信イベント開催",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2093864.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-03-16T21:30:00.000Z",
+      "summary": "総務省は3月16日、「令和7年度 インターネット上の偽・誤情報等への対策技術の開発・実証事業 成果発信イベント」を実施した。",
       "starred": false,
       "category": "admin",
       "tags": [
+        "インターネット",
+        "セキュリティ",
         "行政",
-        "文科省",
-        "制度"
+        "文科省"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_08d7bab5c6ba3dce",
+      "title": "NVIDIA、「NemoClaw」発表　OpenClawを1コマンドで導入、安全に実行可能に",
+      "url": "https://www.itmedia.co.jp/news/articles/2603/17/news056.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-03-16T21:10:00.000Z",
+      "summary": "米NVIDIAが、年次カンファレンス「GTC 2026」でAIエージェントプラットフォーム「OpenClaw」向けソフトウェアスタック「NemoClaw」を発表した。1コマンドでNemotronモデルとOpenShellランタイムをインストールし、プライバシーとセキュリティを担保したままAIエージェントを常時稼働できる環境を構築できるという。",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "セキュリティ",
+        "情報モラル",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_9000a961ab2ee5fd",
+      "title": "3月31日は「世界バックアップデー」。家庭用NASなどバックアップ製品が当たるXキャンペーンをアイ・オーが実施中",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2093662.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-03-16T21:00:00.000Z",
+      "summary": "株式会社アイ・オー・データ機器は3月16日、3月31日の「世界バックアップデー」に向けて、メーカー5社とコラボしたキャンペーンを開始した。期間中、公式Xアカウントで対象ポストをリポストするなどして応募すると、同社やコラボしたメーカーのバックアップ製品がプレゼントされる。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_e8963445be37a8b0",
+      "title": "NVIDIA「Vera Rubin」は7つの新チップ、GroqのLPU追加でAIエージェント性能向上",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2603/17/news055.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-03-16T20:35:00.000Z",
+      "summary": "NVIDIAは米国カリフォルニア州サンノゼで開催中のユーザーイベント「GTC 2026」の基調講演において、CPU「Vera」やGPU「Rubin」など新たなアーキテクチャを基にしたをAIインフラの基盤「Vera Rubinプラットフォーム」を発表した。",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_4aea6960e60f18e2",
+      "title": "Coworkと旅するCPythonのソースコード、36年の旅",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2603/17/news013.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-03-16T20:00:00.000Z",
+      "summary": "cpython_growth.csvという、36年間にわたるCPythonのコミット履歴から1400件弱を抽出し、その時点でのソースコードの行数を記録したデータセットがあります。今回はこのデータセットを少しばかり眺めてみましょう。",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_fe853df7328759cd",
+      "title": "AMD、PCの次を見据えた新概念「Agent Computer」　人ではなくAIが操作",
+      "url": "https://www.watch.impress.co.jp/docs/news/2093846.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-03-16T11:01:00.000Z",
+      "summary": "AMDは、AIエージェントを常時稼働させる新しい概念のデバイス「Agent Computer」を提唱した。PC(Personal Computer)が人間による直接操作を前提に設計されていたのに対し、Agent ComputerはAIエージェントに処理を委ねる使い方を想定する。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_9cc5efc30bfcde5e",
+      "title": "Gmailでの“日程調整メール”が楽チンに？　「関係者全員が空いてる時間を提案」のAI新機能",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2603/16/news108.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-03-16T10:34:00.000Z",
+      "summary": "",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
       ],
       "priority_score": 50
     },
@@ -68,6 +194,23 @@
       "tags": [
         "テクノロジー",
         "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_782070207614fabc",
+      "title": "人型ロボが人間とテニス　ラリー継続、左右に打ち分け“人に勝とう”とする一幕も　中国企業がデモ動画",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2603/16/news106.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-03-16T10:03:00.000Z",
+      "summary": "ロボット開発企業の中国Galbotは、中国Unitree製の人型ロボット「G1」と人間でテニスのラリーを続ける技術デモ動画を公開した。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
       ],
       "priority_score": 50
     },
@@ -1140,24 +1283,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_f0ca9dd94623359c",
-      "title": "TikTok、Apple Music連携で楽曲フル再生　同時試聴も",
-      "url": "https://www.watch.impress.co.jp/docs/news/2093396.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-03-13T11:00:00.000Z",
-      "summary": "TikTokは、Apple Musicと連携した新機能「楽曲をフル尺再生(Play Full Song)」と「リスニングパーティー(Listening Party)」を発表した。Apple Music加入者は、TikTokアプリで楽曲をフル尺で再生できるようになる。いずれも今後数週間で順次利用可能となる。",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_e6fea6bad259f961",
       "title": "ホンダ、慶大・阪大とAI開発の協働研究所　人材育成を加速",
       "url": "https://www.itmedia.co.jp/aiplus/articles/2603/13/news108.html",
@@ -1193,7 +1318,7 @@
     },
     {
       "id": "item_c0d636b7d97092f5",
-      "title": "3月15日は「ドメインの日」、インターリンクがGoogle系ドメインの解説サイトを公開　「.app」「.dev」などGoogle RegistryのTDLを解説",
+      "title": "3月15日は「ドメインの日」、インターリンクがGoogle系ドメインの解説サイトを公開　「.app」「.dev」などGoogle RegistryのTLDを解説",
       "url": "https://internet.watch.impress.co.jp/docs/news/2093320.html",
       "source_id": "internet_watch",
       "source_name": "INTERNET Watch",
@@ -1224,24 +1349,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_f9eb3c413daf82a4",
-      "title": "“AI養老孟司”が客員教授に就任　本人とともに　東京工科大",
-      "url": "https://www.itmedia.co.jp/aiplus/articles/2603/13/news093.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-03-13T06:26:00.000Z",
-      "summary": "東京工科大学は、養老孟司氏と同氏を模したAIアバター「AI養老先生」がともに客員教授に就任したと発表した。",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "教育ニュース"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_d7a9dc6955ab80ef",
       "title": "NTT、世界最高容量の192コア海底ケーブルシステム開発。従来の構造のまま4倍に容量拡大",
       "url": "https://internet.watch.impress.co.jp/docs/news/2093155.html",
@@ -1254,42 +1361,6 @@
       "tags": [
         "インターネット",
         "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_3ba2750c605fd1f1",
-      "title": "AIエージェント導入が進む企業は何が違う？　Microsoft、成否を分ける“5要素”を提示",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2603/13/news063.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-03-13T04:00:00.000Z",
-      "summary": "MicrosoftはAIエージェントの導入準備態勢に関する調査結果を公開した。準備が整った企業は未整備企業に比べ、約2.5倍の速さでエージェントを導入できるという。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_fbef32f7463d8108",
-      "title": "急成長上位10位プロジェクトの6割がAI関連　GitHubが分析するAI支援ワークフローの変化",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2603/13/news061.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-03-13T04:00:00.000Z",
-      "summary": "GitHubが年次レポート「Octoverse 2025」に基づく分析記事を公開した。AIプロジェクトを推進する上で開発者が重視する点とツールの選択方法が変化しつつあるという。",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "教材",
-        "ツール"
       ],
       "priority_score": 50
     },
@@ -1328,23 +1399,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_67da8472e0033ddd",
-      "title": "Sakana AI、防衛装備庁から委託研究　部隊の情報分析や意思決定にAI利用へ",
-      "url": "https://www.itmedia.co.jp/aiplus/articles/2603/13/news083.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-03-13T03:14:00.000Z",
-      "summary": "Sakana AIは、防衛装備庁からの委託研究を始めると発表した。自律的にタスクをこなすAIエージェント技術により、部隊の情報分析や意思決定の高度化を目指す。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_c5bbd31c2e6f5097",
       "title": "キーボードのほこりが気になる!!　電動エアダスターがPCまわりの掃除から洗車まで使えて予想以上に便利だった件 【テレワークグッズ・ミニレビュー 第158回】",
       "url": "https://internet.watch.impress.co.jp/docs/column/teleworkgoods/2092953.html",
@@ -1377,24 +1431,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_82ace1f2cbe4a564",
-      "title": "GoogleマップがGeminiで進化　AIが複雑な質問に答える「Ask Maps」と3Dナビ「Immersive Navigation」",
-      "url": "https://www.itmedia.co.jp/news/articles/2603/13/news080.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-03-13T02:25:00.000Z",
-      "summary": "Googleは「Googleマップ」の「Gemini」採用新機能を発表した。会話形式で複雑な条件の場所探しができる「Ask Maps」と、3Dビューで直感的なルート案内を行う「Immersive Navigation」を導入。ユーザーの嗜好や過去の履歴に基づいたパーソナライズ提案や、自然な音声案内により、ナビゲーション体験を再構築する。（日本での提供はまだ）",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_086f0683f6181b4b",
       "title": "バッファローのUSB充電器がAmazonでお買い得！　2ポートで65W出力の「BSACPD6505C2BK」は2950円",
       "url": "https://internet.watch.impress.co.jp/docs/shopping/2093125.html",
@@ -1418,38 +1454,6 @@
       "source_name": "INTERNET Watch",
       "published_at": "2026-03-12T23:00:00.000Z",
       "summary": "サンワサプライ株式会社は3月11日、空中で操作ができるワイヤレスハンディマウス「400-MAWBT204BKN」を発売した。直販サイト「サンワダイレクト」での販売価格は7980円。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_654f311e336fbded",
-      "title": "バッファロー、半固体電解質で発火・発煙リスクを大幅に低減したモバイルバッテリー「BMPBSA10000」シリーズ発売　“子どもにも安心して持たせられる”安全性をアピール",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2092898.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-03-12T22:00:00.000Z",
-      "summary": "株式会社バッファローは、半固体電解質を採用した半固体モバイルバッテリー「BMPBSA10000」シリーズを、Amazon.co.jpと楽天市場のバッファロー公式ストア限定モデルとして発売する。2026年4月下旬の出荷予定で、市場想定価格は5990円。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_d8ba67702a8d2d9d",
-      "title": "USB Type-Cケーブル1本で使える15.6型ポータブル液晶ディスプレイ「ProLite P1671HSC-B1J」、マウスコンピューターが発売",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2092937.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-03-12T21:30:00.000Z",
-      "summary": "株式会社マウスコンピューターは3月12日、iiyamaブランドよりUSB Type-C接続による映像入力と給電に対応する15.6型ポータブル液晶ディスプレイ「ProLite P1671HSC-B1J」を発売した。価格は1万7930円。",
       "starred": false,
       "category": "tech",
       "tags": [
