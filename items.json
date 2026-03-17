@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-17T10:00:53.383Z",
+  "generated_at": "2026-03-17T21:30:45.141Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-03-17T10:00:38.504Z",
+      "published_at": "2026-03-17T21:30:35.838Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-03-17T10:00:38.504Z",
+      "published_at": "2026-03-17T21:30:35.838Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-03-17T10:00:38.504Z",
+      "published_at": "2026-03-17T21:30:35.838Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,71 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_ebf6f78b0235888e",
+      "title": "DNSには3種類の登場人物がいる。それぞれの役割とは？　Internet Weekで受講した「座学」が良かったので簡単に紹介したい＜1＞",
+      "url": "https://internet.watch.impress.co.jp/docs/special/2093806.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-03-17T21:00:00.000Z",
+      "summary": "昨年11月に開催された「Internet Week 2025」では、オンラインWeekのプログラムとして「座学」が設けられた。主催者の一般社団法人日本ネットワークインフォメーションセンター（JPNIC）からは「オンライン参加の便利さや手軽さを活かして、より多くの方に知っていただきたい内容」であるとアナウンスされている。どのような内容か興味を引かれたため、2本のプログラム（チュートリアル）を受講して…",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_71280e9b50b6efa4",
+      "title": "ファーウェイ、ランナー特化型スマートウォッチ「GT Runner 2」発売",
+      "url": "https://www.watch.impress.co.jp/docs/news/2094172.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-03-17T11:15:08.000Z",
+      "summary": "ファーウェイ・ジャパンは、新型スマートウォッチ「HUAWEI WATCH GT Runner 2」を3月27日に発売する。価格は54,780円。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_3e6ddde88297d542",
+      "title": "「国産人型ロボ」が歩く動画を公開→なぜか注目が集まったのは……　開発陣は困惑",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2603/17/news116.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-03-17T10:51:00.000Z",
+      "summary": "「開発陣は困惑してます…」――ロボットを開発するスタートアップHighlandersの増岡宏哉CEOは、同社の人型ロボットの試作機が歩く動画への反響を受け、自身のXアカウントでこのように投稿した。何があったのか。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_196c018eaa8bf92b",
+      "title": "ぺんてる、「アストラム」に社名変更",
+      "url": "https://www.watch.impress.co.jp/docs/news/2094175.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-03-17T10:07:24.000Z",
+      "summary": "ぺんてるは、4月1日付で法人名を「アストラム」に変更する。新社名は「アストラム株式会社(英語表記：ASTRUM CORPORATION)」。本社所在地は東京都中央区日本橋小網町7-2で変更はない。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_f9cb76424ccf4100",
@@ -1100,38 +1165,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_92c6b300485fac0d",
-      "title": "Luup、自転車青切符導入で安全啓発　講習会やパトロール",
-      "url": "https://www.watch.impress.co.jp/docs/news/2093775.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-03-16T08:16:20.000Z",
-      "summary": "Luupは、4月1日から自転車の交通違反に交通反則通告制度(青切符)が適用されることを受け、安全啓発施策を実施する。一部施策は「渋谷グッドマナープロジェクト」と連携し、渋谷区や渋谷区観光協会が後援する「Shibuya Safe Ride Project」の一環として行なう。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_95fe7f57e09cd257",
-      "title": "楽天カード、ナンバーレスにJCBやMastercard追加",
-      "url": "https://www.watch.impress.co.jp/docs/news/2093729.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-03-16T06:31:52.000Z",
-      "summary": "楽天カードは、ナンバーレス対象ブランドを拡大し、Mastercard、JCB、American Expressを追加した。申し込み受付・発行開始は3月16日。既に楽天カードを所有している場合、2枚目のカードとして追加で申し込みできる。家族カードは対象外。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_a32f171369584b28",
       "title": "全社員の“AI実践力”を4段階評価　AIエージェントが審査・認定　NTTドコモソリューションズが新制度",
       "url": "https://www.itmedia.co.jp/aiplus/articles/2603/16/news089.html",
@@ -1306,23 +1339,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_c4dbcc4d9c646658",
-      "title": "高市政権、AIロボットで「世界シェア3割」目指す　関連技術への投資を本格化",
-      "url": "https://www.itmedia.co.jp/enterprise/articles/2603/16/news036.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-03-15T23:00:00.000Z",
-      "summary": "内閣官房はAIロボットを軸とするフィジカルAI分野の官民投資ロードマップ素案を示した。2040年に世界シェア3割超と20兆円市場獲得を目指す。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_b950165327a320c2",
       "title": "水平・垂直方向に自在に回転する1.8mのUSB Type-Cケーブル「500-USB090-18BKN」、サンワサプライが発売",
       "url": "https://internet.watch.impress.co.jp/docs/news/2093282.html",
@@ -1444,22 +1460,6 @@
         "教育ニュース"
       ],
       "priority_score": 70
-    },
-    {
-      "id": "item_c0d636b7d97092f5",
-      "title": "3月15日は「ドメインの日」、インターリンクがGoogle系ドメインの解説サイトを公開　「.app」「.dev」などGoogle RegistryのTLDを解説",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2093320.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-03-13T07:30:00.000Z",
-      "summary": "株式会社インターリンクは、3月15日の「ドメインの日」に合わせ、ドメイン登録サービス「ゴンベエドメイン」にて、Google Registryが提供するTLD（トップレベルドメイン）をテーマにした特設サイトを公開した。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
     },
     {
       "id": "item_a1fd6de9d89aa13b",
