@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-03-18T10:02:27.275Z",
-  "total": 103,
+  "generated_at": "2026-03-18T21:28:23.416Z",
+  "total": 102,
   "items": [
+    {
+      "id": "item_5a2c7864b68dcd43",
+      "title": "過去の文部科学省ホームページ（※国立国会図書館ホームページへリンク）",
+      "url": "https://warp.ndl.go.jp/waid/3475",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-03-18T21:28:13.538Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
     {
       "id": "item_21f8651de3f2baea",
       "title": "文部科学省ホームページトップはこちら",
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-03-18T10:02:11.912Z",
+      "published_at": "2026-03-18T21:28:13.537Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +44,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-03-18T10:02:11.912Z",
+      "published_at": "2026-03-18T21:28:13.537Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -38,22 +56,36 @@
       "priority_score": 50
     },
     {
-      "id": "item_5a2c7864b68dcd43",
-      "title": "過去の文部科学省ホームページ（※国立国会図書館ホームページへリンク）",
-      "url": "https://warp.ndl.go.jp/waid/3475",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-03-18T10:02:11.912Z",
-      "summary": "",
+      "id": "item_756a96de2cbcc496",
+      "title": "無料ソフトも充実！　安心の老舗ブランド「WD」（Western Digital）の外付けHDDで、大切なデータを守ろう[Sponsored]",
+      "url": "https://internet.watch.impress.co.jp/docs/topic/special/2088270.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-03-18T21:00:00.000Z",
+      "summary": "スマートフォンやデジタルカメラで撮影した写真・動画のほか、さまざまな文書、各種設定などの大切なデータは、スマートフォン本体やPCに保存しておくだけでなく、バックアップとしてもう1つ、別のストレージ（記録媒体）に複製しておくようにしたい。",
       "starred": false,
-      "category": "admin",
+      "category": "tech",
       "tags": [
-        "行政",
-        "文科省",
-        "制度",
-        "教育ニュース"
+        "インターネット",
+        "セキュリティ"
       ],
-      "priority_score": 60
+      "priority_score": 50
+    },
+    {
+      "id": "item_c3936b0262283cda",
+      "title": "ららぽーと横浜、20周年で大規模リニューアル　こどものあそびば新設",
+      "url": "https://www.watch.impress.co.jp/docs/news/2094567.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-03-18T11:25:50.000Z",
+      "summary": "三井不動産は、「三井ショッピングパーク ららぽーと横浜」が2007年3月の開業から20周年を迎えることから、2026年春～2028年夏の3年間で大規模リニューアルを実施する。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_8a58a5fd31d62dc5",
@@ -1118,22 +1150,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_1bd584a1b29d4c7a",
-      "title": "軽井沢駅直結の商業施設「軽井沢 T-SITE」開業　飲食・サウナ",
-      "url": "https://www.watch.impress.co.jp/docs/news/2094136.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-03-17T08:21:55.000Z",
-      "summary": "軽井沢駅北口の新たな商業施設「軽井沢 T-SITE」が3月17日に開業した。平屋建ておよび2階建て(一部3階建て)の計6棟で構成され、飲食・物販店舗、温浴施設、宿泊施設など17店舗を展開する。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_11ad18dbb6ad9396",
       "title": "楽天、日本語LLM「Rakuten AI 3.0」公開　商用利用も可能",
       "url": "https://www.itmedia.co.jp/aiplus/articles/2603/17/news085.html",
@@ -1148,23 +1164,6 @@
         "AI",
         "LLM",
         "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_a4462bfbb6ec29ce",
-      "title": "自治体の“とある相談AI”使ってみた→返事は「水で薄めた助言」や「電話窓口への案内」　AI導入の意義を考える",
-      "url": "https://www.itmedia.co.jp/aiplus/articles/2603/17/news017.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-03-17T03:00:00.000Z",
-      "summary": "先日、とあるAIスタートアップが自治体向けに導入している「相談AI」を試してみた。提供元は2025年5月設立の新興企業だが、現時点ですでに全国の複数の自治体において導入や実証実験を行っている。一体どのようなサービスなのか。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
       ],
       "priority_score": 50
     },
@@ -1409,22 +1408,6 @@
         "情報モラル",
         "教材",
         "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_9000a961ab2ee5fd",
-      "title": "3月31日は「世界バックアップデー」。家庭用NASなどバックアップ製品が当たるXキャンペーンをアイ・オーが実施中",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2093662.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-03-16T21:00:00.000Z",
-      "summary": "株式会社アイ・オー・データ機器は3月16日、3月31日の「世界バックアップデー」に向けて、メーカー5社とコラボしたキャンペーンを開始した。期間中、公式Xアカウントで対象ポストをリポストするなどして応募すると、同社やコラボしたメーカーのバックアップ製品がプレゼントされる。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
       ],
       "priority_score": 50
     },
