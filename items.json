@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-03-18T04:59:54.352Z",
+  "generated_at": "2026-03-18T10:02:27.275Z",
   "total": 103,
   "items": [
+    {
+      "id": "item_21f8651de3f2baea",
+      "title": "文部科学省ホームページトップはこちら",
+      "url": "https://www.mext.go.jp/",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-03-18T10:02:11.912Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
     {
       "id": "item_bd1951ae70f98dac",
       "title": "サイトマップはこちら",
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-03-18T04:59:45.372Z",
+      "published_at": "2026-03-18T10:02:11.912Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -25,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-03-18T04:59:45.372Z",
+      "published_at": "2026-03-18T10:02:11.912Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -38,22 +56,164 @@
       "priority_score": 60
     },
     {
-      "id": "item_21f8651de3f2baea",
-      "title": "文部科学省ホームページトップはこちら",
-      "url": "https://www.mext.go.jp/",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-03-18T04:59:45.371Z",
-      "summary": "",
+      "id": "item_8a58a5fd31d62dc5",
+      "title": "情報1の共通テスト形式の自作問題を公開します",
+      "url": "https://note.com/chakkun1121/n/nbcc023381b25",
+      "source_id": "note_joho1",
+      "source_name": "note（情報科教員）",
+      "published_at": "2026-03-18T09:51:51.000Z",
+      "summary": "chakkun1121です。最近情報1のYoutube授業に向けて準備をしています。 そこで授業の初回に利用する共通テスト形式の自作問題ができたので先行公開します。初回の授業で軽く情報1について説明したあと、それだけだと何をやるのかがわからないと思うのでまず全体像を知ってもらうために作成したものです。 続きをみる",
       "starred": false,
-      "category": "admin",
+      "category": "exam",
       "tags": [
-        "行政",
-        "文科省",
-        "制度",
+        "授業実践",
+        "情報Ⅰ",
+        "教材",
+        "共通テスト",
+        "入試",
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_2b2a7bcf7358461c",
+      "title": "デスクトップPCのAIエージェントをスマホで遠隔操作　「Claude Cowork」に新機能",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2603/18/news130.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-03-18T09:46:00.000Z",
+      "summary": "米Anthropicは、PC上でタスクを自律的にこなすAIエージェント「Claude Cowork」を、スマートフォンから遠隔操作する機能「Dispatch」の試験提供を始めた。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_7a40e5f9c2b232f5",
+      "title": "「JAPANローミング」開始　ダウンしても他キャリアへつながる",
+      "url": "https://www.watch.impress.co.jp/docs/news/2094538.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-03-18T09:17:05.000Z",
+      "summary": "電気通信事業者協会(TCA)と国内の携帯電話通信事業者5社は、非常時に、ユーザーが他社ネットワークに接続できるキャリア間の互助ローミングシステム「JAPANローミング」を4月1日から開始する。日本の携帯キャリアすべて(NTTドコモ、KDDI、沖縄セルラー電話、ソフトバンク、楽天モバイル)が対応する。春以降に日本で発売される機種はJAPANローミングへの対応が技術条件になるほか、既存機種も対応する。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_6b7b100600210bab",
+      "title": "札幌市営地下鉄、クレカ乗車で上限運賃　1日乗り放題",
+      "url": "https://www.watch.impress.co.jp/docs/news/2094533.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-03-18T08:55:47.000Z",
+      "summary": "札幌市交通局など5者は、3月26日から、札幌市営地下鉄で「クレカ乗車」による上限運賃サービスを開始する。クレカ乗車は、クレジット、デビット、プリペイドカードや、カードが設定されたスマートフォン等のタッチ決済による乗車サービス。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_1dbaabf40c24f167",
+      "title": "Osaka Metro、顔認証改札対応の30日乗車券　1.2万円",
+      "url": "https://www.watch.impress.co.jp/docs/news/2094524.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-03-18T08:31:25.000Z",
+      "summary": "Osaka Metroは、4月1日3時から「Osaka Metro 30日乗車券」を期間限定・数量限定で発売する。価格は大人12,000円で、e METROアプリで販売する。",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_4ba55c410a65805c",
+      "title": "OpenAI、未成年の安全なAI利用に向け日本独自のレポート",
+      "url": "https://www.watch.impress.co.jp/docs/news/2094508.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-03-18T08:00:12.000Z",
+      "summary": "OpenAI Japanは、日本の未成年ユーザーが安全にAIを活用できる環境づくりに向けた取り組みをまとめた「未成年の安全性に関するブループリント」を発表した。未成年ユーザーの安心なAI利用のための基本方針や今後の方向性を示したもので、サービス設計を中心に保護の仕組みを整理している。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "生成AI",
+        "AI活用"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_7a52e922473d6987",
+      "title": "カメラのいらないテレビ電話アプリ「POPOPO」　”見られ感”がない国産SNS",
+      "url": "https://www.watch.impress.co.jp/docs/news/2094495.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-03-18T07:34:44.000Z",
+      "summary": "POPOPOは、スマートフォンアプリ「POPOPO」を3月18日15時に提供開始した。アプリの利用は無料で、ホロスーツと呼ばれるアイテムが一部有料。対応OSはiOS18以上、Android13以降を推奨する。同アプリを提供するPOPOPOの代表取締役社長に矢倉純之介氏、取締役にGACKT氏、西村博之氏、川上量生氏、庵野秀明氏が就任した。",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_bc057d59b61e352f",
+      "title": "Linux Foundation、AI時代のOSSセキュリティ強化に1250万ドルの助成金をGoogleなど6社から獲得",
+      "url": "https://www.itmedia.co.jp/news/articles/2603/18/news117.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-03-18T07:26:00.000Z",
+      "summary": "Linux Foundationは、Anthropic、AWS、GitHub、Google、Google DeepMind、Microsoft、OpenAIから総額1250万ドル（約20億円）の助成金を受領した。資金は「Alpha-Omega」等を通じて、AIによる脆弱性報告の急増に直面するオープンソース保守担当者の支援に充てる。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_4c8f0480ad6d0178",
+      "title": "マウスコンピューター、ECサイトで最大8万円オフの「春の大感謝SALE！」、4月8日まで",
+      "url": "https://internet.watch.impress.co.jp/docs/shopping/2094419.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-03-18T04:55:00.000Z",
+      "summary": "株式会社マウスコンピューターは3月18日、ECサイトで「春の大感謝SALE！」を開始した。期間は4月8日の10時まで。mouseブランドのほかゲーミングブランド「G TUNE」、クリエイター向けブランド「DAIV」のPC各種がセール価格になっており、BTOも可能で、送料は無料、翌営業日出荷サービスに対応した製品も多数だ。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_40b47fade12688a0",
@@ -974,96 +1134,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_5f977c08599c54e9",
-      "title": "電力需要を昼にシフトする「上げDR」推進実証　EV＋エコキュートで効果",
-      "url": "https://www.watch.impress.co.jp/docs/news/2094096.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-03-17T07:33:09.000Z",
-      "summary": "環境省とLooopは、「昼の再エネ余剰電力需要創出モデル実証」の成果について発表した。昼の電力利用促進に向け、消費者に行動を促す取り組みと、EV充電やエコキュートを自動制御する取り組みを実施し、いずれも効果が見られたものの課題もあると結論づけた。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_7d71b0196c8e73c0",
-      "title": "「在学資格証明」をマイナカードでデジタル化　複数大学やカラオケ活用など実証",
-      "url": "https://www.watch.impress.co.jp/docs/news/2094084.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-03-17T07:07:28.000Z",
-      "summary": "デジタル庁は17日、マイナンバーカードを活用した在学資格証明デジタル化実証実験についての報告会を開催した。実証実験は、大和大学、京都女子大学、大阪大学、広島大学の4校が参加し、マイナンバーカードによる在学証明書のデジタル化(VC)インフラを元に、JR西日本の学割サービスや、カラオケのクーポンなどを付与するもの。結果として「ポジティブな反応が得られた」としている。",
-      "starred": false,
-      "category": "dx",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "校務DX",
-        "GIGA",
-        "行政",
-        "文科省"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_16c617c21fae66d4",
-      "title": "NVIDIA、AI向けCPU「Vera」正式発表　GPU中心戦略を拡張",
-      "url": "https://www.watch.impress.co.jp/docs/news/2094049.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-03-17T05:58:05.000Z",
-      "summary": "NVIDIAは、エージェント型AIに特化した新CPU「Vera」と、次世代AI基盤「Vera Rubinプラットフォーム」を発表した。従来のGPU中心だった戦略を、CPUやネットワークを含む統合型インフラへと拡張する。",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_36fec7c6643d42c9",
-      "title": "Okta、AIエージェントの不正アクセスを防ぐ新基盤",
-      "url": "https://www.watch.impress.co.jp/docs/news/2094028.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-03-17T05:47:48.000Z",
-      "summary": "アイデンティティ管理サービスを提供するOktaは、企業の安全なAIエージェント運用を支援する新プラットフォーム「Okta for AI Agents」および「Auth0 for AI Agents」の機能拡張を発表した。",
-      "starred": false,
-      "category": "security",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "セキュリティ",
-        "情報モラル",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_04689a537266b972",
-      "title": "ザ・ランドマーク名古屋栄が6月11日開業　TOHOシネマズと商業エリア",
-      "url": "https://www.watch.impress.co.jp/docs/news/2094019.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-03-17T05:04:45.000Z",
-      "summary": "名古屋市の商業エリア「栄」で開発が進められている「ザ・ランドマーク名古屋栄」が3月31日に竣工する。6月11日に商業施設「HAERA(ハエラ)」と、シネコン「TOHOシネマズ 名古屋栄」が開業する。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_11ad18dbb6ad9396",
       "title": "楽天、日本語LLM「Rakuten AI 3.0」公開　商用利用も可能",
       "url": "https://www.itmedia.co.jp/aiplus/articles/2603/17/news085.html",
@@ -1374,58 +1444,6 @@
         "LLM",
         "教材",
         "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_4aea6960e60f18e2",
-      "title": "Coworkと旅するCPythonのソースコード、36年の旅",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2603/17/news013.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-03-16T20:00:00.000Z",
-      "summary": "cpython_growth.csvという、36年間にわたるCPythonのコミット履歴から1400件弱を抽出し、その時点でのソースコードの行数を記録したデータセットがあります。今回はこのデータセットを少しばかり眺めてみましょう。",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_9cc5efc30bfcde5e",
-      "title": "Gmailでの“日程調整メール”が楽チンに？　「関係者全員が空いてる時間を提案」のAI新機能",
-      "url": "https://www.itmedia.co.jp/aiplus/articles/2603/16/news108.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-03-16T10:34:00.000Z",
-      "summary": "",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_0ef4515b6a250fa3",
-      "title": "全Windowsユーザー待望？ セットアップ時にユーザーフォルダー名をカスタマイズする機能が実装へ【やじうまWatch】",
-      "url": "https://internet.watch.impress.co.jp/docs/yajiuma/2093633.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-03-16T03:39:36.000Z",
-      "summary": "Windowsのセットアップ時に、ユーザーフォルダー名をカスタマイズする機能が実装されたことが明らかになった。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
       ],
       "priority_score": 50
     },
@@ -1795,28 +1813,6 @@
         "入試"
       ],
       "priority_score": 80
-    },
-    {
-      "id": "item_574820e6e8528d85",
-      "title": "2026年度共通テスト 情報Ⅰ 第2問 解説と感想",
-      "url": "https://note.com/create_app/n/n782a3c271401",
-      "source_id": "note_joho1",
-      "source_name": "note（情報科教員）",
-      "published_at": "2026-01-21T04:13:02.000Z",
-      "summary": "2026年度の情報Ⅰ第2問のプロセスを書いていきます。前半の【A】では行政サービスのデジタル化と情報セキュリティについて、後半の【B】ではコンピュータにおける画像合成の数学的な仕組みについて解説します。 続きをみる",
-      "starred": false,
-      "category": "exam",
-      "tags": [
-        "授業実践",
-        "情報Ⅰ",
-        "教材",
-        "共通テスト",
-        "入試",
-        "校務DX",
-        "GIGA",
-        "セキュリティ"
-      ],
-      "priority_score": 70
     }
   ],
   "clips": []
