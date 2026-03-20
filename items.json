@@ -1,32 +1,14 @@
 {
-  "generated_at": "2026-03-20T09:52:32.380Z",
+  "generated_at": "2026-03-20T21:24:16.368Z",
   "total": 103,
   "items": [
-    {
-      "id": "item_21f8651de3f2baea",
-      "title": "文部科学省ホームページトップはこちら",
-      "url": "https://www.mext.go.jp/",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-03-20T09:52:22.609Z",
-      "summary": "",
-      "starred": false,
-      "category": "admin",
-      "tags": [
-        "行政",
-        "文科省",
-        "制度",
-        "教育ニュース"
-      ],
-      "priority_score": 60
-    },
     {
       "id": "item_bd1951ae70f98dac",
       "title": "サイトマップはこちら",
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-03-20T09:52:22.609Z",
+      "published_at": "2026-03-20T21:24:03.377Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +25,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-03-20T09:52:22.609Z",
+      "published_at": "2026-03-20T21:24:03.377Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +36,40 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_21f8651de3f2baea",
+      "title": "文部科学省ホームページトップはこちら",
+      "url": "https://www.mext.go.jp/",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-03-20T21:24:03.376Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_b6ade6d23c672018",
+      "title": "楽天証券、ログイン情報の再設定をオンラインで完結　JPKI対応",
+      "url": "https://www.watch.impress.co.jp/docs/news/2095017.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-03-20T11:00:00.000Z",
+      "summary": "楽天証券は、3月22日からマイナンバーカードによる公的個人認証サービス(JPKI)を導入し、ログインIDの確認やログインに必要な情報の再設定をオンラインで可能とする。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_988437aa08ce1315",
@@ -554,22 +570,6 @@
       "source_name": "Impress Watch",
       "published_at": "2026-03-19T00:00:00.000Z",
       "summary": "SBI VCトレードは、ステーブルコインを活用した「USDCレンディング」を3月19日に開始する。国内のライセンス業者として初となるサービスで、米ドル価格に連動する電子決済手段であるステーブルコイン「USDC」を同社に貸し出し、利用料(賃貸料)を受け取れる。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_076f0b8d69cd3fb3",
-      "title": "【鈴木淳也のPay Attention】京都市のバス二重料金はアリか? 疲弊する人気観光地の交通オーバーツーリズム対策",
-      "url": "https://www.watch.impress.co.jp/docs/series/suzukij/2093825.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-03-18T23:20:00.000Z",
-      "summary": "先日、スペインのバルセロナでMWC Barcelona 2026が開催されたが、現地を取材した報道関係者の知り合いがSNSのX上で「バルセロナの路線バス、クレカのタッチでもいける?」というメッセージを写真付きで投稿していた。",
       "starred": false,
       "category": "tech",
       "tags": [
