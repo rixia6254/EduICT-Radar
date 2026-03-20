@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-19T21:28:52.968Z",
+  "generated_at": "2026-03-20T04:50:11.881Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-03-19T21:28:38.919Z",
+      "published_at": "2026-03-20T04:49:58.601Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-03-19T21:28:38.919Z",
+      "published_at": "2026-03-20T04:49:58.601Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-03-19T21:28:38.919Z",
+      "published_at": "2026-03-20T04:49:58.601Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -56,8 +56,93 @@
       "priority_score": 60
     },
     {
+      "id": "item_348379ddde5d0010",
+      "title": "シチズン、エコ・ドライブ50周年で新型“フォトン”",
+      "url": "https://www.watch.impress.co.jp/docs/news/2094909.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-03-20T01:00:00.000Z",
+      "summary": "シチズン時計は、「エコ・ドライブ」誕生50周年を記念し、新型の腕時計「Eco-Drive PHOTON」(エコ・ドライブ フォトン)2機種を2026年秋に発売する。価格はシルバーの「BJ6560-53W」が148,500円、ブラックとゴールドの「BJ6569-59X」が178,200円。それぞれ世界限定5,000本の数量限定。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_eb2a3fad6f0ce87e",
+      "title": "【レビュー】Apple Fitness+を1カ月続けた結果　自宅がジムになるありがたさ",
+      "url": "https://www.watch.impress.co.jp/docs/review/review/2093935.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-03-20T00:15:00.000Z",
+      "summary": "1月21日、アップルが「Apple Fitness+」を日本でスタートしました。忘年会、新年会を経てすっかりリバウンドした筆者にとって、まさに「待ってました!」というタイミング。ノリノリで挑みました。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_d47bf0f56455587f",
+      "title": "楽天、AIモデル「Rakuten AI 3.0」を無償提供　「オープンソースコミュニティ上の最良なモデル」を基に日本語能力を強化",
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2603/20/news011.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-03-19T23:00:00.000Z",
+      "summary": "楽天は、国内有数の日本語特化型AIモデル「Rakuten AI 3.0」の提供を開始した。本モデルは約7000億パラメーターのMoEアーキテクチャを採用し、日本語性能で高い評価を得ている。無償公開を通じて国内のAI開発加速と技術支援を目指す。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_f974e4e19610184e",
+      "title": "ファミマ45周年で「45%増量作戦」　コッペパンやカレー、助六寿司など",
+      "url": "https://www.watch.impress.co.jp/docs/news/2095013.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-03-19T23:00:00.000Z",
+      "summary": "ファミリーマートは、創立45周年を記念して、人気商品を価格据え置きで「45%」増量するキャンペーンを3月24日から開始する。「うまくて、ドでかい! お値段そのまま なぜか 45%増量作戦」と題し、24日から第1弾、31日から第2弾を展開する。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_6ef3f158401668a5",
+      "title": "OpenAI、Astralを買収　Python開発支援ツール「Ruff」「uv」を「Codex」へ統合",
+      "url": "https://www.itmedia.co.jp/news/articles/2603/20/news024.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-03-19T22:54:00.000Z",
+      "summary": "OpenAIは、Python開発者向け高速ツールを提供するAstralを買収することで合意した。高性能なコードチェックツール「Ruff」やパッケージ管理ツール「uv」を持つ同社の技術を、プログラミング支援AI「Codex」に統合する。開発ワークフロー全体を自動化するAIシステムの進化を目指し、オープンソースの既存ツールへのサポートも継続する。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 60
+    },
+    {
       "id": "item_00b5b890456ced6d",
-      "title": "大井町駅直結「OIMACHI TRACKS」を見てきた　眼前に山手線基地を望む",
+      "title": "大井町駅直結「OIMACHI TRACKS」を見てきた　眼前に車両基地を望む",
       "url": "https://www.watch.impress.co.jp/docs/news/2094975.html",
       "source_id": "impress_watch",
       "source_name": "Impress Watch",
@@ -1000,22 +1085,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_c3936b0262283cda",
-      "title": "ららぽーと横浜、20周年で大規模リニューアル　こどものあそびば新設",
-      "url": "https://www.watch.impress.co.jp/docs/news/2094567.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-03-18T11:25:50.000Z",
-      "summary": "三井不動産は、「三井ショッピングパーク ららぽーと横浜」が2007年3月の開業から20周年を迎えることから、2026年春～2028年夏の3年間で大規模リニューアルを実施する。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_8a58a5fd31d62dc5",
       "title": "情報1の共通テスト形式の自作問題を公開します",
       "url": "https://note.com/chakkun1121/n/nbcc023381b25",
@@ -1050,38 +1119,6 @@
         "AI",
         "LLM",
         "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_7a40e5f9c2b232f5",
-      "title": "「JAPANローミング」開始　ダウンしても他キャリアへつながる",
-      "url": "https://www.watch.impress.co.jp/docs/news/2094538.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-03-18T09:17:05.000Z",
-      "summary": "電気通信事業者協会(TCA)と国内の携帯電話通信事業者5社は、非常時に、ユーザーが他社ネットワークに接続できるキャリア間の互助ローミングシステム「JAPANローミング」を4月1日から開始する。日本の携帯キャリアすべて(NTTドコモ、KDDI、沖縄セルラー電話、ソフトバンク、楽天モバイル)が対応する。春以降に日本で発売される機種はJAPANローミングへの対応が技術条件になるほか、既存機種も対応する。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_6b7b100600210bab",
-      "title": "札幌市営地下鉄、クレカ乗車で上限運賃　1日乗り放題",
-      "url": "https://www.watch.impress.co.jp/docs/news/2094533.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-03-18T08:55:47.000Z",
-      "summary": "札幌市交通局など5者は、3月26日から、札幌市営地下鉄で「クレカ乗車」による上限運賃サービスを開始する。クレカ乗車は、クレジット、デビット、プリペイドカードや、カードが設定されたスマートフォン等のタッチ決済による乗車サービス。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
       ],
       "priority_score": 50
     },
@@ -1402,41 +1439,6 @@
         "セキュリティ"
       ],
       "priority_score": 50
-    },
-    {
-      "id": "item_3e6ddde88297d542",
-      "title": "「国産人型ロボ」が歩く動画を公開→なぜか注目が集まったのは……　開発陣は困惑",
-      "url": "https://www.itmedia.co.jp/aiplus/articles/2603/17/news116.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-03-17T10:51:00.000Z",
-      "summary": "「開発陣は困惑してます…」――ロボットを開発するスタートアップHighlandersの増岡宏哉CEOは、同社の人型ロボットの試作機が歩く動画への反響を受け、自身のXアカウントでこのように投稿した。何があったのか。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_99b1b32ef87abfa7",
-      "title": "富山市、公式キャラ制作に画像生成AI活用　若者向けPRに起用",
-      "url": "https://www.itmedia.co.jp/aiplus/articles/2603/17/news114.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-03-17T09:34:00.000Z",
-      "summary": "富山県富山市が、制作過程に米Adobeの画像生成AIサービス「Adobe Firefly」を活用したオリジナルキャラクター「やまやま」「くすくす」を発表した。若者に市の魅力や親しみやすさを伝えるキャラとして、プロモーションに活用する。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 60
     },
     {
       "id": "item_38c5bb370a1d2cf7",
