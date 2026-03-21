@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-03-20T21:24:16.368Z",
+  "generated_at": "2026-03-21T04:40:06.620Z",
   "total": 103,
   "items": [
+    {
+      "id": "item_21f8651de3f2baea",
+      "title": "文部科学省ホームページトップはこちら",
+      "url": "https://www.mext.go.jp/",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-03-21T04:39:53.242Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
     {
       "id": "item_bd1951ae70f98dac",
       "title": "サイトマップはこちら",
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-03-20T21:24:03.377Z",
+      "published_at": "2026-03-21T04:39:53.242Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -25,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-03-20T21:24:03.377Z",
+      "published_at": "2026-03-21T04:39:53.242Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -38,22 +56,132 @@
       "priority_score": 60
     },
     {
-      "id": "item_21f8651de3f2baea",
-      "title": "文部科学省ホームページトップはこちら",
-      "url": "https://www.mext.go.jp/",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-03-20T21:24:03.376Z",
-      "summary": "",
+      "id": "item_b890f386764d4937",
+      "title": "Windows 11、タスクバー位置変更など大幅刷新　Copilot入口は削減",
+      "url": "https://www.watch.impress.co.jp/docs/news/2095127.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-03-21T03:12:30.000Z",
+      "summary": "Microsoftは20日(米国時間)、Windows 11に今後大きな変更を加えていくと発表した。「Our commitment to Windows quality(Windowsの品質についてのコミットメント)」としたブログにおいて、ユーザーからのフィードバックに応えながら修正を行なう方針を示したもので、3月から4月にかけて、Windows Insider向けのプレビューで、タスクバーの移動…",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "生成AI",
+        "AI活用"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_055e34f764e3a442",
+      "title": "「探せる」4.98mm厚のCIOバッテリーが\"本当に”役立った【ミニレビュー】",
+      "url": "https://www.watch.impress.co.jp/docs/review/minireview/2093630.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-03-21T00:30:00.000Z",
+      "summary": "CIOの「SMARTCOBY ULTRA SLIM 3K」は、厚みわずか4.98mmのモバイルバッテリーです。その激薄ぶりが何かとクローズアップされがちですが、もうひとつ、Appleの「探す」アプリに対応しており、外出先で紛失してもiPhoneからその位置情報を検索できることもポイントです。",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_c09743ca946c11ba",
+      "title": "東京駅のバスが大幅拡張　バスターミナル東京八重洲が第2期開業",
+      "url": "https://www.watch.impress.co.jp/docs/news/2095094.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-03-21T00:00:00.000Z",
+      "summary": "独立行政法人都市再生機構(UR都市機構)と京王電鉄バスが東京駅前にて整備を進めている「バスターミナル東京八重洲」の第2期エリア(地下A)が2026年3月20日に開業した。",
       "starred": false,
       "category": "admin",
       "tags": [
+        "テクノロジー",
+        "デジタル",
         "行政",
-        "文科省",
-        "制度",
-        "教育ニュース"
+        "文科省"
       ],
-      "priority_score": 60
+      "priority_score": 50
+    },
+    {
+      "id": "item_1386d6591685f7c4",
+      "title": "ソフトバンクGら日本企業連合、米AIデータセンターに約5兆円投資　オハイオ州で着工",
+      "url": "https://www.itmedia.co.jp/news/articles/2603/21/news022.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-03-20T23:54:00.000Z",
+      "summary": "米エネルギー省は、オハイオ州のウラン濃縮施設跡地に大規模データセンターを建設する官民連携を発表した。ソフトバンクグループなど日本企業連合「ポーツマスコンソーシアム」が参加し、約5兆円を投じて10GW規模の発電施設とAIインフラを整備する。ソフトバンクグループの孫正義会長兼CEOはトランプ大統領の晩餐会とデータセンターの着工式に出席した。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_dbb06c8fcf53f5a2",
+      "title": "Google AI Studio、Firebase機能統合でWebアプリ開発強化",
+      "url": "https://www.watch.impress.co.jp/docs/news/2095052.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-03-20T23:30:00.000Z",
+      "summary": "Googleは19日(米国時間)、開発者ツールの「Google AI Studio」を強化し、バイブコーディング(vibe coding)体験をアップグレードした。コーディングエージェントのための「Antigravity」と「Firebase」のバックエンド環境を統合し、実用的なWebアプリ開発環境に強化する。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "生成AI",
+        "AI活用",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_9a99d8cbc1e60098",
+      "title": "Microsoft、「Windows 11」のタスクバー移動機能復活や「Copilot」統合見直しを計画",
+      "url": "https://www.itmedia.co.jp/news/articles/2603/21/news021.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-03-20T22:45:00.000Z",
+      "summary": "Microsoftは、「Windows 11」の品質向上に向けた新たな取り組みを発表した。ユーザーからのフィードバックを反映し、要望の多かったタスクバーの移動機能の復活や、各アプリへのCopilot統合方針の見直し、Updateによる作業中断の軽減などを実施する。OSの安定性向上やリソース消費の抑制も継続して進める。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_03b5787073c3d50f",
+      "title": "NVIDIA新チップ、アリババ日本展開――AIシフトを支える国内外の巨大投資",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2603/21/news008.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-03-20T22:00:00.000Z",
+      "summary": "2026年3月16～19日に公開された記事の中から、MONOist編集部が厳選した今週の注目ニュースをお届けします。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_b6ade6d23c672018",
@@ -429,40 +557,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_78751dd1cb073c4c",
-      "title": "シャープ、AIとテレビで介護を支援する「AIトレーナー」",
-      "url": "https://www.watch.impress.co.jp/docs/news/2094746.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-03-19T03:52:22.000Z",
-      "summary": "シャープは、介護施設で高齢者の機能訓練業務を支援する「介護向けAIトレーナー」を開発した。AIとテレビの大画面を活用し、機能訓練に関わる一連の業務をAIでサポートする。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_7d6f0868041410a3",
-      "title": "マクドナルドのリワード、店頭･ドライブスルーでもポイント付与",
-      "url": "https://www.watch.impress.co.jp/docs/news/2094731.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-03-19T03:26:56.000Z",
-      "summary": "日本マクドナルドは、「Myマクドナルド リワード」を3月25日5時から拡大し、店頭注文でもポイント付与を開始する。利用は公式アプリからの参加登録(無料)が必要。",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_a96ec073fdbd4024",
       "title": "米博物館、Appleの50周年を記念した常設コレクションを4月から一般公開。援助を募集中【やじうまWatch】",
       "url": "https://internet.watch.impress.co.jp/docs/yajiuma/2094690.html",
@@ -511,22 +605,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_4c01948737a1b414",
-      "title": "実は難しい小型ロケット　\"カイロス\"の失敗と変化する世界市場",
-      "url": "https://www.watch.impress.co.jp/docs/topic/2094180.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-03-19T02:29:47.000Z",
-      "summary": "スペースワンの小型ロケット「カイロス」3号機が打上げに失敗しました。小型ロケットは大型より部品点数が少なく一見すると「簡単そう」に思えるかもしれません。ですが実際には、世界のスタートアップ企業でも成功率は決して高くありません。なぜ小型ロケット開発は難しいのか。世界の開発競争と市場の実態を整理してみましょう。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_8dc81a5c9f9ca97f",
       "title": "Google、“バイブデザイン”ツール「Stitch」をβ公開　手書きスケッチを数秒でコード化",
       "url": "https://www.itmedia.co.jp/aiplus/articles/2603/19/news084.html",
@@ -559,22 +637,6 @@
       "tags": [
         "インターネット",
         "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_1ef5f8ec38979afe",
-      "title": "SBI VCトレード、国内初「USDCレンディング」　年率10%の貸コイン",
-      "url": "https://www.watch.impress.co.jp/docs/news/2094568.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-03-19T00:00:00.000Z",
-      "summary": "SBI VCトレードは、ステーブルコインを活用した「USDCレンディング」を3月19日に開始する。国内のライセンス業者として初となるサービスで、米ドル価格に連動する電子決済手段であるステーブルコイン「USDC」を同社に貸し出し、利用料(賃貸料)を受け取れる。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
       ],
       "priority_score": 50
     },
@@ -1322,42 +1384,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_36aba64055436886",
-      "title": "強力なAIは「想定より早く実現する」　AIによる重要課題の研究組織「Anthropic Institute」設立",
-      "url": "https://www.itmedia.co.jp/enterprise/articles/2603/18/news043.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-03-17T23:00:00.000Z",
-      "summary": "Anthropicは、高度なAIが社会に与える影響を研究する「Anthropic Institute」を設立した。急速な技術進化に伴う雇用や法制度の課題を分析し、開発者の知見を公開・共有することで、AI時代の適切な統治と社会のレジリエンス向上を目指す。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_95d90ad6f124bc5a",
-      "title": "OpenAI、「ChatGPT」でモデル管理を改善　応答スタイル「探究心が強い」は廃止",
-      "url": "https://www.itmedia.co.jp/aiplus/articles/2603/18/news071.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-03-17T22:42:00.000Z",
-      "summary": "OpenAIは、「ChatGPT」のモデル選択機能を簡素化した。有料プラン向けに「Instant」「Thinking」「Pro」（ProはProプラン以上）の3系統に整理し、状況に応じた自動切り替え機能や推論強度の調整項目を追加した。その他、幾つかの設定画面の見直しを実施した。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 60
-    },
-    {
       "id": "item_e0f0dd3aacdf44a5",
       "title": "NICT、攻殻機動隊コラボの「WarpDrive」をアップデート、タチコマの育成機能を実装",
       "url": "https://internet.watch.impress.co.jp/docs/news/2094117.html",
@@ -1371,24 +1397,6 @@
         "インターネット",
         "セキュリティ",
         "情報モラル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_17242821a08a3265",
-      "title": "OpenAI、「GPT-5.4」の軽量版「mini」と「nano」を公開　無料とGoでも利用可能",
-      "url": "https://www.itmedia.co.jp/aiplus/articles/2603/18/news068.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-03-17T21:58:00.000Z",
-      "summary": "OpenAIは、最新モデル「GPT-5.4」の軽量版となる「mini」と「nano」を発表した。高い推論能力を維持しつつ、応答速度とコスト効率を最適化したものだ。無料版やGoプランでも利用可能で、開発者向けにはAPIを通じた提供も開始された。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
       ],
       "priority_score": 50
     },
