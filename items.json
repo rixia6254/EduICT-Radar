@@ -1,32 +1,14 @@
 {
-  "generated_at": "2026-03-21T09:39:27.023Z",
+  "generated_at": "2026-03-21T21:18:42.465Z",
   "total": 103,
   "items": [
-    {
-      "id": "item_5a2c7864b68dcd43",
-      "title": "過去の文部科学省ホームページ（※国立国会図書館ホームページへリンク）",
-      "url": "https://warp.ndl.go.jp/waid/3475",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-03-21T09:39:11.639Z",
-      "summary": "",
-      "starred": false,
-      "category": "admin",
-      "tags": [
-        "行政",
-        "文科省",
-        "制度",
-        "教育ニュース"
-      ],
-      "priority_score": 60
-    },
     {
       "id": "item_21f8651de3f2baea",
       "title": "文部科学省ホームページトップはこちら",
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-03-21T09:39:11.638Z",
+      "published_at": "2026-03-21T21:18:31.556Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -44,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-03-21T09:39:11.638Z",
+      "published_at": "2026-03-21T21:18:31.556Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +36,42 @@
         "制度"
       ],
       "priority_score": 50
+    },
+    {
+      "id": "item_5a2c7864b68dcd43",
+      "title": "過去の文部科学省ホームページ（※国立国会図書館ホームページへリンク）",
+      "url": "https://warp.ndl.go.jp/waid/3475",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-03-21T21:18:31.556Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_e9884a1b7ab2a82b",
+      "title": "「ドラクエX」が生成AIキャラクター導入へ　Gemini 3 Flash活用の「おしゃべりスラミィ」",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2603/21/news012.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-03-21T11:00:00.000Z",
+      "summary": "スクウェア・エニックスが、MMORPG「ドラゴンクエストX オンライン」（DQX）に、生成AIを活用した対話型パートナー機能「おしゃべりスラミィ」を導入する。GoogleのAIモデル「Gemini 3 Flash」とリアルタイム対話API「Gemini Live API」を組み合わせ、プレイヤーと音声で対話できるAIキャラクターを実現するという。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 60
     },
     {
       "id": "item_b890f386764d4937",
@@ -1360,28 +1378,6 @@
         "AI活用"
       ],
       "priority_score": 60
-    },
-    {
-      "id": "item_deb12ed78a95e5fa",
-      "title": "OpenClaw狙う攻撃集団を特定　偽装導入で機密情報を窃取",
-      "url": "https://www.itmedia.co.jp/enterprise/articles/2603/18/news048.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-03-17T23:00:00.000Z",
-      "summary": "中国のセキュリティ企業ThreatBookは、AIアプリを悪用する攻撃集団の活動を報告した。偽装したWebサイトや技術記事、拡張機能で利用者に不正操作を促し、端末に侵入して情報を窃取するという。",
-      "starred": false,
-      "category": "dx",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "校務DX",
-        "GIGA",
-        "セキュリティ",
-        "情報モラル",
-        "教材"
-      ],
-      "priority_score": 50
     },
     {
       "id": "item_e0f0dd3aacdf44a5",
