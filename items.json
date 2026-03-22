@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-21T21:18:42.465Z",
+  "generated_at": "2026-03-22T04:55:29.574Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-03-21T21:18:31.556Z",
+      "published_at": "2026-03-22T04:55:19.228Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-03-21T21:18:31.556Z",
+      "published_at": "2026-03-22T04:55:19.228Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-03-21T21:18:31.556Z",
+      "published_at": "2026-03-22T04:55:19.228Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,39 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_e9e1bcc6c9b54c3c",
+      "title": "【いつモノコト】SwitchBot ロックUltraと顔認証パッドProを導入したら玄関のストレスが消えた",
+      "url": "https://www.watch.impress.co.jp/docs/series/itsmo/2090570.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-03-22T00:15:00.000Z",
+      "summary": "鍵を取り出さずに玄関ドアを開閉できるようにと、数年前にSwitchBot ロックと指紋認証パッドを導入しましたが、しばらく経つと問題も見えてきました。妻は指紋センサーとの相性が悪く、早々にパスコード入力に切り替え。小学1年生の娘もセンサーに手こずり、帰宅のたびにインターホンを鳴らすのが定番になっていました。結局指紋でロックを解除しているのは筆者だけになっていたのです。",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "教育ニュース"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_c4020767700d84c7",
+      "title": "チープカシオのロングセラー「A158」に青のカラバリ",
+      "url": "https://www.watch.impress.co.jp/docs/news/2093773.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-03-21T23:30:00.000Z",
+      "summary": "カシオ計算機は、「CASIO CLASSIC」の新作として、「A158」のカラーバリエーション2機種を発売した。クオーツ式の腕時計で、価格はそれぞれ6,050円。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_e9884a1b7ab2a82b",
@@ -501,24 +534,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_d479660973102b16",
-      "title": "Claude Coworkをスマホから操作できる新機能「Dispatch」",
-      "url": "https://www.watch.impress.co.jp/docs/news/2094782.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-03-19T05:18:13.000Z",
-      "summary": "Anthropicは18日、PC上のタスクをスマートフォンから指示できる「Claude Cowork」の新機能「Dispatch」を提供開始した。ClaudeのMaxプラン(月額100ドルから)ユーザーから展開し、19日からはPro(月額20ドル)ユーザーも利用可能となった。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "生成AI",
-        "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_1b2d16915e0c2eb1",
       "title": "ZTE、Wi-Fi 7ゲーミングルーター「ZTE Inazuma BE7200 Pro+」発売　Amazonで発売記念キャンペーン中",
       "url": "https://internet.watch.impress.co.jp/docs/news/2094789.html",
@@ -533,28 +548,6 @@
         "セキュリティ"
       ],
       "priority_score": 50
-    },
-    {
-      "id": "item_d84742a5c5887a51",
-      "title": "auメールアプリ「送信元なりすまし」警告 “生成AI由来”も対策へ",
-      "url": "https://www.watch.impress.co.jp/docs/news/2094768.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-03-19T04:26:09.000Z",
-      "summary": "KDDIは、auメール(au.com/ezweb.ne.jp)のフィッシングメール対策を3月24日から強化する。また、auとUQ mobile、auひかりのユーザー向けの迷惑電話対策サービスを6カ月無料にする取組みについて、4月以降に再度実施する。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "生成AI",
-        "AI活用",
-        "セキュリティ",
-        "情報モラル",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 60
     },
     {
       "id": "item_7b00c55bc0cdb5af",
