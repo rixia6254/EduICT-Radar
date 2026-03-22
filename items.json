@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-22T09:40:16.607Z",
+  "generated_at": "2026-03-22T21:20:04.412Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-03-22T09:40:05.742Z",
+      "published_at": "2026-03-22T21:19:54.921Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-03-22T09:40:05.742Z",
+      "published_at": "2026-03-22T21:19:54.921Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-03-22T09:40:05.742Z",
+      "published_at": "2026-03-22T21:19:54.921Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -56,8 +56,58 @@
       "priority_score": 60
     },
     {
+      "id": "item_8e3e227bcb2f9753",
+      "title": "見た目はNASだが中身は別もの!!　ランサムウェアにも耐えるバックアップを実現するSynology ActiveProtectアプライアンス「DP340」の正体【イニシャルB【特別編】】[Sponsored]",
+      "url": "https://internet.watch.impress.co.jp/docs/topic/shimizu_sp/2087324.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-03-22T21:00:00.000Z",
+      "summary": "今、「バックアップ」が構造的な転換点を迎えようとしている。ランサムウェアによる被害が大きく報道されるようになって以降、「組織の存続」という文脈でデータの価値が見直されるようになり、今やシステムの復旧時間は「経営指標」の1つにもなりつつある。",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_b7341425d1729c2f",
+      "title": "VS Codeチームは週次リリースをどう実現したのか　AIエージェント活用で見えた6つのポイント",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2603/23/news022.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-03-22T20:00:00.000Z",
+      "summary": "VS Codeが月次リリースから週次リリースへ移行するためにエージェントをどう活用しているのか。エージェントを使って開発する全ての人に参考になる内容だ。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_aa1a6c92bafcb6d0",
+      "title": "米国AIデータセンターに5兆円投資　ソフトバンクGら「ポーツマスコンソーシアム」",
+      "url": "https://www.watch.impress.co.jp/docs/news/2095163.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-03-22T15:00:00.000Z",
+      "summary": "3月20日(米国時間)、ソフトバンクグループなど、日米のサプライヤーや金融機関などを中心とした21社が、日米政府の戦略的投資イニシアティブ対象となる米国エネルギー省のポーツマスサイトの大規模発電所やAIインフラ建設を目的とした「ポーツマスコンソーシアム」を発足した。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
       "id": "item_e9e1bcc6c9b54c3c",
-      "title": "【いつモノコト】SwitchBot ロックUltraと顔認証パッドProを導入したら玄関のストレスが消えた",
+      "title": "【いつモノコト】玄関のストレスが消えた　SwitchBot ロックUltraと顔認証パッドPro",
       "url": "https://www.watch.impress.co.jp/docs/series/itsmo/2090570.html",
       "source_id": "impress_watch",
       "source_name": "Impress Watch",
@@ -496,22 +546,6 @@
         "デジタル",
         "校務DX",
         "GIGA"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_d1b340faaf2bcf1e",
-      "title": "首都圏のバス路線も「クレカ乗車」本格化　京王バスの300台が対応",
-      "url": "https://www.watch.impress.co.jp/docs/news/2094841.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-03-19T06:50:07.000Z",
-      "summary": "京王バスは、3月27日から「クレカ乗車」サービスの本格導入を開始する。同社が運行する中野・永福町・桜ヶ丘営業所管内の路線バスへ拡大し、計300両に導入。2027年度の完全キャッシュレス化を目指す。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
       ],
       "priority_score": 50
     },
@@ -1353,26 +1387,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_7d5afdcb23524071",
-      "title": "生成AIパスポートってどんな試験？　合格した当社の人事担当者に受験意義と勉強法を聞いた",
-      "url": "https://kn.itmedia.co.jp/kn/articles/2603/18/news052.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-03-18T01:00:00.000Z",
-      "summary": "AI関連のおすすめの資格として「生成AIパスポート」はG検定に並んでよく挙げられる。今回は、同試験に合格した当社人事のHRさんに、受験した当事者の視点、人事の視点から、試験の意義や勉強方法を聞いた。",
-      "starred": false,
-      "category": "exam",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "共通テスト",
-        "入試",
-        "AI活用"
-      ],
-      "priority_score": 60
-    },
-    {
       "id": "item_e0f0dd3aacdf44a5",
       "title": "NICT、攻殻機動隊コラボの「WarpDrive」をアップデート、タチコマの育成機能を実装",
       "url": "https://internet.watch.impress.co.jp/docs/news/2094117.html",
@@ -1413,22 +1427,6 @@
       "source_name": "INTERNET Watch",
       "published_at": "2026-03-17T21:30:00.000Z",
       "summary": "マウスコンピューター株式会社は3月17日、iiyamaブランドより、31.5型4Kディスプレイ「ProLite XB3294UHSCP-B1J」を発売した。価格は5万6980円。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_ebf6f78b0235888e",
-      "title": "DNSには3種類の登場人物がいる。それぞれの役割とは？　Internet Weekで受講した「座学」が良かったので簡単に紹介したい＜1＞",
-      "url": "https://internet.watch.impress.co.jp/docs/special/2093806.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-03-17T21:00:00.000Z",
-      "summary": "昨年11月に開催された「Internet Week 2025」では、オンラインWeekのプログラムとして「座学」が設けられた。主催者の一般社団法人日本ネットワークインフォメーションセンター（JPNIC）からは「オンライン参加の便利さや手軽さを活かして、より多くの方に知っていただきたい内容」であるとアナウンスされている。どのような内容か興味を引かれたため、2本のプログラム（チュートリアル）を受講して…",
       "starred": false,
       "category": "tech",
       "tags": [
