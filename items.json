@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-24T10:01:10.790Z",
+  "generated_at": "2026-03-24T21:31:29.115Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-03-24T10:00:59.328Z",
+      "published_at": "2026-03-24T21:31:14.573Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-03-24T10:00:59.328Z",
+      "published_at": "2026-03-24T21:31:14.573Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-03-24T10:00:59.328Z",
+      "published_at": "2026-03-24T21:31:14.573Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,113 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_0a1a6dedbf7f4428",
+      "title": "BBIX、地域分散型クラウドサービス「OCX Compute Fabric」の拠点に「QTnet 福岡第3データセンター」を追加　全国規模の分散配置を目指す",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2095809.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-03-24T21:30:00.000Z",
+      "summary": "BBIX株式会社は3月24日、株式会社IDCフロンティアと共同で提供する地域分散型クラウドサービス「OCX Compute Fabric」（OCF）の全国展開に向けた最初の拠点として、株式会社QTnetが運営する「QTnet 福岡第3データセンター」（QD3）を追加したと発表した。",
+      "starred": false,
+      "category": "dx",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "校務DX",
+        "GIGA"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_3586d73594ad4dfb",
+      "title": "“これからのHTTP”は、どう進化する？ 「QUIC」がUDPで構築された背景を知ると見えてくる　Internet Weekで受講した「座学」が良かったので簡単に紹介したい＜2＞",
+      "url": "https://internet.watch.impress.co.jp/docs/special/2093809.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-03-24T21:00:00.000Z",
+      "summary": "昨年11月に開催された「Internet Week 2025」では、オンラインWeekのプログラムとして「座学」が設けられた。主催者の一般社団法人日本ネットワークインフォメーションセンター（JPNIC）からは「オンライン参加の便利さや手軽さを活かして、より多くの方に知っていただきたい内容」であるとアナウンスされている。どのような内容か興味を引かれたため、2本のプログラム（チュートリアル）を受講して…",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_30a91ffaef2d1069",
+      "title": "GPT-5.4 mini登場　複数エージェントでの開発に最適で安い！……が、実は前世代から3倍値上げ",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2603/25/news017.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-03-24T20:00:00.000Z",
+      "summary": "GPT-5.4 miniは、マルチエージェント開発に最適な軽量モデルとして登場した。しかし本当に「安くて使える」のか。ベンチマークや価格、実際の開発体験に加え、コミュニティーでの評価も踏まえながら、その実力を検証する。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_ee6252e5cc8336ee",
+      "title": "すかいらーくHD、定食の「しんぱち食堂」を子会社化",
+      "url": "https://www.watch.impress.co.jp/docs/news/2095927.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-03-24T14:47:22.000Z",
+      "summary": "すかいらーくホールディングスは24日、「しんぱち食堂」などを展開する株式会社しんぱちを子会社化すると発表した。しんぱちの株式を100%取得し、買収額は110億円。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_54b26b42d98e3821",
+      "title": "noteとKADOKAWAが資本業務提携　IP創出やnoteの動画・音声強化",
+      "url": "https://www.watch.impress.co.jp/docs/news/2095880.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-03-24T11:00:00.000Z",
+      "summary": "メディアプラットフォームのnoteと出版・エンタメ大手のKADOKAWAは24日、次世代のIP運用エコシステム構築などを目的とし、資本業務提携を締結した。KADOKAWAは、noteの第三者割当増資を引受し、100万株を22億円で4月9日に取得。持株比率は 5.21%となる。",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_9f84ea6cb2c7c732",
+      "title": "「大学受験にAI活用」受験生の約9割　使い方は？　学習管理アプリ運営が調査",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2603/24/news130.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-03-24T10:25:00.000Z",
+      "summary": "2025年度に大学受験した人の88.7％がAIを受験に活用していた――学習管理アプリ「Studyplus」を運営するスタディプラスは、このような調査結果を公開した。",
+      "starred": false,
+      "category": "exam",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "共通テスト",
+        "入試",
+        "AI活用",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_cae61f78b41111a7",
@@ -1154,38 +1261,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_d933ec8dc35ca4cd",
-      "title": "PFN、直接水冷AI基盤「AImod」本格運用へ　IIJ・JAIST連携",
-      "url": "https://www.watch.impress.co.jp/docs/news/2095503.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-03-23T10:03:14.000Z",
-      "summary": "Preferred Networks(PFN)、インターネットイニシアティブ(IIJ)、北陸先端科学技術大学院大学(JAIST)は、直接水冷方式の高密度AIサーバーの運用を4月から本格化し、AI計算基盤の研究開発を加速すると発表した。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_a8ae86e7334211ce",
-      "title": "日本郵便、会社住所・URL・法人番号などを7桁で表現「ビジネスデジタルアドレス」",
-      "url": "https://www.watch.impress.co.jp/docs/news/2095460.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-03-23T09:29:41.000Z",
-      "summary": "日本郵便は、住所を7桁の英数字で表現できる「デジタルアドレス」のビジネス版として、「ビジネスデジタルアドレス」を3月19日から提供開始した。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_a63d0cde898a561e",
       "title": "コスパのいいWi-Fi 7ルーターがほしいならエレコムの「WRC-W701B」をチェック!! 2.5GbE対応なのにやけに安い、その理由を動画で解説【清水理史の「イニシャルB」チャンネル】",
       "url": "https://internet.watch.impress.co.jp/docs/column/shimizumovie/2094979.html",
@@ -1350,74 +1425,6 @@
       "tags": [
         "インターネット",
         "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_e4f2b41495ec0f46",
-      "title": "「罰を与えるには銃を使え」──10代の凶悪犯罪に加担するAI、銃撃や爆破の計画に助言　海外団体が調査",
-      "url": "https://www.itmedia.co.jp/aiplus/articles/2603/23/news036.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-03-22T23:00:00.000Z",
-      "summary": "カナダで起きた10代容疑者による銃を乱射して6人を殺害した事件で、容疑者は事前の計画や準備にChatGPTを利用していた。生成AIがそうした10代の犯行に簡単に「加担」してしまう現実は実験でも実証され、衝撃が広がっている。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 70
-    },
-    {
-      "id": "item_507072f559a066a5",
-      "title": "足りないデータは「世界モデル」が生成　産業用ロボット大手も採用するNVIDIAのフィジカルAI基盤",
-      "url": "https://www.itmedia.co.jp/enterprise/articles/2603/23/news034.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-03-22T23:00:00.000Z",
-      "summary": "NVIDIAはフィジカルAI実用化を促進させる新技術群とデータ基盤を発表し、産業や医療分野での開発・検証効率化を図る。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_a3a5018edbff806e",
-      "title": "アイ・オー、自然災害で破損したNASやHDDを無償交換する「災害支援オプションサービス」提供開始",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2094956.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-03-22T23:00:00.000Z",
-      "summary": "株式会社アイ・オー・データ機器は3月18日、自然災害によるNASやHDDの被災に対応する同社の法人向け保守サービスの有償オプション「災害支援オプションサービス」の提供を開始した。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_a50f0f845c8c5d34",
-      "title": "「JC-STAR」、シンガポールのIoTセキュリティ制度「CLS」と相互承認、6月から運用",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2095046.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-03-22T22:30:00.000Z",
-      "summary": "経済産業省とシンガポールのサイバーセキュリティ庁（CSA）は3月18日、「IoT製品のためのサイバーセキュリティ制度の相互承認に関する協力覚書」に署名した。これにより、日本の「セキュリティ要件適合評価及びラベリング制度」（JC-STAR）の★1のラベル取得に必要な技術基準と、シンガポールのIoTセキュリティ認証制度である「CLS」（Cybersecurity Labelling Scheme）レベ…",
-      "starred": false,
-      "category": "security",
-      "tags": [
-        "インターネット",
-        "セキュリティ",
-        "情報モラル"
       ],
       "priority_score": 50
     },
