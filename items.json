@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-03-26T10:06:13.535Z",
+  "generated_at": "2026-03-26T21:25:01.906Z",
   "total": 103,
   "items": [
+    {
+      "id": "item_21f8651de3f2baea",
+      "title": "文部科学省ホームページトップはこちら",
+      "url": "https://www.mext.go.jp/",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-03-26T21:24:51.633Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
     {
       "id": "item_bd1951ae70f98dac",
       "title": "サイトマップはこちら",
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-03-26T10:05:58.254Z",
+      "published_at": "2026-03-26T21:24:51.633Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -25,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-03-26T10:05:58.254Z",
+      "published_at": "2026-03-26T21:24:51.633Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -38,22 +56,71 @@
       "priority_score": 60
     },
     {
-      "id": "item_21f8651de3f2baea",
-      "title": "文部科学省ホームページトップはこちら",
-      "url": "https://www.mext.go.jp/",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-03-26T10:05:58.253Z",
-      "summary": "",
+      "id": "item_16b1a87b2173e6e8",
+      "title": "もう違和感では見抜けない。怪しさの薄れたオンライン詐欺の手口が私たちの日常に潜む【読めば身に付くネットリテラシー】",
+      "url": "https://internet.watch.impress.co.jp/docs/column/netliteracy/2094971.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-03-26T21:00:00.000Z",
+      "summary": "近年のオンライン詐欺はかつてないほど巧妙化しており、実際に金銭的な被害が発生するまで自分が詐欺のターゲットにされていたことすら気付かない被害者も増えています。急速に進化を遂げたAIを詐欺師が駆使し、よりリアルに見せかけた手口によって、ネットユーザーの日常の中にごく自然に入り込んできているのです。",
       "starred": false,
-      "category": "admin",
+      "category": "security",
       "tags": [
-        "行政",
-        "文科省",
-        "制度",
-        "教育ニュース"
+        "インターネット",
+        "セキュリティ",
+        "情報モラル"
       ],
-      "priority_score": 60
+      "priority_score": 50
+    },
+    {
+      "id": "item_e1e8721384899328",
+      "title": "CoworkのComputer useとDispatchはどこまで使える？　実際に試して見えた実力と制約",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2603/27/news018.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-03-26T20:00:00.000Z",
+      "summary": "Claude CoworkとClaude Codeで新たにサポートされたComputer useとDispatch。これらはどんな機能で何に使えるのでしょうか。特にComputer useを使えば、これまでよりもはるかに多くのことができそうですが、ホントにそうなのでしょうか。ちょっと試してみました",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_d23a02b7f9f043a7",
+      "title": "マネックス証券、「JCBのクレカ積立」開始",
+      "url": "https://www.watch.impress.co.jp/docs/news/2096472.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-03-26T11:15:00.000Z",
+      "summary": "マネックス証券は、JCBのクレジットカードで投信積立ができる「JCBのクレカ積立」サービスを3月26日18時から開始する。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_ebb8f1a12de1a6f1",
+      "title": "九州大学箱崎キャンパス跡地に日本最大級のスマートシティ",
+      "url": "https://www.watch.impress.co.jp/docs/news/2096661.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-03-26T10:30:21.000Z",
+      "summary": "住友商事を代表企業として8社で構成する企業グループが、九州大学および都市再生機構九州支社による「九州大学箱崎 キャンパス跡地地区 土地利用事業者募集」における土地利用事業者に決定した。2028年度のまちびらきを目指す。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_1a957dcd0f7b8088",
@@ -445,6 +512,23 @@
         "AI活用"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_0e89374de754d89a",
+      "title": "「それIRに書けますか」　AI導入プロジェクトを成功させる目標の立て方",
+      "url": "https://kn.itmedia.co.jp/kn/articles/2603/26/news057.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-03-26T02:00:00.000Z",
+      "summary": "企業トップの「AIを導入しよう」という一声が、なぜ現場を困らせるのか。なぜAIシステムの本格稼働はわずか約5％しか実現できないのか。AI導入を成功させるための目標設定の方法と技術選定の考え方について考察する。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_c45272c658268c1a",
@@ -1044,38 +1128,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_d527f1205335d065",
-      "title": "グランドオープン「高輪GWシティ」を見てきた　「NEWoMan高輪」に新エリア",
-      "url": "https://www.watch.impress.co.jp/docs/news/2096273.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-03-25T12:06:43.000Z",
-      "summary": "3月28日にグランドオープンを迎える「TAKANAWA GATEWAY CITY(高輪ゲートウェイシティ)」の内覧会が実施された。複合棟「THE LINKPILLAR(リンクピラー) 2」、文化創造棟「MoN Takanawa: The Museum of Narratives」が開業し、リンクピラー2内の「NEWoMan TAKANAWA MIMURE(ニュウマン高輪 MIMURE)」もオープン…",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_91174f29921f1260",
-      "title": "高輪GWに誕生する新文化施設「MoN」を見た　色んな座席に座ってみた(2階)",
-      "url": "https://www.watch.impress.co.jp/docs/news/2096267.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-03-25T11:04:15.000Z",
-      "summary": "高輪ゲートウェイシティの文化施設「MoN(モン) Takanawa:The Museum of Narratives」が3月28日に開業する。地下3階、地上6階建てで、ライブ・演劇向けの「BOX1000」や、和の文化体験ができる「Tatami」、約1,500m2の空間で展覧会などを行なう「BOX1500」などで構成される。オープンに先立ち内覧会が行なわれたので、BOX1000の座席や開催記念展示な…",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_2d43dbb20d97240f",
       "title": "メルカリ、出品ページの“生成AI画像”に注意喚起　「購入者に誤解与え、取引トラブルになる」",
       "url": "https://www.itmedia.co.jp/aiplus/articles/2603/25/news117.html",
@@ -1365,61 +1417,6 @@
       "tags": [
         "インターネット",
         "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_d69cd1ef81ec6962",
-      "title": "OpenAI、「Sora」終了へ",
-      "url": "https://www.itmedia.co.jp/news/articles/2603/25/news065.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-03-24T21:42:00.000Z",
-      "summary": "OpenAIは、動画生成AI「Sora」のアプリとAPIの提供終了をXで発表した。Disneyとのライセンス契約も解消される見通しだ。終了の詳細は後日発表予定だが、同社が「スーパーアプリ」などの新たな大規模プロジェクトへリソースを集中させるための戦略的判断と見られている。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 60
-    },
-    {
-      "id": "item_2324777e3744bd99",
-      "title": "日立のフィジカルAI統合モデル「IWIM」の実力は？　試作ロボット2種を公開",
-      "url": "https://monoist.itmedia.co.jp/mn/articles/2603/25/news043.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-03-24T21:30:00.000Z",
-      "summary": "日立製作所は「フィジカルAI体験スタジオ」の先行公開に併せて、現場で自ら学びながら動作を最適化し複雑作業を自動化するフィジカルAI技術を発表するとともに、同技術を実装した試作ロボット2種を公開した。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_0a1a6dedbf7f4428",
-      "title": "BBIX、地域分散型クラウドサービス「OCX Compute Fabric」の拠点に「QTnet 福岡第3データセンター」を追加　全国規模の分散配置を目指す",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2095809.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-03-24T21:30:00.000Z",
-      "summary": "BBIX株式会社は3月24日、株式会社IDCフロンティアと共同で提供する地域分散型クラウドサービス「OCX Compute Fabric」（OCF）の全国展開に向けた最初の拠点として、株式会社QTnetが運営する「QTnet 福岡第3データセンター」（QD3）を追加したと発表した。",
-      "starred": false,
-      "category": "dx",
-      "tags": [
-        "インターネット",
-        "セキュリティ",
-        "校務DX",
-        "GIGA"
       ],
       "priority_score": 50
     },
