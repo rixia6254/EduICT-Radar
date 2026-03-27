@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-27T09:59:17.365Z",
+  "generated_at": "2026-03-27T21:28:34.420Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-03-27T09:59:07.262Z",
+      "published_at": "2026-03-27T21:28:21.776Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-03-27T09:59:07.262Z",
+      "published_at": "2026-03-27T21:28:21.776Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-03-27T09:59:07.262Z",
+      "published_at": "2026-03-27T21:28:21.776Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,40 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_33dee8e10933365a",
+      "title": "マネックス証券、「ポイントで投信積立」対応　月5万ポイントまで",
+      "url": "https://www.watch.impress.co.jp/docs/news/2097100.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-03-27T11:00:00.000Z",
+      "summary": "マネックス証券は、3月26日からポイントを使った「投信つみたてサービス」を開始した。ポイントは「dポイント」と「マネックスポイント」に対応し、両ポイントを投資信託の積立に活用できる。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_09dabfcda32ae078",
+      "title": "Google翻訳、日本でも「ライブ翻訳」に対応　声のトーンやリズムも維持",
+      "url": "https://www.watch.impress.co.jp/docs/news/2097068.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-03-27T09:50:25.000Z",
+      "summary": "Googleは27日、「Google 翻訳」のライブ翻訳機能を日本で提供開始した。Google 翻訳アプリのiOS/Android版で利用可能になる。",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_d9fd849698be794d",
@@ -429,7 +463,7 @@
       "source_id": "internet_watch",
       "source_name": "INTERNET Watch",
       "published_at": "2026-03-27T03:12:00.000Z",
-      "summary": "4月1日から自転車にも青切符が導入される。といっても、交通ルールが大きく変わるわけではないし、取り締まりとして罰金が取れるようになるだけなので、これまでもちゃんと交通ルールを守っていたなら、本来大騒ぎすることではないはず……。",
+      "summary": "4月1日から自転車にも青切符が導入される。といっても、交通ルールが大きく変わるわけではないし、取り締まりとして反則金が取れるようになるだけなので、これまでもちゃんと交通ルールを守っていたなら、本来大騒ぎすることではないはず……。",
       "starred": false,
       "category": "tech",
       "tags": [
@@ -1283,38 +1317,6 @@
       "source_name": "Impress Watch",
       "published_at": "2026-03-26T10:30:21.000Z",
       "summary": "住友商事を代表企業として8社で構成する企業グループが、九州大学および都市再生機構九州支社による「九州大学箱崎 キャンパス跡地地区 土地利用事業者募集」における土地利用事業者に決定した。2028年度のまちびらきを目指す。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_1a957dcd0f7b8088",
-      "title": "ゆうちょデビットがGoogle Payに対応　スマホでタッチ決済可能に",
-      "url": "https://www.watch.impress.co.jp/docs/news/2096659.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-03-26T09:59:41.000Z",
-      "summary": "ゆうちょ銀行は、ゆうちょデビットが3月25日からGoogle Payに対応したと発表した。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_b7a09a4e2b3b1bf7",
-      "title": "東京メトロ、全180駅にホームドア設置完了",
-      "url": "https://www.watch.impress.co.jp/docs/news/2096634.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-03-26T09:34:00.000Z",
-      "summary": "東京メトロは、全路線全駅(9路線180駅)でのホームドア設置を3月28日に完了する。最後に設置されるのは、東西線原木中山駅。",
       "starred": false,
       "category": "tech",
       "tags": [
