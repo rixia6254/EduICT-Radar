@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-27T05:10:20.384Z",
+  "generated_at": "2026-03-27T09:59:17.365Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-03-27T05:10:07.833Z",
+      "published_at": "2026-03-27T09:59:07.262Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-03-27T05:10:07.833Z",
+      "published_at": "2026-03-27T09:59:07.262Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-03-27T05:10:07.833Z",
+      "published_at": "2026-03-27T09:59:07.262Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,162 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_d9fd849698be794d",
+      "title": "NTT、窓に貼って6G電波の死角を解消する「透過型メタサーフェス」",
+      "url": "https://www.watch.impress.co.jp/docs/news/2097064.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-03-27T09:30:39.000Z",
+      "summary": "NTTは、設置するだけで電波の進む方向をコントロールできる薄型デバイス「透過型メタサーフェス」を開発した。世界最薄となる約3.5µmの液晶層を採用し、通過する電波の向きや集まり方を自由に変えられる。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_6882eaa5b4301562",
+      "title": "Wikipedia、「生成AIが作った記事」を禁止",
+      "url": "https://www.watch.impress.co.jp/docs/news/2097049.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-03-27T09:03:40.000Z",
+      "summary": "英語版Wikipedia(ウィキペディア)は、記事の作成や書き換えで生成AI(大規模言語モデル、LLM)の使用を禁止するとアナウンスした。英語版Wikipediaにおけるガイドライン改定を受けたもので、例外を除き、コンテンツ作成では原則的に生成AIの使用が禁止される。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "生成AI",
+        "AI活用"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_82684b3b5f1c628f",
+      "title": "X専用クライアント「X Pro」、月6080円のプレミアムプラスのみに突如変更",
+      "url": "https://www.watch.impress.co.jp/docs/news/2097046.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-03-27T08:42:29.000Z",
+      "summary": "複数のタイムラインを並べて表示できるXのクライアントアプリ「X Pro」の対象プランが急遽変更され、これまで対象だったユーザーが利用できなくなった。月額918円の「プレミアム」プランで利用可能だったものが、日本時間の27日早朝ごろから月額6,080円の「プレミアム プラス」の契約者のみの対応となり、プレミアム契約者は利用できなくなっている。",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_02263110a26fbc82",
+      "title": "“AI不使用”の作品に「AI生成」と誤表記――電子書籍配信「クロスフォリオ出版」が謝罪",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2603/27/news115.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-03-27T08:03:00.000Z",
+      "summary": "BookLiveは、クリエイター向け電子書籍配信サービス「クロスフォリオ出版」で配信した一部の作品で、制作に生成AIを利用していないにもかかわらず、AIを使用している旨の誤表記があったと謝罪した。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_d66dd01bc2d4fa00",
+      "title": "サイバー子会社・AI Shift、名前が似た企業との混同に注意喚起　「SHIFT」や「SHIFT AI」との誤認が発生か",
+      "url": "https://www.itmedia.co.jp/news/articles/2603/27/news112.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-03-27T07:03:00.000Z",
+      "summary": "サイバーエージェントの子会社でAI事業を手掛けるAI Shiftが、自社への問い合わせや評価において、似た名前の企業・サービスとの混同が見られるとして注意喚起した。生成AI関連のスクール事業を手掛けるSHIFT AI（東京都渋谷区）や、ITコンサルティング事業を手掛けるSHIFTとの誤認が起きているとみられる。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_462c7f49763c67b5",
+      "title": "ファミリーマート、独自デザインの「セブン銀行ATM」　春から",
+      "url": "https://www.watch.impress.co.jp/docs/news/2096947.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-03-27T05:35:59.000Z",
+      "summary": "ファミリーマートは、セブン銀行のATMをファミリーマートに設置する契約を正式に締結し、春から順次展開すると発表した。今後4年で、約16,000台が設置される予定。ユーザーの利便性強化とともに、ファミマ独自の金融サービスの展開・強化を図っていくとしている。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_7fc0a4e550911417",
+      "title": "Wikipedia、LLMによる記事生成を原則禁止に",
+      "url": "https://www.itmedia.co.jp/news/articles/2603/27/news100.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-03-27T05:14:00.000Z",
+      "summary": "Wikimedia Foundationは、Wikipediaの記事作成や書き換えでのLLMの使用を原則禁止するガイドラインを公開した。自身の文章の校正案としての利用や、特定ルール下での他言語版からの翻訳は例外として認められる。生成AI特有の文体のみで判断せず、内容の正確性や編集履歴に基づき違反を特定する方針だ。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_6949848c8a80dd4c",
+      "title": "本日開業「東京ドリームパーク」見てきた　100体以上のドラえもんに心躍る",
+      "url": "https://www.watch.impress.co.jp/docs/news/2096900.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-03-27T05:12:31.000Z",
+      "summary": "東京・有明の複合型エンタテインメント施設「TOKYO DREAM PARK(東京ドリームパーク)」が本日3月27日に開業した。テレビ朝日が開発を進めていたもので、音楽ライブができる多目的ホール、劇場、イベントスペース、屋上広場、レストランなどで構成される。オープンに先立ち内覧会が開催されたので、内部の様子をレポートする。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_e001a613c20c3ee3",
+      "title": "日本旅行、「有人宇宙旅行」へ向け将来宇宙輸送システムと資本業務提携",
+      "url": "https://www.watch.impress.co.jp/docs/news/2096914.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-03-27T05:03:46.000Z",
+      "summary": "日本旅行は、有人宇宙輸送サービス商用化に向けた取組みの推進や関連スタートアップとの連携による事業創出の一環として、将来宇宙輸送システムへ出資し、資本業務提携契約を締結した。出資額は5億円。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_ad72f83919c1c9cd",
@@ -1104,24 +1260,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_e1e8721384899328",
-      "title": "CoworkのComputer useとDispatchはどこまで使える？　実際に試して見えた実力と制約",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2603/27/news018.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-03-26T20:00:00.000Z",
-      "summary": "Claude CoworkとClaude Codeで新たにサポートされたComputer useとDispatch。これらはどんな機能で何に使えるのでしょうか。特にComputer useを使えば、これまでよりもはるかに多くのことができそうですが、ホントにそうなのでしょうか。ちょっと試してみました",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_d23a02b7f9f043a7",
       "title": "マネックス証券、「JCBのクレカ積立」開始",
       "url": "https://www.watch.impress.co.jp/docs/news/2096472.html",
@@ -1186,125 +1324,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_78570873d5e1e758",
-      "title": "グーグル、3分の曲を作れるAI「Lyria 3 Pro」 “サビ”も理解",
-      "url": "https://www.watch.impress.co.jp/docs/news/2096609.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-03-26T09:05:19.000Z",
-      "summary": "米Googleは、2月に発表した楽曲生成AI「Lyria 3」の性能を向上させた上位モデル「Lyria 3 Pro」を発表した。企業向けサービスのほか、Geminiのアプリでも利用できるようにするなど、提供する場所も拡大する。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "生成AI",
-        "AI活用",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 60
-    },
-    {
-      "id": "item_9f82e8e5a6734ec4",
-      "title": "旧山の上ホテル、「山の上ホテル 東京」の名称で27年夏開業",
-      "url": "https://www.watch.impress.co.jp/docs/news/2096597.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-03-26T08:36:40.000Z",
-      "summary": "東京 神田駿河台の旧「山の上ホテル」の新名称が、「山の上ホテル 東京(英名：HILLTOP HOTEL TOKYO)」に決定した。ホテルの運営はPlan・Do・Seeが担い、2027年夏のホテル開業に向けて準備を進める。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_38f439d76fb49b81",
-      "title": "東海道新幹線上級クラス、音を空間に閉じ込めるイヤフォン不要の音響技術",
-      "url": "https://www.watch.impress.co.jp/docs/news/2096591.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-03-26T08:12:07.000Z",
-      "summary": "NTTドコモビジネスとNTTソノリティは、JR東海が2026年度から順次導入を予定している東海道新幹線N700Sの上級クラス座席において、NTTの音響技術「PSZ(パーソナライズドサウンドゾーン)」を実装する。外部に音が漏れにくい特殊なスピーカーによって、イヤフォンを着けなくても自分だけの空間で音楽等を聴くことができるもので、これにより周囲を気にすることなく音声コンテンツを楽しめるプライベート空間…",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_a2f01c6bd5658a5c",
-      "title": "小岩駅南口に33階建て複合施設　マンション・商業・駐輪場",
-      "url": "https://www.watch.impress.co.jp/docs/news/2096571.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-03-26T07:55:43.000Z",
-      "summary": "JR小岩駅南口の住宅、商業、公共駐輪場で構成される33階建て複合施設「FIRSTA III / プラウドタワー小岩フロント」が竣工した。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_fb6fc49ef3de9bb6",
-      "title": "三菱電機、Sakana AIに出資　製造業向けで協業も",
-      "url": "https://www.itmedia.co.jp/aiplus/articles/2603/26/news132.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-03-26T07:40:00.000Z",
-      "summary": "三菱電機はSakana AIに出資したと発表した。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_3f3e94189593a8e8",
-      "title": "メルカリ、出品時には「実物の写真を」　AI加工画像の利用に注意喚起",
-      "url": "https://www.watch.impress.co.jp/docs/news/2096546.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-03-26T07:07:36.000Z",
-      "summary": "メルカリは25日、出品物の画像において、生成AIによる加工で誤解を与えないよう注意喚起した。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "生成AI",
-        "AI活用"
-      ],
-      "priority_score": 60
-    },
-    {
-      "id": "item_6986f430117bf261",
-      "title": "ファミマ「コンビニエンスウェア」に腕時計 1998円",
-      "url": "https://www.watch.impress.co.jp/docs/news/2096534.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-03-26T06:42:14.000Z",
-      "summary": "ファミリーマートは、オリジナルアパレルブランド「コンビニエンスウェア」の新製品として、シチズン時計と共同開発した腕時計を4月17日に発売する。価格は1,998円。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_3200fbd0b5bc8f3c",
       "title": "NTTドコモ「home 5G HR01」などシャープ製ホームルーター、モバイルルーター8製品に脆弱性。ファームウェアの更新など対策方法の確認を　一部製品はサポート終了済み、初期パスワード変更で対応を",
       "url": "https://internet.watch.impress.co.jp/docs/news/2096402.html",
@@ -1340,23 +1359,6 @@
         "ツール"
       ],
       "priority_score": 60
-    },
-    {
-      "id": "item_9ef4666a7dd80122",
-      "title": "“現場で使われないAI”、どう解決？　マイナビの「0→1のハードル」を無くす戦略",
-      "url": "https://www.itmedia.co.jp/aiplus/articles/2603/26/news054.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-03-26T03:00:00.000Z",
-      "summary": "マイナビでは、AI推進をどのように進めてきたのか。担当者に聞いた。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
     },
     {
       "id": "item_4f2d5e6faeb48177",
