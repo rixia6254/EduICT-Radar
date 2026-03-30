@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-03-30T05:28:55.753Z",
+  "generated_at": "2026-03-30T10:23:16.866Z",
   "total": 103,
   "items": [
+    {
+      "id": "item_21f8651de3f2baea",
+      "title": "文部科学省ホームページトップはこちら",
+      "url": "https://www.mext.go.jp/",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-03-30T10:23:05.368Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
     {
       "id": "item_bd1951ae70f98dac",
       "title": "サイトマップはこちら",
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-03-30T05:28:45.219Z",
+      "published_at": "2026-03-30T10:23:05.368Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -25,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-03-30T05:28:45.219Z",
+      "published_at": "2026-03-30T10:23:05.368Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -38,22 +56,158 @@
       "priority_score": 60
     },
     {
-      "id": "item_21f8651de3f2baea",
-      "title": "文部科学省ホームページトップはこちら",
-      "url": "https://www.mext.go.jp/",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-03-30T05:28:45.218Z",
-      "summary": "",
+      "id": "item_cd3db107a2935cf4",
+      "title": "東京メトロ、号車ごとの混雑をリアルタイム表示　混雑予測も",
+      "url": "https://www.watch.impress.co.jp/docs/news/2097548.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-03-30T10:15:04.000Z",
+      "summary": "東京メトロは、日比谷線中目黒方面および東西線中野方面の混雑区間で、駅構内ディスプレイによる号車ごとのリアルタイム混雑状況表示を開始した。対象駅は日比谷線の三ノ輪駅、入谷駅、東西線の南砂町駅、葛西駅、浦安駅で、計5駅6カ所に設置する。",
       "starred": false,
-      "category": "admin",
+      "category": "tech",
       "tags": [
-        "行政",
-        "文科省",
-        "制度",
-        "教育ニュース"
+        "テクノロジー",
+        "デジタル"
       ],
-      "priority_score": 60
+      "priority_score": 50
+    },
+    {
+      "id": "item_e822ca87f6052178",
+      "title": "「TDXラジオ」Teacher’s ［Shift］File.262 北鎌倉女子学園中高  福田 孝 先生（後編）を公開",
+      "url": "https://ict-enews.net/2026/03/30tdxradio-8/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-03-30T10:00:24.000Z",
+      "summary": "TDXラジオは30日、教育ICTを活用した「新しい学び」と「先生の働き方改革」を応援するTeacher’s ［Shift］ File.262「北鎌倉女子学園中学校高等学校 福田 孝 […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_53c44bf6ce7b970e",
+      "title": "Sakana AI、90年代検索システム「Namazu」との名称被り「知らなかった」　開発者に相談→快諾に",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2603/30/news133.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-03-30T09:23:00.000Z",
+      "summary": "Sakana AIは、AIモデルシリーズ「Namazu」の名称が、日本語の全文検索システム「Namazu」と同一だった件について、同システムの開発者である高林哲さんに使用の許諾を得たと報告した。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_be858a8e261cc4f0",
+      "title": "アスリートの輝き汚す視線　AI加工や拡散、より深刻化　「100％集中できなかった」",
+      "url": "https://www.itmedia.co.jp/news/articles/2603/30/news134.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-03-30T09:14:00.000Z",
+      "summary": "アスリートたちを傷つける行為が後を絶たない。誹謗中傷、盗撮、パワーハラスメント…。理想的な競技環境の創出は喫緊の課題だ。リスペクト（尊敬）をアクション（行動）へと変えることが第一歩となる。その一歩を踏み出してみよう。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_916b0d60af7684f7",
+      "title": "今どきのコンセント直挿し中継器の実力は？　レアなWi-Fi 7対応、しかも結構速い!!　だけど買うのはちょっと待った！　その理由を動画で解説【清水理史の「イニシャルB」チャンネル】",
+      "url": "https://internet.watch.impress.co.jp/docs/column/shimizumovie/2097387.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-03-30T09:00:00.000Z",
+      "summary": "2026年2月に新たに発売されたWi-Fi 7対応のコンセント直挿し中継器が、TP-Linkの「RE220BE」。かつては結構人気のジャンルだったコンセント直挿し中継器だが、実はWi-Fi 7対応モデルはTP-Linkからしか登場しておらず、レアな存在と言える。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_2b8be4c7b55c556c",
+      "title": "さいたまスーパーアリーナ新名称は「GMOアリーナさいたま」",
+      "url": "https://www.watch.impress.co.jp/docs/news/2097524.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-03-30T08:35:18.000Z",
+      "summary": "2026年4月1日から「さいたまスーパーアリーナ」の愛称が「GMOアリーナさいたま」となる。GMOインターネットグループと埼玉県が3月30日に、バリューアップ・ネーミングライツパートナー契約を締結した。英文の愛称は「GMO ARENA saitama」。契約期間は4月1日から2032年3月31日までの6年間。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_7c40d4d0b097fa0f",
+      "title": "10.3型電子ペーパー「BOOX Go 10.3(Gen II)」　ライト有無の2機種",
+      "url": "https://www.watch.impress.co.jp/docs/news/2097492.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-03-30T08:05:51.000Z",
+      "summary": "SKTは、10.3型モノクロ電子ペーパータブレット「BOOX Go 10.3(Gen II)」シリーズを発売した。フロントライト搭載の「BOOX Go 10.3(Gen II) Lumi」が3月30日発売で79,800円、非搭載の「BOOX Go 10.3(Gen II)」が4月下旬発売で77,800円。",
+      "starred": false,
+      "category": "dx",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "校務DX",
+        "GIGA"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_8a8ef07e6f54cc17",
+      "title": "リコー、“日本語で推論”できるマルチモーダルLLMを開発　「Gemini 2.5 Pro」に匹敵うたう",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2603/30/news123.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-03-30T07:38:00.000Z",
+      "summary": "リコーは、推論のプロセスを日本語化したマルチモーダルLLM「Qwen3-VL-Ricoh-32B-20260227」を開発したと発表した。320億パラメータを持ち、複雑な図表を含む日本語の資料も読解できるという。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_aadf89742cf57ffd",
+      "title": "AI活用のコストは「勤怠ツールと同じ」──コロプラが経営指標との接続をあえて急がないワケ",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2603/30/news099.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-03-30T07:00:00.000Z",
+      "summary": "国内企業の中でもAI活用の浸透度が高い部類のコロプラ。しかしAIサービスを使うには当然コストがかかるため、コスト減か売上増への寄与がなければ利益を圧迫することにもなりかねない。コロプラはどう考えてAI活用を推進しているのか。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_d0f9569e9dd8a8ba",
@@ -199,12 +353,29 @@
       "source_id": "internet_watch",
       "source_name": "INTERNET Watch",
       "published_at": "2026-03-30T03:04:06.000Z",
-      "summary": "3月24日・25日に東京都内で開催されたデータセンター業界のイベント「Data Center Japan 2026」（主催：特定非営利活動法人日本データセンター協会、共催：株式会社ナノオプト・メディア）では、AIデータセンターの需要を受けた展示が目立った。この記事ではその中から、CDU（Coolant Distribution Unit：冷却水分配装置）など、AIサーバーを支える冷却設備などの展示…",
+      "summary": "3月24日・25日に東京都内で開催されたデータセンター業界のイベント「Data Center Japan 2026」（主催：特定非営利活動法人日本データセンター協会、共催：株式会社ナノオプト・メディア）では、AIデータセンターの需要を受けた展示が目立った。この記事ではその中から、CDU（Coolant Distribution Unit：冷却水分配装置）など、AIサーバーを支える冷却（液冷）設備な…",
       "starred": false,
       "category": "tech",
       "tags": [
         "インターネット",
         "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_302e6171480aa870",
+      "title": "「万年3位」を挽回できるか？　国内ITサービス4社が力を入れるGoogle Cloudのポテンシャル",
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2603/30/news097.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-03-30T03:00:00.000Z",
+      "summary": "富士通やNEC、日立製作所、NTTデータの国内ITサービスベンダー大手4社がこぞってGoogle Cloudとのパートナーシップに注力し始め、Google Cloudのエンタープライズ向け事業が勢いづいている。何が起きているのか。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
       ],
       "priority_score": 50
     },
@@ -756,24 +927,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_6bb0f35472a7f699",
-      "title": "Barbara Pool、高校教育改革「N-E.X.T.ハイスクール構想」支援を開始",
-      "url": "https://ict-enews.net/2026/03/30barbara-pool-2/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-03-29T23:01:26.000Z",
-      "summary": "Barbara Poolは27日、STEAM JAPANと共に、文部科学省が推進する「N-E.X.T.（ネクスト）ハイスクール構想」に対応した、都道府県教育委員会・高校向け「高校教 […]",
-      "starred": false,
-      "category": "admin",
-      "tags": [
-        "教育ニュース",
-        "ICT",
-        "行政",
-        "文科省"
-      ],
-      "priority_score": 60
-    },
-    {
       "id": "item_1dcb8da32c84c268",
       "title": "「職員が激減」に備えよ──2040年問題に向けて「自治体」に残された生存戦略",
       "url": "https://www.itmedia.co.jp/business/articles/2603/30/news038.html",
@@ -1195,42 +1348,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_6882eaa5b4301562",
-      "title": "Wikipedia、「生成AIが作った記事」を禁止",
-      "url": "https://www.watch.impress.co.jp/docs/news/2097049.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-03-27T09:03:40.000Z",
-      "summary": "英語版Wikipedia(ウィキペディア)は、記事の作成や書き換えで生成AI(大規模言語モデル、LLM)の使用を禁止するとアナウンスした。英語版Wikipediaにおけるガイドライン改定を受けたもので、例外を除き、コンテンツ作成では原則的に生成AIの使用が禁止される。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "生成AI",
-        "AI活用"
-      ],
-      "priority_score": 60
-    },
-    {
-      "id": "item_82684b3b5f1c628f",
-      "title": "X専用クライアント「X Pro」、月6080円のプレミアムプラスのみに突如変更",
-      "url": "https://www.watch.impress.co.jp/docs/news/2097046.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-03-27T08:42:29.000Z",
-      "summary": "複数のタイムラインを並べて表示できるXのクライアントアプリ「X Pro」の対象プランが急遽変更され、これまで対象だったユーザーが利用できなくなった。月額918円の「プレミアム」プランで利用可能だったものが、日本時間の27日早朝ごろから月額6,080円の「プレミアム プラス」の契約者のみの対応となり、プレミアム契約者は利用できなくなっている。",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_02263110a26fbc82",
       "title": "“AI不使用”の作品に「AI生成」と誤表記――電子書籍配信「クロスフォリオ出版」が謝罪【追記あり】",
       "url": "https://www.itmedia.co.jp/aiplus/articles/2603/27/news115.html",
@@ -1269,22 +1386,6 @@
       "priority_score": 60
     },
     {
-      "id": "item_462c7f49763c67b5",
-      "title": "ファミリーマート、独自デザインの「セブン銀行ATM」　春から",
-      "url": "https://www.watch.impress.co.jp/docs/news/2096947.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-03-27T05:35:59.000Z",
-      "summary": "ファミリーマートは、セブン銀行のATMをファミリーマートに設置する契約を正式に締結し、春から順次展開すると発表した。今後4年で、約16,000台が設置される予定。ユーザーの利便性強化とともに、ファミマ独自の金融サービスの展開・強化を図っていくとしている。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_7fc0a4e550911417",
       "title": "Wikipedia、LLMによる記事生成を原則禁止に",
       "url": "https://www.itmedia.co.jp/news/articles/2603/27/news100.html",
@@ -1303,27 +1404,6 @@
       "priority_score": 60
     },
     {
-      "id": "item_33f1140afe7b5364",
-      "title": "「GitHub Copilot」の作業データをAI学習に利用へ　個人向けプランで　拒否する方法は？",
-      "url": "https://www.itmedia.co.jp/aiplus/articles/2603/27/news092.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-03-27T04:13:00.000Z",
-      "summary": "米Microsoft傘下の米GitHubは、AIコーディング支援ツール「GitHub Copilot」で、入出力データなどをAIモデルの学習に利用する方針を示した。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用",
-        "教材",
-        "ツール",
-        "教育ニュース"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_443a2239d615f7da",
       "title": "AtermシリーズのWi-Fiルーターの一部に脆弱性、最新ファームウェアへの更新など対処方法の確認を",
       "url": "https://internet.watch.impress.co.jp/docs/news/2096876.html",
@@ -1339,93 +1419,6 @@
         "情報モラル",
         "教材",
         "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_c8eadb9dbd4acc4f",
-      "title": "AIエージェントは「便利なだけ」では普及しない？　標準化へ、イニシアチブ発足",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2603/26/news158.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-03-27T04:00:00.000Z",
-      "summary": "NISTは、AIエージェントの標準化を推進する「AI Agent Standards Initiative」を発足した。自律型AIの信頼性確保と相互運用性の実現を目指す。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_7cfa73bf236ab4d0",
-      "title": "「型安全でコードを呼び出す」　AIエージェント開発の新基盤「Agent Framework」RC版公開",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2603/27/news057.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-03-27T04:00:00.000Z",
-      "summary": "Microsoftは、AIエージェント構築フレームワーク「Microsoft Agent Framework」のリリース候補（RC）版を公開した。.NETとPython両言語で正式版リリースへの準備が整った。",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_18e20396eebcd30e",
-      "title": "何問正解できる？　ネット詐欺に関するクイズを「ネット詐欺総研」が公開　結果をX投稿でAmazonギフト券がもらえるキャンペーンも",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2096675.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-03-27T03:50:00.000Z",
-      "summary": "BBSS株式会社は3月25日、ネット詐欺関連の総合情報サイト「ネット詐欺総研」にて、ネット詐欺に関する知識を学べるクイズコンテンツ「ネット詐欺から身を守れ！ with セキュじぃ」を公開した。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_e48dcd0337d6fcd3",
-      "title": "Google、Geminiへの「乗り換え」支援機能を発表　ChatGPT等の設定や履歴を継承可能に",
-      "url": "https://www.itmedia.co.jp/aiplus/articles/2603/27/news087.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-03-27T03:24:00.000Z",
-      "summary": "Googleは、ChatGPTやClaudeなどの他社AIサービスからGeminiへ移行しやすくする新機能を発表した。設定や好みを引き継ぐ「メモリー」と、過去の「チャット履歴」のインポートが可能になる。先行するAnthropicの同様の動きに追随し、ユーザーの乗り換え障壁を下げる狙いだ。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 60
-    },
-    {
-      "id": "item_9a05f2b0be877aaa",
-      "title": "AIが外科手術を支援、術中画像を見て“アドバイス”　慶應医学部発のスタートアップ",
-      "url": "https://www.itmedia.co.jp/aiplus/articles/2603/27/news077.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-03-27T03:24:00.000Z",
-      "summary": "慶應義塾大学医学部発の医療系スタートアップDireavaは、外科手術を支援するAI「Surgical VLM」を開発したと発表した。外科医の育成に役立つという。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
       ],
       "priority_score": 50
     },
