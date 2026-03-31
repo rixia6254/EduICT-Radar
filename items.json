@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-31T10:10:34.673Z",
+  "generated_at": "2026-03-31T21:32:28.989Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-03-31T10:10:22.368Z",
+      "published_at": "2026-03-31T21:32:18.647Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-03-31T10:10:22.368Z",
+      "published_at": "2026-03-31T21:32:18.647Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-03-31T10:10:22.368Z",
+      "published_at": "2026-03-31T21:32:18.647Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,97 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_34c63767f726fb89",
+      "title": "総務省、AI開発者・AI提供者向けに「AIのセキュリティ確保のための技術的対策に係るガイドライン」を公表",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2097778.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-03-31T21:30:00.000Z",
+      "summary": "総務省は3月27日、AI開発者・提供者向けに「AIのセキュリティ確保のための技術的対策に係るガイドライン」を公表した。",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "情報モラル",
+        "行政",
+        "文科省"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_3de0d1cba6eea4f9",
+      "title": "ランサムウェアはもう防ぎきれない？ 大企業だって無理なのに中小企業はどうすればいいの!? その「現実解」とは【Security Days Spring 2026】",
+      "url": "https://internet.watch.impress.co.jp/docs/event/2097588.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-03-31T21:00:00.000Z",
+      "summary": "ランサムウェアは他人事ではない。2025年にはアサヒグループホールディングス、アスクルなどの著名企業が攻撃を受け、長期の商品出荷停止に追い込まれた。大企業でさえ防げないのに、人的にも予算的にもリソースが限られる中小企業はどうすればいいのか。",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "情報モラル",
+        "行政",
+        "文科省"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_09d570f7aba3769e",
+      "title": "サムスン、Perplexity搭載のWindows用AIブラウザー",
+      "url": "https://www.watch.impress.co.jp/docs/news/2097945.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-03-31T15:15:00.000Z",
+      "summary": "サムスンは、Windows向けブラウザ「Samsung Browser for Windows」を正式リリースした。Windows 11およびWindows 10(バージョン1809以降)搭載デバイスで利用でき、モバイル端末とパソコンをまたいだシームレスな検索・閲覧が可能。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "生成AI",
+        "AI活用",
+        "校務DX",
+        "GIGA"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_7ffb24d54259edb0",
+      "title": "東京都、「データセンター建設のガイドライン」策定　事業者と住民の“円滑な対話”後押し",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2603/31/news149.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-03-31T11:16:00.000Z",
+      "summary": "東京都は、データセンター建設のためのガイドラインを策定したと発表した。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_7cca6830a4ef98e6",
+      "title": "南海、金剛駅で商業施設開発　駅舎・交通広場も全面刷新",
+      "url": "https://www.watch.impress.co.jp/docs/news/2097961.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-03-31T11:00:00.000Z",
+      "summary": "南海電鉄、大阪狭山市、富田林(とんだばやし)市は、金剛駅周辺の再整備で協力する。駅周辺での商業施設開業、駅舎・駅前交通広場などの全面リニューアルを通じて、まちの魅力向上を図る。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_c0e9d1f71358e391",
@@ -469,26 +560,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_334f2e42dca48020",
-      "title": "Microsoft、「Copilot Cowork」早期提供を開始　作業を自動化",
-      "url": "https://www.watch.impress.co.jp/docs/news/2097692.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-03-31T02:25:05.000Z",
-      "summary": "Microsoftは30日(米国時間)、「Microsoft 365 Copilot」にClaude Coworkの機能を組み込んだ「Copilot Cowork」を早期プログラム「Frontier」向けに提供開始した。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "生成AI",
-        "AI活用",
-        "校務DX",
-        "GIGA"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_08bf743e43f802f5",
       "title": "NTT東西、Wi-Fi 7対応の「フレッツ 光クロス」用レンタルルーターを新たにラインアップ",
       "url": "https://internet.watch.impress.co.jp/docs/news/2097708.html",
@@ -600,22 +671,6 @@
       "tags": [
         "インターネット",
         "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_11d009bc2d9ba8c7",
-      "title": "3月は首都圏で大型施設開業ラッシュ　高輪・大井町・池袋・関内・津田沼",
-      "url": "https://www.watch.impress.co.jp/docs/topic/2097527.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-03-31T00:00:00.000Z",
-      "summary": "3月に東京都内や神奈川、千葉で、多くの複合施設や商業・エンタメ施設が開業しました。どういった施設が開業したのか、改めて振り返ってみましょう。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
       ],
       "priority_score": 50
     },
@@ -1305,22 +1360,6 @@
       "priority_score": 60
     },
     {
-      "id": "item_2f682588a73dc389",
-      "title": "水冷（液冷）設備が目白押し。重いAIサーバーを高く持ち上げるための電動リフト実機デモも【Data Center Japan 2026】",
-      "url": "https://internet.watch.impress.co.jp/docs/event/2097305.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-03-30T03:04:06.000Z",
-      "summary": "3月24日・25日に東京都内で開催されたデータセンター業界のイベント「Data Center Japan 2026」（主催：特定非営利活動法人日本データセンター協会、共催：株式会社ナノオプト・メディア）では、AIデータセンターの需要を受けた展示が目立った。この記事ではその中から、CDU（Coolant Distribution Unit：冷却水分配装置）など、AIサーバーを支える冷却（液冷）設備な…",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_302e6171480aa870",
       "title": "「万年3位」を挽回できるか？　国内ITサービス4社が力を入れるGoogle Cloudのポテンシャル",
       "url": "https://www.itmedia.co.jp/enterprise/articles/2603/30/news097.html",
@@ -1373,22 +1412,6 @@
       "priority_score": 60
     },
     {
-      "id": "item_a4d07d246002b5c7",
-      "title": "NTT、世界最薄液晶層の「透過型メタサーフェスデバイス」を開発し、電波の可変制御に成功　窓ガラスに貼って電波環境を改善できる",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2097295.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-03-30T02:55:00.000Z",
-      "summary": "NTT株式会社は3月27日、5Gや6Gをはじめとするさまざまな無線環境がある屋内や屋外の窓ガラスに設置することで、電波を制御できる「透過型メタサーフェスデバイス」を開発したと発表した。建物の窓ガラスなどに貼付すれば、透過する電波を制御して、遮蔽物などによって、電波が届きにくい場所の電波環境を改善できるという。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_1dcb8da32c84c268",
       "title": "「職員が激減」に備えよ──2040年問題に向けて「自治体」に残された生存戦略",
       "url": "https://www.itmedia.co.jp/business/articles/2603/30/news038.html",
@@ -1423,25 +1446,6 @@
         "LLM"
       ],
       "priority_score": 50
-    },
-    {
-      "id": "item_975fbf4da69f7c7d",
-      "title": "Bluesky、AIとの対話でカスタムフィードを作る新アプリ「Attie」　招待制で提供開始",
-      "url": "https://www.itmedia.co.jp/news/articles/2603/30/news080.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-03-29T22:31:00.000Z",
-      "summary": "Blueskyは、自然言語でカスタムフィードを作成できるAIアプリ「Attie」を発表した。「AT Protocol」を活用し、プログラミング知識なしでAIエージェントと対話しながら独自のタイムラインを構築できる。CIOのグレーバー氏は、AIをプラットフォームではなく個人の主導権を取り戻すための道具と位置づけている。",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 60
     },
     {
       "id": "item_8a58a5fd31d62dc5",
