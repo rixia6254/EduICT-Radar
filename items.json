@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-01T10:11:22.871Z",
+  "generated_at": "2026-04-01T21:35:36.847Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-04-01T10:11:11.219Z",
+      "published_at": "2026-04-01T21:35:27.367Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-04-01T10:11:11.219Z",
+      "published_at": "2026-04-01T21:35:27.367Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-04-01T10:11:11.219Z",
+      "published_at": "2026-04-01T21:35:27.367Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,113 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_9fc60f4b4730089e",
+      "title": "ASAHIネット、最大25Gbpsの「フレッツ 光25G」に対応",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2098223.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-04-01T21:30:00.000Z",
+      "summary": "株式会社朝日ネットは3月31日、同社のISP「ASAHIネット」が、NTT東日本の提供する最大25Gbpsの光回線サービス「フレッツ 光25G」に対応したと発表した。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_f5aa4f46a3f00a7d",
+      "title": "警察庁はランサムウェアなどサイバー攻撃が多発する現状をどう分析し、どんな活動をしているのか【Security Days Spring 2026】",
+      "url": "https://internet.watch.impress.co.jp/docs/event/2098282.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-04-01T21:00:00.000Z",
+      "summary": "サイバーセキュリティがテーマのイベント「Security Days Spring 2026」の東京会場で3月26日、警察庁の中川陽介氏（サイバー警察局 サイバー企画課 サイバー事案防止対策室 課長補佐）による講演が行われた。日本国内におけるサイバー攻撃の状況、そして警察庁は今まさにどんな対策・活動をしているのか、このほど取りまとめた最新資料をもとに解説した。",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_81a2c94ca40b3c10",
+      "title": "クラウドの容量不足を解消！ iPhoneの写真をWindows PCにバックアップする【自宅Wi-Fiの“わからない”をスッキリ！】",
+      "url": "https://internet.watch.impress.co.jp/docs/column/homewifi/2097449.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-04-01T21:00:00.000Z",
+      "summary": "第275回から、スマートフォンのデータをPCへバックアップする手法を実践している。まずはiPhoneを対象に、Windows PCでは「Appleデバイス」アプリ、Macでは「Finder」を使ってバックアップを実践し、復元までの手順も紹介した。",
+      "starred": false,
+      "category": "dx",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "校務DX",
+        "GIGA",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_bfd465d8736fb898",
+      "title": "【入門】.claudeフォルダの構造と使い方　Claude Codeを思い通りに動かそう",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2604/02/news015.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-04-01T20:00:00.000Z",
+      "summary": "Claude Codeを使い始めたものの、プロジェクト内に生成される「.claude」フォルダをそのままにしていませんか？ 実はこのフォルダこそが、Claude Codeの振る舞いを決定づける重要なポイントです。このフォルダの構造と役割を整理し、初心者の方でも理解できるように解説します。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_384549dea4ca3020",
+      "title": "アルテミス計画で54年振りに人類が月の重力圏へ　でもまだ着陸しないその理由",
+      "url": "https://www.watch.impress.co.jp/docs/topic/2098294.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-04-01T11:00:00.000Z",
+      "summary": "2026年4月1日午後6時24分(日本時間4月2日午前7時24分)、米国の月面探査「アルテミス計画」初の有人飛行ミッション、Artemis IIが打上げられます。4名の宇宙飛行士が月の裏側まで飛行し地球へと帰還するミッションは、1972年のアポロ17号以来、54年ぶりに人類が月の重力圏に到達することになります。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_4094e851c837e108",
+      "title": "NotebookLMで作業時間95％削減　自治体も企業も「Google回帰」が止まらない理由",
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2604/02/news053.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-04-01T10:30:00.000Z",
+      "summary": "「NotebookLM」をはじめとするGoogleのAIツールは、自治体や企業の働き方をどう変えたのか。実例とデータから導入メリットと効果を読み解く。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_fc306f45bd0b5376",
@@ -319,7 +426,7 @@
     },
     {
       "id": "item_91262eeafcb4355f",
-      "title": "AIグラス「Ray-Ban Meta」が度付き眼鏡に　新色や新機能も",
+      "title": "AIグラス「Ray-Ban Meta」が度付き眼鏡に　まもなく日本展開",
       "url": "https://www.watch.impress.co.jp/docs/news/2098176.html",
       "source_id": "impress_watch",
       "source_name": "Impress Watch",
@@ -1307,45 +1414,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_3de0d1cba6eea4f9",
-      "title": "ランサムウェアはもう防ぎきれない？ 大企業だって無理なのに中小企業はどうすればいいの!? その「現実解」とは【Security Days Spring 2026】",
-      "url": "https://internet.watch.impress.co.jp/docs/event/2097588.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-03-31T21:00:00.000Z",
-      "summary": "ランサムウェアは他人事ではない。2025年にはアサヒグループホールディングス、アスクルなどの著名企業が攻撃を受け、長期の商品出荷停止に追い込まれた。大企業でさえ防げないのに、人的にも予算的にもリソースが限られる中小企業はどうすればいいのか。",
-      "starred": false,
-      "category": "security",
-      "tags": [
-        "インターネット",
-        "セキュリティ",
-        "情報モラル",
-        "行政",
-        "文科省"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_09d570f7aba3769e",
-      "title": "サムスン、Perplexity搭載のWindows用AIブラウザー",
-      "url": "https://www.watch.impress.co.jp/docs/news/2097945.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-03-31T15:15:00.000Z",
-      "summary": "サムスンは、Windows向けブラウザ「Samsung Browser for Windows」を正式リリースした。Windows 11およびWindows 10(バージョン1809以降)搭載デバイスで利用でき、モバイル端末とパソコンをまたいだシームレスな検索・閲覧が可能。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "生成AI",
-        "AI活用",
-        "校務DX",
-        "GIGA"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_7ffb24d54259edb0",
       "title": "東京都、「データセンター建設のガイドライン」策定　事業者と住民の“円滑な対話”後押し",
       "url": "https://www.itmedia.co.jp/aiplus/articles/2603/31/news149.html",
@@ -1359,75 +1427,6 @@
         "生成AI",
         "AI",
         "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_c3bfaeb8fcbc81c7",
-      "title": "写真・動画を2TB以上持ってる人が、多く利用するバックアップ媒体は…？　3月31日は「指さし確認！バックアップの日」【清水理史の「イニシャルB」チャンネル】",
-      "url": "https://internet.watch.impress.co.jp/docs/column/shimizumovie/2097679.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-03-31T08:30:00.000Z",
-      "summary": "3月31日は「指さし確認！バックアップの日」。ふだん使っているスマホやPCのデータがバックアップできているか、確認しましょう！",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_72f7e5ef29676b33",
-      "title": "IPA、情報処理技術者試験に新試験制度を導入へ　「データマネジメント試験」など新設＆ITパスポートの試験範囲も拡大か",
-      "url": "https://www.itmedia.co.jp/news/articles/2603/31/news118.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-03-31T07:32:00.000Z",
-      "summary": "情報処理推進機構（IPA）は、新試験「データマネジメント試験」（仮称）と「プロフェッショナルデジタルスキル試験」（仮称）の導入を検討していると公表した。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_81ac84aeebf91be3",
-      "title": "AI導入への“心理的な抵抗”、コロプラはどう向き合う？　「社員のAI活用率90％超」を実現した仕組みとは",
-      "url": "https://www.itmedia.co.jp/aiplus/articles/2603/31/news108.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-03-31T06:05:00.000Z",
-      "summary": "コロプラでは社内にAIを根付かせるために「心理的浸透度モデル」を導入した。AIという未知の技術に接する社員の“心理的な抵抗”を可視化するためものだという。AI推進の旗振り役でもある菅井健太CIOに、AI導入の進め方を聞いた。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_3e5573d62e43f025",
-      "title": "AIによるヌード加工アプリを全面的に禁止する提案にEU議会が合意、きっかけはGrokか【やじうまWatch】",
-      "url": "https://internet.watch.impress.co.jp/docs/yajiuma/2097693.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-03-31T03:33:16.000Z",
-      "summary": "欧州連合（EU）の立法機関である欧州議会が、AIによるヌード加工アプリを全面的に禁止する提案に合意したことが明らかになった。",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "インターネット",
-        "セキュリティ",
-        "教材",
-        "ツール"
       ],
       "priority_score": 50
     },
