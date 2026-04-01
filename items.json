@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-04-01T05:28:18.982Z",
+  "generated_at": "2026-04-01T10:11:22.871Z",
   "total": 103,
   "items": [
+    {
+      "id": "item_21f8651de3f2baea",
+      "title": "文部科学省ホームページトップはこちら",
+      "url": "https://www.mext.go.jp/",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-04-01T10:11:11.219Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
     {
       "id": "item_bd1951ae70f98dac",
       "title": "サイトマップはこちら",
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-04-01T05:28:07.602Z",
+      "published_at": "2026-04-01T10:11:11.219Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -25,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-04-01T05:28:07.602Z",
+      "published_at": "2026-04-01T10:11:11.219Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -38,22 +56,234 @@
       "priority_score": 60
     },
     {
-      "id": "item_21f8651de3f2baea",
-      "title": "文部科学省ホームページトップはこちら",
-      "url": "https://www.mext.go.jp/",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-04-01T05:28:07.601Z",
-      "summary": "",
+      "id": "item_fc306f45bd0b5376",
+      "title": "ニトリ、リカバリーウェア夏モデル 2990円",
+      "url": "https://www.watch.impress.co.jp/docs/news/2098336.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-04-01T10:06:57.000Z",
+      "summary": "ニトリグループのNプラスは、アパレルブランドのN+(エヌプラス)から、リカバリーウェア「Nミラクシリーズ」の夏モデルを発売した。DRY半袖プルオーバーとDRYストレートパンツをラインアップし、価格は各2,990円。",
       "starred": false,
-      "category": "admin",
+      "category": "tech",
       "tags": [
-        "行政",
-        "文科省",
-        "制度",
-        "教育ニュース"
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_8f092584b5c7820a",
+      "title": "レクサス、ポルシェやアウディの急速充電器も使えるプレミアム充電サービス",
+      "url": "https://www.watch.impress.co.jp/docs/news/2098337.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-04-01T09:50:21.000Z",
+      "summary": "レクサスは、新急速充電サービス「LEXUS Charging」を開始した。トヨタのEV・PHEVオーナー向け充電サービス「TEEMO」との連携を強化し、My LEXUSアプリからレクサス充電ステーション、レクサス販売店の急速充電器に加え、トヨタ販売店に設置された急速充電器を利用できる。利用可能な充電器をマップから検索して事前に予約が可能。",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_c703b6255f555be1",
+      "title": "家計簿アプリ「Zaim」レシート撮影を強化　最大5枚連続撮影",
+      "url": "https://www.watch.impress.co.jp/docs/news/2098314.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-04-01T09:23:00.000Z",
+      "summary": "くふうカンパニーは、家計簿アプリ「くふう Zaim」のレシート撮影機能を大幅刷新した。最大5枚の連続撮影に対応する「まとめ撮り」と、認識精度を高めたAI OCR機能「レシート撮影プラス」を追加し、レシート入力にかかる手間と時間の削減を図る。",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_3c59b1b544a05606",
+      "title": "静岡新聞、「事実に基づかないSNS投稿」に注意喚起　AI生成の“エイプリルフールネタ”拡散か",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2604/01/news124.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-04-01T09:05:00.000Z",
+      "summary": "静岡新聞社は、静岡新聞の紙面を装った第三者のSNS投稿があったとして「当該投稿は事実ではありません」と注意喚起した。X上では、生成AIで作成したとみられる同紙の紙面を模した画像が拡散していた。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_1349cbe4041025ae",
+      "title": "医療機関の決済手数料を1.3%に引き下げ　STORES",
+      "url": "https://www.watch.impress.co.jp/docs/news/2098310.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-04-01T09:05:00.000Z",
+      "summary": "STORESは、キャッシュレス決済サービス「STORES 決済」で、医療機関向けの特別料率を開始した。対象の医療機関は、クレジットカード6ブランドとQUICPayの決済手数料を1.3%で利用できる。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_a6114ab3c6841304",
+      "title": "東大、オープンソースの「四足歩行ロボ」　部品はオンライン発注可　階段を上がる姿など披露",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2604/01/news121.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-04-01T08:51:00.000Z",
+      "summary": "東京大学は、オープンソースの四足歩行ロボット「MEVIUS2」を開発したと発表した。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_e6c056252ce98395",
+      "title": "LINEヤフー、週3出社に　新拠点「赤坂オフィス」開設",
+      "url": "https://www.watch.impress.co.jp/docs/news/2098298.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-04-01T08:33:10.000Z",
+      "summary": "LINEヤフーは、新たな事業拠点「赤坂オフィス」を、赤坂トラストタワー内に開設した。全フロアのオープンと来客の受け入れ開始は5月11日を予定している。あわせて、原則週3回の出社に移行する。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_87435345766da65f",
+      "title": "ぺんてる、新社名「アストラム」に",
+      "url": "https://www.watch.impress.co.jp/docs/news/2098247.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-04-01T06:57:44.000Z",
+      "summary": "ぺんてる株式会社は、4月1日に法人名(商号)を「アストラム株式会社」に変更した。同日、アストラムとしてのコーポレートサイトを公開した。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_75f0d29ec44a7c54",
+      "title": "Slack、Slackbotでエージェント連携を強化　“チームメイト”化を推進",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2604/01/news101.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-04-01T06:08:00.000Z",
+      "summary": "Slackは、内蔵AIアシスタント「Slackbot」の大幅な機能拡張を発表した。分析機能「Deep Thoughts」による戦略立案、デスクトップ上の自動データ入力、他社製エージェントを繋ぐハブ機能、会議中のリアルタイムCRM更新などを実装。個人の支援ツールから、組織全体を繋ぐ究極のチームメイトへと進化させる。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_776aa63b920de989",
+      "title": "【朗報】スレタイと1コメを書く→AIがレスを生成する匿名掲示板シミュレーター登場　想像以上に「おまいら」だった件",
+      "url": "https://www.itmedia.co.jp/news/articles/2604/01/news096.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-04-01T06:04:00.000Z",
+      "summary": "「○○だけど質問ある？」「○○したやつが優勝」といったスレタイ（見出し）と、最初のコメント（1コメ）を入力すると、AIが2ちゃんねる風のUIでレスを生成してくれる──こんなシミュレーターが登場した。東京都内在住の会社員が生成AIを活用して開発したといい、Xでは4月1日午前2時点で約50万インプレッションを集めるなど話題になり始めている。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_917dafbdac1c1f3a",
+      "title": "相乗りタクシー「GOエコノミー」、都心と渋谷の相互移動に対応　エリアも拡大",
+      "url": "https://www.watch.impress.co.jp/docs/news/2098225.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-04-01T05:54:09.000Z",
+      "summary": "タクシーアプリ「GO」の相乗りサービス「GOエコノミー」は、東京都心エリアと渋谷エリアに分かれていた運行エリアを統合した。乗降スポットも従来の1.5倍以上となる約6,500カ所に拡大する。",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_a45740eddd053b30",
+      "title": "NTTデータ系気象会社がMCPサーバ提供　流通、小売、建設業での活用を想定",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2604/01/news098.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-04-01T05:53:00.000Z",
+      "summary": "NTTデータグループの気象会社が気象データを取得できるMCPサーバの提供を開始する。気象の影響を受けやすい業界における活用例とは。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_8096f458720eef01",
+      "title": "テレビのYouTubeにGemini搭載　疑問への回答や“要約”も",
+      "url": "https://www.watch.impress.co.jp/docs/news/2098220.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-04-01T05:25:34.000Z",
+      "summary": "Googleは、スマートテレビのYouTubeアプリにて、「Gemini」による会話型AIツールの提供を開始した。日本においてもGoogle TV搭載のスマートテレビやGoogle TV StreamerのYouTubeアプリで利用できる。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "生成AI",
+        "AI活用",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_d6ef25caeb32cc83",
@@ -827,6 +1057,23 @@
       "priority_score": 50
     },
     {
+      "id": "item_d50600f91ad4c7b1",
+      "title": "“寿命超え”送配電設備をどう延命する？　日立がエネルギーインフラ向けAIサービス「HMAX Energy」を提供開始",
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2604/01/news053.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-03-31T23:00:00.000Z",
+      "summary": "AI需要の拡大やデータセンター建設ラッシュが電力需要を押し上げる中、送配電設備の中には寿命を既に超えているものも多い。エネルギーインフラが抱える構造的課題に対応するため、日立と日立エナジーがAIサービス・ソリューション群「HMAX Energy」の提供を開始した。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
+    },
+    {
       "id": "item_be10f773ed080141",
       "title": "年間3.9億円が溶ける　「データ整備」「生成AI導入」に潜む莫大な人件費",
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2604/01/news047.html",
@@ -1116,70 +1363,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_7cca6830a4ef98e6",
-      "title": "南海、金剛駅で商業施設開発　駅舎・交通広場も全面刷新",
-      "url": "https://www.watch.impress.co.jp/docs/news/2097961.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-03-31T11:00:00.000Z",
-      "summary": "南海電鉄、大阪狭山市、富田林(とんだばやし)市は、金剛駅周辺の再整備で協力する。駅周辺での商業施設開業、駅舎・駅前交通広場などの全面リニューアルを通じて、まちの魅力向上を図る。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_c0e9d1f71358e391",
-      "title": "福井県に恐竜モチーフの新ロゴ「いいとこ、掘りだくさん。」",
-      "url": "https://www.watch.impress.co.jp/docs/news/2097964.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-03-31T09:50:23.000Z",
-      "summary": "福井県は、新たな県のロゴマークを公募し決定した。恐竜をモチーフに、先に募集された新キャッチコピー「いいとこ、掘りだくさん。」をあしらったデザインで、福井県のPRに関連することであれば、申請することで誰でも無償で利用できる。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_ac0a85e40f7d983d",
-      "title": "KDDI子会社の巨額架空取引、2461億円が水増し　99.7%が架空",
-      "url": "https://www.watch.impress.co.jp/docs/news/2097957.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-03-31T09:41:13.000Z",
-      "summary": "KDDIは31日、子会社のビッグローブとジー・プランによる広告代理事業における架空取引が複数年にわたって行なわれていた問題で、訂正されるべき売上高が2,461億円、外部流出額は329億円におよぶと発表した。あわせて、ビッグローブの社長、CFOと、ジー・プランの社長、副社長は引責辞任。関与従業員2名は、懲戒解雇となる。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_c558b4a15af997b7",
-      "title": "東武鉄道、自動運転対応車両導入　大師線で本格検証",
-      "url": "https://www.watch.impress.co.jp/docs/news/2097916.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-03-31T09:05:14.000Z",
-      "summary": "東武鉄道は2027年以降順次、亀戸・大師線向けの新型車両として自動運転対応車両1000系を導入。2028年以降、大師線における自動運転の本格検証を開始する。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_c3bfaeb8fcbc81c7",
       "title": "写真・動画を2TB以上持ってる人が、多く利用するバックアップ媒体は…？　3月31日は「指さし確認！バックアップの日」【清水理史の「イニシャルB」チャンネル】",
       "url": "https://internet.watch.impress.co.jp/docs/column/shimizumovie/2097679.html",
@@ -1192,70 +1375,6 @@
       "tags": [
         "インターネット",
         "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_95d78d7f42e64a40",
-      "title": "1.4万カ所をスペース予約できる「ヨヤッピン」開始　JR西など",
-      "url": "https://www.watch.impress.co.jp/docs/news/2097918.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-03-31T08:29:05.000Z",
-      "summary": "JR西日本とスペイシーは、スペース・体験予約サービス「Yoyappin(ヨヤッピン)」を開始した。サービス開始を記念し、WESTERポイントやクーポンがもらえるキャンペーンも実施している。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_56c253eb25689b27",
-      "title": "NTTドコモ、カード・銀行・証券など金融持株会社化",
-      "url": "https://www.watch.impress.co.jp/docs/news/2097914.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-03-31T08:08:21.000Z",
-      "summary": "NTTドコモは、グループの金融事業を束ねる新会社「株式会社NTTドコモ・フィナンシャルグループ」(ドコモFG)を設立し、7月1日から事業開始する。ドコモのdカード、d払いのほか、住信SBIネット銀行やマネックス証券などドコモの金融事業を集約して承継する。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_51af55b0354f0575",
-      "title": "IKEA豊洲、ららぽーと豊洲に26年秋開業",
-      "url": "https://www.watch.impress.co.jp/docs/news/2097880.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-03-31T07:45:30.000Z",
-      "summary": "イケア・ジャパンは、商業施設内店舗「IKEA豊洲」を2026年初秋にアーバンドック ららぽーと豊洲内で開業する。国内では5店舗目となる商業施設内店舗で、所在地は東京都江東区豊洲2-4-9。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_6cdc69415cbae2c0",
-      "title": "ハンドル操作無しで500km走行に成功　自動運転トラックで国内初",
-      "url": "https://www.watch.impress.co.jp/docs/news/2097883.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-03-31T07:37:40.000Z",
-      "summary": "T2は、自社で開発したレベル2自動運転トラックで、関東-関西を結ぶ約500kmの高速道路の本線で、ドライバーによる一時的なハンドル操作を一度も発生させず、自動運転のままで完走に成功した。自動運転トラックによる500kmにおよぶ長距離の本線完走は国内初。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
       ],
       "priority_score": 50
     },
@@ -1295,26 +1414,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_95cd792f2cdb973d",
-      "title": "大阪ガスはいかにAIを「優秀な部下」に変えたのか？　脱「高負荷なデータ基盤」の道のり",
-      "url": "https://www.itmedia.co.jp/enterprise/articles/2603/19/news005.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-03-31T04:30:00.000Z",
-      "summary": "競争激化に直面するエネルギー業界。大阪ガスは多角的な事業を成長させるため、データ活用の変革に挑んでいる。生成AIを「有能な部下」として使いこなし、ビジネスアジリティの最大化を図る同社の取り組みに迫る。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用",
-        "授業実践",
-        "情報Ⅰ"
-      ],
-      "priority_score": 60
-    },
-    {
       "id": "item_3e5573d62e43f025",
       "title": "AIによるヌード加工アプリを全面的に禁止する提案にEU議会が合意、きっかけはGrokか【やじうまWatch】",
       "url": "https://internet.watch.impress.co.jp/docs/yajiuma/2097693.html",
@@ -1329,81 +1428,6 @@
         "セキュリティ",
         "教材",
         "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_25306359e78f3c17",
-      "title": "Mistral AI、8億3000万ドルの融資獲得。欧州最大級のAIインフラ構築へ",
-      "url": "https://www.itmedia.co.jp/news/articles/2603/31/news081.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-03-31T01:04:00.000Z",
-      "summary": "Mistral AIは、パリ近郊のデータセンター運用に向け8億3000万ドルの融資を受けた。NVIDIAの最新GPUを採用し、2027年末までに欧州全体で200メガワットの容量構築を目指す。三菱UFJ銀行も資金を提供する。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_3c829250d41f809d",
-      "title": "M365利用中の京都市が職員7000人に「NotebookLM」を配ったワケ　利用者の8割が「業務の質向上」",
-      "url": "https://www.itmedia.co.jp/enterprise/articles/2603/31/news058.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-03-30T23:00:00.000Z",
-      "summary": "京都市がNotebookLM Enterpriseを導入。Microsoft 365を利用する中、なぜ同製品の大規模導入へと踏み切ったのか。職員の8割が業務向上を実感した活用法と、Gemini Enterpriseによる「全庁統合AIアシスタント」が描く自治体DXの未来とは。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用",
-        "校務DX",
-        "GIGA"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_ee1b62d3c7d58d01",
-      "title": "Microsoft、「Copilot Cowork」をFrontierで提供開始　「GPT」と「Claude」を組み合わせる機能も",
-      "url": "https://www.itmedia.co.jp/aiplus/articles/2603/31/news078.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-03-30T22:50:00.000Z",
-      "summary": "Microsoftは、「Microsoft 365」の新機能「Copilot Cowork」をFrontierプログラムで提供開始した。あわせて、マルチモデルAI採用の調査支援機能「Researcher」に、「GPT」と「Claude」に生成と評価を分業させる「Critique」と、両者の回答を比較する「Council」を追加した。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用",
-        "校務DX",
-        "GIGA"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_303318ad5e9ea4a6",
-      "title": "CoworkにAnthropic情報の定期チェックを任せる　スケジュール済みタスクの実力を試してみた",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2603/31/news027.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-03-30T20:00:00.000Z",
-      "summary": "Coworkは便利だけれど、毎回毎回、似たようなことをプロンプトに打ち込んでCoworkに作業させるのはめんどくさいなーって思いませんか？ そんなときに役立つのがスケジュール済みタスクです。これを使って定期的にやらなきゃいけないことを自動化してみませんか？",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
       ],
       "priority_score": 50
     },
@@ -1423,23 +1447,6 @@
         "教材",
         "共通テスト",
         "入試"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_53c44bf6ce7b970e",
-      "title": "Sakana AI、90年代検索システム「Namazu」との名称被り「知らなかった」　開発者に相談→快諾に",
-      "url": "https://www.itmedia.co.jp/aiplus/articles/2603/30/news133.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-03-30T09:23:00.000Z",
-      "summary": "Sakana AIは、AIモデルシリーズ「Namazu」の名称が、日本語の全文検索システム「Namazu」と同一だった件について、同システムの開発者である高林哲さんに使用の許諾を得たと報告した。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
       ],
       "priority_score": 50
     },
