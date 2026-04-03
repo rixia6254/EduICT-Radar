@@ -1,32 +1,14 @@
 {
-  "generated_at": "2026-04-03T05:08:20.679Z",
+  "generated_at": "2026-04-03T09:57:25.164Z",
   "total": 103,
   "items": [
-    {
-      "id": "item_21f8651de3f2baea",
-      "title": "文部科学省ホームページトップはこちら",
-      "url": "https://www.mext.go.jp/",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-04-03T05:08:09.128Z",
-      "summary": "",
-      "starred": false,
-      "category": "admin",
-      "tags": [
-        "行政",
-        "文科省",
-        "制度",
-        "教育ニュース"
-      ],
-      "priority_score": 60
-    },
     {
       "id": "item_bd1951ae70f98dac",
       "title": "サイトマップはこちら",
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-04-03T05:08:09.128Z",
+      "published_at": "2026-04-03T09:57:13.542Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +25,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-04-03T05:08:09.128Z",
+      "published_at": "2026-04-03T09:57:13.542Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +36,148 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_21f8651de3f2baea",
+      "title": "文部科学省ホームページトップはこちら",
+      "url": "https://www.mext.go.jp/",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-04-03T09:57:13.541Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_bb7998932f4a56fd",
+      "title": "新たな「国産LLM」公開、国立情報学研究所　「gpt-oss-20b」超えの日本語性能うたう",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2604/03/news092.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-04-03T09:47:00.000Z",
+      "summary": "国立情報学研究所は、LLM「LLM-jp-4 8Bモデル」「LLM-jp-4 32B-A3Bモデル」をオープンソースライセンスで公開した。米OpenAIのオープンモデル「gpt-oss-20b」を上回る日本語性能をうたう。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_e6dd1289303a93d0",
+      "title": "OpenAI、Codexを従量課金に　Business料金も値下げ",
+      "url": "https://www.watch.impress.co.jp/docs/news/2099029.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-04-03T09:00:00.000Z",
+      "summary": "OpenAIは2日(米国時間)、コーディングエージェント「Codex」において、従量課金制の料金プランを提供開始した。ChatGPT BusinessおよびEnterprise向けに、固定料金なしでCodexの全機能を利用できる。また、ChatGPT Businessの年間料金も値下げする。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "生成AI",
+        "AI活用"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_490504f9645a00d9",
+      "title": "大阪・住吉に「イオンタウンあびこ駅前」4月末オープン　新生ダイエー1号店",
+      "url": "https://www.watch.impress.co.jp/docs/news/2098992.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-04-03T08:12:43.000Z",
+      "summary": "イオンタウンは、大阪府大阪市住吉区に、食に特化したショッピングセンター「イオンタウンあびこ駅前」を4月25日にオープンする。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_bb0ae254a79a6ddb",
+      "title": "作家・綾辻行人さんの作品装う“偽本”がAmazonに出現　本人が注意喚起　「誰かがAIで作ったようです」",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2604/03/news097.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-04-03T07:31:00.000Z",
+      "summary": "作家の綾辻行人さんは、自身の作品を装った偽の電子書籍がAmazonで販売されているとして注意喚起した。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_2c324e455c400fbf",
+      "title": "OpenAI、人気動画メディア「TBPN」買収　「AGIに向けた対話の場」",
+      "url": "https://www.watch.impress.co.jp/docs/news/2098984.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-04-03T07:00:48.000Z",
+      "summary": "OpenAIは2日(米国時間)、メディア企業の米TBPNを買収すると発表した。買収金額などは明らかにしていないが、TBPNは今後も独立したメディア運営を続ける。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "生成AI",
+        "AI活用"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_f8f4f79896a36c9c",
+      "title": "SIE、3D技のCinemersive Labsを買収――プレステの視覚効果を機械学習で強化",
+      "url": "https://www.itmedia.co.jp/news/articles/2604/03/news091.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-04-03T06:06:00.000Z",
+      "summary": "ソニー・インタラクティブエンタテインメント（SIE）は、VR/AR向け3D技術を持つCinemersive Labsの買収を発表した。機械学習を活用した視覚効果の強化とレンダリング技術の向上を図り、PlayStationにおける視覚体験の進化を目指す。買収後、同社チームはSIEのグループに合流し、次世代のコンテンツ開発に貢献する。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用",
+        "教育ニュース"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_d63e3ab9bd43cadb",
+      "title": "PFN、ドローンやロボット向け視覚言語モデル「PLaMo-VL」　フィジカルAI活用へ",
+      "url": "https://www.watch.impress.co.jp/docs/news/2098936.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-04-03T05:29:14.000Z",
+      "summary": "Preferred Networks(PFN)は、ドローン、ロボット、監視カメラ、自動車などの自律稼働デバイス向け視覚言語モデル「PLaMo-VL」を開発し、8Bモデル「PLaMo 2.1-8B-VL」と小型の2Bモデル「PLaMo 2.1-2B-VL」を公開した。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "生成AI",
+        "AI活用"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_e4facc9054138d5e",
@@ -1208,54 +1332,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_a427f7537e2c6eee",
-      "title": "三井アウトレット多摩南大沢建替着工　フードコート強化",
-      "url": "https://www.watch.impress.co.jp/docs/news/2098601.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-04-02T07:25:47.000Z",
-      "summary": "三井不動産は、東京都八王子市の「三井アウトレットパーク 多摩南大沢」建替え計画(B街区)の建築工事に着手した。28年春の開業を予定している。A街区も大規模リニューアルを実施する。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_0fd45e5bd7f4c2fc",
-      "title": "千葉マリンスタジアム再構築にイオンモールが参画",
-      "url": "https://www.watch.impress.co.jp/docs/news/2098592.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-04-02T07:13:10.000Z",
-      "summary": "千葉市は、プロ野球・千葉ロッテマリーンズの本拠地となる「千葉マリンスタジアム」再構築事業に参画する事業協力者の優先交渉権者にイオンモールを選定した。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_5df899d02f87e4c7",
-      "title": "丸の内「MUFG本館」着工　地上28階建て",
-      "url": "https://www.watch.impress.co.jp/docs/news/2098565.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-04-02T06:42:05.000Z",
-      "summary": "三菱UFJフィナンシャル・グループ(MUFG)は1日、東京・丸の内「MUFG本館」の新築工事に着手した。竣工は2030年10月末を予定している。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_28d3083abd4132fd",
       "title": "京都府、府立高校の生徒約1万人に“AI英会話”導入　多くの外国人が訪れる都市で「英語は必須スキル」",
       "url": "https://www.itmedia.co.jp/aiplus/articles/2604/02/news108.html",
@@ -1270,24 +1346,6 @@
         "AI",
         "LLM",
         "教育ニュース"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_460d2452f7690a3f",
-      "title": "自転車ナビタイム、\"青切符\"対応の支援機能を搭載",
-      "url": "https://www.watch.impress.co.jp/docs/news/2098558.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-04-02T05:36:29.000Z",
-      "summary": "ナビタイムジャパンは、自転車ナビゲーションアプリ「自転車NAVITIME」において、4月1日から施行された道路交通法の改正に対応した。",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "教材",
-        "ツール"
       ],
       "priority_score": 50
     },
@@ -1345,24 +1403,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_9a62dc62feab00e2",
-      "title": "「一番になりたい」──孫正義氏が語った野望　OpenAI「10兆円超」などAI革命への投資が徐々に結実",
-      "url": "https://www.itmedia.co.jp/business/articles/2604/02/news054.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-04-02T02:45:00.000Z",
-      "summary": "ソフトバンクGのAI投資が実を結び始めている。OpenAI、Arm、データセンター事業などの取り組みが進展する中、孫正義氏はAI革命において「世界経済の中心的な役割を担う企業の1社になりたい」と述べた。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_c0ef17fb8f4a600f",
       "title": "アイ・オーのモバイルモニターが安い！　Amazon新生活Final　16インチIPSパネル搭載の「EX-YC163D」が2万680円など",
       "url": "https://internet.watch.impress.co.jp/docs/shopping/2098430.html",
@@ -1394,44 +1434,6 @@
         "教材",
         "ツール",
         "教育ニュース"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_e8f97f5845b49995",
-      "title": "便利さの裏で進む“静かな崩壊”　AIセキュリティの死角を掘り下げる",
-      "url": "https://www.itmedia.co.jp/enterprise/articles/2604/02/news027.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-04-01T23:30:00.000Z",
-      "summary": "AIは「使うツール」から「意思決定し行動する主体」へと進化しつつある。しかしその裏で、企業のセキュリティは追い付いていない。暴走する計画、乗っ取り、そして現実世界への影響――。AIエージェントがもたらすリスクの本質とは何か。従来の対策が通用しない理由に迫る。",
-      "starred": false,
-      "category": "security",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "セキュリティ",
-        "情報モラル",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_6c9e6df91a91ca5a",
-      "title": "「不況でもAI最優先」が7割超、KPMG調査　AIエージェント本格展開は1割止まり",
-      "url": "https://www.itmedia.co.jp/aiplus/articles/2604/02/news058.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-04-01T23:00:00.000Z",
-      "summary": "KPMGは、世界各国の組織リーダーを対象に実施したAI導入に関する調査結果を公表した。景気後退下でも揺るがない投資意欲が示される一方で、活用の進展度やリスク管理には、組織間で隔たりがあるようだ。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
       ],
       "priority_score": 50
     },
