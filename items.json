@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-03T09:57:25.164Z",
+  "generated_at": "2026-04-03T21:27:05.160Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-04-03T09:57:13.542Z",
+      "published_at": "2026-04-03T21:26:54.107Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -25,7 +25,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-04-03T09:57:13.542Z",
+      "published_at": "2026-04-03T21:26:54.107Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-04-03T09:57:13.541Z",
+      "published_at": "2026-04-03T21:26:54.106Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,25 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_82b9147b14141c79",
+      "title": "IBMとArmが戦略的提携　AI対応でメインフレームの柔軟性確保へ",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2604/03/news113.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-04-03T10:23:00.000Z",
+      "summary": "IBMとArmは、IBMのハードウェアでArmベースのソフトウェアを実行可能にすることを目指す戦略的提携を発表した。仮想化技術を拡張し、AIワークロードを含むArmエコシステムのミッションクリティカルシステムへの展開を図る。",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_bb7998932f4a56fd",
@@ -1381,24 +1400,6 @@
         "LLM",
         "AI活用",
         "教育ニュース"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_f11b24c162fa2aac",
-      "title": "「Google AI Pro」の容量が2TBから5TBに増量　価格据え置きで",
-      "url": "https://www.itmedia.co.jp/news/articles/2604/02/news083.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-04-02T02:48:00.000Z",
-      "summary": "Googleは、「Google One」の月額2900円プラン「Google AI Pro」の提供容量を2TBから5TBへ増量した。米国ではWorkspaceでのAIエージェント機能やGmailのAI校正、Chromeの自動ブラウジング、Google Home Premiumの無料利用も追加される。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
       ],
       "priority_score": 50
     },
