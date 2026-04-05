@@ -1,32 +1,14 @@
 {
-  "generated_at": "2026-04-05T09:48:49.893Z",
+  "generated_at": "2026-04-05T21:24:36.010Z",
   "total": 103,
   "items": [
-    {
-      "id": "item_21f8651de3f2baea",
-      "title": "文部科学省ホームページトップはこちら",
-      "url": "https://www.mext.go.jp/",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-04-05T09:48:36.789Z",
-      "summary": "",
-      "starred": false,
-      "category": "admin",
-      "tags": [
-        "行政",
-        "文科省",
-        "制度",
-        "教育ニュース"
-      ],
-      "priority_score": 60
-    },
     {
       "id": "item_bd1951ae70f98dac",
       "title": "サイトマップはこちら",
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-04-05T09:48:36.789Z",
+      "published_at": "2026-04-05T21:24:24.581Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +25,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-04-05T09:48:36.789Z",
+      "published_at": "2026-04-05T21:24:24.581Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +36,40 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_21f8651de3f2baea",
+      "title": "文部科学省ホームページトップはこちら",
+      "url": "https://www.mext.go.jp/",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-04-05T21:24:24.580Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_02238a5dc883e536",
+      "title": "Wi-Fi対応でリモート接続がカンタンなIP KVM登場！　GL.iNet「Comet Pro（GL-RM10）」【イニシャルB】",
+      "url": "https://internet.watch.impress.co.jp/docs/column/shimizu/2095275.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-04-05T21:00:00.000Z",
+      "summary": "トラベルルーターなどでお馴染みのGL.iNetから、ネットワーク経由でPCをリモートコントロールできるIP-KVM「Comet Pro（GL-RM10）」が発売された。国内サイトで手軽に買えること、Wi-Fi 6に対応していること、独自のリモートアクセスの仕組みを備えているのが特徴で、サーバーなどのリモート管理が簡単にできる。実際の使用感をレポートする。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_1bd4e0148637d7fd",
@@ -1413,25 +1429,6 @@
       "tags": [
         "インターネット",
         "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_5f2f8128aa76f2fd",
-      "title": "不適切図書を特定し、公立学校や図書館からの撤去を目指すAIスキャナーツールが海外で物議【やじうまWatch】",
-      "url": "https://internet.watch.impress.co.jp/docs/yajiuma/2098438.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-04-02T02:17:11.000Z",
-      "summary": "公立学校や図書館から撤去すべき不適切な図書を特定するためのAIスキャナーツールの存在とその問題点について、海外メディア「404 Media」が報じている。",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "インターネット",
-        "セキュリティ",
-        "教材",
-        "ツール",
-        "教育ニュース"
       ],
       "priority_score": 50
     },
