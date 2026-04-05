@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-04T21:25:15.871Z",
+  "generated_at": "2026-04-05T05:16:01.534Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-04-04T21:25:04.234Z",
+      "published_at": "2026-04-05T05:15:48.679Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-04-04T21:25:04.234Z",
+      "published_at": "2026-04-05T05:15:48.679Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-04-04T21:25:04.234Z",
+      "published_at": "2026-04-05T05:15:48.679Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,76 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_1bd4e0148637d7fd",
+      "title": "OpenAIの“AGI担当CEO”シモ氏が療養休職　ライトキャップCOOが“特別プロジェクト”担当に",
+      "url": "https://www.itmedia.co.jp/news/articles/2604/05/news019.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-04-05T01:33:00.000Z",
+      "summary": "OpenAIのAGI導入担当CEO、フィジ・シモ氏が、病気療養のため数週間休職すると発表した。休職中はグレッグ・ブロックマン社長が製品管理を代行する。また、ブラッド・ライトキャップCOOが特別プロジェクト担当の新職務へ異動し、CMOのケイト・ラウチ氏はがん治療のため辞任。ゲイリー・ブリッグス氏が暫定CMOに就任する。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_74a1ae5ceeb032be",
+      "title": "ポラールからタフネス路線の新型ランニングウォッチ 4.4万円",
+      "url": "https://www.watch.impress.co.jp/docs/news/2098618.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-04-05T01:00:00.000Z",
+      "summary": "ポラール・エレクトロ・ジャパンは、タフネスデザインが特徴の新型ランニングウォッチ「POLAR Street X」(ポラール ストリート エックス)を4月8日に発売する。価格は43,780円。カラーはナイトブラック、スノーホワイト、フォレストグリーンの3種類。フォレストグリーンは、ポラール公式オンラインストア以外では5月中旬以降に発売される。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_71fb93592bc65f01",
+      "title": "【いつモノコト】AIを装着するメガネ「OWNDAYS CONNECT」　1.6万円の大きな魅力",
+      "url": "https://www.watch.impress.co.jp/docs/series/itsmo/2095176.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-04-05T00:15:00.000Z",
+      "summary": "HUAWEI EYEWEAR 2を購入してからというもの、オーディオグラスが当たり前になっている筆者ですが、新たに「OWNDAYS CONNECT」を購入しました。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_901784f393d898de",
+      "title": "「Claude」で「OpenClaw」などの利用がサブスク対象外に　API利用や追加使用量購入が必要",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2604/05/news018.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-04-04T22:42:00.000Z",
+      "summary": "Anthropicは、「Claude」のサブスクリプションが「OpenClaw」等のサードパーティツール利用をカバーしなくなると告知した。需要増加に伴うリソース管理の適正化が目的としている。影響を受けるユーザーには、1回限りのクレジット付与や割引、希望者への全額返金で対応する。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_8a58d67f73c02768",
@@ -810,22 +880,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_47a6e29bb7c9ccef",
-      "title": "ドコモはなぜ動画配信とスタジアムに投資するのか　「ファン」起点戦略の狙い",
-      "url": "https://www.watch.impress.co.jp/docs/topic/2098378.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-04-02T23:20:00.000Z",
-      "summary": "NTTドコモは、通信料金とは別の収入として、Leminoなどの「映像配信」とスタジアム運営などの「ベニュービジネス」に力を入れている。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_cba5c22f4cb77011",
       "title": "モノグサ、「横浜版学習プラットフォーム構築事業」のプロポーザルに採択",
       "url": "https://ict-enews.net/2026/04/03monoxer-4/",
@@ -1082,24 +1136,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_4deb57bf9efc291a",
-      "title": "Googleスライド、あとから編集できるスライドをGeminiで生成可能に",
-      "url": "https://www.watch.impress.co.jp/docs/news/2098647.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-04-02T23:00:00.000Z",
-      "summary": "Googleは1日(米国時間)、「Google スライド」のGeminiによるスライド作成機能で、編集可能なスライドの作成に対応する。英語のほか多くの言語でも順次展開開始する。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "生成AI",
-        "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_d7662bcfb5f5309d",
       "title": "J:COM、偽サイトへ誘導される「経路ハイジャック」対策として「ROV」を導入",
       "url": "https://internet.watch.impress.co.jp/docs/news/2098684.html",
@@ -1349,24 +1385,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_28d3083abd4132fd",
-      "title": "京都府、府立高校の生徒約1万人に“AI英会話”導入　多くの外国人が訪れる都市で「英語は必須スキル」",
-      "url": "https://www.itmedia.co.jp/aiplus/articles/2604/02/news108.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-04-02T06:32:00.000Z",
-      "summary": "京都府が府立高校生約1万人を対象にAI英会話サービスを導入する。同府の担当者は「英語力は自らの可能性を広げる必須スキル」だとし、AI英会話の導入効果に期待を寄せる。",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "教育ニュース"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_ccf68ba13f2b05dc",
       "title": "ZTEのWi-Fiルーター「Sora」「Kumo」がお得に！　Amazon新生活セールFinal　スタイリッシュなWi-Fi 6モデル、据置きタイプ「Sora」は5235円",
       "url": "https://internet.watch.impress.co.jp/docs/shopping/2098431.html",
@@ -1379,25 +1397,6 @@
       "tags": [
         "インターネット",
         "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_773cbe809490daa3",
-      "title": "LLMの学習データ「枯渇元年」にどう立ち向かうか　国・組織を横断したデータ連携の仕組み実現へ、IPAが成果物公開",
-      "url": "https://www.itmedia.co.jp/aiplus/articles/2604/02/news085.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-04-02T02:48:00.000Z",
-      "summary": "AIの進化を支える高品質なデータの不足が懸念される中、IPAは2026年は「データ枯渇元年」になると説く。企業に眠る情報の活用が急務となる今、国境や組織を越えた新たなデータ連携の形「データスペース」を実現するための成果物が公開された。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用",
-        "教育ニュース"
       ],
       "priority_score": 50
     },
