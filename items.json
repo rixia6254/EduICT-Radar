@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-06T10:15:47.589Z",
+  "generated_at": "2026-04-06T21:32:11.914Z",
   "total": 102,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-04-06T10:15:32.772Z",
+      "published_at": "2026-04-06T21:31:58.965Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-04-06T10:15:32.772Z",
+      "published_at": "2026-04-06T21:31:58.965Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-04-06T10:15:32.772Z",
+      "published_at": "2026-04-06T21:31:58.965Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,113 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_696ac31584fe4927",
+      "title": "Synology、データ保護アプライアンス向けのアップデート「ActiveProtect Manager 1.2」で集中管理機能などを強化",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2099404.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-04-06T21:30:00.000Z",
+      "summary": "Synology Japan株式会社は4月6日、同社のデータ保護アプライアンス「ActiveProtect」向けに、集中管理機能の強化や対応プラットフォームを拡大するソフトウェアアップデート「ActiveProtect Manager（APM） 1.2」を公開した。",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_d0d0584efc9f9a88",
+      "title": "Wi-Fi 7の現状とWi-Fi 8（3）Wi-Fi 8を実現するPHYの技術群。安定性向上のELR、干渉対策のIM…【ネット新技術】",
+      "url": "https://internet.watch.impress.co.jp/docs/column/nettech/2089968.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-04-06T21:00:00.000Z",
+      "summary": "前回に引き続き、もう少しWi-Fi 8の改良点について説明していく。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_8e85a5537202eefb",
+      "title": "PythonフォーラムのPEPクイズが面白い　2つはホントで、1つはウソを見抜ける？",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2604/07/news010.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-04-06T20:00:00.000Z",
+      "summary": "皆さんはPEP（Pythonの仕様や提案をまとめた文書）って読んだことがありますか？ あってもなくても、3つあるPEPのタイトルのうち2つはホントで、1つはウソ。だとしたら、どれがウソかを当てたくなりません？ しかも、それだけじゃないんです（笑）。",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_5164a5788676fcc3",
+      "title": "AIがコードを書く時代、新人はどう育てる？　「使わせるか」「禁止するか」のジレンマ",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2604/07/news012.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-04-06T20:00:00.000Z",
+      "summary": "AIコーディングが当たり前になった今、新人教育の現場に新たな課題が生まれている。「使わせるか」「禁止するか」という問いに、明確な答えはあるのか。そのヒントを、現場の事例と筆者なりの考えから探る。",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "教育ニュース"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_0904fabcdd2cbe8f",
+      "title": "初の“長考できる”国産LLM、どう開発？　「PLaMo 3.0 Prime」の資料公開、PFN",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2604/06/news105.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-04-06T11:16:00.000Z",
+      "summary": "Preferred Networksは、フルスクラッチで開発したLLM「PLaMo 3.0 Prime」β版の開発に関する資料を公開した。同モデルの開発手法の一部や、同社が国産LLMを開発する理由などを紹介している。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_e1b6bb2646f24e53",
+      "title": "NTT、アサヒら流通業界で“集団防御”　サイバーセキュリティ新団体",
+      "url": "https://www.watch.impress.co.jp/docs/news/2099508.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-04-06T10:25:51.000Z",
+      "summary": "アサヒグループジャパン、NTT、トライアルホールディングス、三菱食品の4社は、サイバーセキュリティの強化を目的として、流通業界で情報共有や分析を行なう団体「流通ISAC」を4月に設立する。設立発起人はこの4社を含め10社になる見込み。",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_ccdf117e5441f99f",
@@ -1120,24 +1227,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_e6dd1289303a93d0",
-      "title": "OpenAI、Codexを従量課金に　Business料金も値下げ",
-      "url": "https://www.watch.impress.co.jp/docs/news/2099029.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-04-03T09:00:00.000Z",
-      "summary": "OpenAIは2日(米国時間)、コーディングエージェント「Codex」において、従量課金制の料金プランを提供開始した。ChatGPT BusinessおよびEnterprise向けに、固定料金なしでCodexの全機能を利用できる。また、ChatGPT Businessの年間料金も値下げする。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "生成AI",
-        "AI活用"
-      ],
-      "priority_score": 60
-    },
-    {
       "id": "item_bb0ae254a79a6ddb",
       "title": "作家・綾辻行人さんの作品装う“偽本”がAmazonに出現　本人が注意喚起　「誰かがAIで作ったようです」",
       "url": "https://www.itmedia.co.jp/aiplus/articles/2604/03/news097.html",
@@ -1294,42 +1383,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_dfd70774e1dc792c",
-      "title": "レノボとASUSのChromebookが、Amazon新生活セールFinalでお買い得！　2-in-1モデル「Lenovo Chromebook Duet 11」は4万9800円",
-      "url": "https://internet.watch.impress.co.jp/docs/shopping/2098799.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-04-03T02:30:00.000Z",
-      "summary": "Amazon.co.jpでは現在、4月6日までの期間限定でビッグセール「Amazon新生活セールFinal」が実施されている。Chromebookストアでは現在、Chromebookがタイムセール中だ。",
-      "starred": false,
-      "category": "dx",
-      "tags": [
-        "インターネット",
-        "セキュリティ",
-        "校務DX",
-        "GIGA"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_681f4faae427edc8",
-      "title": "Amazon新生活セールFinalで、「Echo」シリーズのスマートスピーカー／ディスプレイが特価！　「Echo Dot Max」が8980円、「Echo Show 5」が5130円など",
-      "url": "https://internet.watch.impress.co.jp/docs/shopping/2098798.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-04-03T02:00:00.000Z",
-      "summary": "Amazon.co.jpでは現在、4月6日までの期間限定でビッグセール「Amazon新生活セールFinal」が実施されており、同社のスマートスピーカー・ディスプレイ「Echo」シリーズ各種がセール価格で販売中だ。「Echo」シリーズは、音声認識エンジン「Alexa」を搭載したスマート端末。音声操作で各種の操作を行うことができる。",
-      "starred": false,
-      "category": "dx",
-      "tags": [
-        "インターネット",
-        "セキュリティ",
-        "校務DX",
-        "GIGA"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_9c4e40ef38625605",
       "title": "2030年までに、1兆パラメータを持つLLMの推論コストが90％以上削減される　ガートナー予想",
       "url": "https://www.itmedia.co.jp/news/articles/2604/03/news064.html",
@@ -1337,59 +1390,6 @@
       "source_name": "ITmedia AI+",
       "published_at": "2026-04-03T01:17:00.000Z",
       "summary": "米調査会社のガートナーは、2025年と比較した場合の大規模言語モデルにおける推論実行のコストが、1兆個のパラメータを持つモデルでは2030年までに90％以上削減されるとの予想を発表しました。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_55cd7be0f07646a9",
-      "title": "Google、エージェント特化の「Gemma 4」をApache 2.0で公開",
-      "url": "https://www.itmedia.co.jp/aiplus/articles/2604/03/news062.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-04-02T23:58:00.000Z",
-      "summary": "Googleは、高性能オープンモデル「Gemma 4」をApache 2.0ライセンスで公開した。エージェント型ワークフローに特化し、最大25.6万トークンのコンテキストウィンドウに対応。モバイル向けの軽量版から31Bの大型モデルまで4種を展開する。AndroidやNVIDIAのGPUにも最適化され、ローカル環境での高度な推論を支援する。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_fe91d4eb29fd2992",
-      "title": "「PC触らない」工場作業員をたった“2カ月”で「AI活用キーパーソン」に　ダイハツが進める地道なDX人材育成",
-      "url": "https://www.itmedia.co.jp/business/articles/2604/03/news018.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-04-02T23:00:00.000Z",
-      "summary": "「人にやさしい、みんなのデジタル」を掲げ、さまざまな現場発の改革を進めてきたダイハツ。普段はPCを触ることすらなかった工場のライン作業員が「AI活用のキーパーソン」として活躍するなど、多くの成果が生まれている。同社のDX人材育成をリードする、太古無限氏に話を聞いた。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_14137c0c2e803ee3",
-      "title": "GeminiがGoogleスライドで「編集可能なスライド」生成可能に　日本語版も順次対応予定",
-      "url": "https://www.itmedia.co.jp/aiplus/articles/2604/03/news051.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-04-02T23:00:00.000Z",
-      "summary": "Google スライドのGeminiで「編集可能なスライド」を生成できるようになった。リリース当初は米国など一部の地域で利用でき、日本語にも順次対応予定だ。",
       "starred": false,
       "category": "ai",
       "tags": [
