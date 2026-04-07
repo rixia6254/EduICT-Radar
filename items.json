@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-07T10:12:09.420Z",
+  "generated_at": "2026-04-07T21:37:08.002Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-04-07T10:11:57.637Z",
+      "published_at": "2026-04-07T21:36:55.874Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-04-07T10:11:57.637Z",
+      "published_at": "2026-04-07T21:36:55.874Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-04-07T10:11:57.637Z",
+      "published_at": "2026-04-07T21:36:55.874Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,91 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_c8d067e7a363c5c3",
+      "title": "マイクロソフト、日本に約1兆6000億円を投資、「技術」「信頼」「人材」の3本柱を軸にAI主導型成長を目指す",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2099709.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-04-07T21:30:00.000Z",
+      "summary": "マイクロソフトは4月3日、2026年から2029年までに日本に100億ドル（約1兆6000億円）を投資する計画を発表した。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_932f4969ccf06401",
+      "title": "AIは何を「知っている」のか、今のAIは何を「していない」のか──栢森情報科学振興財団30周年記念講演が問いかけたもの[Sponsored]",
+      "url": "https://internet.watch.impress.co.jp/docs/topic/special/2096189.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-04-07T21:00:00.000Z",
+      "summary": "公益財団法人栢森情報科学振興財団の設立30周年記念イベント「ロボット・AI新世紀 ─未来への懸け橋─」の基調講演が2月27日、名古屋マリオットアソシアホテルで行われた。名古屋大学名誉教授の間瀬健二氏が司会を務め、認知科学、ロボティクス、記号システム、発達科学という異なる領域から4人の研究者が登壇した。",
+      "starred": false,
+      "category": "lesson",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "授業実践",
+        "情報Ⅰ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_0f2ca90ffd425f62",
+      "title": "判読困難な「中世ギリシャ語」を読み取り、TOPPANがAI-OCR開発　日本語の「くずし字」解読技術を活用",
+      "url": "https://www.itmedia.co.jp/news/articles/2604/07/news124.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-04-07T11:50:00.000Z",
+      "summary": "TOPPANグループは4月7日、中世ギリシャ語の写本を解読するAI-OCRエンジンを開発したと発表した。くずし字解読で培ったAI画像認識技術を転用し、ヴァチカン教皇庁図書館保有の写本50点と翻刻テキストを学習データに活用。認識精度95%以上を目指す。4月25日から印刷博物館の企画展でデモ公開する。",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "教育ニュース"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_5cab3abe23089616",
+      "title": "楽天カード、チャットサポートにAI　回答時間を60秒短縮",
+      "url": "https://www.watch.impress.co.jp/docs/news/2099787.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-04-07T11:00:00.000Z",
+      "summary": "楽天カードは、「楽天カードチャットサポート」にAI検索システムを本格導入した。より早く正確に回答を提示することを目的とし、AIが最適な回答を選択してオペレーターに提案する。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_c3d58eae208ab2d9",
+      "title": "ガンダムの「ハロ」が宇宙へ――27年春までに打ち上げ、ISS「きぼう」で稼働　“生みの親”大河原氏に聞くこだわり",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2604/07/news122.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-04-07T10:28:00.000Z",
+      "summary": "宇宙事業を手掛けるスタートアップのスペースエントリー（茨城県つくば市）は4月7日、球型のロボット「みんなのハロ」を国際宇宙ステーション（ISS）に滞在させる参加型プロジェクト「HELLO, HARO」を発表した。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_d4811eae5e16ef6e",
@@ -1166,22 +1251,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_d0569b43813806d1",
-      "title": "KDDI・ローソン、“商品棚”単位で設置できるオフィス無人コンビニ",
-      "url": "https://www.watch.impress.co.jp/docs/news/2099436.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-04-06T07:42:18.000Z",
-      "summary": "KDDIとローソンは、オフィス空間に合わせた出店モデル「オフィスローソン」の新しい形態の実証実験を4月7日から開始する。対象店舗は同日にオープンする「ローソンS KDDI多摩センタービル店」。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_ca0a22e6144dd851",
       "title": "松任谷由実、AIボイスで声優に　マンガ「火の鳥」原作の公演で",
       "url": "https://www.itmedia.co.jp/aiplus/articles/2604/06/news090.html",
@@ -1252,44 +1321,6 @@
         "AI活用"
       ],
       "priority_score": 50
-    },
-    {
-      "id": "item_860c4c94fc461a75",
-      "title": "“詫び石”か？　「Claude」有料ユーザーに追加クレジット付与、最大200ドル分　4月17日までに申請を",
-      "url": "https://www.itmedia.co.jp/news/articles/2604/06/news076.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-04-06T04:30:00.000Z",
-      "summary": "クレジットを過剰に消費させるバグが確認されており、ユーザーから批判を浴びていた。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_62e35bac2a4f1c9c",
-      "title": "日本企業の8割がAI導入も「費用対効果」は説明困難？　IT・セキュリティ部門の悩み",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2604/06/news041.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-04-06T04:00:00.000Z",
-      "summary": "オープンテキストの調査によると、日本企業の生成AI導入率は80％でグローバル平均の32％を大きく上回った。一方で、AI投資の費用対効果を実証できる企業は35％にとどまり、効果測定の体制整備が課題となっている。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用",
-        "セキュリティ",
-        "情報モラル"
-      ],
-      "priority_score": 60
     },
     {
       "id": "item_15013dd20f4371c1",
@@ -1403,39 +1434,6 @@
       "tags": [
         "インターネット",
         "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_3b77e645b929de6c",
-      "title": "アイ・オー、USB Type-C接続でPCに給電できる4K対応27型ディスプレイ発売",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2099057.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-04-05T23:30:00.000Z",
-      "summary": "株式会社アイ・オー・データ機器は、USB Type-C接続の27型4Kワイドディスプレイを発売する。法人向けモデルは型番「LCD-CU273AS-F」で4月下旬の出荷予定、個人向けモデルは型番「LCD-CU273AS-FX」で5月下旬の出荷予定。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_8b99561b03abfc6c",
-      "title": "「サプライチェーン強化のためのセキュリティ対策評価制度」（SCS評価制度）、約6割の企業が取得を検討～VLCセキュリティ調査　大企業では約4割が「わからない」",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2099020.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-04-05T23:00:00.000Z",
-      "summary": "株式会社VLCセキュリティは4月3日、サプライチェーンにおける発注者、受注者それぞれの立場からの現状と課題、検討状況をまとめたレポートを公開した。",
-      "starred": false,
-      "category": "security",
-      "tags": [
-        "インターネット",
-        "セキュリティ",
-        "情報モラル"
       ],
       "priority_score": 50
     },
