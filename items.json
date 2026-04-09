@@ -1,32 +1,14 @@
 {
-  "generated_at": "2026-04-09T10:17:53.177Z",
+  "generated_at": "2026-04-09T21:41:02.752Z",
   "total": 103,
   "items": [
-    {
-      "id": "item_21f8651de3f2baea",
-      "title": "文部科学省ホームページトップはこちら",
-      "url": "https://www.mext.go.jp/",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-04-09T10:17:42.202Z",
-      "summary": "",
-      "starred": false,
-      "category": "admin",
-      "tags": [
-        "行政",
-        "文科省",
-        "制度",
-        "教育ニュース"
-      ],
-      "priority_score": 60
-    },
     {
       "id": "item_bd1951ae70f98dac",
       "title": "サイトマップはこちら",
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-04-09T10:17:42.202Z",
+      "published_at": "2026-04-09T21:40:49.646Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +25,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-04-09T10:17:42.202Z",
+      "published_at": "2026-04-09T21:40:49.646Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +36,133 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_21f8651de3f2baea",
+      "title": "文部科学省ホームページトップはこちら",
+      "url": "https://www.mext.go.jp/",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-04-09T21:40:49.645Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_ecddb6ad2cf94db1",
+      "title": "流通業界で初の情報共有・分析組織「流通ISAC」設立、アサヒ、NTTら",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2100426.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-04-09T21:30:00.000Z",
+      "summary": "アサヒグループジャパン株式会社、NTT株式会社、株式会社トライアルホールディングス、三菱食品株式会社は、流通業界におけるサイバーセキュリティ対策を強化するために情報共有と分析を行う枠組みとして、一般社団法人流通ISACを4月中に設立すると発表した。",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_ed73111eece9bd6a",
+      "title": "PayPayを悪用した架空請求詐欺に注意！ SMSのリンクは開かずに、公式サイトで確認しよう【読めば身に付くネットリテラシー】",
+      "url": "https://internet.watch.impress.co.jp/docs/column/netliteracy/2100042.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-04-09T21:00:00.000Z",
+      "summary": "3月ごろから、PayPayを騙る架空請求詐欺のショートメッセージが増加している模様です。PayPayアプリの機能を悪用するもので、ターゲットを信用させるための小細工もされているため、朝起きたばかりのときやお酒を飲んでいるときなどに受け取ると、コロッと引っ掛かってしまう可能性もあります。悔しい思いをしないためにも、詐欺の手口の事例をチェックして自己防衛しましょう。",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "情報モラル",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_39771f8ea8f4c041",
+      "title": "VS CodeのPython拡張機能が強化、venv内パッケージのシンボル検索が可能に",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2604/10/news019.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-04-09T20:00:00.000Z",
+      "summary": "VS Code用Python拡張機能の2026年3月更新版が公開された。仮想環境にインストール済みのパッケージのシンボルを［ワークスペース内のシンボルへ移動］で検索できるようになった。コードを深く理解するのに有用な機能だ。",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_608d0be82001d1bf",
+      "title": "本番環境のAIエージェント構築を迅速化「Claude Managed Agents」",
+      "url": "https://www.watch.impress.co.jp/docs/news/2100586.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-04-09T13:59:02.000Z",
+      "summary": "Anthropicは9日(米国時間)、AIエージェントを大規模に構築・展開するためのAPI製品群「Claude Managed Agents」のパブリックベータ版を提供開始した。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "生成AI",
+        "AI活用"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_db550cd530e08b81",
+      "title": "「AIはあくまで補助」――朝日新聞、「社長『AI全振り』宣言」との日経記事巡り声明",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2604/09/news116.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-04-09T10:38:00.000Z",
+      "summary": "朝日新聞社は、日本経済新聞が公開した記事「朝日新聞社長『AI全振り』宣言 スーパー記者構想の狙いは」を巡り声明を出した。「AIはあくまで人間を補助する役割とし、最終的な判断と責任は人間が担う」としている。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_1c6e4c8502af3112",
+      "title": "東京都、内製のAI基盤「A1」（えいいち）　ノーコードでアプリ開発→共有　名前の由来は……",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2604/09/news109.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-04-09T10:22:00.000Z",
+      "summary": "東京都は、内製のAIプラットフォーム「A1」（えいいち）の本格運用を始めたと発表した。職員がノーコードで業務に活用できるアプリを開発・共有できるという。",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_f79a64309c5f6e65",
@@ -592,26 +701,6 @@
         "AI活用",
         "教材",
         "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_b6e726578193eb7c",
-      "title": "超知能社会の「AIへの権利」「週4勤務」　OpenAIが提言",
-      "url": "https://www.watch.impress.co.jp/docs/news/2100224.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-04-09T00:37:09.000Z",
-      "summary": "OpenAIは6日(米国時間)、「インテリジェンス時代の産業政策(Industrial Policy for the Intelligence Age)」と題した文章を発表した。AIが人間の能力を超える「超知能(スーパーインテリジェンス)」への移行期において、常に人間を第一に考えるための政策アイデアを提案するもので、AIへのアクセスを基本的権利とすることや、週4日勤務の運用などを提案している。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "生成AI",
-        "AI活用",
-        "行政",
-        "文科省"
       ],
       "priority_score": 50
     },
@@ -1259,44 +1348,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_c393acc9e8d0888e",
-      "title": "Claude次世代モデル「Mythos」が一般公開されないワケ　セキュリティ能力高すぎて「ゼロデイ攻撃自律開発」「出られないはずのサンドボックスから脱出」",
-      "url": "https://www.itmedia.co.jp/aiplus/articles/2604/08/news092.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-04-08T05:58:00.000Z",
-      "summary": "Anthropicは、現行モデルを凌ぐ性能を持つ次世代モデル「Claude Mythos Preview」の存在を公表した。攻撃への悪用リスクから一般公開を見送り、現在は防御目的の限定活用にとどめている。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用",
-        "セキュリティ",
-        "情報モラル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_b729ce2b4d35fa69",
-      "title": "ZOZO、独自のAI活用指標「アザース」導入　“エンジニアか否か”問わず同一基準で評価",
-      "url": "https://www.itmedia.co.jp/aiplus/articles/2604/08/news081.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-04-08T04:49:00.000Z",
-      "summary": "ZOZOは、独自のAI活用指標「All ZOZO AI Readiness Score」（AZARS、アザース）を導入したと発表した。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_784e83e9d1926bac",
       "title": "村田製作所、社内システムへの不正アクセスについて影響範囲と現在の事業活動の状況を公表　顧客、取引先、従業員の個人情報が不正に取得される",
       "url": "https://internet.watch.impress.co.jp/docs/news/2100004.html",
@@ -1310,24 +1361,6 @@
         "インターネット",
         "セキュリティ",
         "情報モラル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_6922405c50a4231e",
-      "title": "「チームとしてのAI活用」が進まないのはなぜか？　“現場任せ”の限界、Gartnerが指摘",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2604/08/news052.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-04-08T04:00:00.000Z",
-      "summary": "Gartnerは、職場でのAI活用に関する複数の調査結果を発表した。管理職の45％がAIによってチームの業務が期待通りに改善されたと回答した一方で、AIの組織的活用に向けた課題も明らかになった。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
       ],
       "priority_score": 50
     },
@@ -1441,38 +1474,6 @@
       "source_name": "INTERNET Watch",
       "published_at": "2026-04-07T22:30:00.000Z",
       "summary": "エレコム株式会社は、半固体リチウムイオン電池を採用したケーブル一体型モバイルバッテリーを4月上旬より発売する。直販サイト「エレコムダイレクトショップ」での販売価格は、10000mAhの「DE-C84-10000」が8280円、5000mAhの「DE-C83-5000」が5980円。本体カラーはブラックとホワイト。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_5ae6938b305b5987",
-      "title": "サンワサプライ、Wi-FiルーターやノートPCの熱暴走を防ぐ小型クーラー「TK-CLN32U」発売",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2099795.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-04-07T22:00:00.000Z",
-      "summary": "サンワサプライ株式会社は4月7日、熱を持ちやすい機器を冷却するUSB駆動の小型クーラー「TK-CLN32U」を発売した。市場想定価格は4400円。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_c8d067e7a363c5c3",
-      "title": "マイクロソフト、日本に約1兆6000億円を投資、「技術」「信頼」「人材」の3本柱を軸にAI主導型成長を目指す",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2099709.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-04-07T21:30:00.000Z",
-      "summary": "マイクロソフトは4月3日、2026年から2029年までに日本に100億ドル（約1兆6000億円）を投資する計画を発表した。",
       "starred": false,
       "category": "tech",
       "tags": [
