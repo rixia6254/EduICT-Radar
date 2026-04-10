@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-10T10:13:16.140Z",
+  "generated_at": "2026-04-10T21:30:43.910Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-04-10T10:13:01.397Z",
+      "published_at": "2026-04-10T21:30:28.822Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-04-10T10:13:01.397Z",
+      "published_at": "2026-04-10T21:30:28.822Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-04-10T10:13:01.397Z",
+      "published_at": "2026-04-10T21:30:28.822Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -52,6 +52,116 @@
         "文科省",
         "制度",
         "教育ニュース"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_13afe4e4588db241",
+      "title": "東京都、15歳未満の子どもに11000円支給 「子育て応援+」",
+      "url": "https://www.watch.impress.co.jp/docs/news/2100980.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-04-10T14:18:30.000Z",
+      "summary": "東京都は、子育て支援として、15歳未満の子どもに11,000円を1回支給する「子育て応援+(プラス)」を開始する。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_92f935806b530f84",
+      "title": "小野田紀美AI戦略担当相、自身のAI利用は「業務で必要性感じず」　人材育成を推進",
+      "url": "https://www.itmedia.co.jp/news/articles/2604/10/news132.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-04-10T12:08:00.000Z",
+      "summary": "小野田紀美人工知能（AI）戦略担当相が記者会見で、自身のAIの利用状況を問われ、「私自身は今のところ、自分の業務の中では必要性を感じていないので、必要な時には使おうと思う」と述べた。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_2be4f1a646335554",
+      "title": "米財務長官とFRB議長が銀行幹部に警告　Anthropicの最新AI巡り、サイバーセキュリティに懸念",
+      "url": "https://www.itmedia.co.jp/news/articles/2604/10/news131.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-04-10T11:40:00.000Z",
+      "summary": "ベセント米財務長官とパウエル連邦準備理事会（FRB）議長が今週に、銀行幹部との緊急会合を開き、米Anthropicの最新AIモデル「Claude Mythos」がもたらすサイバーセキュリティ上のリスクについて警告したと、複数の関係筋が9日明らかにした。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_35c6650c43a6882b",
+      "title": "IntelとGoogle、AIインフラの発展に向け協業",
+      "url": "https://www.watch.impress.co.jp/docs/news/2100932.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-04-10T11:01:00.000Z",
+      "summary": "IntelとGoogleは9日(米国時間)、次世代のAIおよびクラウド基盤の発展に向けた複数年にわたる協業を発表した。最新のヘテロジニアス(異種混合)AIシステムの高度化に向け、CPUとカスタムIPU(Infrastructure Processing Unit)が果たす役割を強化する。",
+      "starred": false,
+      "category": "dx",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "校務DX",
+        "GIGA"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_8d80f534ca7a1107",
+      "title": "Claudeを“コスパ良く”利用可能に　性能の異なるモデルが“適材適所”で稼働、Anthropicの新ツール",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2604/10/news130.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-04-10T10:19:00.000Z",
+      "summary": "米Anthropicは、性能が異なるAIモデルを“適材適所”で稼働させ、自律的にタスクをこなす際のコストパフォーマンスを高める「The advisor strategy」（アドバイザー戦略）を発表した。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_78ef4da76828d6b5",
+      "title": "アニメ「本好きの下剋上」OP映像差し替え　“AI禁止”のはずが「AI使用と判明」、制作会社が謝罪",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2604/10/news129.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-04-10T10:05:00.000Z",
+      "summary": "アニメ制作会社のウィットスタジオは、同社が制作するアニメ「本好きの下剋上 領主の養女」のオープニング映像を差し替えると発表した。同社では、映像制作における生成AIの使用を原則認めていないにもかかわらず、同オープニング映像の一部でAIを使用していたことが判明したという。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
       ],
       "priority_score": 60
     },
@@ -229,7 +339,7 @@
     },
     {
       "id": "item_c3000f6136703df9",
-      "title": "ソフトバンク、通信料金を値上げ 110～550円",
+      "title": "ソフトバンクが値上げ 月額110～550円　“しっかり使うユーザー”に注力",
       "url": "https://www.watch.impress.co.jp/docs/news/2100752.html",
       "source_id": "impress_watch",
       "source_name": "Impress Watch",
@@ -1120,38 +1230,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_dceeed63882b157a",
-      "title": "ピクシブに出版社公式アカウント　連載や試し読み投稿",
-      "url": "https://www.watch.impress.co.jp/docs/news/2100522.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-04-09T09:34:23.000Z",
-      "summary": "ピクシブは、「pixiv」に出版社が連載や試し読み作品を投稿できる「レーベルアカウント」制度を開始した。12社の23アカウントが活動を開始している。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_5fa921b8587247f4",
-      "title": "TOPPAN、\"くずし字\"解読応用で中世ギリシャ語を読めるAI-OCR",
-      "url": "https://www.watch.impress.co.jp/docs/news/2100512.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-04-09T09:12:33.000Z",
-      "summary": "TOPPANホールディングスは、一般には読み取りが困難とされる中世ギリシャ語の解読が可能なAI-OCRエンジンを開発した。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_2453f36fd65a48c3",
       "title": "情報1 授業教材",
       "url": "https://note.com/chakkun1121/n/nda035c4504a3",
@@ -1268,24 +1346,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_8afebebe9d70b1f9",
-      "title": "本番環境のAIエージェント開発を「10倍」高速化――「Claude Managed Agents」発表",
-      "url": "https://www.itmedia.co.jp/aiplus/articles/2604/09/news067.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-04-09T03:25:00.000Z",
-      "summary": "Anthropicは、本番運用向けAIエージェントの構築、運用を効率化する「Claude Managed Agents」のパブリックβ版を公開した。実行環境やマルチエージェント協調機能を備え、開発の「10倍」高速化をうたう。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_e3b8513681aa75e3",
       "title": "アネックスの電工用途向けドライバーがAmazonでタイムセール！　差替式の電工用ドライバーセット「No.6950」は1244円",
       "url": "https://internet.watch.impress.co.jp/docs/shopping/2100243.html",
@@ -1338,24 +1398,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_10b08d423706cf49",
-      "title": "Google、日本でも「Gemini for Home」の早期アクセス開始",
-      "url": "https://www.itmedia.co.jp/news/articles/2604/09/news069.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-04-09T02:04:00.000Z",
-      "summary": "Googleは、家庭向けAIアシスタント「Gemini for Home」の早期アクセスを日本でも開始した。従来の「Googleアシスタント」に代わり、曖昧な指示や文脈を理解する。音楽再生や家電操作が自然な対話で行えるほか、スマートカメラの映像履歴をAIが解析し、特定のシーンを検索・要約する機能も備える。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_1fbf5fcd2ced808a",
       "title": "ロジクールの高機能マウスが、パッドとセットでお買い得！　Amazonセール情報　フラッグシップマウス「MX MASTER 4 MX2400」のセットが1万9400円",
       "url": "https://internet.watch.impress.co.jp/docs/shopping/2100239.html",
@@ -1370,48 +1412,6 @@
         "セキュリティ"
       ],
       "priority_score": 50
-    },
-    {
-      "id": "item_9f9f654b0c3cd86c",
-      "title": "「Gemini」アプリで「NotebookLM」を直接利用可能に　「Notebooks」セクション新設",
-      "url": "https://www.itmedia.co.jp/aiplus/articles/2604/09/news062.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-04-09T00:25:00.000Z",
-      "summary": "Googleは、AIアプリ「Gemini」に新機能「Notebooks」を追加した。NotebookLMとの連携を強化し、サイドバーから直接ノートブックの作成や管理が可能になる。特定資料に基づいた回答生成や、長文執筆機能「Canvas」、音声概説の生成もGemini上で完結する。有料プランユーザーから順次利用可能になる。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_49b1cbf7d43fdaaa",
-      "title": "自然言語で「XVL Studio」をカスタマイズ　生成AIによる自動プログラミング機能",
-      "url": "https://monoist.itmedia.co.jp/mn/articles/2604/09/news034.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-04-09T00:00:00.000Z",
-      "summary": "ラティス・テクノロジーは、3Dデータ活用ソフトウェア「XVL Studio」に生成AIを用いた自動プログラミング機能を追加した。ユーザーが自然言語で処理内容を指示することで、「XVL Studio SDK」を用いたプログラムを自動生成し、そのまま実行できる。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用",
-        "授業実践",
-        "情報Ⅰ",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 70
     },
     {
       "id": "item_a78e231d4580f967",
