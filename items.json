@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-11T21:26:06.580Z",
+  "generated_at": "2026-04-12T05:27:25.272Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-04-11T21:25:53.961Z",
+      "published_at": "2026-04-12T05:27:13.618Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-04-11T21:25:53.961Z",
+      "published_at": "2026-04-12T05:27:13.618Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-04-11T21:25:53.961Z",
+      "published_at": "2026-04-12T05:27:13.618Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,56 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_3ae29156537ba53f",
+      "title": "超細長い「ツイ廃」モニターの最適解は「AIコーディング」【ミニレビュー】",
+      "url": "https://www.watch.impress.co.jp/docs/review/minireview/2099132.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-04-12T01:00:00.000Z",
+      "summary": "数年前からディープなパソコンユーザーの間でちょっとした流行となっているのが、極端に細長い「バーモニター」と呼ばれる小型モニターです。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_8911cec1646c801e",
+      "title": "OpenAIのアルトマンCEO、批判的報道と自宅への火炎瓶事件についての個人ブログ公開　家族写真も",
+      "url": "https://www.itmedia.co.jp/news/articles/2604/12/news018.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-04-12T00:19:00.000Z",
+      "summary": "OpenAIのサム・アルトマンCEOは、自身を批判する報道や自宅への火炎瓶投げ込み事件を受け、個人ブログで心境を明かした。AIへの不安に理解を示しつつ、過度な扇動が暴力を招くリスクを指摘。AGIを巡る権力争いを「権力の指輪」に例え、技術を広く共有し、民主的なプロセスで管理する重要性を強調している。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_2fccb9bc2e78ad3c",
+      "title": "アナログ+デジタルのチープカシオに春のカラー",
+      "url": "https://www.watch.impress.co.jp/docs/news/2100131.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-04-11T23:30:00.000Z",
+      "summary": "カシオ計算機は、「CASIO CLASSIC」の新作として、「AQ-240E」のカラーバリエーション3機種を4月に発売する。価格は7,700円。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_de32aeb4a96585cf",
@@ -610,24 +660,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_0347cd9f255bd866",
-      "title": "ChatGPT、月16800円(100ドル)の新Proプラン　「重い日常使用」に",
-      "url": "https://www.watch.impress.co.jp/docs/news/2100662.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-04-10T02:05:24.000Z",
-      "summary": "OpenAIは9日(米国時間)、ChatGPTに月額100ドルのProプランを追加し、展開を開始した。日本円では月額16,800円。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "生成AI",
-        "AI活用"
-      ],
-      "priority_score": 60
-    },
-    {
       "id": "item_36716e98beb41140",
       "title": "いえらぶGROUP、クラウドサービスへの不正アクセスと情報の不正読み出しを確認　SUUMO、CHINTAIなどの不動産情報サービスに影響か",
       "url": "https://internet.watch.impress.co.jp/docs/news/2100663.html",
@@ -708,22 +740,6 @@
         "生成AI",
         "AI",
         "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_12fcf38b564b1bf7",
-      "title": "コクヨ、高級筆記具「KOKUYO WP」　2026年限定4色",
-      "url": "https://www.watch.impress.co.jp/docs/news/2100361.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-04-10T00:00:00.000Z",
-      "summary": "コクヨは、高級筆記具「KOKUYO WP」から、2026年限定色「KOKUYO WP Limited Color 2026」と一部店舗限定色「KOKUYO WP Store Exclusive」の2種4品番を4月17日に発売する。価格は「Limited Color 2026」が7,700円、「Store Exclusive」が9,900円。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
       ],
       "priority_score": 50
     },
@@ -1295,27 +1311,6 @@
         "生成AI",
         "AI",
         "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_508bce7fd117d663",
-      "title": "Geminiが手取り足取りPythonを指南　Google Colabの「学習モード」使ってみた",
-      "url": "https://www.itmedia.co.jp/aiplus/articles/2604/09/news102.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-04-09T07:45:00.000Z",
-      "summary": "Google Colabにユーザーのスキル向上を支援する「学習モード」が実装された。実際に使ってみた様子をお届けする。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用",
-        "教材",
-        "ツール",
-        "教育ニュース"
       ],
       "priority_score": 50
     },
