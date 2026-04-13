@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-13T10:51:38.384Z",
+  "generated_at": "2026-04-13T21:41:15.767Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-04-13T10:51:27.262Z",
+      "published_at": "2026-04-13T21:41:03.020Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-04-13T10:51:27.262Z",
+      "published_at": "2026-04-13T21:41:03.020Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-04-13T10:51:27.262Z",
+      "published_at": "2026-04-13T21:41:03.020Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,100 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_42f97dc9fc08019f",
+      "title": "Google、NICTおよびデジタル庁と協力した取り組みを発表。「AIを活用して日本のデジタル基盤を守る」　Japan Cybersecurity Initiativeシンポジウム、有識者会議レポートも無料公開",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2101363.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-04-13T21:30:00.000Z",
+      "summary": "Japan Cybersecurity Initiativeは4月13日、シンポジウム「Japan Cybersecurity Initiative シンポジウム -AI 時代の経済安全保障とサイバーレジリエンス-」を開催。Googleが国立研究開発法人情報通信研究機構（NICT）およびデジタル庁と共同で実施している取り組みと、有識者会議レポートを発表した。",
+      "starred": false,
+      "category": "dx",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "校務DX",
+        "GIGA",
+        "情報モラル",
+        "行政",
+        "文科省"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_93f0ab1a79cdf280",
+      "title": "「75万円の特別控除」を最大限に受けるには？ 22年ぶりの青色申告制度の大変革と注意点、freeeが解説",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2101278.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-04-13T21:10:00.000Z",
+      "summary": "青色申告制度の22年ぶりになるという大変革が行われ、最大特典である「75万円の特別控除」をフルに享受するためにはデジタル化が必須となる。フリー株式会社（freee）が4月8日、「令和8年度（2026年度）税制改正大綱」に関するメディア向け勉強会を開催し、改正による変更点を解説するとともに、紙での申告のままでは控除額が大幅に引き下げられることなどを説明。青色申告のデジタル化を最大限に活かすアプリケー…",
+      "starred": false,
+      "category": "dx",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "校務DX",
+        "GIGA",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_5fa86fc1efe04791",
+      "title": "AI時代でも米国のセキュリティリーダーたちは実質週6日以上勤務、精神的な負担も【海の向こうの“セキュリティ”】",
+      "url": "https://internet.watch.impress.co.jp/docs/column/security/2100779.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-04-13T21:00:00.000Z",
+      "summary": "イスラエルのセキュリティ企業Seemplicityは、米国企業を対象としたサイバーセキュリティ人材に関する調査報告書「The 2026 State of the Cybersecurity Workforce Report（2026年サイバーセキュリティ人材の現状レポート）」を公開しました。この報告書は、サブタイトル「Operational strain, skill evolution, and…",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_1acfaa1f8de0dc6e",
+      "title": "CPythonはRustの夢を見るか　Rust for CPythonがPython 3.16に向けた計画を公表",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2604/14/news017.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-04-13T20:00:00.000Z",
+      "summary": "CPython（PythonのリファレンスC実装）にRustを導入する取り組みの進捗（しんちょく）が報告された。まずはPython 3.16でRust製の拡張モジュールをオプションとして組み込むことを目標として、PEPの提出が計画されている。",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_d8a1e31ee51da503",
+      "title": "アスリートの姿勢をAIで推定、スノボ空中技のメカニズムを分析　Google Cloudが冬季五輪米国代表に提供",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2604/13/news127.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-04-13T11:00:00.000Z",
+      "summary": "Google CloudはGoogle DeepMindと共同で、スキーやスノーボード選手の複雑な空中技を3次元で解析するAIシステムを開発し、ミラノ・コルティナ五輪の米国代表チームに提供した。リハビリの現場や向上での応用も見込めるとうたう。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_b633e045b4e1673f",
@@ -1282,28 +1376,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_88956c11598e750a",
-      "title": "28年までに生成AIアプリの4分の1にセキュリティ事故、MCP普及でリスク拡大――Gartner予測",
-      "url": "https://www.itmedia.co.jp/aiplus/articles/2604/10/news117.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-04-10T07:00:00.000Z",
-      "summary": "Gartnerは、2028年までに企業向け生成AIアプリケーションの25％がセキュリティインシデントを経験すると予測。MCPなどの規格がはらむリスクに対し、業務専門家を交えた厳格なガードレール定義と監視体制の構築が必要だと指摘した。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用",
-        "セキュリティ",
-        "情報モラル",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 60
-    },
-    {
       "id": "item_91233e116b42d4a0",
       "title": "ロシアのサイバー攻撃グループ「APT28」が、古いルーターの脆弱性を悪用したDNSハイジャック攻撃。米英機関が情報公開",
       "url": "https://internet.watch.impress.co.jp/docs/news/2100776.html",
@@ -1317,26 +1389,6 @@
         "インターネット",
         "セキュリティ",
         "情報モラル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_048466886d29acaf",
-      "title": "AIエージェントの「スキル」の品質低下を防ぐ？　テストと検証機能を強化",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2604/10/news060.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-04-10T04:00:00.000Z",
-      "summary": "Anthropicは、AIアシスタント「Claude」の動作を拡張するAgent Skills作成ツール「skill-creator」に評価機能とベンチマーク機能を追加した。スキル作成者がコードを書かずにスキルの動作検証や品質を測定できるという。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用",
-        "教材",
-        "ツール"
       ],
       "priority_score": 50
     },
@@ -1388,54 +1440,6 @@
         "校務DX",
         "GIGA",
         "情報モラル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_1d8128fabc13b7ce",
-      "title": "Googleフォト、ユーザーが着ていた服を記憶してバーチャルで組み合わせるコーディネート機能をテスト中か【やじうまWatch】",
-      "url": "https://internet.watch.impress.co.jp/docs/yajiuma/2100644.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-04-10T01:57:08.000Z",
-      "summary": "Googleフォトが、ユーザーの服を記憶し、それらをコーディネートする機能をテストしている可能性があることが明らかになった。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_eda38465d2fb218d",
-      "title": "YouTube TVの動画広告、これまでの上限60秒から90秒に拡大？ 海外掲示板で報告される【やじうまWatch】",
-      "url": "https://internet.watch.impress.co.jp/docs/yajiuma/2100631.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-04-10T01:56:50.000Z",
-      "summary": "YouTube TVでこれまでよりも長い上限90秒の動画広告について海外掲示板で報告され、波紋を呼んでいる。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_d90ed7e73812bc30",
-      "title": "AmazonでJVCケンウッド製の完全ワイヤレスイヤホンが安い！　耳をふさがないオープンイヤー型の「HA-NP39T」は9480円",
-      "url": "https://internet.watch.impress.co.jp/docs/shopping/2100612.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-04-10T01:30:00.000Z",
-      "summary": "Amazon.co.jpのJVCケンウッドストアページでは現在、同社の完全ワイヤレスイヤホンがセール価格で販売中だ。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
       ],
       "priority_score": 50
     },
