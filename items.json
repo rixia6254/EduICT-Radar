@@ -1,31 +1,14 @@
 {
-  "generated_at": "2026-04-14T10:21:14.817Z",
+  "generated_at": "2026-04-14T21:43:27.876Z",
   "total": 103,
   "items": [
-    {
-      "id": "item_bd1951ae70f98dac",
-      "title": "サイトマップはこちら",
-      "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-04-14T10:20:59.768Z",
-      "summary": "",
-      "starred": false,
-      "category": "admin",
-      "tags": [
-        "行政",
-        "文科省",
-        "制度"
-      ],
-      "priority_score": 50
-    },
     {
       "id": "item_5a2c7864b68dcd43",
       "title": "過去の文部科学省ホームページ（※国立国会図書館ホームページへリンク）",
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-04-14T10:20:59.768Z",
+      "published_at": "2026-04-14T21:43:16.492Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +26,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-04-14T10:20:59.767Z",
+      "published_at": "2026-04-14T21:43:16.491Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +37,126 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_bd1951ae70f98dac",
+      "title": "サイトマップはこちら",
+      "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-04-14T21:43:16.491Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_f42b38ed3652b431",
+      "title": "NTT本社が移転予定の「内幸町一丁目街区開発プロジェクト」、街区名称を「HIBIYA CROSSPARK」に決定",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2101617.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-04-14T21:30:00.000Z",
+      "summary": "内幸町一丁目街区（東京都千代田区）を開発する事業者らは、「（仮称）内幸町一丁目街区開発プロジェクト」の街区名称を「HIBIYA CROSSPARK」（日比谷クロスパーク）に決定し、ロゴマークおよび街区コンセプト「風が生まれる場所になろう。」を策定した。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_0fd01bc26d9a5e9b",
+      "title": "これなら分かる「LLM Wiki」　メモや資料をAIで整理し、使える知識に育てる新しい発想",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2604/15/news011.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-04-14T20:00:00.000Z",
+      "summary": "AI業界で有名なカルパシー氏が提案し、5千超のスターを集めた「LLM Wiki」。話題の新概念をやさしく整理しながら、その仕組みやRAGとの違い、試してみるためのツールやコミュニティーの動きまで紹介する。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_957d6d8624aca178",
+      "title": "アマゾン、衛星通信のGlobalstarを買収　スマホ直接通信も強化",
+      "url": "https://www.watch.impress.co.jp/docs/news/2101679.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-04-14T14:49:05.000Z",
+      "summary": "Amazonは14日(米国時間)、衛星事業者のGlobalstar(グローバルスター)を買収すると発表した。これにより、Amazonが推進する低軌道衛星を使用した衛星通信ネットワーク「Amazon Leo」に、スマートフォンへのDirect-to-Device(D2D)サービスを追加し、地上ネットワークの届かない場所にも通信のカバー範囲を拡大していく。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_8d72c36285a62060",
+      "title": "日産、「AIドライブ」搭載車を9割に　長期ビジョン発表　ジュークEVと新型エクストレイルを初公開",
+      "url": "https://www.itmedia.co.jp/news/articles/2604/14/news140.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-04-14T12:45:00.000Z",
+      "summary": "日産自動車が、今後の戦略の道標となる長期ビジョンを発表した。AIを核に据えた次世代車両コンセプト「AIディファインドビークル」（AIDV）を主軸とし、将来的にラインアップの約9割にAI自動運転技術を搭載する方針だ。また、新型「エクストレイル／ローグ e-POWER」と「ジュークEV」を初公開した。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_dab80314b3b8907f",
+      "title": "トヨタのバスケロボに新型　「CUE7」を初お披露目　一発でシュート成功",
+      "url": "https://www.itmedia.co.jp/news/articles/2604/14/news137.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-04-14T11:14:00.000Z",
+      "summary": "トヨタ自動車、AIバスケロボの新モデル「CUE7」を初お披露目した。一発でシュートを成功させたほか、人間らしい動的な振る舞いも見せた。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_da5d1808596bdf4b",
+      "title": "SB Intuitions、自律的にTシャツを畳めるロボアーム　1枚約40秒で完了",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2604/14/news130.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-04-14T10:53:00.000Z",
+      "summary": "ソフトバンク傘下でAIを研究開発するSB Intuitionsは、自律的にTシャツを畳める2本のロボットアームの動画を公開した。1枚約40秒で畳み終える様子を確認できる。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_5612bdc325c4cf5b",
@@ -1172,22 +1275,6 @@
       "priority_score": 60
     },
     {
-      "id": "item_14f88442e21a5c74",
-      "title": "関東の私鉄駅でpovoのデータもらえる　「Data Oasis」スポットに",
-      "url": "https://www.watch.impress.co.jp/docs/news/2101243.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-04-13T07:42:41.000Z",
-      "summary": "KDDIとパスモ、PASMO協議会は、「povo2.0」のデータ容量が無料でもらえるサービス「povo Data Oasis」について、4月14日から関東の私鉄の駅などで提供を開始する。期間限定だが終了日は現在未定。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_f80cdf03a0d86cd5",
       "title": "サム・アルトマン氏の自宅に銃撃か、男女2人逮捕　地元紙報道　火炎瓶投げ込み事件から間を置かず",
       "url": "https://www.itmedia.co.jp/news/articles/2604/13/news104.html",
@@ -1202,77 +1289,6 @@
         "AI",
         "LLM",
         "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_c29a624b48d12003",
-      "title": "「Claude Code」全社員に義務づけたら……コーディング経験ゼロの86％がデプロイ達成　グッドパッチが成果を公開",
-      "url": "https://www.itmedia.co.jp/aiplus/articles/2604/13/news089.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-04-13T05:06:00.000Z",
-      "summary": "日常や仕事上の小さな困りごとを解決するアプリが多かったという。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_b1064688f5fe3d79",
-      "title": "日本コロムビアG、「AIアニメ」コンテストを開催　賞金総額1000万円",
-      "url": "https://www.itmedia.co.jp/aiplus/articles/2604/13/news086.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-04-13T04:47:00.000Z",
-      "summary": "日本コロムビアグループは、AIを活用した作品を募集するコンテスト「COLOTEK」（コロテック）を開催すると発表した。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_6d6ac46a53aee32f",
-      "title": "ソフトバンクなどAI基盤モデル開発の新会社設立か　1兆パラメーター規模モデルでフィジカルAI開発目指すと報道",
-      "url": "https://www.itmedia.co.jp/aiplus/articles/2604/13/news084.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-04-13T03:59:00.000Z",
-      "summary": "ソフトバンクがNECやホンダ、ソニーグループと共にAI基盤モデル開発を目指す新会社を設立したと報じられた。大規模モデルとロボットの連携を目指すとされる。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_59ac519d8c9ea210",
-      "title": "“首無し”の人型ロボ、時速36kmで走る　「世界王者レベル」うたう、中国Unitree",
-      "url": "https://www.itmedia.co.jp/aiplus/articles/2604/13/news079.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-04-13T03:10:00.000Z",
-      "summary": "ロボット開発企業である中国Unitree Roboticsは、人型ロボット「H1」が最高速度時速36km（秒速10m）で走る動画を公開した。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
       ],
       "priority_score": 50
     },
@@ -1400,22 +1416,6 @@
       "source_name": "INTERNET Watch",
       "published_at": "2026-04-12T22:00:00.000Z",
       "summary": "サンワサプライ株式会社は4月10日、USB Type-Cケーブル1本で利用できる14インチモバイルモニター2種を発売した。直販サイト「サンワダイレクト」での販売価格は、マルチタッチに対応した「DP-08」が4万4000円、マルチタッチ非対応の「DP-09」が3万9600円。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_46ed3b771dbd920c",
-      "title": "【2006年のINTERNET Watch】「ライブドアショック」に社会が騒然。大ブレイクしたYouTubeをGoogleが買収",
-      "url": "https://internet.watch.impress.co.jp/docs/special/30th/2095371.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-04-12T21:30:00.000Z",
-      "summary": "2006年（平成18年）は、1月に起きたライブドア強制捜査および堀江貴文氏の逮捕が社会全体でもIT業界でも大きなニュースとなった。強制家宅捜査を受けて株式市場でもライブドア株の取引停止などの混乱が起こり、「ライブドアショック」と呼ばれる。",
       "starred": false,
       "category": "tech",
       "tags": [
