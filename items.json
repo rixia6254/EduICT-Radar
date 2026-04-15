@@ -1,32 +1,14 @@
 {
-  "generated_at": "2026-04-15T05:27:44.780Z",
+  "generated_at": "2026-04-15T10:21:53.686Z",
   "total": 103,
   "items": [
-    {
-      "id": "item_21f8651de3f2baea",
-      "title": "文部科学省ホームページトップはこちら",
-      "url": "https://www.mext.go.jp/",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-04-15T05:27:35.061Z",
-      "summary": "",
-      "starred": false,
-      "category": "admin",
-      "tags": [
-        "行政",
-        "文科省",
-        "制度",
-        "教育ニュース"
-      ],
-      "priority_score": 60
-    },
     {
       "id": "item_bd1951ae70f98dac",
       "title": "サイトマップはこちら",
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-04-15T05:27:35.061Z",
+      "published_at": "2026-04-15T10:21:40.511Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +25,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-04-15T05:27:35.061Z",
+      "published_at": "2026-04-15T10:21:40.511Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -56,13 +38,265 @@
       "priority_score": 60
     },
     {
+      "id": "item_21f8651de3f2baea",
+      "title": "文部科学省ホームページトップはこちら",
+      "url": "https://www.mext.go.jp/",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-04-15T10:21:40.510Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_dd0ab0b40e524c47",
+      "title": "パナソニック、冷蔵庫を電力需要に応じて自動制御する「DR自動運転」",
+      "url": "https://www.watch.impress.co.jp/docs/news/2101959.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-04-15T09:42:23.000Z",
+      "summary": "パナソニックは、中部電力ミライズと共同で、電力需給の最適化に応じて冷蔵庫の稼働を自動制御する「デマンドレスポンス(DR)自動運転サービス」を開発し、申込受付を開始した。電力会社の要請に応じて電力使用を抑制する「下げDR」と、使用を増やす「上げDR」の双方に自動対応する日本初の取り組み。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_92291c6b2648879f",
+      "title": "トヨタ・コニック・プロ「800台のAI PC導入」の本当の狙いとは？　AI活用でくじけないための秘策",
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2604/15/news135.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-04-15T09:40:00.000Z",
+      "summary": "企業の業務効率化にAIは必須といわれる。一体どのような環境を整えればよいのか、実例を交えて紹介する。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_cec94c5e96c55c7e",
+      "title": "Claude Code、マルチタスク強化した新デスクトップアプリ",
+      "url": "https://www.watch.impress.co.jp/docs/news/2101971.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-04-15T09:38:44.000Z",
+      "summary": "Anthropicは14日(米国時間)、コーディングエージェント「Claude Code」のデスクトップ版を並列エージェント利用にあわせて再設計し、提供開始した。ClaudeのPro、Max、TeamとEnterpriseプラン、Claude APIで対応する。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "生成AI",
+        "AI活用",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_7bd6828a51808ede",
+      "title": "DXハイスクールとは何か",
+      "url": "https://note.com/kazuki_edu/n/n0482ebb993c0",
+      "source_id": "note_joho1",
+      "source_name": "note（情報科教員）",
+      "published_at": "2026-04-15T09:02:08.000Z",
+      "summary": "──デジタル人材育成を加速する教育改革 DXハイスクールとは、文部科学省が2024年度から開始した「高等学校DX加速化推進事業」の通称です。 この事業は、 高校段階でのデジタル人材育成を加速することを目的とした補助金事業であり、各校に対してICT環境の整備や教育内容の高度化を支援します。 特徴的なのは、単なる機器整備ではなく、 • 情報教育の強化 • 数学教育の充実 • 探究学習の高度化 を一体的…",
+      "starred": false,
+      "category": "lesson",
+      "tags": [
+        "授業実践",
+        "情報Ⅰ",
+        "教材",
+        "校務DX",
+        "GIGA",
+        "行政",
+        "文科省",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_55a0bbd52a15c0e0",
+      "title": "ChromeのGemini、プロンプトを保存して呼び出せる「スキル」",
+      "url": "https://www.watch.impress.co.jp/docs/news/2101952.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-04-15T09:00:14.000Z",
+      "summary": "Googleは14日(米国時間)、ChromeのGeminiにおいて、AIプロンプトを保存して再利用できる「Skills(スキル)」を発表した。Chromeの言語設定が英語のユーザー向けに順次展開する。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "生成AI",
+        "AI活用"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_69930e24f1998e62",
+      "title": "ドンキ、フードロス削減アプリで食品を50%オフ販売",
+      "url": "https://www.watch.impress.co.jp/docs/news/2101933.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-04-15T08:19:56.000Z",
+      "summary": "フードロス削減アプリのToo Good To Go Japanは、ドン・キホーテと提携し、「ドン・キホーテ」の都内2店舗において、「Too Good To Go」の導入を開始した。これにより、当日中に販売しきれなかったお弁当や惣菜を安価にユーザーへ提供する。",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_be47f39fc62aaa39",
+      "title": "au、SIMフリースマホ販売ブランド「au Flex Style」新設",
+      "url": "https://www.watch.impress.co.jp/docs/news/2101910.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-04-15T07:57:10.000Z",
+      "summary": "KDDIは、SIMフリースマートフォンを販売するブランド「au Flex Style」を開始した。第1弾として「Nothing Phone (4a)」の予約と「OPPO Find N6 限定BOX」の販売が開始されている。au Online ShopやKDDI直営店で販売される。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_9e86fcabd45a89f9",
+      "title": "OpenAI、サイバー防御に特化した「GPT-5.4-Cyber」　安全対策で限定公開",
+      "url": "https://www.watch.impress.co.jp/docs/news/2101866.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-04-15T06:57:36.000Z",
+      "summary": "OpenAIは14日(米国時間)、サイバー防御向けに制限を緩めたモデル「GPT-5.4-Cyber」を発表した。サイバーセキュリティ向けプログラム「Trusted Access for Cyber」(TAC)の最上位アクセスレベルのユーザーに提供する。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "生成AI",
+        "AI活用",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_f2cf20434f57fbe6",
+      "title": "日立グループ企業、「貿易の安全保障リスク」をAIエージェントで管理　審査時間60％短縮　仕組みは？",
+      "url": "https://www.itmedia.co.jp/business/articles/2604/15/news105.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-04-15T06:30:00.000Z",
+      "summary": "日立ソリューションズは、安全保障貿易管理にAIエージェント導入することで審査時間を約60％短縮できると発表した。現場の負担をどのように解決するのか。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_d42f76f82d327f87",
+      "title": "NECの経営ダッシュボードは\"社長AI\"がデータにコメント、チャットさらに深掘り　経営層の評判も上々",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2604/15/news123.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-04-15T06:29:00.000Z",
+      "summary": "NECは経営指標をまとめたダッシュボード「経営コックピット」に生成AI機能を統合し、自然言語による分析や経営層の思考を再現したAIコメント機能を実現した。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_795d1fc38eb791c8",
+      "title": "「ジェットコースターで近大行ってみた」――公式の“AI動画”が話題、担当者に裏側を聞いた",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2604/15/news121.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-04-15T06:20:00.000Z",
+      "summary": "ジェットコースターで大阪市内の名所を巡りながら近畿大学に向かう――同大学が公開したこのようなAI動画が話題だ。同大学の担当者に話を聞いた。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_a4a95653bf494c4c",
+      "title": "NTTとJAXA、低軌道衛星でのMIMO通信を実証　伝送量向上へ",
+      "url": "https://www.watch.impress.co.jp/docs/news/2101492.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-04-15T06:00:00.000Z",
+      "summary": "NTTは、JAXAと共同で低軌道衛星MIMO技術と衛星センシング技術の軌道上実証実験を開始した。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_190f38c361a119fb",
+      "title": "グーグルのデスクトップ版アプリ登場　PC内も横断検索",
+      "url": "https://www.watch.impress.co.jp/docs/news/2101846.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-04-15T05:22:05.000Z",
+      "summary": "Googleは、デスクトップ版Googleアプリの提供を開始した。全世界のユーザーを対象に英語版が公開されている。対象プラットフォームはWindows。",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
       "id": "item_fd9017f46ad6dc83",
       "title": "列車が「動くデータセンター」に？――フィジカルAIは社会インフラにも“効く”　NVIDIAと日立の見立て",
       "url": "https://www.itmedia.co.jp/news/articles/2604/15/news069.html",
       "source_id": "itmedia_ai",
       "source_name": "ITmedia AI+",
       "published_at": "2026-04-15T05:00:00.000Z",
-      "summary": "「フィジカルAI」という言葉が急速に広まっている。ただその多くはロボット、とりわけヒューマノイドの文脈で語られる。だが現実にAIが浸透しようとしているのは、工場の床を歩く鉄腕だけではない。列車、発電所、ワクチンの製造ラインなど、私たちの日常を支える社会インフラそのものが、次の舞台になりつつある。",
+      "summary": "「フィジカルAI」という言葉が急速に広まっている。ただその多くはロボットの文脈で語られる事が多い。だが現実にAIが浸透しようとしているのは、工場で働く機械の同僚だけではない。列車、発電所、ワクチンの製造ラインなど、日常を支える社会インフラそのものが、次の舞台になりつつある。NVIDIA×日立のトークセッションから、フィジカルAIの社会実装をひもとく。",
       "starred": false,
       "category": "ai",
       "tags": [
@@ -998,54 +1232,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_5b011ccf5d9538ef",
-      "title": "ライザップ、建設業に参入　ギネス認定のチョコザップ出店ノウハウ活かす",
-      "url": "https://www.watch.impress.co.jp/docs/news/2101615.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-04-14T09:04:30.000Z",
-      "summary": "RIZAPグループは、店舗建設を請け負う「RIZAP(ライザップ)建設」事業を本格展開する。主に店舗の内装を請け負うもので、チョコザップの年間1,000店舗出店のノウハウやネットワークを活かす。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_31999cef023b6a47",
-      "title": "多機能ロッカー「マルチエキューブ」、Bounceの手荷物預かりに対応",
-      "url": "https://www.watch.impress.co.jp/docs/news/2101611.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-04-14T08:47:57.000Z",
-      "summary": "BounceとJR東日本スマートロジスティクスは、多機能ロッカー「マルチエキューブ」で、手荷物預かりサービス「Bounce」の受け付けを開始した。首都圏113カ所のマルチエキューブでBounceを利用できる。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_f9289d8853514490",
-      "title": "スターバックス、沖縄名護市に海まで数十歩の新店舗",
-      "url": "https://www.watch.impress.co.jp/docs/news/2101599.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-04-14T08:32:55.000Z",
-      "summary": "スターバックス コーヒー ジャパンは、名護市が実施するPark-PFI事業によって新たにリニューアルされる21世紀の森公園に「スターバックス コーヒー 名護21世紀の森公園あけみおてらす店」を4月15日にオープンする。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_8dd9ffdf508463bc",
       "title": "“AIで大規模開発”は可能か？　「2025年の崖」越えを狙うIBMの新ソリューション",
       "url": "https://www.itmedia.co.jp/aiplus/articles/2604/14/news118.html",
@@ -1080,124 +1266,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_afb5495e3a2fea87",
-      "title": "東京駅の新劇場「東京建物ぴあシアター」完成　いろいろな席に座ってみた",
-      "url": "https://www.watch.impress.co.jp/docs/news/2101582.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-04-14T08:01:52.000Z",
-      "summary": "東京駅前の大規模複合施設「TOFROM YAESU TOWER(トフロムヤエスタワー)」内の劇場・カンファレンス施設「東京建物ぴあシアター&カンファレンス」が、5月1日にプレオープンする。東京建物が所有し、ぴあ・コングレが共同で運営する施設で、オープンに先立ち4月14日に内覧会が開催されたので劇場内の様子や座席からの舞台の見え方などをレポートする。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_4bfbea82938d818f",
-      "title": "PayPay、台湾で利用可能に",
-      "url": "https://www.watch.impress.co.jp/docs/news/2101575.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-04-14T07:35:55.000Z",
-      "summary": "PayPayは、海外でPayPayが利用可能になる「海外支払いモード」を、4月末から台湾で開始する。2025年9月に開始した韓国に続く第2弾となり、台湾において「TWQR」のロゴが掲示されている場所で、PayPayによる決済が可能となる。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_0f501ad2cce4994c",
-      "title": "日産、AIドライブ技術を9割の車両に搭載へ",
-      "url": "https://www.watch.impress.co.jp/docs/news/2101546.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-04-14T06:16:55.000Z",
-      "summary": "日産自動車は、長期ビジョン「モビリティの知能化で、毎日を新たな体験に」を発表。AIを中心に据えた「AIディファインドビークル(AIDV)」を中核とし、将来的に90%のモデルにAIドライブ技術を搭載する。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_3ac33171bd67c017",
-      "title": "Yahoo! JAPAN ID、ログインを「パスキー」に一本化",
-      "url": "https://www.watch.impress.co.jp/docs/news/2101533.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-04-14T05:30:30.000Z",
-      "summary": "LINEヤフーは、「Yahoo! JAPAN ID」のログイン方法を「パスキー」に一本化する。2027年春頃までに「パスワードのみでのログイン」を終了する。",
-      "starred": false,
-      "category": "security",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "セキュリティ",
-        "情報モラル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_00a703d736de6b3d",
-      "title": "AIが発展しても「コンサルの仕事は減らない」――なぜ？　ITコンサル企業の見解",
-      "url": "https://www.itmedia.co.jp/aiplus/articles/2604/14/news092.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-04-14T05:14:00.000Z",
-      "summary": "「AIの発展によりコンサルティングの需要が減少することはない」――ITコンサルティング事業などを手掛けるノースサンドは、このような見解を発表した。AIの進化に関し、同社の株主や投資家から寄せられた2つの質問に対する回答をまとめている。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_c6a7fd6285c849ea",
-      "title": "実務をこなせるが危険な「OpenClaw」、AWSがVPSで一般提供する狙い",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2604/14/news052.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-04-14T04:00:00.000Z",
-      "summary": "AWSは、オープンソースの自律型プライベートAIエージェント「OpenClaw」をVPSサービス「Amazon Lightsail」上で利用可能にした。ブラウザ経由でAIエージェントを実行し、メール管理やWeb閲覧、ファイル整理などのタスクを自動化できるものだが、利用に当たってはセキュリティ上の考慮事項があるとしている。",
-      "starred": false,
-      "category": "security",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "セキュリティ",
-        "情報モラル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_238103509da5bab7",
-      "title": "Amazon Leo、1Gbpsの民間航空機用アンテナ",
-      "url": "https://www.watch.impress.co.jp/docs/news/2101478.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-04-14T03:54:25.000Z",
-      "summary": "米Amazonは、衛星インターネット「Amazon Leo」の航空機用アンテナを開発した。下り最大1Gbpsの通信速度に対応し、1基のアンテナで機内のエンターテイメントから乗務員の業務までサポートする。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_d813bd19111a1c34",
       "title": "コーヒーメーカーや電気ケトルがお買い得！　Amazonで山善製品がセール中　コーヒードリップに便利な細口ノズルの電気ケトルが6730円から",
       "url": "https://internet.watch.impress.co.jp/docs/shopping/2101416.html",
@@ -1212,24 +1280,6 @@
         "セキュリティ"
       ],
       "priority_score": 50
-    },
-    {
-      "id": "item_66e693738edc743b",
-      "title": "アニメ「本好きの下剋上」OP映像差し替え騒動、“手描き版”を公開　修正箇所は……",
-      "url": "https://www.itmedia.co.jp/aiplus/articles/2604/14/news072.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-04-14T02:23:00.000Z",
-      "summary": "アニメ制作会社のウィットスタジオは、同社が制作するアニメ「本好きの下剋上 領主の養女」のオープニング映像の修正版を公開した。同映像を巡っては、同社の方針で制作における生成AIの使用を原則認めていないにもかかわらず、一部でAIが使われていたと判明。修正版に差し替える方針を示していた。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 60
     },
     {
       "id": "item_501fe86aa634fce2",
@@ -1270,26 +1320,6 @@
         "ツール"
       ],
       "priority_score": 60
-    },
-    {
-      "id": "item_7b09b02fddbf3802",
-      "title": "「Claude Mythos」の性能は本物か？　英研究機関が検証結果を公表",
-      "url": "https://www.itmedia.co.jp/aiplus/articles/2604/14/news064.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-04-14T01:50:00.000Z",
-      "summary": "英国政府の研究機関AISIはAnthropicの新モデル「Mythos」が専門家レベルのサイバー攻撃を自律的に完遂できることを確認した。高い攻撃性能が示されたことを受け、AISIは組織に基本対策の重要性を呼びかけている。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用",
-        "セキュリティ",
-        "情報モラル"
-      ],
-      "priority_score": 50
     },
     {
       "id": "item_4249757622e3a423",
@@ -1801,26 +1831,6 @@
         "ツール"
       ],
       "priority_score": 60
-    },
-    {
-      "id": "item_88b4d747e62a260e",
-      "title": "「高校数学１０分プログラミング」に挑戦！記録　140　数学B　確率分布と統計的な推測「同時分布を考える」配列の理解が…(/ω＼)情報Ⅰはこぎん刺しで",
-      "url": "https://note.com/newricefield_m/n/n3607bd80d52f",
-      "source_id": "note_joho1",
-      "source_name": "note（情報科教員）",
-      "published_at": "2026-01-23T23:20:34.000Z",
-      "summary": "MK's papaさんのnote「高校数学１０分プログラミング」に挑戦して、その備忘録を書いていきます。プログラミングの初歩学習の過程と、教えることの再確認の記録です。 高校数学とプログラミングをシームレスにつないだ授業をしたい！ また、高校数学を学ぶ方にヒントとなるような記事であることも目指しています。 数学B「確率分布と統計的な推測」です。 続きをみる",
-      "starred": false,
-      "category": "exam",
-      "tags": [
-        "授業実践",
-        "情報Ⅰ",
-        "教材",
-        "共通テスト",
-        "入試",
-        "教育ニュース"
-      ],
-      "priority_score": 70
     }
   ],
   "clips": []
