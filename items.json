@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-04-15T10:21:53.686Z",
+  "generated_at": "2026-04-15T21:44:51.899Z",
   "total": 103,
   "items": [
+    {
+      "id": "item_21f8651de3f2baea",
+      "title": "文部科学省ホームページトップはこちら",
+      "url": "https://www.mext.go.jp/",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-04-15T21:44:36.971Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
     {
       "id": "item_bd1951ae70f98dac",
       "title": "サイトマップはこちら",
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-04-15T10:21:40.511Z",
+      "published_at": "2026-04-15T21:44:36.971Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -25,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-04-15T10:21:40.511Z",
+      "published_at": "2026-04-15T21:44:36.971Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -38,22 +56,71 @@
       "priority_score": 60
     },
     {
-      "id": "item_21f8651de3f2baea",
-      "title": "文部科学省ホームページトップはこちら",
-      "url": "https://www.mext.go.jp/",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-04-15T10:21:40.510Z",
-      "summary": "",
+      "id": "item_07cce35f2db80f5f",
+      "title": "トレンドマイクロ、AI時代に合わせたブランドの新設や新たなソリューションを紹介する事業戦略発表会を開催　法人向けブランドを「TrendAI」に",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2102013.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-04-15T21:30:00.000Z",
+      "summary": "トレンドマイクロ株式会社は4月15日、メディア向けに事業戦略発表会を実施した。発表会では、AI時代に合わせたソリューションや、法人向けセキュリティ部門の「TrendAI」への改称、個人向けブランドの「TrendLife」について詳しい紹介が行われた。",
       "starred": false,
-      "category": "admin",
+      "category": "security",
       "tags": [
-        "行政",
-        "文科省",
-        "制度",
-        "教育ニュース"
+        "インターネット",
+        "セキュリティ",
+        "情報モラル"
       ],
-      "priority_score": 60
+      "priority_score": 50
+    },
+    {
+      "id": "item_f608ec497a8f27fc",
+      "title": "ケーブル不要で手軽にバックアップ！ iPhoneの写真をWindows PCにiCloud経由で転送する【自宅Wi-Fiの“わからない”をスッキリ！】",
+      "url": "https://internet.watch.impress.co.jp/docs/column/homewifi/2101223.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-04-15T21:00:00.000Z",
+      "summary": "第275回から、スマートフォンのデータをPCへバックアップする手法を実践している。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_aa111a61625c8d51",
+      "title": "隣のHDMIに干渉しない　スリムになった新「Fire TV Stick HD」",
+      "url": "https://www.watch.impress.co.jp/docs/news/2101671.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-04-15T13:00:00.000Z",
+      "summary": "Amazonは15日、\"HDMIポートサイズ”にスリム化した新型「Fire TV Stick HD」を4月15日から予約開始し、4月30日から出荷開始する。価格は6,980円。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_d9787b685adf1515",
+      "title": "アドビ、Premiereに色補正の新機能　After EffectsにはAI機能",
+      "url": "https://www.watch.impress.co.jp/docs/news/2101579.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-04-15T13:00:00.000Z",
+      "summary": "アドビは15日、ビデオ製品の最新アップデートを発表した。「Adobe Premiere」ではカラーグレーディング機能を刷新し、「Adobe After Effects」ではAI活用のマット作成機能を導入。「Frame.io」ではマウントストレージ機能を展開し、「Adobe Firefly」では動画編集機能や外部AI対応を強化した。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "生成AI",
+        "AI活用"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_dd0ab0b40e524c47",
@@ -222,7 +289,7 @@
     },
     {
       "id": "item_d42f76f82d327f87",
-      "title": "NECの経営ダッシュボードは\"社長AI\"がデータにコメント、チャットさらに深掘り　経営層の評判も上々",
+      "title": "NECの経営ダッシュボードは\"社長AI\"がデータにコメント、チャットでさらに深掘り　経営層の評判も上々",
       "url": "https://www.itmedia.co.jp/aiplus/articles/2604/15/news123.html",
       "source_id": "itmedia_ai",
       "source_name": "ITmedia AI+",
@@ -1182,22 +1249,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_c3a696ee61f249cf",
-      "title": "OPPO、折り目のないフォルダブルスマホ「Find N6」　31.8万円",
-      "url": "https://www.watch.impress.co.jp/docs/news/2101626.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-04-14T09:40:24.000Z",
-      "summary": "OPPOは、同社として日本初投入の横開きフォルダブルスマートフォン「OPPO Find N6」を4月15日に発売する。価格は318,000円。販売チャネルはau +1 collection、MVNO、量販店、各EC。専用アクセサリー「OPPO AI Pen Kit」も同日に発売し、価格は19,800円。OPPO公式ECでは、数量限定で本体購入時に「OPPO AI Pen Kit」が付属するセットも…",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_3c36301c9ab3ee1f",
       "title": "国産AI開発「取り組みは重要」小野田紀美担当相　ソフト・NEC・ホンダ・ソニー連合",
       "url": "https://www.itmedia.co.jp/news/articles/2604/14/news121.html",
@@ -1212,22 +1263,6 @@
         "AI",
         "LLM",
         "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_d6bebdb71a5a4783",
-      "title": "JR東、JR西の人型重機導入など共創でDX推進",
-      "url": "https://www.watch.impress.co.jp/docs/news/2101630.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-04-14T09:28:30.000Z",
-      "summary": "JR東日本とJR西日本は、両社が共創で行なった鉄道電気分野における取り組みについて、その成果を発表した。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
       ],
       "priority_score": 50
     },
@@ -1423,42 +1458,6 @@
         "セキュリティ",
         "校務DX",
         "GIGA",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_5fa86fc1efe04791",
-      "title": "AI時代でも米国のセキュリティリーダーたちは実質週6日以上勤務、精神的な負担も【海の向こうの“セキュリティ”】",
-      "url": "https://internet.watch.impress.co.jp/docs/column/security/2100779.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-04-13T21:00:00.000Z",
-      "summary": "イスラエルのセキュリティ企業Seemplicityは、米国企業を対象としたサイバーセキュリティ人材に関する調査報告書「The 2026 State of the Cybersecurity Workforce Report（2026年サイバーセキュリティ人材の現状レポート）」を公開しました。この報告書は、サブタイトル「Operational strain, skill evolution, and…",
-      "starred": false,
-      "category": "security",
-      "tags": [
-        "インターネット",
-        "セキュリティ",
-        "情報モラル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_99a6126caf3b4027",
-      "title": "国民健康保険料の請求を装い、PayPayアプリでの支払いへ誘導するフィッシングに注意！　「国民健康保険料差額（未納分）のお知らせ（催告）」などの件名を確認",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2101334.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-04-13T10:10:00.000Z",
-      "summary": "国民健康保険料の支払い依頼を装うフィッシングメールからPayPayアプリでの支払いへ誘導し、送金させる手口の報告を受けているとして、フィッシング対策協議会が緊急情報を公開した。フィッシングサイトは4月13日14時時点で稼働中であることが確認されている。",
-      "starred": false,
-      "category": "security",
-      "tags": [
-        "インターネット",
-        "セキュリティ",
-        "情報モラル",
         "教材",
         "ツール"
       ],
