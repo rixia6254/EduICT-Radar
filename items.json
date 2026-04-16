@@ -1,7 +1,136 @@
 {
-  "generated_at": "2026-04-16T10:21:09.012Z",
-  "total": 100,
+  "generated_at": "2026-04-16T21:36:32.616Z",
+  "total": 103,
   "items": [
+    {
+      "id": "item_bd1951ae70f98dac",
+      "title": "サイトマップはこちら",
+      "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-04-16T21:36:21.013Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_5a2c7864b68dcd43",
+      "title": "過去の文部科学省ホームページ（※国立国会図書館ホームページへリンク）",
+      "url": "https://warp.ndl.go.jp/waid/3475",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-04-16T21:36:21.013Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_21f8651de3f2baea",
+      "title": "文部科学省ホームページトップはこちら",
+      "url": "https://www.mext.go.jp/",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-04-16T21:36:21.012Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_ad6730e63fa18df8",
+      "title": "Infoblox、悪性ドメインをブロックする「プロテクティブDNS」と「先制的サイバーセキュリティ」を解説",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2102312.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-04-16T21:30:00.000Z",
+      "summary": "Infoblox株式会社は4月17日、メディア向け説明会を行い、同社の事業戦略や、サイバー脅威の動向を解説した。",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_cbdc9f0316857222",
+      "title": "もう入門書はいらない？　Colabに統合されたGeminiの学習モードを使ってみた",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2604/17/news018.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-04-16T20:00:00.000Z",
+      "summary": "Colabに統合されているGeminiに学習モードとカスタム指示が搭載されました。これらの機能を使いながら、それぞれについてちょっと考えてみました。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用",
+        "教育ニュース"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_df642262e0eadd2a",
+      "title": "「Claude Opus 4.7」登場　難関コーディングを「任せきれる」レベルに、画像認識は解像度3倍超",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2604/17/news064.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-04-16T15:31:00.000Z",
+      "summary": "米Anthropicが最新AIモデル「Claude Opus 4.7」の一般提供を開始。前世代の「Opus 4.6」からソフトウェア開発能力と画像認識能力を強化したほか、指示への忠実度や長時間タスクの安定性も向上させている。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_c1799cc4af3b5e27",
+      "title": "「Claude Opus 4.7」公開　指示追従性や画像認識を高めた上位モデル",
+      "url": "https://www.watch.impress.co.jp/docs/news/2102378.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-04-16T15:19:10.000Z",
+      "summary": "Anthropicは16日(米国時間)、最新のAIモデル「Claude Opus 4.7」を提供開始した。OpusはClaudeのAIモデルの上位版だが、Opus 4.7は特にソフトウェアエンジニアリングにおいて、難易度の高いタスクへの対応力を強化した。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "生成AI",
+        "AI活用",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
     {
       "id": "item_6a6048e6e01647f9",
       "title": "Roblox、年齢別アカウント開始　9歳未満と16歳未満の2区分",
@@ -22,7 +151,7 @@
     },
     {
       "id": "item_ac8e6720b55098a1",
-      "title": "都電荒川線、山吹色の新デザイン車両が運行開始",
+      "title": "東京さくらトラム、山吹色の新デザイン車両が運行開始",
       "url": "https://www.watch.impress.co.jp/docs/news/2102281.html",
       "source_id": "impress_watch",
       "source_name": "Impress Watch",
@@ -980,22 +1109,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_be47f39fc62aaa39",
-      "title": "au、SIMフリースマホ販売ブランド「au Flex Style」新設",
-      "url": "https://www.watch.impress.co.jp/docs/news/2101910.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-04-15T07:57:10.000Z",
-      "summary": "KDDIは、SIMフリースマートフォンを販売するブランド「au Flex Style」を開始した。第1弾として「Nothing Phone (4a)」の予約と「OPPO Find N6 限定BOX」の販売が開始されている。au Online ShopやKDDI直営店で販売される。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_f2cf20434f57fbe6",
       "title": "日立グループ企業、「貿易の安全保障リスク」をAIエージェントで管理　審査時間60％短縮　仕組みは？",
       "url": "https://www.itmedia.co.jp/business/articles/2604/15/news105.html",
@@ -1355,59 +1468,6 @@
       "source_name": "INTERNET Watch",
       "published_at": "2026-04-14T21:30:00.000Z",
       "summary": "内幸町一丁目街区（東京都千代田区）を開発する事業者らは、「（仮称）内幸町一丁目街区開発プロジェクト」の街区名称を「HIBIYA CROSSPARK」（日比谷クロスパーク）に決定し、ロゴマークおよび街区コンセプト「風が生まれる場所になろう。」を策定した。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_0fd01bc26d9a5e9b",
-      "title": "これなら分かる「LLM Wiki」　メモや資料をAIで整理し、使える知識に育てる新しい発想",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2604/15/news011.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-04-14T20:00:00.000Z",
-      "summary": "AI業界で有名なカルパシー氏が提案し、5千超のスターを集めた「LLM Wiki」。話題の新概念をやさしく整理しながら、その仕組みやRAGとの違い、試してみるためのツールやコミュニティーの動きまで紹介する。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_8d72c36285a62060",
-      "title": "日産、「AIドライブ」搭載車を9割に　長期ビジョン発表　ジュークEVと新型エクストレイルを初公開",
-      "url": "https://www.itmedia.co.jp/news/articles/2604/14/news140.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-04-14T12:45:00.000Z",
-      "summary": "日産自動車が、今後の戦略の道標となる長期ビジョンを発表した。AIを核に据えた次世代車両コンセプト「AIディファインドビークル」（AIDV）を主軸とし、将来的にラインアップの約9割にAI自動運転技術を搭載する方針だ。また、新型「エクストレイル／ローグ e-POWER」と「ジュークEV」を初公開した。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_d813bd19111a1c34",
-      "title": "コーヒーメーカーや電気ケトルがお買い得！　Amazonで山善製品がセール中　コーヒードリップに便利な細口ノズルの電気ケトルが6730円から",
-      "url": "https://internet.watch.impress.co.jp/docs/shopping/2101416.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-04-14T02:30:00.000Z",
-      "summary": "Amazon.co.jpの山善（YAMAZEN）ストアページでは現在、同社製の電気ケトルやコーヒーメーカーがセール価格で販売されている。",
       "starred": false,
       "category": "tech",
       "tags": [
