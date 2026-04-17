@@ -1,31 +1,14 @@
 {
-  "generated_at": "2026-04-17T10:18:38.609Z",
+  "generated_at": "2026-04-17T21:35:34.560Z",
   "total": 103,
   "items": [
-    {
-      "id": "item_bd1951ae70f98dac",
-      "title": "サイトマップはこちら",
-      "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-04-17T10:18:24.415Z",
-      "summary": "",
-      "starred": false,
-      "category": "admin",
-      "tags": [
-        "行政",
-        "文科省",
-        "制度"
-      ],
-      "priority_score": 50
-    },
     {
       "id": "item_5a2c7864b68dcd43",
       "title": "過去の文部科学省ホームページ（※国立国会図書館ホームページへリンク）",
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-04-17T10:18:24.415Z",
+      "published_at": "2026-04-17T21:35:25.247Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +26,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-04-17T10:18:24.414Z",
+      "published_at": "2026-04-17T21:35:25.246Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +37,56 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_bd1951ae70f98dac",
+      "title": "サイトマップはこちら",
+      "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-04-17T21:35:25.246Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_67bf524d93ef7e01",
+      "title": "PASMO、5月16日夜はチャージ停止　システム切替のため",
+      "url": "https://www.watch.impress.co.jp/docs/news/2102649.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-04-17T11:00:00.000Z",
+      "summary": "PASMOの発売(PASMO定期券・企画券含む)およびチャージが、5月16日(土)の21時から終電車まで停止する。鉄道・バスの乗車、電子マネーは通常どおり利用できる。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_662e5baea725f920",
+      "title": "21％がAIを仕事で「毎日利用」　ナレッジワーカー対象、Notion調査",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2604/17/news130.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-04-17T10:13:00.000Z",
+      "summary": "Notionがナレッジワーカーを対象に実施した調査によると、21％が業務でAIを「ほぼ毎日」使うと回答した。一方、「出力が独自性に欠ける」などの課題も見えてきた。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_aac53693434f910e",
@@ -1257,24 +1290,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_6a6048e6e01647f9",
-      "title": "Roblox、年齢別アカウント開始　9歳未満と16歳未満の2区分",
-      "url": "https://www.watch.impress.co.jp/docs/news/2102299.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-04-16T09:30:00.000Z",
-      "summary": "オンラインゲームプラットフォーム「Roblox(ロブロックス)」は、低年齢層のユーザー向けに新しい年齢別アカウントを6月上旬から導入する。5歳～8歳向けの「Roblox Kids」と、9歳～15歳向けの「Roblox Select」の2種類を用意。",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_2febda3543182d7c",
       "title": "Google、次世代音声AI「Gemini 3.1 Flash TTS」　自然言語で表現を制御可能に",
       "url": "https://www.itmedia.co.jp/aiplus/articles/2604/16/news090.html",
@@ -1311,26 +1326,6 @@
         "AI活用"
       ],
       "priority_score": 60
-    },
-    {
-      "id": "item_b2df877f39b4f509",
-      "title": "「インスタ用にして」テキスト指令でAdobeCCが自律的に動く　「Firefly AIアシスタント」　Claudeからも利用可能",
-      "url": "https://www.itmedia.co.jp/news/articles/2604/16/news076.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-04-16T03:23:00.000Z",
-      "summary": "画像をアップロードし、「Instagram広告用に整えて」「マグカップ用にして」などと指示するだけで、CCアプリを横断した作業をAIが自動で実行する。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
     },
     {
       "id": "item_620958b6a60e193e",
