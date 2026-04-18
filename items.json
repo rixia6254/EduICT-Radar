@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-04-18T09:54:04.252Z",
+  "generated_at": "2026-04-18T21:27:11.891Z",
   "total": 103,
   "items": [
+    {
+      "id": "item_21f8651de3f2baea",
+      "title": "文部科学省ホームページトップはこちら",
+      "url": "https://www.mext.go.jp/",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-04-18T21:27:00.984Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
     {
       "id": "item_bd1951ae70f98dac",
       "title": "サイトマップはこちら",
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-04-18T09:53:54.563Z",
+      "published_at": "2026-04-18T21:27:00.984Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -25,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-04-18T09:53:54.563Z",
+      "published_at": "2026-04-18T21:27:00.984Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -38,22 +56,20 @@
       "priority_score": 60
     },
     {
-      "id": "item_21f8651de3f2baea",
-      "title": "文部科学省ホームページトップはこちら",
-      "url": "https://www.mext.go.jp/",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-04-18T09:53:54.562Z",
-      "summary": "",
+      "id": "item_69118830e79466d5",
+      "title": "歴代文化オタク大名が揃えた国宝20点以上がズラリ! 特別展「百万石！加賀前田家」",
+      "url": "https://www.watch.impress.co.jp/docs/news/2102700.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-04-18T10:00:00.000Z",
+      "summary": "東京・上野の東京国立博物館で、前田育徳会創立百周年記念 特別展「百万石！加賀前田家」が始まった。会期は6月7日まで。",
       "starred": false,
-      "category": "admin",
+      "category": "tech",
       "tags": [
-        "行政",
-        "文科省",
-        "制度",
-        "教育ニュース"
+        "テクノロジー",
+        "デジタル"
       ],
-      "priority_score": 60
+      "priority_score": 50
     },
     {
       "id": "item_8304c95b10726582",
@@ -756,22 +772,6 @@
         "AI",
         "LLM",
         "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_2082ef63efe32740",
-      "title": "土屋鞄、ブランド初の洗えるバッグ　東レ「ウルトラスエード TS」採用",
-      "url": "https://www.watch.impress.co.jp/docs/news/2102334.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-04-17T01:00:00.000Z",
-      "summary": "土屋鞄製造所は「TSUCHIYA KABAN」ブランドから、ブランド初の洗える鞄「JAPANMOTIF Nami」を6月11日に発売する。メイン素材に東レの洗える高級人工皮革「ウルトラスエード TS」を採用した。トートバッグとサコッシュをラインアップし、価格はトートが55,000円、サコッシュが46,200円。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
       ],
       "priority_score": 50
     },
