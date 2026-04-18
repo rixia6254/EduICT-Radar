@@ -1,32 +1,14 @@
 {
-  "generated_at": "2026-04-18T05:10:36.384Z",
+  "generated_at": "2026-04-18T09:54:04.252Z",
   "total": 103,
   "items": [
-    {
-      "id": "item_21f8651de3f2baea",
-      "title": "文部科学省ホームページトップはこちら",
-      "url": "https://www.mext.go.jp/",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-04-18T05:10:26.027Z",
-      "summary": "",
-      "starred": false,
-      "category": "admin",
-      "tags": [
-        "行政",
-        "文科省",
-        "制度",
-        "教育ニュース"
-      ],
-      "priority_score": 60
-    },
     {
       "id": "item_bd1951ae70f98dac",
       "title": "サイトマップはこちら",
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-04-18T05:10:26.027Z",
+      "published_at": "2026-04-18T09:53:54.563Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +25,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-04-18T05:10:26.027Z",
+      "published_at": "2026-04-18T09:53:54.563Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +36,44 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_21f8651de3f2baea",
+      "title": "文部科学省ホームページトップはこちら",
+      "url": "https://www.mext.go.jp/",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-04-18T09:53:54.562Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_8304c95b10726582",
+      "title": "Claude新サービスはデザイン　AIデザインツール「Claude Design」開始",
+      "url": "https://www.watch.impress.co.jp/docs/news/2102748.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-04-18T06:00:07.000Z",
+      "summary": "Anthropicは17日(米国時間)、新たなAIデザインツール「Claude Design」を公開した。Claudeと連携して、デザイン、プロトタイプ、スライドや1ページの資料などのビジュアルコンテンツを作成できる。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "生成AI",
+        "AI活用",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_9db734b64aa566ca",
@@ -789,24 +809,6 @@
         "生成AI",
         "AI",
         "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_0883d22f840d5857",
-      "title": "【from Impress】63のIT職種を“例え”イラストで図解「IT仕事図鑑」　データを洗うのは誰?",
-      "url": "https://www.watch.impress.co.jp/docs/pa/impress/2100767.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-04-17T00:00:00.000Z",
-      "summary": "AIやDX、セキュリティ分野などへの投資拡大を背景に、IT人材の需要は年々拡大しています。ますますIT人材が求められるこれからの時代において、「どのような仕事があり、どのような人が働いているのか」を具体的に知りたいというニーズが高まっています。そこで、親しみやすいイラストとていねいな解説で、IT業界の全体像と各職種の特徴を同時に理解できる、これまでにない仕事図鑑が誕生しました。本記事では、制作にあ…",
-      "starred": false,
-      "category": "security",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "セキュリティ",
-        "情報モラル"
       ],
       "priority_score": 50
     },
