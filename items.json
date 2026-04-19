@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-04-19T09:53:59.627Z",
+  "generated_at": "2026-04-19T21:28:31.742Z",
   "total": 103,
   "items": [
+    {
+      "id": "item_21f8651de3f2baea",
+      "title": "文部科学省ホームページトップはこちら",
+      "url": "https://www.mext.go.jp/",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-04-19T21:28:17.337Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
     {
       "id": "item_bd1951ae70f98dac",
       "title": "サイトマップはこちら",
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-04-19T09:53:49.820Z",
+      "published_at": "2026-04-19T21:28:17.337Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -25,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-04-19T09:53:49.820Z",
+      "published_at": "2026-04-19T21:28:17.337Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -38,22 +56,39 @@
       "priority_score": 60
     },
     {
-      "id": "item_21f8651de3f2baea",
-      "title": "文部科学省ホームページトップはこちら",
-      "url": "https://www.mext.go.jp/",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-04-19T09:53:49.819Z",
-      "summary": "",
+      "id": "item_c719dcb7214c3552",
+      "title": "「高性能なWi-Fiルーターは電波が強い」は本当か？　法律と技術から読み解くWi-Fiの現実【イニシャルB】",
+      "url": "https://internet.watch.impress.co.jp/docs/column/shimizu/2101648.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-04-19T21:00:00.000Z",
+      "summary": "「高性能なWi-Fiルーターは電波が強い」「外付けアンテナだから電波が飛ぶ」「海外仕様だからハイパワー」――。Wi-Fiに関して、こんな話を耳にしたことがあるかもしれない。",
       "starred": false,
       "category": "admin",
       "tags": [
+        "インターネット",
+        "セキュリティ",
         "行政",
-        "文科省",
-        "制度",
-        "教育ニュース"
+        "文科省"
       ],
-      "priority_score": 60
+      "priority_score": 50
+    },
+    {
+      "id": "item_9d54bb43e914884e",
+      "title": "山形県のYCC情報システムにランサムウェア攻撃、自治体などから受託している個人情報漏えいのおそれ　山形市では約50万件が漏えいの可能性",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2102758.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-04-19T20:00:00.000Z",
+      "summary": "株式会社YCC情報システムは、同社のファイルサーバーがランサムウェア攻撃を受け、情報が漏えいしたおそれがあると発表した。",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_69118830e79466d5",
@@ -1402,38 +1437,6 @@
         "インターネット",
         "セキュリティ",
         "情報モラル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_8448fd2ec16a66c0",
-      "title": "CIO、半固体系モバイルバッテリー「SMARTCOBY SLIMⅡ Wireless2.2 Pro SS10K」発売",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2101982.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-04-15T23:00:00.000Z",
-      "summary": "株式会社CIOは4月15日、半固体系モバイルバッテリー「SMARTCOBY SLIMⅡ Wireless2.2 Pro SS10K」を発売した。本体カラーはシルバー（CIO-MB35W1C-10K-S2W25）とブラック（CIO-MB35W1C-SS10K-S2W25）の2色で、市場想定価格は8580円。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_cbf33dd911a11740",
-      "title": "アイ・オー、10Gbps対応のUSB有線LANアダプター「ET10G-US3C」発売",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2101978.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-04-15T22:30:00.000Z",
-      "summary": "株式会社アイ・オー・データ機器は、10Gbps対応のLANアダプター「ET10G-US3C」を発売する。市場想定価格は1万4410円で、出荷予定は4月下旬。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
       ],
       "priority_score": 50
     },
