@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20T10:54:14.487Z",
+  "generated_at": "2026-04-20T21:40:11.372Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-04-20T10:54:00.904Z",
+      "published_at": "2026-04-20T21:39:59.715Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-04-20T10:54:00.904Z",
+      "published_at": "2026-04-20T21:39:59.715Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-04-20T10:54:00.904Z",
+      "published_at": "2026-04-20T21:39:59.715Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,57 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_084701f0bb740b10",
+      "title": "ナイスモバイル、SMB向けネットワークソリューション「HUAWEI eKit」を日本市場へ展開",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2103081.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-04-20T21:30:00.000Z",
+      "summary": "ナイスモバイル株式会社は4月20日、HUAWEIのSMB（中小企業）向けネットワークソリューションブランド「HUAWEI eKit」の日本国内における取り扱いおよび販売・サポート窓口対応を開始する。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_098c6542fff3ce6d",
+      "title": "NTTデータグループ、千葉県印西・白井エリアで国内最大級のデータセンター開発プロジェクトを始動",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2103033.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-04-20T21:00:00.000Z",
+      "summary": "株式会社NTTデータグループは4月17日、データセンター事業を行うNTTグローバルデータセンター株式会社（NTT GDC）を通じて、千葉県の印西・白井エリアにおいて「東京TKY12データセンター」開発プロジェクトを始動した。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_c2e1b03e5e19b830",
+      "title": "Pythonの仮想環境パスが.venvに統一される？　PEP 832が提案される",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2604/21/news007.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-04-20T20:00:00.000Z",
+      "summary": "Pythonで仮想環境を作るときってどこに作っていますか？ ディレクトリ名をどうするか悩んでいませんか？ これを解決してくれるかもしれないPEPが提出されました。どんなものか、ちょっと見てみましょう。",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_8d345011ec9b70ac",
@@ -1289,24 +1340,6 @@
       "priority_score": 60
     },
     {
-      "id": "item_3f927dda24e77cf7",
-      "title": "ChatGPTに「私に似たキャラ教えて」聞く遊び流行　ブラジル発、X翻訳で世界に拡散",
-      "url": "https://www.itmedia.co.jp/aiplus/articles/2604/17/news099.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-04-17T03:36:00.000Z",
-      "summary": "「私に似たキャラクターを1人教えてください。名前だけ」とAIに聞く、ブラジル発の遊びが流行中。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 60
-    },
-    {
       "id": "item_46f1be0196cefd68",
       "title": "件名「【第一生命】新サービス「資産Plus」ご利用開始のお手続きとスタート支援（5,000円相当）のご案内」など、第一生命を装うフィッシングに注意！　偽のキャッシュバックを装う内容",
       "url": "https://internet.watch.impress.co.jp/docs/news/2102446.html",
@@ -1390,38 +1423,6 @@
         "情報モラル",
         "教材",
         "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_861bec2b2162891c",
-      "title": "セブン銀行、東プレ製キーストラップなどが当たる設立25周年キャンペーンを本日より実施【やじうまWatch】",
-      "url": "https://internet.watch.impress.co.jp/docs/yajiuma/2102402.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-04-17T01:34:08.000Z",
-      "summary": "セブン銀行が、東プレ製キーストラップなどが当たるキャンペーンを実施する。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_cb63ebce4a56a348",
-      "title": "「無限に時間が溶ける」ともオサラバ？ YouTubeにショート動画を非表示にする設定が追加【やじうまWatch】",
-      "url": "https://internet.watch.impress.co.jp/docs/yajiuma/2102401.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-04-17T01:33:13.000Z",
-      "summary": "YouTubeにショート動画を非表示にする設定が新たに追加された。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
       ],
       "priority_score": 50
     },
