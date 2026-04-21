@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-21T10:22:50.099Z",
+  "generated_at": "2026-04-21T21:38:48.906Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-04-21T10:22:36.944Z",
+      "published_at": "2026-04-21T21:38:37.483Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -25,7 +25,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-04-21T10:22:36.944Z",
+      "published_at": "2026-04-21T21:38:37.483Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-04-21T10:22:36.943Z",
+      "published_at": "2026-04-21T21:38:37.482Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,93 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_cb6a99e070f6cbd2",
+      "title": "PFU、帳簿を構造化データに自動変換するAI-OCR「PaperStream AI」と「ドキュメントDX」提供　データ変換から業務効率化までをワンストップで提供",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2103412.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-04-21T21:30:00.000Z",
+      "summary": "株式会社PFUは4月21日、クラウド型AI-OCRサービス「PaperStream AI」と、DX支援サービス「ドキュメントDX」の販売を開始した。",
+      "starred": false,
+      "category": "dx",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "校務DX",
+        "GIGA"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_33b0f1b5a3a398e4",
+      "title": "自動車業界向けローカル生成AIシステム、機密性の高い設計ナレッジを安全に利活用",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2604/22/news030.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-04-21T21:15:00.000Z",
+      "summary": "トリプルアイズは、グループ会社のBEXと共同で、外部ネットワークに接続せず安全に利用できる自動車設計業務向け「ローカル生成AIシステム」を開発した。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_f62631a10bac4123",
+      "title": "ニコニコ動画、AIがコメントしてくれる実験機能　動画上にも流れる",
+      "url": "https://www.itmedia.co.jp/news/articles/2604/21/news135.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-04-21T13:17:00.000Z",
+      "summary": "ドワンゴがニコニコ動画に、AIがコメントを投稿する新機能を追加した。動画を盛り上げる実験として、約1カ月間無料提供する。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_a2978806b0b51ecd",
+      "title": "文理の壁が崩壊する？令和の「情報・技術」教育改革が拓く驚きの未来",
+      "url": "https://note.com/grand_rat5096/n/n993fbebcbfa2",
+      "source_id": "note_joho1",
+      "source_name": "note（情報科教員）",
+      "published_at": "2026-04-21T11:00:35.000Z",
+      "summary": "2030年の教室へようこそ かつて、中学校の「技術・家庭科」といえば、木工の本立て作りやミシンでの裁縫といった「作業」のイメージが強かったはずです。しかし、今まさに日本の教育現場では、これまでの常識を根底から覆す壮大なパラダイムシフトが進行しています。 続きをみる",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "授業実践",
+        "情報Ⅰ",
+        "教材",
+        "教育ニュース"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_b18f8e3b64eee8b3",
+      "title": "博多・出来町公園に縁側空間「HAKATA 縁(EN) TERRACE」",
+      "url": "https://www.watch.impress.co.jp/docs/news/2103438.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-04-21T11:00:00.000Z",
+      "summary": "福岡市は、博多旧市街エリアに位置する「出来町公園」に、伝統・歴史・文化・食の体験とコミュニケーション機能を備えた施設「HAKATA 縁(EN) TERRACE」が設置される。2027年秋のオープンを予定している。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_4cc3b487051cb986",
@@ -122,7 +209,7 @@
     },
     {
       "id": "item_53ba5c1df8adce8e",
-      "title": "海外製GalaxyスマホがSuicaに対応へ　27年上半期には訪日直後にSuica発行",
+      "title": "海外製GalaxyスマホがSuicaに対応へ　27年上半期",
       "url": "https://www.watch.impress.co.jp/docs/news/2103414.html",
       "source_id": "impress_watch",
       "source_name": "Impress Watch",
@@ -1093,26 +1180,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_8d345011ec9b70ac",
-      "title": "dポイント、アプリは専用番号に　7月からセキュリティ強化で",
-      "url": "https://www.watch.impress.co.jp/docs/news/2103067.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-04-20T10:41:11.000Z",
-      "summary": "NTTドコモは、dポイントをアプリで使う際の一部の仕様を7月1日から変更する。不正利用などのリスクの低減と利便性向上が目的。",
-      "starred": false,
-      "category": "security",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "セキュリティ",
-        "情報モラル",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_a9880978813aa950",
       "title": "青森県で最大震度5強、安否確認のための「災害用伝言板（web171）」が稼働",
       "url": "https://internet.watch.impress.co.jp/docs/news/2103079.html",
@@ -1357,44 +1424,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_4c286871e61d6541",
-      "title": "中国人型ロボがハーフマラソンで50分台、人間の世界記録超え　昨年から1時間50分短縮",
-      "url": "https://www.itmedia.co.jp/news/articles/2604/20/news057.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-04-20T01:12:00.000Z",
-      "summary": "中国・北京で19日、人型ロボットが走るハーフマラソン大会が開かれた。優勝タイムは50分26秒で、人間の男子世界記録である57分20秒を大幅に上回った。中国は、2026年を人型ロボットの「商業化元年」と位置付けており、新興産業で先頭集団を走っていると国内外に誇示した。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_6acbe26d67e032f8",
-      "title": "中国でAIエージェント急拡大　「24時間無休の秘書」活用　政府は情報漏えいリスク警戒",
-      "url": "https://www.itmedia.co.jp/news/articles/2604/20/news056.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-04-20T01:10:00.000Z",
-      "summary": "中国で、PC上などでさまざまな作業を自律的にこなすAIを活用したソフトウェア「AIエージェント」の利用が今年に入り急拡大している。人間が関わらずに電子メールの自動返信といった作業を行うことができ、「24時間無休の個人秘書」などともてはやされている。中国IT大手のみならず地方政府も活用を後押しするが、個人情報漏洩（ろうえい）などの問題も浮かぶ。",
-      "starred": false,
-      "category": "security",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "セキュリティ",
-        "情報モラル",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_a6c3a136b32de7ce",
       "title": "NTT東日本、物理セキュリティソリューション「BizDriveフィジカルセキュリティ」提供開始　第1弾として、USBなどの物理ポートをふさぐ「SMARTKEEPER Pro」を販売",
       "url": "https://internet.watch.impress.co.jp/docs/news/2102564.html",
@@ -1408,24 +1437,6 @@
         "インターネット",
         "セキュリティ",
         "情報モラル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_4d75fdc3f09dbc84",
-      "title": "NTTとJAXA、「衛星MIMO技術を活用した920MHz帯衛星IoTプラットフォームの軌道上実証」に向けた実験を開始",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2102616.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-04-19T22:00:00.000Z",
-      "summary": "NTT株式会社は4月15日、国立研究開発法人宇宙航空研究開発機構（JAXA）と「低軌道衛星MIMO技術」および「衛星センシング技術」を実証するための機器を搭載した実証衛星において実験を開始したと発表した。",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "インターネット",
-        "セキュリティ",
-        "教材",
-        "ツール"
       ],
       "priority_score": 50
     },
@@ -1798,26 +1809,6 @@
         "入試"
       ],
       "priority_score": 70
-    },
-    {
-      "id": "item_58e4706e5c419611",
-      "title": "AIと一緒にアプリを創る！中高生女子向けプログラミング体験イベント開催のお知らせ 🌸",
-      "url": "https://note.com/highschoolpython/n/n91d7530ebefc",
-      "source_id": "note_joho1",
-      "source_name": "note（情報科教員）",
-      "published_at": "2026-01-24T08:49:44.000Z",
-      "summary": "こんにちは！！ハイスクールPython運営事務局の穂苅です。 この度、2026年3月26日（木）に、中高生女子の皆さん向けに「AIと始める『アイデアをカタチにする』アプリ制作体験」を開催することになりました！ 今回は、GoogleのAI「Gemini Canvas」を使って、プログラミング未経験でもアプリが作れてしまう、特別なイベントです✨ 👉 イベント詳細・応募はこちら 続きをみる",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "授業実践",
-        "情報Ⅰ",
-        "教材",
-        "生成AI",
-        "AI活用",
-        "ツール"
-      ],
-      "priority_score": 60
     }
   ],
   "clips": []
