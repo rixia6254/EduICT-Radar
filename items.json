@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-22T10:23:52.340Z",
+  "generated_at": "2026-04-22T21:43:59.213Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-04-22T10:23:38.762Z",
+      "published_at": "2026-04-22T21:43:47.569Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-04-22T10:23:38.762Z",
+      "published_at": "2026-04-22T21:43:47.569Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-04-22T10:23:38.762Z",
+      "published_at": "2026-04-22T21:43:47.569Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,151 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_2390c9f3b4a6c523",
+      "title": "「Interop Tokyo 2026」6月10日～12日に幕張メッセで開催、来場登録を受付中　テーマは「AIとインターネットの次章。〜Internet for AI, AI for Internet.〜」",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2103769.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-04-22T21:30:00.000Z",
+      "summary": "インターネットテクノロジーの専門イベント「Interop Tokyo 2026」が6月10日～12日に、幕張メッセ（千葉県千葉市美浜区）で開催される。展示会および基調講演は無料で、公式サイトで事前登録を受付中だ。現在、出展予定企業や製品のほか、基調講演の講演者に関する情報も公開されている。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_6a32295e7128e790",
+      "title": "容量不足で消した写真を復元！ WindowsからiPhoneにiCloud経由で写真を書き戻す【自宅Wi-Fiの“わからない”をスッキリ！】",
+      "url": "https://internet.watch.impress.co.jp/docs/column/homewifi/2103072.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-04-22T21:00:00.000Z",
+      "summary": "第275回から、スマートフォンのデータをPCへバックアップする手法を実践している。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_05998df4f00cb08b",
+      "title": "Claude Opus 4.7は“最強で最恐”？　圧倒的な性能なのに使いたくないわけ",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2604/23/news011.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-04-22T20:00:00.000Z",
+      "summary": "Claude Opus 4.7は、一般公開モデルとしては最強クラスの性能を示した一方で、実際のユーザー評価は大きく割れている。本稿では、Anthropicの公式情報に加え、初期ユーザーの反応も踏まえながら、その強さと「怖さ」を整理する。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_7f0bceca65aeabc7",
+      "title": "Google Cloud、「エージェント組織」に向けたGemini新製品群　新TPUも",
+      "url": "https://www.watch.impress.co.jp/docs/news/2103497.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-04-22T13:27:26.000Z",
+      "summary": "Googleは22日(米国時間)、「Google Cloud Next 26」にあわせて、多くの発表を行なった。企業向けの「Gemini Enterprise」を大幅に強化し、AIエージェントを構築、利用、展開、管理する仕組みとして推進。「組織をAgentic Enterpriseへと変革するために必要なすべてを発表する」としている。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "生成AI",
+        "AI活用"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_a96d36c9cdacd9fa",
+      "title": "グーグル、文書やメールの“文脈”を理解して支援する「Workspace Intelligence」",
+      "url": "https://www.watch.impress.co.jp/docs/news/2103487.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-04-22T13:05:23.000Z",
+      "summary": "Googleは22日、Google Workspaceの新機能「Workspace Intelligence」を発表した。Google ドキュメントやスライド、Gmail、チャットなどのWorkspaceアプリのコンテンツや進行中のプロジェクト、共同作業者などの関係性や文脈を理解しながら、作業を進めるための基盤となり、GeminiによるAI機能を取り入れている。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "生成AI",
+        "AI活用",
+        "校務DX",
+        "GIGA",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_203ef4167abc08c6",
+      "title": "限定公開のはずの「Mythos」に不正ユーザーがアクセスか　セキュリティ以外の目的で利用と海外報道",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2604/22/news141.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-04-22T11:53:00.000Z",
+      "summary": "「Project Glasswing」の一環として一部組織に限定して公開されているAnthropicの「Claude Mythos Preview」に、少数の不正ユーザーがアクセスしたと米Bloombergが報道。Anthropicは「調査中」としている。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_3bfd7f560b144d78",
+      "title": "トヨタ、独自の「ウーブンAI」初公開　世界最高水準の動画理解性能で事象の変化を先読み",
+      "url": "https://www.itmedia.co.jp/news/articles/2604/22/news139.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-04-22T10:54:00.000Z",
+      "summary": "トヨタ自動車は4月22日、カメラ映像から人や車の動きなど実際の街・空間の中で起きている事象を言語化して高精度で理解できる独自のAIを発表した。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_881f6e7027b808d8",
+      "title": "「Claude Mythos」に“許可を得ていないユーザーがアクセス”か　海外報道",
+      "url": "https://www.itmedia.co.jp/news/articles/2604/22/news138.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-04-22T10:51:00.000Z",
+      "summary": "米Anthropicの新しいAIモデル「Mythos」に、許可を得ていない少数のユーザーグループがアクセスした──米Bloombergが関係文書や事情に詳しい関係者の話としてこう報じた。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_3ab7060e276d581c",
@@ -554,38 +699,6 @@
       "tags": [
         "インターネット",
         "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_02c73550bf528afe",
-      "title": "スマートタグ「Pebblebee」新モデル　薄型や大音量に進化",
-      "url": "https://www.watch.impress.co.jp/docs/news/2103259.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-04-22T00:30:00.000Z",
-      "summary": "ソースネクストは、iPhoneとAndroid両対応のスマートタグ「Pebblebee(ペブルビー) Gen5」シリーズを発売した。クリップ型とカード型の2種類で、価格は各5,390円。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_92cb254ed4dcc8e3",
-      "title": "【石野純也のモバイル通信SE】なぜいまキャリア自身がSIMフリースマホを強化するのか",
-      "url": "https://www.watch.impress.co.jp/docs/series/ishino/2103102.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-04-21T23:20:00.000Z",
-      "summary": "OPPOのスマホを日本で展開するオウガ・ジャパンは、4月15日にフォルダブルスマートフォンの「OPPO Find N6」を発売した。価格は318,000円と高価なフラッグシップモデルだ。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
       ],
       "priority_score": 50
     },
@@ -1239,23 +1352,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_901c51c41b87a491",
-      "title": "インシデントで1位時間当たり「50万ドル以上」失う企業の割合　日本が世界よりも多い背景【調査】",
-      "url": "https://www.itmedia.co.jp/enterprise/articles/2604/21/news050.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-04-21T02:40:00.000Z",
-      "summary": "ある調査によると、インシデント発生時の1時間あたりの損失額が50万ドル以上に達する日本企業の割合が43％に上ることが分かった。米国企業の31％、世界全体の34％を上回る結果だ。なぜこれほどの差が広がったのか。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_e95b3d79353c4c62",
       "title": "多機能ラジオや携帯浄水器など、GreeShow（グリーション）の防災グッズAmazonでタイムセール　電動式の携帯浄水器は7221円から",
       "url": "https://internet.watch.impress.co.jp/docs/shopping/2103152.html",
@@ -1304,28 +1400,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_c84685cf3eb62f7a",
-      "title": "Vercelのデータ流出、原因はサポート終了のAIツール　Google Workspaceアカウント乗っ取りで環境変数にアクセス",
-      "url": "https://www.itmedia.co.jp/aiplus/articles/2604/21/news071.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-04-21T01:40:00.000Z",
-      "summary": "Vercelは同社システムへの不正アクセスで一部のユーザーの環境変数が流出した可能性があることを公表した。攻撃の起点となったのは同社従業員が利用していたサードパーティーのAIツールだったという。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用",
-        "校務DX",
-        "GIGA",
-        "セキュリティ",
-        "情報モラル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_bdaa0788a1f40e89",
       "title": "BLUETTI（ブルーティ）のポータブル電源がAmazonで安い！　持ち運びしやすい小型ポータブル電源「AORA30 V2」は3万3440円",
       "url": "https://internet.watch.impress.co.jp/docs/shopping/2103149.html",
@@ -1370,78 +1444,6 @@
       "tags": [
         "インターネット",
         "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_80160f93226f959c",
-      "title": "Amazon、スリム化・高速化した新型「Fire TV Stick HD」発売　テレビ背面のUSBポートから給電可能に",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2103031.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-04-20T22:30:00.000Z",
-      "summary": "Amazonは、本体デザインを刷新した新型（第2世代）の「Fire TV Stick HD」を発売する。価格は6980円。4月30日の出荷予定で、Amazon.co.jpで予約を受け付けている。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_c77dc3f1adbfa346",
-      "title": "LINEヤフー、新AIエージェントを発表　Gemini、ChatGPTに「負けない強み」とは？",
-      "url": "https://www.itmedia.co.jp/business/articles/2604/21/news048.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-04-20T22:00:00.000Z",
-      "summary": "LINEヤフーは4月20日、AIエージェント「Agent i」の提供を始めた。ChatGPTやGeminiに負けない強みとは何なのか。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 60
-    },
-    {
-      "id": "item_4a4ee7c9f0fa9263",
-      "title": "生成AI導入　「どれがいい？」は機能より“条件”で考える",
-      "url": "https://kn.itmedia.co.jp/kn/articles/2604/21/news026.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-04-20T22:00:00.000Z",
-      "summary": "生成AIを試したい。だが、「ChatGPT」「Claude」「Microsoft 365 Copilot」「Gemini」「NotebookLM」と選択肢が増えた現在、自社に最適なものを選ぶには時間も労力もかかるようになった。今回は気軽に確認できる“見取り図”として、誤解を恐れず大まかに整理する。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用",
-        "校務DX",
-        "GIGA"
-      ],
-      "priority_score": 70
-    },
-    {
-      "id": "item_983c04064ee1b606",
-      "title": "こどものSNS規制、先駆けて「禁止」した豪州と、議論を進める各国の動向　【特集 SNS事業者・SNS規制論の現在地】第3回",
-      "url": "https://internet.watch.impress.co.jp/docs/special/2101081.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-04-20T22:00:00.000Z",
-      "summary": "第1回：米国プラットフォーム事業者に無制限の免責を与えた「通信品位法230条」の功罪と、現在の論点第2回：EUと日本におけるプラットフォーム規制・デジタル主権の議論に見える、米国とは異なる視点 第3回：こどものSNS規制、先駆けて「禁止」した豪州と、議論を進める各国の動向",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "インターネット",
-        "セキュリティ",
-        "教材",
-        "ツール"
       ],
       "priority_score": 50
     },
