@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-23T10:25:39.459Z",
+  "generated_at": "2026-04-23T21:39:31.779Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-04-23T10:25:27.998Z",
+      "published_at": "2026-04-23T21:39:17.944Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-04-23T10:25:27.998Z",
+      "published_at": "2026-04-23T21:39:17.944Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-04-23T10:25:27.998Z",
+      "published_at": "2026-04-23T21:39:17.944Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,93 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_fc5ab035f75fd4f4",
+      "title": "KDDI、Starlink関連サービスを大幅拡張、海外ローミング拡大・SOS通報・IoT対応・法人向け閉域網サービス",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2104145.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-04-23T21:30:00.000Z",
+      "summary": "KDDI株式会社および沖縄セルラー電話株式会社は4月23日、「au Starlink Direct」など、衛星インターネット「Starlink」関連の4つの新機能・サービスを発表した。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_9b12e5dde146ef48",
+      "title": "「インターネット遮断」の実態――3年連続で過去最多、手法も高度化 Access Now年次レポートの概要と、アフガニスタン・イランの事例、国際社会の反応【D for Good！】",
+      "url": "https://internet.watch.impress.co.jp/docs/column/d4g/2103046.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-04-23T21:00:00.000Z",
+      "summary": "政府が意図的にインターネットを遮断する動きが、世界各地で広がっている。Access Nowが公表した最新の年次レポートは、2025年も遮断件数が過去最多を更新し、年間を通じて遮断がゼロだった日は1日もなかったことを明らかにした。本稿では、レポートの概要に加え、アフガニスタンやイランの事例、国際社会の動きを通じて、その実態を整理する。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_209acb8c691090a5",
+      "title": "「GPT-5.5」発表　Claude Mythos Previewとの差は",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2604/24/news067.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-04-23T20:19:00.000Z",
+      "summary": "",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_3b7a21812337784b",
+      "title": "Python 3.15ではより正確な型チェックが可能に（なる予定）　PEP 800で導入される非交和基底とは？",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2604/24/news017.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-04-23T20:00:00.000Z",
+      "summary": "Python 3.15をターゲットとしたPEP 800が承認された。これが提案する「あるクラスが非交和基底であること」と、それを示す@disjoint_baseデコレーターについて紹介する。",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_8848b0d5bb189a52",
+      "title": "金融・製造・自治体版「Claude Cowork」展開へ　NECとアンソロピック提携",
+      "url": "https://www.watch.impress.co.jp/docs/news/2104228.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-04-23T11:09:00.000Z",
+      "summary": "NECは23日、Anthropicと日本のエンタープライズ領域における戦略的協業を開始すると発表した。NECは日本企業初のAnthropicグローバルパートナーとなる、",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "生成AI",
+        "AI活用"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_9cc7f35694b5d5b1",
@@ -231,7 +318,7 @@
     },
     {
       "id": "item_f058e01969c2c7ba",
-      "title": "Yahoo!フリマ/オークション、買い占めや高額転売防ぐ新方針",
+      "title": "Yahoo!オークション、買い占めや高額転売防ぐ新方針",
       "url": "https://www.watch.impress.co.jp/docs/news/2104055.html",
       "source_id": "impress_watch",
       "source_name": "Impress Watch",
@@ -1142,24 +1229,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_23dfc161ddd078c3",
-      "title": "Google、第8世代TPU「8t」と「8i」を発表──学習と推論の分離で効率を最大化",
-      "url": "https://www.itmedia.co.jp/news/articles/2604/23/news059.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-04-22T21:53:00.000Z",
-      "summary": "Googleは、独自開発のAIチップ「TPU」の第8世代となる、学習特化型「8t」と推論特化型「8i」を発表した。用途に合わせてチップを使い分ける新アプローチを採用し、前世代比で処理能力や電力効率が大幅に向上。NVIDIAの次世代GPU等とともに、最先端のAI研究や業務を支える強力なインフラとして今年後半から提供していく計画だ。",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "教育ニュース"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_2390c9f3b4a6c523",
       "title": "「Interop Tokyo 2026」6月10日～12日に幕張メッセで開催、来場登録を受付中　テーマは「AIとインターネットの次章。〜Internet for AI, AI for Internet.〜」",
       "url": "https://internet.watch.impress.co.jp/docs/news/2103769.html",
@@ -1188,24 +1257,6 @@
       "tags": [
         "インターネット",
         "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_05998df4f00cb08b",
-      "title": "Claude Opus 4.7は“最強で最恐”？　圧倒的な性能なのに使いたくないわけ",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2604/23/news011.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-04-22T20:00:00.000Z",
-      "summary": "Claude Opus 4.7は、一般公開モデルとしては最強クラスの性能を示した一方で、実際のユーザー評価は大きく割れている。本稿では、Anthropicの公式情報に加え、初期ユーザーの反応も踏まえながら、その強さと「怖さ」を整理する。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
       ],
       "priority_score": 50
     },
@@ -1257,22 +1308,6 @@
       "source_name": "Impress Watch",
       "published_at": "2026-04-22T09:56:16.000Z",
       "summary": "トヨタ自動車とウーブン・バイ・トヨタは、モビリティやプロダクトやサービスを実証する街「Toyota Woven City」(静岡県裾野市)において、産業を超えた連携による価値の創出＝「カケザン」を加速させる取り組みを公開した。また4月から新たに「Woven City Inventor Garage」が稼働開始した",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_bae401f13c0bf9df",
-      "title": "ENEOS、セルフSSに給油監視システム　AIが給油許可を自動化",
-      "url": "https://www.watch.impress.co.jp/docs/news/2103806.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-04-22T09:00:25.000Z",
-      "summary": "ENEOSは22日、セルフサービスステーション(セルフSS)で、AI自動給油監視システムを導入開始した。給油時の安全性確保と運営効率化を目的とした取り組みで、実証済み店舗から運用を始め、全国のSS網へ段階的に拡大する。",
       "starred": false,
       "category": "tech",
       "tags": [
@@ -1393,42 +1428,6 @@
       "tags": [
         "インターネット",
         "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_d7b61e0e8d0f4ec6",
-      "title": "3キャリアのSIMに対応するBCP回線「スカイベリーpro」、10GbEとWi-Fi 6対応の上位モデル発売",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2103318.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-04-21T23:00:00.000Z",
-      "summary": "a2network株式会社は4月21日、同社のBCP回線・通信サービス「スカイベリーpro」の新端末として「スカイベリーpro X」の提供を開始した。",
-      "starred": false,
-      "category": "dx",
-      "tags": [
-        "インターネット",
-        "セキュリティ",
-        "校務DX",
-        "GIGA"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_7f163187bf7847bb",
-      "title": "SwitchBot、電子ペーパーを採用した情報ダッシュボード「スマートデイリーステーション」発売　時刻・気温や予定を常時表示、家電の操作も可能",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2103413.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-04-21T22:30:00.000Z",
-      "summary": "SWITCHBOT株式会社は4月21日、電子ペーパーを採用した情報端末「スマートデイリーステーション」を発売した。同社公式ショップでの販売価格は1万5980円。5月6日まで、15％オフとなる1万3583円で販売される。",
-      "starred": false,
-      "category": "dx",
-      "tags": [
-        "インターネット",
-        "セキュリティ",
-        "校務DX",
-        "GIGA"
       ],
       "priority_score": 50
     },
