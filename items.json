@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-23T05:34:25.906Z",
+  "generated_at": "2026-04-23T10:25:39.459Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-04-23T05:34:11.677Z",
+      "published_at": "2026-04-23T10:25:27.998Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-04-23T05:34:11.677Z",
+      "published_at": "2026-04-23T10:25:27.998Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-04-23T05:34:11.677Z",
+      "published_at": "2026-04-23T10:25:27.998Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,180 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_9cc7f35694b5d5b1",
+      "title": "au Starlink Direct、SOS代行などサービス拡充 “先手必勝”狙う",
+      "url": "https://www.watch.impress.co.jp/docs/news/2104167.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-04-23T09:15:34.000Z",
+      "summary": "KDDIは、スマートフォンと衛星の直接通信サービス「au Starlink Direct」のサービス内容を拡充する。ソフトバンクが4月10日から、NTTドコモが4月27日から“Starlink Direct”のサービスを提供する中、1年先行するKDDIは、実際に利用したユーザーのニーズやデータを武器に「先手必勝」(KDDI門脇氏)を狙うと意気込む。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_e76a062f4a28cc4f",
+      "title": "グーグルのAI認定講座、先着1万人に無料提供　「Google AI Pro」3カ月利用権も",
+      "url": "https://www.watch.impress.co.jp/docs/news/2104171.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-04-23T09:11:57.000Z",
+      "summary": "日本リスキリングコンソーシアムは、オンラインのトレーニングプログラム「Google AI プロフェッショナル認定証」(日本語版)の無料受講アカウントを配布する。新規・既存会員を問わず先着1万人に提供し、通常約7,700円相当の講座を無料で受けられる。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "生成AI",
+        "AI活用"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_ad9e6016cf7a4ba7",
+      "title": "OpenAI、ワークスペースエージェント開始　Codexを基盤にタスク自動対応",
+      "url": "https://www.watch.impress.co.jp/docs/news/2104164.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-04-23T08:30:58.000Z",
+      "summary": "OpenAIは22日(米国時間)、ChatGPTの「ワークスペースエージェント」を提供開始した。チームにおいて、組織が定めた権限と管理の範囲内でエージェントが動作し、複雑なタスクや長時間のワークフローに対応できるようにする。ChatGPT Business、Enterprise、Edu、Teachersの各プランで研究プレビューとして開始した。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "生成AI",
+        "AI活用"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_4c8a5620c5082ab1",
+      "title": "AIエージェント組織活用の強固な基盤に──Vertex AI後継「Gemini Enterprise Agent Platform」とは",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2604/23/news124.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-04-23T08:19:00.000Z",
+      "summary": "Google Cloudは「Vertex AI」の後継サービス「Gemini Enterprise Agent Platform」を発表した。従来のサービスに加えて、ローコードでのエージェント構築や、エージェントの管理や品質評価などを可能にするツールを追加または強化した。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_8796331bfe29476f",
+      "title": "Copilotのエージェント機能、WordやExcelで一般提供開始",
+      "url": "https://www.watch.impress.co.jp/docs/news/2104129.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-04-23T08:03:52.000Z",
+      "summary": "Microsoftは、Word、Excel、PowerPointにおけるCopilotのエージェント機能を一般提供開始した。ドキュメントやワークシート、プレゼンテーション内で複数ステップの操作をCopilotが直接実行できるようにし、下書きから最終的な出力までの作業を効率化できる。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "生成AI",
+        "AI活用"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_4184badbc6f87e2d",
+      "title": "ネットスラングも一発変換、新IME「Copilot Keyboard」正式版公開　“イルカのカイル”復活",
+      "url": "https://www.itmedia.co.jp/news/articles/2604/23/news120.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-04-23T07:52:00.000Z",
+      "summary": "",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_1b3ecdb88d1352b2",
+      "title": "東北新幹線「東京ディズニーシー25周年」特別車両に",
+      "url": "https://www.watch.impress.co.jp/docs/news/2104097.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-04-23T07:23:13.000Z",
+      "summary": "JR東日本とオリエンタルランドは、東京ディズニーシー25周年イベントをテーマにした特別車両「Magical Jubilee Shinkansen」を、6月10日から期間限定で運行する。区間は東北・北海道新幹線(東京～新函館北斗間)で、「はやぶさ」「はやて」「やまびこ」「なすの」として運行予定。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_b1270ee3498efbb9",
+      "title": "エッジAI搭載の前眼部検査機で白内障など早期発見へ、従来機より低コスト化も",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2604/23/news104.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-04-23T06:00:00.000Z",
+      "summary": "東北大学は、前眼部を観察する細隙灯検査が可能な小型AI搭載システムを開発した。独自開発の軽量なエッジAIを採用し、通信環境のない医療過疎地域や災害時でも高度な補助診断が可能だ。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_d9ae21684676ac98",
+      "title": "バージョンアップ続ける「一太郎」　日本語ワープロソフト、41年の進化の先は",
+      "url": "https://www.itmedia.co.jp/news/articles/2604/23/news070.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-04-23T06:00:00.000Z",
+      "summary": "41年前に誕生し、日本のPC普及の牽引役にもなったワープロソフト「一太郎」が、現在も毎年バージョンアップを続けている。開発元のジャストシステムが描く、日本語ワープロの「進化」の先とは。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_b5b000c83a8d7101",
+      "title": "Samsung Wallet、楽天ポイントなどサービス拡充　27年に「Suica」対応",
+      "url": "https://www.watch.impress.co.jp/docs/news/2104070.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-04-23T05:49:19.000Z",
+      "summary": "サムスン電子ジャパンは23日、Galaxyユーザー向けデジタルウォレット「Samsung Wallet」の国内対応サービス拡大を発表した。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_f058e01969c2c7ba",
@@ -160,7 +334,7 @@
     },
     {
       "id": "item_7cee2248d9b1e496",
-      "title": "Lime、新型電動アシスト自転車「LimeBike」　月額999円の新サブスクも",
+      "title": "脱キックボード”のLime　新型電動アシスト自転車「LimeBike」",
       "url": "https://www.watch.impress.co.jp/docs/news/2103974.html",
       "source_id": "impress_watch",
       "source_name": "Impress Watch",
@@ -1076,61 +1250,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_203ef4167abc08c6",
-      "title": "限定公開のはずの「Mythos」に不正ユーザーがアクセスか　セキュリティ以外の目的で利用と海外報道",
-      "url": "https://www.itmedia.co.jp/aiplus/articles/2604/22/news141.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-04-22T11:53:00.000Z",
-      "summary": "「Project Glasswing」の一環として一部組織に限定して公開されているAnthropicの「Claude Mythos Preview」に、少数の不正ユーザーがアクセスしたと米Bloombergが報道。Anthropicは「調査中」としている。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用",
-        "セキュリティ",
-        "情報モラル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_3bfd7f560b144d78",
-      "title": "トヨタ、独自の「ウーブンAI」初公開　世界最高水準の動画理解性能で事象の変化を先読み",
-      "url": "https://www.itmedia.co.jp/news/articles/2604/22/news139.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-04-22T10:54:00.000Z",
-      "summary": "トヨタ自動車は4月22日、カメラ映像から人や車の動きなど実際の街・空間の中で起きている事象を言語化して高精度で理解できる独自のAIを発表した。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_881f6e7027b808d8",
-      "title": "「Claude Mythos」に“許可を得ていないユーザーがアクセス”か　海外報道",
-      "url": "https://www.itmedia.co.jp/news/articles/2604/22/news138.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-04-22T10:51:00.000Z",
-      "summary": "米Anthropicの新しいAIモデル「Mythos」に、許可を得ていない少数のユーザーグループがアクセスした──米Bloombergが関係文書や事情に詳しい関係者の話としてこう報じた。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_3ab7060e276d581c",
       "title": "トヨタ ウーブンシティ、新たな発明ガレージ",
       "url": "https://www.watch.impress.co.jp/docs/news/2103830.html",
@@ -1181,57 +1300,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_5867933b5f7922ff",
-      "title": "イーロン・マスク氏率いるSpaceX、AIエディタ「Cursor」の買収権を獲得　AIモデル開発で協力も",
-      "url": "https://www.itmedia.co.jp/aiplus/articles/2604/22/news105.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-04-22T08:55:00.000Z",
-      "summary": "SpaceXとCursorが提携し、xAIが保有するインフラをCursorのAIモデル開発に活用する。合わせて、SpaceXがCursorを600億ドル（約9.5兆円）で買収する権利を得たことも発表された。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_2ea8b22dd5771c82",
-      "title": "岡山初のイケア「IKEA岡山」 イオンモールに4月24日オープン",
-      "url": "https://www.watch.impress.co.jp/docs/news/2103801.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-04-22T08:30:30.000Z",
-      "summary": "イケア・ジャパンは、岡山県で初となる「IKEA岡山」を4月24日にオープンする。場所は岡山市北区にある「イオンモール岡山」内。オープンを間近に控え、店内の具体的な様子が明らかにされた。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_cca7d554a5d156ad",
-      "title": "NTT、LLM間の\"語彙の壁\"克服　異種LLMを連携可能に",
-      "url": "https://www.watch.impress.co.jp/docs/news/2103773.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-04-22T08:08:26.000Z",
-      "summary": "NTTは、大規模言語モデル(LLM)における入出力単位「トークン」の語彙を精度劣化なく縮小させ、異なるLLM間でもトークン語彙を共通化できる世界初の推論技術を確立した。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "生成AI",
-        "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_35fa79bbe7e6fe80",
       "title": "マウスコンピューター、ECサイトで「ゴールデンウィークセール」。5月13日まで最大10万円OFF",
       "url": "https://internet.watch.impress.co.jp/docs/news/2103780.html",
@@ -1244,70 +1312,6 @@
       "tags": [
         "インターネット",
         "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_5b4d3739652eb1b8",
-      "title": "JR九州、幼稚園児の声で歩きスマホ注意喚起「こどもアナウンス」",
-      "url": "https://www.watch.impress.co.jp/docs/news/2103776.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-04-22T07:33:47.000Z",
-      "summary": "JR九州と九州産業大学は産学連携の共同プロジェクトとして、JR鹿児島本線 九産大前駅の安全意識向上とホーム滞留緩和を目的に、園児の声で注意喚起を行なう「こどもアナウンス」と、学生目線のご当地ネタを盛り込んだ「あるある看板」の運用を4月に開始した。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_d3edc95305905c4b",
-      "title": "札幌市電、クレカ乗車に対応　土日祝は460円で乗り放題",
-      "url": "https://www.watch.impress.co.jp/docs/news/2103745.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-04-22T07:14:12.000Z",
-      "summary": "札幌市電は、クレジットカードのタッチ決済による「クレカ乗車」に4月27日から対応する。クレカ乗車の場合、460円で乗り放題となる上限運賃サービスも、土日祝などを対象に実施する。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_d4cc60614dc3fd86",
-      "title": "note、自動で英語翻訳「多言語対応」本格スタート",
-      "url": "https://www.watch.impress.co.jp/docs/news/2103750.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-04-22T07:00:59.000Z",
-      "summary": "noteは、日本語で書かれたコンテンツを世界に向けて配信する「多言語対応」を本格的に開始する。5月27日から、全クリエイターを対象に提供開始する。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_952b0f3378979aff",
-      "title": "アマゾン「Echo Dot」にNBA公式エディション　10980円",
-      "url": "https://www.watch.impress.co.jp/docs/news/2103682.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-04-22T06:00:00.000Z",
-      "summary": "アマゾンジャパンは22日、「Echo Dot NBA公式認定エディション」を販売開始した。価格は10,980円。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
       ],
       "priority_score": 50
     },
