@@ -1,32 +1,14 @@
 {
-  "generated_at": "2026-04-24T10:26:56.028Z",
+  "generated_at": "2026-04-24T21:41:31.779Z",
   "total": 103,
   "items": [
-    {
-      "id": "item_21f8651de3f2baea",
-      "title": "文部科学省ホームページトップはこちら",
-      "url": "https://www.mext.go.jp/",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-04-24T10:26:41.983Z",
-      "summary": "",
-      "starred": false,
-      "category": "admin",
-      "tags": [
-        "行政",
-        "文科省",
-        "制度",
-        "教育ニュース"
-      ],
-      "priority_score": 60
-    },
     {
       "id": "item_bd1951ae70f98dac",
       "title": "サイトマップはこちら",
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-04-24T10:26:41.983Z",
+      "published_at": "2026-04-24T21:41:21.792Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +25,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-04-24T10:26:41.983Z",
+      "published_at": "2026-04-24T21:41:21.792Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +36,56 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_21f8651de3f2baea",
+      "title": "文部科学省ホームページトップはこちら",
+      "url": "https://www.mext.go.jp/",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-04-24T21:41:21.791Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_e8e6ad240db8302d",
+      "title": "AirPods 4やApple Watchも登場　アップル製品がアマゾンでセール中",
+      "url": "https://www.watch.impress.co.jp/docs/news/2104596.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-04-24T12:00:00.000Z",
+      "summary": "Amazon.co.jpで、アップルの「AirPods 4」や「Apple Watch Series 11」のセールが5月10日までの期間限定で開催されています。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_e3613c4fb514c4b3",
+      "title": "PayPay銀行、1000万口座突破　若年層中心に5年で500万増",
+      "url": "https://www.watch.impress.co.jp/docs/news/2104622.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-04-24T11:00:00.000Z",
+      "summary": "PayPay銀行は24日、2026年4月に預金口座数が1,000万口座を突破したと発表した。2021年4月にジャパンネット銀行から社名を変更して以降、PayPayとの連携を活かしたサービス拡充を進めており、この5年間で500万口座増加。社名変更前と比較して約4倍のスピードで成長している。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_f36e0d9ca41be132",
@@ -798,22 +830,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_f73940a6eec03919",
-      "title": "GWの渋滞　前半は空いてる? 後半5連休は最大45km",
-      "url": "https://www.watch.impress.co.jp/docs/topic/2104178.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-04-23T23:00:00.000Z",
-      "summary": "NEXCO東日本など高速道路各社は、ゴールデンウィーク期間中の高速道路での渋滞予測を発表しました。対象となる期間は4月25日(土)～5月6日(水)の12日間です。今年は昨年のゴールデンウィーク期間と比較すると、後半に5連休があり出かけやすい曜日配列であることから渋滞回数は増加する見込みです。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_1cd962716e51a068",
       "title": "サンワサプライ、半固体電池を採用したモバイルバッテリー「700-BTL062BK」発売",
       "url": "https://internet.watch.impress.co.jp/docs/news/2104144.html",
@@ -1334,24 +1350,6 @@
         "生成AI",
         "AI",
         "LLM",
-        "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_8848b0d5bb189a52",
-      "title": "金融・製造・自治体版「Claude Cowork」展開へ　NECとアンソロピック提携",
-      "url": "https://www.watch.impress.co.jp/docs/news/2104228.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-04-23T11:09:00.000Z",
-      "summary": "NECは23日、Anthropicと日本のエンタープライズ領域における戦略的協業を開始すると発表した。NECは日本企業初のAnthropicグローバルパートナーとなる、",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "生成AI",
         "AI活用"
       ],
       "priority_score": 50
