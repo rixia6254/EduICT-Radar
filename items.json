@@ -1,31 +1,14 @@
 {
-  "generated_at": "2026-04-25T21:29:47.570Z",
+  "generated_at": "2026-04-26T05:42:53.090Z",
   "total": 103,
   "items": [
-    {
-      "id": "item_bd1951ae70f98dac",
-      "title": "サイトマップはこちら",
-      "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-04-25T21:29:35.350Z",
-      "summary": "",
-      "starred": false,
-      "category": "admin",
-      "tags": [
-        "行政",
-        "文科省",
-        "制度"
-      ],
-      "priority_score": 50
-    },
     {
       "id": "item_5a2c7864b68dcd43",
       "title": "過去の文部科学省ホームページ（※国立国会図書館ホームページへリンク）",
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-04-25T21:29:35.350Z",
+      "published_at": "2026-04-26T05:42:38.813Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +26,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-04-25T21:29:35.349Z",
+      "published_at": "2026-04-26T05:42:38.812Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +37,89 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_bd1951ae70f98dac",
+      "title": "サイトマップはこちら",
+      "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-04-26T05:42:38.812Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_93e842522e5dd45a",
+      "title": "チープカシオ「A159」に縁起の良い“吉祥柄”",
+      "url": "https://www.watch.impress.co.jp/docs/news/2103842.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-04-26T01:00:00.000Z",
+      "summary": "カシオ計算機は、「CASIO CLASSIC」の新作として、「A159」のカラーバリエーション2機種を発売した。クオーツ式の腕時計で、価格はそれぞれ8,800円。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_8327e40aef2cf46f",
+      "title": "【いつモノコト】マグネット内蔵でケーブルが絡まらない　CIOの「スパイラルケーブル」",
+      "url": "https://www.watch.impress.co.jp/docs/series/itsmo/2103858.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-04-26T00:15:00.000Z",
+      "summary": "外出先でノートPCやスマホを充電するとき、ケーブルの取り回しに地味なストレスを感じる場面があります。ポーチの中で絡まったり、短いケーブルだとカフェの席によっては電源まで届かなかったり。かといって1m以上のケーブルをそのままバッグに放り込むと、使わないときにかさばります。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_84f61519c9c1bb06",
+      "title": "Anthropicのエージェント市場実験「Project Deal」で浮き彫りになる無自覚な経済格差",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2604/26/news023.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-04-25T22:04:00.000Z",
+      "summary": "AnthropicはAIモデル「Claude」を用いた自律的な市場取引実験「Project Deal」の結果を公表した。従業員の私物をAI同士に交渉・売買させた結果、高性能なモデルほど有利な取引を成立させることが判明。ユーザーが不利益に気づかないまま格差が拡大するリスクなど、AI経済圏の深刻な課題が浮き彫りになった。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_9c50d2bfdf6fca39",
+      "title": "日本OECD共同研究、「OECD Digital Education Outlook 2026」を開催",
+      "url": "https://ict-enews.net/2026/04/26oecd/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-04-25T21:46:43.000Z",
+      "summary": "日本OECD共同研究は「OECD Digital Education Outlook 2026」日本語版のローンチを記念し、教育とAIに関する最新の知見を共有するプログラムを開催す […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_ddebc4c7606307a5",
@@ -564,40 +630,6 @@
       "tags": [
         "テクノロジー",
         "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_2384ccaf17c26d5e",
-      "title": "ビックカメラ、池袋本店で中古ウォッチ販売　ロレックスなど18ブランド",
-      "url": "https://www.watch.impress.co.jp/docs/news/2104396.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-04-24T03:26:57.000Z",
-      "summary": "ビックカメラは池袋本店の時計コーナー内に、ユーズドウォッチコーナーを4月24日に開設した。25年7月に中古ウォッチに参入しており、有楽町店、なんば店に続く3店舗目となる。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_d7dcda3b32060667",
-      "title": "PayPay、スターリンクに対応　山小屋でも衛星経由で決済",
-      "url": "https://www.watch.impress.co.jp/docs/news/2104386.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-04-24T03:20:18.000Z",
-      "summary": "PayPayアプリは、キャリア各社が提供する「Starlink Direct」を使用した、Starlink衛星との直接通信に対応した。これにより、山小屋や海上など通信圏外エリアや、災害時など通信環境が利用しづらい状況においても、衛星通信を通じて「PayPay」を利用できる。",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "教材",
-        "ツール"
       ],
       "priority_score": 50
     },
@@ -1181,22 +1213,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_e0aa94c0795c87df",
-      "title": "デジタル・ナレッジ、ホワイトペーパー「eラーニングの効果測定で成果を出す！」無料ダウンロード開始",
-      "url": "https://ict-enews.net/2026/04/24digital-knowledge-22/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-04-23T22:49:48.000Z",
-      "summary": "デジタル・ナレッジは23日、ホワイトペーパー「eラーニングの効果測定で成果を出す！」を公開した。 eラーニングを導入したけれど効果が見えない、費用対効果の社内説明に苦戦している、と […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_6b3dd11a0f87bee0",
       "title": "「Microsoft 365」の「Copilot」も自律的に作業を代行するエージェントに",
       "url": "https://www.itmedia.co.jp/news/articles/2604/24/news068.html",
@@ -1275,24 +1291,6 @@
       "source_name": "ITmedia AI+",
       "published_at": "2026-04-23T22:00:00.000Z",
       "summary": "OpenAIに代わって台頭し始めたAnthropic。同社の生成AI「Claude Code」によって成果を上げる企業が登場している。本稿では、楽天とマネーフォワードの活用方法を紹介する。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 60
-    },
-    {
-      "id": "item_b7e7d304bad5629d",
-      "title": "“生成AIで資料作成”……で大失敗　漫画「1週間後に生成AIで恥をかく新入社員」【残り4日】",
-      "url": "https://www.itmedia.co.jp/news/articles/2604/07/news020.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-04-23T22:00:00.000Z",
-      "summary": "とある企業に入社した新入社員「ニイジマ」が、AI活用の“地雷”を踏みまくっていく様子を通して、会社におけるAIの使い方、その初歩を紹介します。",
       "starred": false,
       "category": "ai",
       "tags": [
