@@ -1,14 +1,31 @@
 {
-  "generated_at": "2026-04-26T09:59:30.496Z",
+  "generated_at": "2026-04-26T21:31:41.627Z",
   "total": 103,
   "items": [
+    {
+      "id": "item_bd1951ae70f98dac",
+      "title": "サイトマップはこちら",
+      "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-04-26T21:31:30.017Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度"
+      ],
+      "priority_score": 50
+    },
     {
       "id": "item_5a2c7864b68dcd43",
       "title": "過去の文部科学省ホームページ（※国立国会図書館ホームページへリンク）",
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-04-26T09:59:20.136Z",
+      "published_at": "2026-04-26T21:31:30.017Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +43,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-04-26T09:59:20.135Z",
+      "published_at": "2026-04-26T21:31:30.016Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -39,19 +56,37 @@
       "priority_score": 60
     },
     {
-      "id": "item_bd1951ae70f98dac",
-      "title": "サイトマップはこちら",
-      "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-04-26T09:59:20.135Z",
-      "summary": "",
+      "id": "item_823642778160aeaf",
+      "title": "TP-Link「Archer BE260」、性能優秀！　新機能もある！　が、中間モデルの“苦悩”も見えるWi-Fi 7ルーター【イニシャルB】",
+      "url": "https://internet.watch.impress.co.jp/docs/column/shimizu/2104062.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-04-26T21:00:00.000Z",
+      "summary": "TP-LinkのArcher BE260は、言わば「ちょっといいエントリークラス」のWi-Fiルーターだ。エントリーモデルのArcher BE220に対して無線も有線も高性能だが、価格的には1万4800円前後と、ミドルレンジのモデルに近い設定がなされている。",
       "starred": false,
-      "category": "admin",
+      "category": "tech",
       "tags": [
-        "行政",
-        "文科省",
-        "制度"
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_b816661f062d1cad",
+      "title": "AIを使わないエンジニアは「仕事をしていない」？　シリコンバレーから広がる「Tokenmaxxing」という新常識",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2604/27/news012.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-04-26T20:00:00.000Z",
+      "summary": "シリコンバレーで広がる「トークンマクシング」とは何か。AIをどれだけ使えるかが生産性や評価を左右し始めた現実を追い、日本のソフトウェアエンジニアがどう向き合うべきかを考える。",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "教材",
+        "ツール"
       ],
       "priority_score": 50
     },
@@ -1284,24 +1319,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_d5aa0fa18cb834c0",
-      "title": "「開発時間70％削減」「新機能リリース24→5日に短縮」　Claude Codeが開発者に選ばれる、納得の理由",
-      "url": "https://www.itmedia.co.jp/business/articles/2604/24/news018.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-04-23T22:00:00.000Z",
-      "summary": "OpenAIに代わって台頭し始めたAnthropic。同社の生成AI「Claude Code」によって成果を上げる企業が登場している。本稿では、楽天とマネーフォワードの活用方法を紹介する。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 60
-    },
-    {
       "id": "item_91e20fb94a458db7",
       "title": "DirectCloud AI、UIの全面リニューアルやウェブ情報活用、範囲絞り込みなどのアップデート",
       "url": "https://internet.watch.impress.co.jp/docs/news/2104052.html",
@@ -1391,22 +1408,6 @@
       "source_name": "INTERNET Watch",
       "published_at": "2026-04-23T02:30:00.000Z",
       "summary": "Amazon.co.jpの食品・飲料・お酒のタイムセールコーナーではMJBのコーヒー飲料がタイムセール中だ。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_1f8ef3d39173ef8f",
-      "title": "ケルヒャー（KARCHER） のUSB充電式で手軽に使える高圧洗浄機がAmazonでセール！　ハンディモデル「OC 5 Handy Plus CB」が1万4991円",
-      "url": "https://internet.watch.impress.co.jp/docs/shopping/2103926.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-04-23T01:30:00.000Z",
-      "summary": "Amazon.co.jpのケルヒャー（KARCHER）ストアでは、同社の高圧洗浄機がタイムセール中だ。",
       "starred": false,
       "category": "tech",
       "tags": [
