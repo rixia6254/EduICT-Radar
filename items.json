@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-27T11:09:47.351Z",
+  "generated_at": "2026-04-27T21:49:26.674Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-04-27T11:09:33.772Z",
+      "published_at": "2026-04-27T21:49:13.733Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-04-27T11:09:33.772Z",
+      "published_at": "2026-04-27T21:49:13.733Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-04-27T11:09:33.772Z",
+      "published_at": "2026-04-27T21:49:13.733Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,79 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_a7bcd88a9ac0f444",
+      "title": "NTT、AIネイティブインフラ「AIOWN」展開、都心に液冷標準AIデータセンター建設などDCの大幅拡張を予定",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2104986.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-04-27T21:30:00.000Z",
+      "summary": "NTT株式会社、株式会社NTTデータグループ、NTTドコモビジネス株式会社は4月27日、AIネイティブインフラ「AIOWN」（エーアイオン）の展開について発表した。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_692e60186eca8093",
+      "title": "IPA、ゴールデンウィークに向けたセキュリティ対策を呼びかけ　企業・組織では「ネットワーク貫通型攻撃」に注意を",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2104585.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-04-27T21:00:00.000Z",
+      "summary": "独立行政法人情報処理推進機構（IPA）は、「2026年度 ゴールデンウィークにおける情報セキュリティに関する注意喚起」を発表した。ここでは、企業や組織向けにネットワーク貫通型攻撃への対策を呼びかけている。",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "情報モラル",
+        "行政",
+        "文科省"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_356403a753ef95b0",
+      "title": "毎朝の情報収集を“更新できるダッシュボード”にまとめよう　Claude CoworkのLive Artifactで作ってみた",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2604/28/news008.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-04-27T20:00:00.000Z",
+      "summary": "Claude Coworkに新たに加わったLive Artifactを使うと、刻々とたまっていく情報を、自分のタイミングで可視化したり、ざっくりとまとめたりできます。そこで、今回は筆者が毎朝やっている情報収集をちょっと楽にできないか試してみました。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_87d5e2e99f19d20d",
+      "title": "MSとOpenAI、独占的ではない“柔軟”な提携へ移行",
+      "url": "https://www.watch.impress.co.jp/docs/news/2105119.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-04-27T15:28:14.000Z",
+      "summary": "MicrosoftとOpenAIは27日(米国時間)、パートナーシップの更新について発表した。Microsoftは引き続きOpenAIの主要なクラウドパートナーとなるが、独占的なものではなく、OpenAIはあらゆるクラウドプロバイダーにおいて顧客に製品を提供できる。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "生成AI",
+        "AI活用",
+        "校務DX",
+        "GIGA"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_37040f8e3d127967",
@@ -471,22 +544,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_96c3f8bd9cb42217",
-      "title": "Visa、5月は全国でタッチ決済乗車で30%キャッシュバック　上限600円",
-      "url": "https://www.watch.impress.co.jp/docs/news/2104858.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-04-27T02:26:25.000Z",
-      "summary": "ビザ・ワールドワイド・ジャパン(Visa)は、「電車でも! タッチでVisa割キャンペーン! 」を2026年5月1日から5月31日まで全国で実施する。これまで地域限定で展開してきた交通機関向けのキャンペーンを全国へと拡大するもので、期間中に、対象の交通機関をVisaのタッチ決済で利用すると、30%のキャッシュバックが受けられる。キャッシュバック上限は1つのVisaカードに対して600円。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_b1ca8f5c6a16ffcd",
       "title": "NECが人材育成サービスを刷新　「今後必要とされる人材像」を再定義した背景",
       "url": "https://www.itmedia.co.jp/enterprise/articles/2604/24/news043.html",
@@ -537,7 +594,7 @@
     },
     {
       "id": "item_f8c4765284effc39",
-      "title": "【注目記事】今年も楽しそう！ 明日4月28日に都内で開催 「ジオ展」はこんなイベント ～地図・位置情報の業界人たち・趣味人たちで盛り上がる共同展示会",
+      "title": "【注目記事】今年も楽しそう！ 4月28日に都内で開催 「ジオ展」はこんなイベント ～地図・位置情報の業界人たち・趣味人たちで盛り上がる共同展示会",
       "url": "https://internet.watch.impress.co.jp/docs/readitnow/2104833.html",
       "source_id": "internet_watch",
       "source_name": "INTERNET Watch",
@@ -1356,56 +1413,6 @@
       "source_name": "INTERNET Watch",
       "published_at": "2026-04-24T06:30:00.000Z",
       "summary": "華為技術日本株式会社（ファーウェイ・ジャパン）は4月24日、Wi-Fi 7対応ルーター「HUAWEI WiFi BE3」を発売した。市場想定価格は8800円。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_824c525e906726c1",
-      "title": "イエローハットグループの二輪用品店「2りんかん」に不正アクセス、会員の個人情報漏えいの可能性",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2104486.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-04-24T06:00:00.000Z",
-      "summary": "株式会社イエローハットは4月23日、同社グループの株式会社2りんかんイエローハットのサーバーが第三者による不正アクセスを受け、顧客の個人情報が漏えいした可能性があると発表した。",
-      "starred": false,
-      "category": "security",
-      "tags": [
-        "インターネット",
-        "セキュリティ",
-        "情報モラル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_7d77157aab0e7344",
-      "title": "政府AI「源内」オープンソース化　GitHubで公開、商用利用もOK　民間と共創へ",
-      "url": "https://www.itmedia.co.jp/aiplus/articles/2604/24/news103.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-04-24T05:42:00.000Z",
-      "summary": "民間の提案を積極的に取り入れつつ、政府機関などでの重複開発を抑制する。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_5688a0ff4aed969d",
-      "title": "マウスコンピューター、全国の店舗で「ゴールデンウィークセール」を開催中！ 5月28日まで",
-      "url": "https://internet.watch.impress.co.jp/docs/shopping/2104411.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-04-24T04:30:00.000Z",
-      "summary": "マウスコンピューター株式会社は4月24日、全国の店舗で「ゴールデンウィークセール」を開始した。期間は5月28日まで。店頭在庫があれば即日持ち帰り可能。",
       "starred": false,
       "category": "tech",
       "tags": [
