@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-28T11:08:33.789Z",
+  "generated_at": "2026-04-28T21:51:29.807Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-04-28T11:08:19.850Z",
+      "published_at": "2026-04-28T21:51:15.955Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-04-28T11:08:19.850Z",
+      "published_at": "2026-04-28T21:51:15.955Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-04-28T11:08:19.850Z",
+      "published_at": "2026-04-28T21:51:15.955Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -52,6 +52,42 @@
         "文科省",
         "制度",
         "教育ニュース"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_7856f4f37e2cf788",
+      "title": "Photoshopに「オブジェクトを回転」　画像を別視点にリアルタイム再構成",
+      "url": "https://www.watch.impress.co.jp/docs/news/2105462.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-04-28T13:00:00.000Z",
+      "summary": "Adobeは4月28日、Adobe Photoshopデスクトップ版の最新版「バージョン27.6」を公開し、「オブジェクトを回転」や生成AIモデル「Firefly Image 5」などを提供開始した。あわせてAdobe Lightroomも、高度な検索機能など既存機能の強化を実施した。いずれも本日から利用できる。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "生成AI",
+        "AI活用"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_e2e3df81d70b5347",
+      "title": "アドビ、Creative Cloud横断の「Firefly AIアシスタント」β版",
+      "url": "https://www.watch.impress.co.jp/docs/news/2105381.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-04-28T13:00:00.000Z",
+      "summary": "Adobeは28日、「Adobe Firefly AIアシスタント」のパブリックベータ版を提供開始した。対象はAdobe Creative Cloud Pro(9,080円/月)、またはAdobe Fireflyの有料プランであるPro(3,180円/月)、Pro Plus(6,600円/月)の利用者で、全世界で順次提供する。ベータ版期間中は、同アシスタント専用の生成AIクレジットを毎日無料で付与…",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "生成AI",
+        "AI活用"
       ],
       "priority_score": 60
     },
@@ -1202,38 +1238,6 @@
         "AI活用",
         "校務DX",
         "GIGA"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_37040f8e3d127967",
-      "title": "カクヤスが不要品回収、ジモティーがリユース品として販売",
-      "url": "https://www.watch.impress.co.jp/docs/news/2105081.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-04-27T11:00:00.000Z",
-      "summary": "カクヤスとジモティーが連携し、酒類の販売およびデリバリーを行なう「なんでも酒やカクヤス」の横浜市内2店舗に、家庭の不要品を無償で持ち込める回収スポット「ジモティースポットミニ」を4月28日から設置する。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_98880ec2e7504325",
-      "title": "JT、吸わないタバコ「ゼロスタイル・スヌース」廃止　新製品に置き換え",
-      "url": "https://www.watch.impress.co.jp/docs/news/2105088.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-04-27T09:58:42.000Z",
-      "summary": "JTは、パウチを口に含むタイプのタバコ製品「ゼロスタイル・スヌース」8銘柄を廃止し、6月ごろから在庫売り尽くしをもって販売を終了する。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
       ],
       "priority_score": 50
     },
