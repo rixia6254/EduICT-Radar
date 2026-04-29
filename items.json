@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-28T21:51:29.807Z",
+  "generated_at": "2026-04-29T05:57:09.583Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-04-28T21:51:15.955Z",
+      "published_at": "2026-04-29T05:56:57.763Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-04-28T21:51:15.955Z",
+      "published_at": "2026-04-29T05:56:57.763Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-04-28T21:51:15.955Z",
+      "published_at": "2026-04-29T05:56:57.763Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -52,6 +52,133 @@
         "文科省",
         "制度",
         "教育ニュース"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_399aee9f4b16b2a8",
+      "title": "OpenAIモデル、AWSで利用可能に　Codex・マネージドエージェントも",
+      "url": "https://www.watch.impress.co.jp/docs/news/2105539.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-04-29T01:31:57.000Z",
+      "summary": "AWSとOpenAIは28日(米国時間)、最新のOpenAIモデルを「Amazon Bedrock」に導入し、Amazon Bedrock上で「Codex」と、OpenAIを搭載した「Amazon Bedrock Managed Agents」の限定プレビュー版を提供開始した。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "生成AI",
+        "AI活用"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_d6d65d3eb24b6d05",
+      "title": "ClaudeでBlenderやPhotoshopを直接制御　Anthropicがクリエイティブ向け新コネクタ8件公開",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2604/29/news027.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-04-29T00:01:00.000Z",
+      "summary": "Anthropicは、ClaudeにAdobe PhotoshopやBlenderなどと連携する8種類のクリエイティブ系「コネクタ」を導入した。AIが反復作業やデータ同期を担うことで、クリエイターは手動の工程を省き、迅速なアイデア創出が可能になるとしている。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_ff99441756694da5",
+      "title": "テントのような構造の軽量スーツケース「プロテカ フィーナRF」小紋柄",
+      "url": "https://www.watch.impress.co.jp/docs/news/2103808.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-04-29T00:00:00.000Z",
+      "summary": "エースはトラベルバッグブランド「PROTECA(プロテカ)」から、テントのような独自構造で全サイズ2kg以下という軽さを実現した軽量ソフトキャリー「フィーナRF」に小紋柄ジャガード生地を採用した限定モデル「フィーナRF LTD」を発売した。容量18L、24L、29Lをラインアップし、価格はそれぞれ52,800円、55,000円、58,300円。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_092d0aedd8c336af",
+      "title": "AIエージェントを活用する中堅・中小は何を使っている？　先進企業が「手放さないツール」【調査】",
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2604/29/news017.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-04-28T23:00:00.000Z",
+      "summary": "ノークリサーチの調査で、AIエージェントを既に導入している中堅・中小企業が併用するツールが判明した。AIエージェント活用企業が併用するツールとは何か。",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_f4baf91d534eed7a",
+      "title": "「OpenAIの独占権」手放したMicrosoft、AI競争に勝てるか？　巨額投資マネーの行方は",
+      "url": "https://www.itmedia.co.jp/business/articles/2604/29/news026.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-04-28T23:00:00.000Z",
+      "summary": "Google、Microsoft、Meta、AmazonによるAI投資が止まらない。ビッグテックは巨額の投資を回収できるのか。特にMicrosoftに厳しい目が向けられている。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_dfa64f6af6929aca",
+      "title": "Claude、PhotoshopやBlenderなどクリエイティブツールと連携",
+      "url": "https://www.watch.impress.co.jp/docs/news/2105535.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-04-28T23:00:00.000Z",
+      "summary": "Anthropicは28日(米国時間)、AIサービス「Claude」において、クリエイティブツールへの対応強化を発表した。新たにAdobeのCreative Cloudや、Affinity、Blender、AbletonなどとClaudeがコネクターで連携可能となる。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "生成AI",
+        "AI活用",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_10f61e8c12e0f792",
+      "title": "AIに丸投げ……で失敗　漫画「1週間後に生成AIで恥をかく新入社員」【残り1日】",
+      "url": "https://www.itmedia.co.jp/news/articles/2604/10/news006.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-04-28T22:00:00.000Z",
+      "summary": "とある企業に入社した新入社員「ニイジマ」が、AI活用の“地雷”を踏みまくっていく様子を通して、会社におけるAIの使い方、その初歩を紹介します。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
       ],
       "priority_score": 60
     },
@@ -1006,24 +1133,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_66e03fe79e9922c9",
-      "title": "質問に答えるAIはもう古い?　Genspark AIワークスペース 4.0が目指す「AI社員」[Sponsored]",
-      "url": "https://www.watch.impress.co.jp/docs/topic/special/2101923.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-04-27T23:00:00.000Z",
-      "summary": "生成AIに興味はあっても、実際の仕事をどこまで任せられるのかは、まだ見えにくいと感じている人は少なくありません。文章の要約や調べものには便利そうでも、日々の業務そのものを前に進める存在として活用できるのかとなると、具体的なイメージを持ちにくいからです。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "生成AI",
-        "AI活用"
-      ],
-      "priority_score": 60
-    },
-    {
       "id": "item_d37545cd3c100f35",
       "title": "Wi-Fi電波状況を可視化する「NetSpot5」、ライフボートが国内販売開始",
       "url": "https://internet.watch.impress.co.jp/docs/news/2104951.html",
@@ -1036,24 +1145,6 @@
       "tags": [
         "インターネット",
         "セキュリティ",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_b4c4bfa56d6fbc55",
-      "title": "ウェザーニュースのアプリ、全世界の天気に対応",
-      "url": "https://www.watch.impress.co.jp/docs/news/2105092.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-04-27T22:30:00.000Z",
-      "summary": "ウェザーニューズは、アプリ「ウェザーニュース」において、全世界の気象・防災情報に対応するバージョンアップを実施した。海外でも日本国内と変わらない品質で利用できると謳う。",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
         "教材",
         "ツール"
       ],
@@ -1222,26 +1313,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_87d5e2e99f19d20d",
-      "title": "MSとOpenAI、独占的ではない“柔軟”な提携へ移行",
-      "url": "https://www.watch.impress.co.jp/docs/news/2105119.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-04-27T15:28:14.000Z",
-      "summary": "MicrosoftとOpenAIは27日(米国時間)、パートナーシップの更新について発表した。Microsoftは引き続きOpenAIの主要なクラウドパートナーとなるが、独占的なものではなく、OpenAIはあらゆるクラウドプロバイダーにおいて顧客に製品を提供できる。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "生成AI",
-        "AI活用",
-        "校務DX",
-        "GIGA"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_e0eeb141f626d3fd",
       "title": "WAN/LANとも2.5GbE対応のWi-Fi 7ルーターが1万4800円で買える!!　だけどこれは本当に買いなのか？　清水理史が動画で解説【清水理史の「イニシャルB」チャンネル】",
       "url": "https://internet.watch.impress.co.jp/docs/column/shimizumovie/2104982.html",
@@ -1343,23 +1414,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_b1ca8f5c6a16ffcd",
-      "title": "NECが人材育成サービスを刷新　「今後必要とされる人材像」を再定義した背景",
-      "url": "https://www.itmedia.co.jp/enterprise/articles/2604/24/news043.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-04-27T02:20:00.000Z",
-      "summary": "NECが人材育成サービス「BluStellar Academy for DX」をリニューアルする。独自のAIエージェントを活用し、組織変革サイクルを伴走支援する。今回同社が「今後企業が求める人物像」を再定義した背景に何があるのか。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_0e6dd140ae1285e5",
       "title": "「FILCO」のダイヤテック閉業、予兆はあった？ ファンアカウントが見たここ半年の「異常な動き」とは【やじうまWatch】",
       "url": "https://internet.watch.impress.co.jp/docs/yajiuma/2104838.html",
@@ -1374,60 +1428,6 @@
         "セキュリティ"
       ],
       "priority_score": 50
-    },
-    {
-      "id": "item_99b6bed06505e76a",
-      "title": "空前のAIブーム！「猫も杓子もAI」な現状は今後も続くのか？【前編】",
-      "url": "https://monoist.itmedia.co.jp/mn/articles/2604/27/news010.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-04-26T23:00:00.000Z",
-      "summary": "近年「製品セキュリティ」と呼ばれ始めたセキュリティの新分野に関する事象を紹介し考察する本連載。今回は、連載テーマである「製品セキュリティ」から多少は逸脱するが、IT革命以来の世界を革新するものと世論に目されているAIのこれまでと今後について述べる。",
-      "starred": false,
-      "category": "security",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "セキュリティ",
-        "情報モラル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_89d141ea07ae4514",
-      "title": "まるで外商？　三越伊勢丹がECで強化する「パーソナライズAI」　効果は？",
-      "url": "https://www.itmedia.co.jp/business/articles/2604/27/news018.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-04-26T23:00:00.000Z",
-      "summary": "三越伊勢丹のEC強化施策の一つにパーソナライズAI機能がある。AIを活用し、これまでのよくあるおすすめ機能から、百貨店の強みを生かした機能へと進化させたという。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_37858d8e3505477c",
-      "title": "「年間120万時間削減」　丸紅の生成AI活用が成果を出せる「4つの理由」",
-      "url": "https://www.itmedia.co.jp/business/articles/2604/27/news046.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-04-26T23:00:00.000Z",
-      "summary": "総合商社・丸紅がDXに取り組む理由は「事業を成長させるため」と、とてもシンプルだ。情報、物流、食料、金属、エネルギーなど事業領域は多岐にわたる同社がDXで成果を出せる理由を語る。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 60
     },
     {
       "id": "item_a2978806b0b51ecd",
