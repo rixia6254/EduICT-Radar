@@ -1,7 +1,158 @@
 {
-  "generated_at": "2026-04-30T06:08:01.402Z",
-  "total": 100,
+  "generated_at": "2026-04-30T10:59:30.326Z",
+  "total": 103,
   "items": [
+    {
+      "id": "item_21f8651de3f2baea",
+      "title": "文部科学省ホームページトップはこちら",
+      "url": "https://www.mext.go.jp/",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-04-30T10:59:16.501Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_bd1951ae70f98dac",
+      "title": "サイトマップはこちら",
+      "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-04-30T10:59:16.501Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_5a2c7864b68dcd43",
+      "title": "過去の文部科学省ホームページ（※国立国会図書館ホームページへリンク）",
+      "url": "https://warp.ndl.go.jp/waid/3475",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-04-30T10:59:16.501Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_06ed43f2bdc08bcc",
+      "title": "JR西日本、JAL・ANAと連携協定　30年に航空と鉄道をシームレスに予約",
+      "url": "https://www.watch.impress.co.jp/docs/news/2105918.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-04-30T09:33:43.000Z",
+      "summary": "JR西日本は、JAL及びANAとの連携強化に関する協定を4月30日に締結した。広域な移動サービスを担う航空会社との共創によって、国内外からの西日本への誘客や、地域課題解決を推進。2030年には鉄道と航空をシームレスに予約できるシステムを実現する。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_9c23c7a0a917329c",
+      "title": "楽天トラベルのAIエージェント、宿泊予約に対応",
+      "url": "https://www.watch.impress.co.jp/docs/news/2105889.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-04-30T08:45:12.000Z",
+      "summary": "楽天トラベルは、AIエージェント「Rakuten AI」に予約機能を追加した。これにより、宿泊施設の提案から予約までをAIが一貫してサポート可能となる。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_ce8b065368b7dd60",
+      "title": "JAL、「保険」強化へライフネット生命と提携　マイル基盤を活用",
+      "url": "https://www.watch.impress.co.jp/docs/news/2105883.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-04-30T07:46:39.000Z",
+      "summary": "日本航空(JAL)とライフネット生命保険は30日、資本業務提携を締結した。JALは、ライフネット生命の株主であるauフィナンシャルホールディングス(auFH)と株式譲渡契約を締結し、6月下旬を目途に、auFHが保有するライフネット生命の全株式(持株比率18.32%)を取得する予定。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_fa3807b88bd14dc9",
+      "title": "クレカ番号入力なし、エージェントがドメイン購入からデプロイまでこなす時代へ　Cloudflare新機能",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2604/30/news105.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-04-30T06:42:00.000Z",
+      "summary": "Cloudflareは、AIエージェントが同サービスアカウントの作成や課金、ドメイン登録、デプロイまで実行できるようになる新機能を発表。規約への同意などを除き、手作業が不要になるという。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_4e0dfc23c2f3cd30",
+      "title": "無印良品、ナチュラルローソン約90店で販売開始",
+      "url": "https://www.watch.impress.co.jp/docs/news/2105800.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-04-30T06:29:41.000Z",
+      "summary": "良品計画は、4月下旬から関東4都県(東京、埼玉、千葉、神奈川)のナチュラルローソン約90店舗で「無印良品」商品の販売を順次開始した。ローソンとの協業により、一部店舗での実験展開を経て拡大した取り組み。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_dfab061357898e9a",
+      "title": "NEC社長「AI投資に数百億円」　最高益・利益率2桁突入の先に描く展望とは？",
+      "url": "https://www.itmedia.co.jp/business/articles/2604/30/news092.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-04-30T06:00:00.000Z",
+      "summary": "NECの森田隆之社長兼CEOは、4月28日の決算説明会で「2026年は大きな節目」になると語った。AI投資などを加速させるという。その中身とは。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
+    },
     {
       "id": "item_01439384efbdff2f",
       "title": "GMOペパボ、自己成長型AI「Hermes Agent」をクラウドで利用可能に　国内初",
@@ -1093,54 +1244,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_da057b6f9a1c06ff",
-      "title": "【告知】【登録無料】Impress Watchニュースレター配信中　独自コラムや注目記事を毎週お届け",
-      "url": "https://www.watch.impress.co.jp/docs/common/notice/2105114.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-04-28T07:40:21.000Z",
-      "summary": "Impress Watch編集部では、毎週金曜日にニュースレターを読者の皆さまにお届けしています。ニュースレターの購読には、無料のインプレスID取得とWatch+の会員サービス登録が必要です。会員登録のうえ、ぜひニュースレターをご購読ください。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_279541391037a845",
-      "title": "KDDI、伊豆大島「裏砂漠」に公衆Wi-Fi整備　スターリンク活用",
-      "url": "https://www.watch.impress.co.jp/docs/news/2105378.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-04-28T07:27:32.000Z",
-      "summary": "KDDIは、東京都大島町(伊豆大島)の裏砂漠入口駐車場に、スターリンクと太陽光発電を利用した公衆Wi-Fiを整備した。来訪者は、契約するキャリアを問わず無料で利用できる。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_5237e5bef0816694",
-      "title": "表参道に14階複合施設　駅直結の商業・ホテル",
-      "url": "https://www.watch.impress.co.jp/docs/news/2105367.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-04-28T06:42:48.000Z",
-      "summary": "東京メトロとサンケイビルは、表参道駅直結の商業・ホテル等からなる14階建て複合施設開発に着手したと発表した。2032年度の竣工を目標に進められる。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_7746d255762964af",
       "title": "BOSEのヘッドホンがAmazonでセール！　アクティブノイズキャンセル搭載モデルがお得に　空間オーディオにも対応した「QuietComfort Ultra Headphones（第2世代）」は4万5900円",
       "url": "https://internet.watch.impress.co.jp/docs/shopping/2105194.html",
@@ -1190,22 +1293,6 @@
         "AI活用",
         "校務DX",
         "GIGA"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_e2963c86ad64b23e",
-      "title": "ファミマ、321円のお手軽パスタ2種　“もう一品”にも最適",
-      "url": "https://www.watch.impress.co.jp/docs/news/2105314.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-04-28T05:00:47.000Z",
-      "summary": "ファミリーマートは、321円という低価格を実現したパスタ2種類を全国のファミリーマート(沖縄県を除く)で発売した。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
       ],
       "priority_score": 50
     },
@@ -1343,41 +1430,6 @@
       "tags": [
         "インターネット",
         "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_ec8d33b40381c03b",
-      "title": "NTT、データセンター3倍に増強へ　AIの需要に対応　島田明社長「推論用途広がる」",
-      "url": "https://www.itmedia.co.jp/news/articles/2604/28/news064.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-04-28T01:29:00.000Z",
-      "summary": "NTTがAIの需要の急拡大に対応するため、国内のデータセンター（DC）の規模について、消費する電力容量換算で2033年度に現在の3倍超に増強する計画を明らかにした。最新技術を投入したDCを高速通信網で結び、AI利用で生じる膨大なデータを処理し、日本の産業発展を後押しする狙いだ。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_59139036e245d37b",
-      "title": "4年目を迎えた「小さく始めるAIパビリオン」、マイコンよりMPU多めの構成に",
-      "url": "https://monoist.itmedia.co.jp/mn/articles/2604/28/news049.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-04-27T23:00:00.000Z",
-      "summary": "「第10回 AI・人工知能EXPO【春】」の「小さく始めるAIパビリオン」に、STマイクロエレクトロニクス、NXPジャパン、ヌヴォトン テクノロジー ジャパン、ルネサス エレクトロニクスが出展し、マイコンを中心に省電力のプロセッサを用いたAI活用に関する展示を披露した。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
       ],
       "priority_score": 50
     },
