@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-30T10:59:30.326Z",
+  "generated_at": "2026-04-30T21:51:22.593Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-04-30T10:59:16.501Z",
+      "published_at": "2026-04-30T21:51:11.140Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-04-30T10:59:16.501Z",
+      "published_at": "2026-04-30T21:51:11.140Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-04-30T10:59:16.501Z",
+      "published_at": "2026-04-30T21:51:11.140Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,119 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_95f374264c1f8399",
+      "title": "Belkin、最大40mのワイヤレス接続が可能なHDMIアダプター「ConnectAir ワイヤレス HDMI ディスプレイアダプター」発売",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2105955.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-04-30T21:30:00.000Z",
+      "summary": "ベルキン株式会社（Belkin）は4月28日、最大40mの安定接続が可能なワイヤレスHDMIアダプター「ConnectAir ワイヤレス HDMI ディスプレイアダプター」を発売した。Amazon.co.jpでの販売価格は1万7991円。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_b1fe674ea4063b26",
+      "title": "AI×シミュレーションでタイヤ開発を加速　横浜ゴムの金型設計支援システム",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2605/01/news024.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-04-30T21:15:00.000Z",
+      "summary": "横浜ゴムは、シミュレーションとAI技術を融合したタイヤの金型設計支援システムを独自開発した。これにより、経験の浅い技術者でも金型設計が容易となり、開発スピードの向上やコスト削減に加え、手戻りの少ない金型設計を実現できる。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_3d18a368a8a54ce9",
+      "title": "SwitchBot、AIハブ上でOpenClawを手軽に導入できる「AIエージェントプラン」提供開始",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2105853.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-04-30T21:00:00.000Z",
+      "summary": "SWITCHBOT株式会社は4月29日、「SwitchBot AIハブ」上でAIエージェント「OpenClaw」を利用するためのLLMリクエストを提供する新サービス「AIエージェントプラン」の提供を開始した。月額料金は269円で、AIハブでOpenClawを初回設定する場合は初月無料。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "生成AI",
+        "AI活用"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_481f5de6f926fcb7",
+      "title": "Anthropic、セキュリティ特化ツール「Claude Security」　AIがコードをスキャン→脆弱性を修正",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2605/01/news051.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-04-30T17:00:00.000Z",
+      "summary": "米Anthropicは、セキュリティに特化したAIツール「Claude Security」（パブリックβ版）の提供を始めた。AIがコードをスキャンして脆弱（ぜいじゃく）性を検出し、ワンストップで修正できる。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用",
+        "セキュリティ",
+        "情報モラル",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_4a259fea3d3a2638",
+      "title": "アンソロピック、「Claude Security」開始　Opus 4.7が防御対策",
+      "url": "https://www.watch.impress.co.jp/docs/news/2105989.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-04-30T17:00:00.000Z",
+      "summary": "Anthropicは30日(米国時間)、Claude Enterpriseの利用者向けに「Claude Security」のパブリックベータ版を提供開始した。Claude Securityは、セキュリティチームがコードベースをスキャンして脆弱性を検出し、対策パッチを生成することに特化した機能で、Claude Opus 4.7を基盤としている。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "生成AI",
+        "AI活用",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_79af03c7962bb7d4",
+      "title": "英語のマンガ【共通テスト情報Ⅰ風】（プログラミング／大貧民で学ぶ関数①：戻り値）",
+      "url": "https://note.com/plum_tree/n/nff9ceee0ffa1",
+      "source_id": "note_joho1",
+      "source_name": "note（情報科教員）",
+      "published_at": "2026-04-30T13:56:50.000Z",
+      "summary": "高校生のカナさんは、最近、昼休みに同級生とトランプの大貧民※を楽しんでいます。でも、毎日遊んでいたため、少し飽きてきてしまいました。 そこでカナさんたちは、プログラミングを使って自分たち独自の新しいルールを追加することにしました。1から5までの数字をランダムに返す『関数』を使って、特定の数字が出たときだけ特別なアクションが起きるようにします。 続きをみる",
+      "starred": false,
+      "category": "exam",
+      "tags": [
+        "授業実践",
+        "情報Ⅰ",
+        "教材",
+        "共通テスト",
+        "入試",
+        "教育ニュース"
+      ],
+      "priority_score": 80
     },
     {
       "id": "item_06ed43f2bdc08bcc",
@@ -1176,24 +1289,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_918cde36d40c5738",
-      "title": "AMD、宇宙でのAI活用を展望　軌道上データセンターも言及",
-      "url": "https://www.watch.impress.co.jp/docs/news/2105430.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-04-28T09:14:10.000Z",
-      "summary": "AMDは27日(米国時間)、宇宙空間におけるAIの展望を発表した。衛星や宇宙船におけるエッジコンピューティングや、将来の宇宙での大規模データセンター構想を見据え、宇宙をエッジコンピューティングにとって最も要求の厳しいフロンティアと位置付ける。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "生成AI",
-        "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_bb7b01afafdd867b",
       "title": "DeNAやGOなど、AI勉強会の資料を無料公開中　累計100件超",
       "url": "https://www.itmedia.co.jp/aiplus/articles/2604/28/news106.html",
@@ -1297,26 +1392,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_12289e6469030a60",
-      "title": "TeamsもMeetもあるのに「ZoomのAI」を使う意味はあるか　“コスパ”と“電話”に活路、マーケティング責任者に聞いた",
-      "url": "https://www.itmedia.co.jp/aiplus/articles/2604/28/news061.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-04-28T04:30:00.000Z",
-      "summary": "Web会議ツールのZoomが、生成AIを活用し業務完結を支援するプラットフォームへの再定義を進めている。競合のTeamsやMeetが普及する中、“会話”を軸とした差別化戦略と日本での勝ち筋を同社幹部らに聞いた。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 60
-    },
-    {
       "id": "item_38e63553423ac5a9",
       "title": "Amazonでエレコム製の無線・有線トラックボールがタイムセール中！　8ボタンワイヤレストラックボールの「M-HT1DRXBK」が4940円",
       "url": "https://internet.watch.impress.co.jp/docs/shopping/2105184.html",
@@ -1329,25 +1404,6 @@
       "tags": [
         "インターネット",
         "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_49f76a4b6cca05f9",
-      "title": "「バイブコーディング」のセキュリティリスク、どう対応？　企業がやるべき“3つのこと”",
-      "url": "https://www.itmedia.co.jp/aiplus/articles/2604/28/news006.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-04-28T03:00:00.000Z",
-      "summary": "バイブコーディングで生じるセキュリティリスクに、企業はどう対応するべきか解説する。",
-      "starred": false,
-      "category": "security",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "セキュリティ",
-        "情報モラル"
       ],
       "priority_score": 50
     },
@@ -1393,38 +1449,6 @@
       "source_name": "INTERNET Watch",
       "published_at": "2026-04-28T02:17:56.000Z",
       "summary": "国立国会図書館デジタルコレクションで公開されていた約7万点の資料が、図書館向け／個人向けの送信対象から予告なく外れていたことが明らかになった。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_18b41d385fc46c9c",
-      "title": "今売れているビジネス向けノートPCはコレだ！【MousePro 売れ筋ビジネスPCランキング ノート編 2026/4/28版】",
-      "url": "https://internet.watch.impress.co.jp/docs/ranking/mousepro/2103845.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-04-28T02:00:00.000Z",
-      "summary": "本記事では、マウスコンピューターの法人向けブランド「MousePro」の売れ筋PCを紹介しています。なお、順位、価格、構成は随時変動しており、最新情報はリンク先にてご確認ください。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_2de74306f499ea6e",
-      "title": "TP-Linkの屋外用ネットワークカメラがAmazonでセール中！　18倍ズーム搭載の4Kカメラ「Tapo C660 KIT」は1万8240円",
-      "url": "https://internet.watch.impress.co.jp/docs/special/2105153.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-04-28T01:40:00.000Z",
-      "summary": "Amazon.co.jpのTP-Linkストアページでは現在、同社の屋外用ネットワークカメラのセールが行われている。",
       "starred": false,
       "category": "tech",
       "tags": [
@@ -1791,25 +1815,6 @@
       "source_name": "note（情報科教員）",
       "published_at": "2026-01-26T12:50:26.000Z",
       "summary": "第4問解説：桜の開花データから読み解く分析の作法 「桜の開花日」に統計的な分析をする事例です。オープンデータの定義、仮説の検証、そして予測モデルの評価と進む過程を、問題にしています。 続きをみる",
-      "starred": false,
-      "category": "exam",
-      "tags": [
-        "授業実践",
-        "情報Ⅰ",
-        "教材",
-        "共通テスト",
-        "入試"
-      ],
-      "priority_score": 70
-    },
-    {
-      "id": "item_ec559f31cce9fa89",
-      "title": "こぎん刺しのモドコ（模様）の対称性　共通テスト2026 情報Ⅰの題材から",
-      "url": "https://note.com/newricefield_m/n/na540bc850809",
-      "source_id": "note_joho1",
-      "source_name": "note（情報科教員）",
-      "published_at": "2026-01-25T05:22:46.000Z",
-      "summary": "ぼちぼち解いています。受験生の皆さんと受験業界の皆さんは２次試験に向けて頑張っていらっしゃることと思います。心から応援しています。 この記事は情報Ⅰの教科としての問題分析ではありません。ほとんどこぎん刺しという手芸の話です。ご了解の上、この先を読むかどうか決めていただくようお願いします 基本的にスキが高じただけのノリで書いている記事です… 2026年の共通テスト情報Ⅰで、クロスステッチを題材にした…",
       "starred": false,
       "category": "exam",
       "tags": [
