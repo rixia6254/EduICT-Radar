@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-01T06:18:02.618Z",
+  "generated_at": "2026-05-01T10:26:55.508Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-05-01T06:17:49.037Z",
+      "published_at": "2026-05-01T10:26:37.715Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-05-01T06:17:49.037Z",
+      "published_at": "2026-05-01T10:26:37.715Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-05-01T06:17:49.037Z",
+      "published_at": "2026-05-01T10:26:37.715Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,108 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_dd580bbeb2a0235f",
+      "title": "ChatGPTの「画像生成」、どう進化？　開発者に聞く　“文字化け解消”の秘訣",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2605/01/news110.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-05-01T08:49:00.000Z",
+      "summary": "米OpenAIの画像生成AI「ChatGPT Images 2.0」はどのように進化したのか。ポイントを開発者に聞いた。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 70
+    },
+    {
+      "id": "item_ce39a8e6a43a68c6",
+      "title": "AGFのインスタントコーヒー「Blendy」が安い！　Amazon GWスマイルSale　「ブレンディ スティック エスプレッソ・オレ 微糖」100本は2213円から",
+      "url": "https://internet.watch.impress.co.jp/docs/shopping/2106068.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-05-01T08:30:00.000Z",
+      "summary": "Amazon.co.jpでは5月3日までの期間限定でビッグセール「ゴールデンウィーク スマイルSale」が開催される。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_0114fab2b6b51b4b",
+      "title": "GPT-5.5のサイバー攻撃能力は一部「Mythos超え」　英政府機関が評価",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2605/01/news108.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-05-01T08:22:00.000Z",
+      "summary": "英国のAISIは、OpenAIの「GPT-5.5」が「Claude Mythos Preview」と同等のサイバー攻撃能力を持つとの評価を公表した。能力向上が業界共通の傾向である可能性が示唆されている。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_4fc5fbf38a6f2f38",
+      "title": "SBI、投信積立で暗号資産が貯まるクレカ「SBI VISAクリプトカード」",
+      "url": "https://www.watch.impress.co.jp/docs/news/2106262.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-05-01T08:13:16.000Z",
+      "summary": "SBIグループとVisaが連携し、ビットコインなどの暗号資産が貯まるクレジットカード「SBI VISAクリプトカード」を5月1日から発行する。還元率が高い「SBI VISAクリプトカード ゴールド」と「SBI VISAクリプトカード」の2種類を展開する。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_1f2399c9c5b3d13a",
+      "title": "楽天市場の商品を住所を知らない相手に贈れる「楽天ソーシャルギフト」",
+      "url": "https://www.watch.impress.co.jp/docs/news/2106215.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-05-01T06:40:48.000Z",
+      "summary": "楽天は5月1日、ショッピングモール「楽天市場」において、「楽天ソーシャルギフト」を提供開始した。価格は商品ごとに異なり、住所を知らない相手にも「ギフト受取用リンク」を送ることでギフトを贈れる。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_74e67380030e7031",
+      "title": "Kindle電子書籍リーダーが安い！　Amazon GWスマイルSale　「Kindle Paperwhite」は2万5980円。カラー版の「Kindle Colorsoft」は3万5980円",
+      "url": "https://internet.watch.impress.co.jp/docs/shopping/2106038.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-05-01T06:30:00.000Z",
+      "summary": "Amazon.co.jpでは5月3日までの期間限定でビッグセール「ゴールデンウィーク スマイルSale」が開催される。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_14d5f63efbccc70b",
@@ -1321,56 +1423,6 @@
       "priority_score": 60
     },
     {
-      "id": "item_b04beb66e4c92e23",
-      "title": "アマゾン、ゴールデンウィークセール開始　4月30日から4日間",
-      "url": "https://www.watch.impress.co.jp/docs/news/2105466.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-04-30T00:00:00.000Z",
-      "summary": "Amazonは、「Amazon スマイルSale ゴールデンウィーク」を4月30日9時から5月3日23時59分までの4日間にわたり開催します。レジャー・アウトドア用品やファッション、飲料、家電などの人気商品を特別価格で販売します。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_520d6b1a3b8ced01",
-      "title": "画像生成のパラダイムシフト 「ChatGPT Image 2.0」の進化が狙うもの",
-      "url": "https://www.watch.impress.co.jp/docs/topic/2105435.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-04-29T23:40:00.000Z",
-      "summary": "OpenAIは4月21日に、新たな画像生成モデル「ChatGPT Images 2.0」を公開した。複雑なビジュアルタスクを処理し、\"そのまま使える”ビジュアルを生成できるよう機能向上しており、ChatGPTとCodexなどから利用できるが、日本でも早速“ヒット”となったようだ。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "生成AI",
-        "AI活用"
-      ],
-      "priority_score": 60
-    },
-    {
-      "id": "item_c7e4b1768227cb9d",
-      "title": "ニトリ、大人気の「折りたためるコードレス扇風機」に、部屋干し向け「洗濯モード」搭載の新モデル",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2105487.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-04-29T22:30:00.000Z",
-      "summary": "株式会社ニトリは、折りたたんで収納可能な「DCタイプ 折りたためるコードレス扇風機」の2026年モデル（25cm FD04NR）を全国のニトリ店舗およびニトリネットで発売した。価格は1万4900円、本体カラーはホワイト、ダークグレー、モカ。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_b6b3b935c23f57d7",
       "title": "プレゼン資料も指示を出すだけ？　OpenAI、最新画像生成モデル「Images 2.0」発表",
       "url": "https://kn.itmedia.co.jp/kn/articles/2604/30/news051.html",
@@ -1405,58 +1457,6 @@
         "AI活用"
       ],
       "priority_score": 60
-    },
-    {
-      "id": "item_1eca57c623333821",
-      "title": "アイ・オー、PCIe接続の10/2.5Gbps対応有線LANカード2製品を発売",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2105478.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-04-29T22:00:00.000Z",
-      "summary": "株式会社アイ・オー・データ機器は、内蔵型有線LANカード2製品を発売する。直販サイト「ioPLAZA」での販売価格は、10Gbps対応の「R-ETXG-PCIER」が1万1880円、2.5Gbps対応の「R-ETQG-PCIER」が5500円で、両製品ともに6月上旬の出荷予定。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_1f01bf8aac846311",
-      "title": "Google、「Gemini」とのチャットから直接PDFやExcelファイルを生成可能に",
-      "url": "https://www.itmedia.co.jp/news/articles/2604/30/news063.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-04-29T21:56:00.000Z",
-      "summary": "Googleは、「Gemini」とのチャットでPDFやExcelなどのファイルを直接生成できる機能を発表した。WorkspaceやMicrosoft Office形式、PDF、LaTexなど多様なフォーマットに対応する。プロンプトで指示するだけで、回答のコピー＆ペースト作業を省き、Googleドライブへの保存やダウンロードが可能だ。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_d6d65d3eb24b6d05",
-      "title": "ClaudeでBlenderやPhotoshopを直接制御　Anthropicがクリエイティブ向け新コネクタ8件公開",
-      "url": "https://www.itmedia.co.jp/aiplus/articles/2604/29/news027.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-04-29T00:01:00.000Z",
-      "summary": "Anthropicは、ClaudeにAdobe PhotoshopやBlenderなどと連携する8種類のクリエイティブ系「コネクタ」を導入した。AIが反復作業やデータ同期を担うことで、クリエイターは手動の工程を省き、迅速なアイデア創出が可能になるとしている。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 50
     },
     {
       "id": "item_a2978806b0b51ecd",
