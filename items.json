@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-05-01T10:26:55.508Z",
+  "generated_at": "2026-05-01T21:44:45.301Z",
   "total": 103,
   "items": [
+    {
+      "id": "item_5a2c7864b68dcd43",
+      "title": "過去の文部科学省ホームページ（※国立国会図書館ホームページへリンク）",
+      "url": "https://warp.ndl.go.jp/waid/3475",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-05-01T21:44:33.960Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
     {
       "id": "item_21f8651de3f2baea",
       "title": "文部科学省ホームページトップはこちら",
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-05-01T10:26:37.715Z",
+      "published_at": "2026-05-01T21:44:33.959Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +44,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-05-01T10:26:37.715Z",
+      "published_at": "2026-05-01T21:44:33.959Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -38,22 +56,63 @@
       "priority_score": 50
     },
     {
-      "id": "item_5a2c7864b68dcd43",
-      "title": "過去の文部科学省ホームページ（※国立国会図書館ホームページへリンク）",
-      "url": "https://warp.ndl.go.jp/waid/3475",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-05-01T10:26:37.715Z",
-      "summary": "",
+      "id": "item_205fc060a792d0a6",
+      "title": "マネーフォワード、GitHubに不正アクセス　銀行口座連携を一時停止",
+      "url": "https://www.watch.impress.co.jp/docs/news/2106374.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-05-01T12:49:48.000Z",
+      "summary": "マネーフォワードは1日、ソフトウェア開発やシステム管理に利用している「GitHub」の認証情報が漏えいしたことによる不正なアクセスが発生し、一部個人情報が流出したと発表した。「サービスの安全運営に影響はない」としながら、安全確認のためマネーフォワードの各サービスで銀行口座連携機能を一時停止している。",
       "starred": false,
-      "category": "admin",
+      "category": "security",
       "tags": [
-        "行政",
-        "文科省",
-        "制度",
-        "教育ニュース"
+        "テクノロジー",
+        "デジタル",
+        "セキュリティ",
+        "情報モラル",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_c1169328da0c1ae3",
+      "title": "グーグル、Gemini EnterpriseとNotebookLM企業版が政府導入対象に",
+      "url": "https://www.watch.impress.co.jp/docs/news/2106364.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-05-01T11:48:12.000Z",
+      "summary": "Google Cloudは1日、生成AIサービスの「Gemini Enterprise」と「NotebookLM Enterprise」が「政府情報システムのためのセキュリティ評価制度(ISMAP)」の基準を満たし、本登録が完了したと発表した。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "生成AI",
+        "AI活用",
+        "セキュリティ",
+        "情報モラル"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_78fdcccf3fee6a3b",
+      "title": "Googleフォトに“バーチャル試着機能”登場　写真内の衣服を登録、アプリで組み合わせ可能に",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/01/news118.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-05-01T10:05:00.000Z",
+      "summary": "",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_dd580bbeb2a0235f",
@@ -178,7 +237,7 @@
     },
     {
       "id": "item_a354924999480188",
-      "title": "JR西日本「銀行」参入　りそなHDと資本業務提携",
+      "title": "JR西日本「銀行」参入　りそなと「WESTERミライバンク」",
       "url": "https://www.watch.impress.co.jp/docs/news/2106188.html",
       "source_id": "impress_watch",
       "source_name": "Impress Watch",
@@ -1215,24 +1274,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_5017f399ba414d70",
-      "title": "Gemini、WordやExcel、スライド、PDFなどをチャットから作成可能に",
-      "url": "https://www.watch.impress.co.jp/docs/news/2105747.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-04-30T03:35:37.000Z",
-      "summary": "Googleは29日(米国時間)、Geminiのチャット内で、直接PDFやMicrosoft Word、Excel、Google ドキュメント/スプレッドシート、スライドなどを作成できる機能を提供開始した。全てのGeminiユーザーが利用可能となる。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "生成AI",
-        "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_2f6c9ed0386c3fc2",
       "title": "UGREEN製の4ベイ対応NASキットがAmazon GWスマイルSaleでお得に！　家庭・オフィス向けモデル「DH4300 Plus」は5万890円",
       "url": "https://internet.watch.impress.co.jp/docs/shopping/2105704.html",
@@ -1261,22 +1302,6 @@
       "tags": [
         "インターネット",
         "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_d681f7232af2551a",
-      "title": "みんなの銀行、「法人口座」開始　他行宛振込は最安の130円 GMOあおぞら銀も追従",
-      "url": "https://www.watch.impress.co.jp/docs/news/2105527.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-04-30T02:18:31.000Z",
-      "summary": "みんなの銀行は27日、申込みから決済業務までオンラインで完結する法人向け銀行サービス「みんなの銀行法人口座」を開始した。これまで個人向けに展開していたみんなの銀行だが、法人対応を強化していく。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
       ],
       "priority_score": 50
     },
@@ -1439,24 +1464,6 @@
         "AI活用"
       ],
       "priority_score": 50
-    },
-    {
-      "id": "item_f63c3911b947d547",
-      "title": "【最終話】漫画「1週間後に生成AIで恥をかく新入社員」",
-      "url": "https://www.itmedia.co.jp/news/articles/2604/11/news002.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-04-29T22:00:00.000Z",
-      "summary": "とある企業に入社した新入社員「ニイジマ」が、AI活用の“地雷”を踏みまくっていく様子を通して、会社におけるAIの使い方、その初歩を紹介します。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 60
     },
     {
       "id": "item_a2978806b0b51ecd",
