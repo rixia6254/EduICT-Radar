@@ -1,32 +1,14 @@
 {
-  "generated_at": "2026-05-03T10:11:46.556Z",
-  "total": 103,
+  "generated_at": "2026-05-03T21:35:03.741Z",
+  "total": 102,
   "items": [
-    {
-      "id": "item_5a2c7864b68dcd43",
-      "title": "過去の文部科学省ホームページ（※国立国会図書館ホームページへリンク）",
-      "url": "https://warp.ndl.go.jp/waid/3475",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-05-03T10:11:32.798Z",
-      "summary": "",
-      "starred": false,
-      "category": "admin",
-      "tags": [
-        "行政",
-        "文科省",
-        "制度",
-        "教育ニュース"
-      ],
-      "priority_score": 60
-    },
     {
       "id": "item_21f8651de3f2baea",
       "title": "文部科学省ホームページトップはこちら",
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-05-03T10:11:32.797Z",
+      "published_at": "2026-05-03T21:34:53.137Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -44,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-05-03T10:11:32.797Z",
+      "published_at": "2026-05-03T21:34:53.137Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +36,43 @@
         "制度"
       ],
       "priority_score": 50
+    },
+    {
+      "id": "item_5a2c7864b68dcd43",
+      "title": "過去の文部科学省ホームページ（※国立国会図書館ホームページへリンク）",
+      "url": "https://warp.ndl.go.jp/waid/3475",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-05-03T21:34:53.137Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_c1a5dc61cbad6b32",
+      "title": "英語のマンガ【共通テスト情報Ⅰ風】（プログラミング／大貧民で学ぶ関数③：革命返し）",
+      "url": "https://note.com/plum_tree/n/n79ac884cedf4",
+      "source_id": "note_joho1",
+      "source_name": "note（情報科教員）",
+      "published_at": "2026-05-03T13:59:26.000Z",
+      "summary": "この記事は「英語のマンガ【共通テスト情報Ⅰ風】（プログラミング／大貧民で学ぶ関数②：条件分岐と革命）」の続編です。 続きをみる",
+      "starred": false,
+      "category": "exam",
+      "tags": [
+        "授業実践",
+        "情報Ⅰ",
+        "教材",
+        "共通テスト",
+        "入試"
+      ],
+      "priority_score": 80
     },
     {
       "id": "item_37912a17b60648e3",
@@ -1168,26 +1187,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_79af03c7962bb7d4",
-      "title": "英語のマンガ【共通テスト情報Ⅰ風】（プログラミング／大貧民で学ぶ関数①：戻り値）",
-      "url": "https://note.com/plum_tree/n/nff9ceee0ffa1",
-      "source_id": "note_joho1",
-      "source_name": "note（情報科教員）",
-      "published_at": "2026-04-30T13:56:50.000Z",
-      "summary": "高校生のカナさんは、最近、昼休みに同級生とトランプの大貧民※を楽しんでいます。でも、毎日遊んでいたため、少し飽きてきてしまいました。 そこでカナさんたちは、プログラミングを使って自分たち独自の新しいルールを追加することにしました。1から5までの数字をランダムに返す『関数』を使って、特定の数字が出たときだけ特別なアクションが起きるようにします。 続きをみる",
-      "starred": false,
-      "category": "exam",
-      "tags": [
-        "授業実践",
-        "情報Ⅰ",
-        "教材",
-        "共通テスト",
-        "入試",
-        "教育ニュース"
-      ],
-      "priority_score": 80
-    },
-    {
       "id": "item_06ed43f2bdc08bcc",
       "title": "JR西日本、JAL・ANAと連携協定　30年に航空と鉄道をシームレスに予約",
       "url": "https://www.watch.impress.co.jp/docs/news/2105918.html",
@@ -1756,26 +1755,6 @@
       "source_name": "note（情報科教員）",
       "published_at": "2026-02-08T03:53:47.000Z",
       "summary": "問題・解答はこちら 河合塾「2026年度 大学入学共通テスト速報」 共通テスト「情報」第4問（データの活用）は、初年度（2025）は大変示唆に富んだ問題（新たな指標を作成してその意味を理解し、思考・判断する）でしたが、今年（2026）はそれと比べて頭一つ抜けていた感じがします（特に問3と問4）。「桜の開花日」がテーマで、決して難問ではなく、問題の質が素晴らしいと感じました。とても学びが多い問題なの…",
-      "starred": false,
-      "category": "exam",
-      "tags": [
-        "授業実践",
-        "情報Ⅰ",
-        "教材",
-        "共通テスト",
-        "入試",
-        "教育ニュース"
-      ],
-      "priority_score": 60
-    },
-    {
-      "id": "item_bf847384140faa43",
-      "title": "【大学受験突破シリーズ】「情報Ⅰ」を後回しにする人は大損する？［高校１・２年生対象］",
-      "url": "https://note.com/kubotag/n/n507ac2ed19af",
-      "source_id": "note_joho1",
-      "source_name": "note（情報科教員）",
-      "published_at": "2026-02-08T01:00:00.000Z",
-      "summary": "高1・2で決まる“合格への先行投資”術 「情報なんて、パソコンの使い方の延長でしょ？」 「直前に詰め込めばなんとかなる副教科でしょ？」 続きをみる",
       "starred": false,
       "category": "exam",
       "tags": [
