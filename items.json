@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-05-03T06:07:25.602Z",
+  "generated_at": "2026-05-03T10:11:46.556Z",
   "total": 103,
   "items": [
+    {
+      "id": "item_5a2c7864b68dcd43",
+      "title": "過去の文部科学省ホームページ（※国立国会図書館ホームページへリンク）",
+      "url": "https://warp.ndl.go.jp/waid/3475",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-05-03T10:11:32.798Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
     {
       "id": "item_21f8651de3f2baea",
       "title": "文部科学省ホームページトップはこちら",
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-05-03T06:07:13.183Z",
+      "published_at": "2026-05-03T10:11:32.797Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +44,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-05-03T06:07:13.183Z",
+      "published_at": "2026-05-03T10:11:32.797Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -38,19 +56,21 @@
       "priority_score": 50
     },
     {
-      "id": "item_5a2c7864b68dcd43",
-      "title": "過去の文部科学省ホームページ（※国立国会図書館ホームページへリンク）",
-      "url": "https://warp.ndl.go.jp/waid/3475",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-05-03T06:07:13.183Z",
-      "summary": "",
+      "id": "item_37912a17b60648e3",
+      "title": "新課程共通テスト「情報１」を見た旧課程共通テスト「情報関係基礎」受験者の思い出と愚痴",
+      "url": "https://note.com/lively_mint2805/n/ne02bb156e6a9",
+      "source_id": "note_joho1",
+      "source_name": "note（情報科教員）",
+      "published_at": "2026-05-03T07:41:28.000Z",
+      "summary": "情報関係基礎 センター試験から旧共通テスト(2021から2025?)に存在した、数学2の区分で選択できた科目。数学2の区分には数学2B以外に、「簿記・会計」と「情報関係基礎」というのがあって、商業系や専門系の高校性が受験できた。例えば、英語、数学1A, 数学2Bの受験を指定されていた場合、英語、数学1A, 情報関係基礎と選択して国公立大を受験できた。 情報関係基礎の特徴は受験者数が少ないことです。…",
       "starred": false,
-      "category": "admin",
+      "category": "exam",
       "tags": [
-        "行政",
-        "文科省",
-        "制度",
+        "授業実践",
+        "情報Ⅰ",
+        "教材",
+        "共通テスト",
+        "入試",
         "教育ニュース"
       ],
       "priority_score": 60
@@ -1807,25 +1827,6 @@
         "入試"
       ],
       "priority_score": 80
-    },
-    {
-      "id": "item_7fc387c57079fe9e",
-      "title": "2026共通テスト　情報Ⅰ　第4問解説と感",
-      "url": "https://note.com/create_app/n/nf05c0644330c",
-      "source_id": "note_joho1",
-      "source_name": "note（情報科教員）",
-      "published_at": "2026-01-26T12:50:26.000Z",
-      "summary": "第4問解説：桜の開花データから読み解く分析の作法 「桜の開花日」に統計的な分析をする事例です。オープンデータの定義、仮説の検証、そして予測モデルの評価と進む過程を、問題にしています。 続きをみる",
-      "starred": false,
-      "category": "exam",
-      "tags": [
-        "授業実践",
-        "情報Ⅰ",
-        "教材",
-        "共通テスト",
-        "入試"
-      ],
-      "priority_score": 70
     }
   ],
   "clips": []
