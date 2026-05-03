@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-02T21:33:48.753Z",
+  "generated_at": "2026-05-03T06:07:25.602Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-05-02T21:33:35.294Z",
+      "published_at": "2026-05-03T06:07:13.183Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-05-02T21:33:35.294Z",
+      "published_at": "2026-05-03T06:07:13.183Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-05-02T21:33:35.294Z",
+      "published_at": "2026-05-03T06:07:13.183Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,23 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_4b6a00f965434d51",
+      "title": "アクセンチュアが日本精工と戦略提携　AIで間接業務改革、製造現場の自動化も",
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2605/03/news018.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-05-02T23:00:00.000Z",
+      "summary": "アクセンチュアがベアリングに強みを持つ日本精工と戦略的パートナーシップ契約を結んだ。間接業務をAIで効率化しつつ、新商品開発や製造現場の自動化に取り組む。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_0969b16799410461",
@@ -1440,24 +1457,6 @@
         "教育ニュース"
       ],
       "priority_score": 60
-    },
-    {
-      "id": "item_b6b3b935c23f57d7",
-      "title": "プレゼン資料も指示を出すだけ？　OpenAI、最新画像生成モデル「Images 2.0」発表",
-      "url": "https://kn.itmedia.co.jp/kn/articles/2604/30/news051.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-04-29T22:00:00.000Z",
-      "summary": "OpenAIが発表した最新モデル「Images 2.0」は、指示内容をより深く解釈する「Thinkingモード」を搭載。プレゼン資料の作成などを、より容易にする。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 50
     },
     {
       "id": "item_a2978806b0b51ecd",
