@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-05T10:51:01.063Z",
+  "generated_at": "2026-05-05T21:56:28.024Z",
   "total": 101,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-05-05T10:50:49.639Z",
+      "published_at": "2026-05-05T21:56:16.238Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-05-05T10:50:49.639Z",
+      "published_at": "2026-05-05T21:56:16.238Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-05-05T10:50:49.639Z",
+      "published_at": "2026-05-05T21:56:16.238Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -51,6 +51,46 @@
         "行政",
         "文科省",
         "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_b3a3e8bfd6e093bc",
+      "title": "【後編】「ドラえもんは意味が分かっているのか？」―基礎情報学が情報の授業を変える",
+      "url": "https://note.com/takeshi_fujioka/n/n00523bb8e39f",
+      "source_id": "note_joho1",
+      "source_name": "note（情報科教員）",
+      "published_at": "2026-05-05T12:34:31.000Z",
+      "summary": "前編のおさらい 前編では、「ドラえもんは意味が分かっているのか？」という問いを入口に、基礎情報学の3つの情報概念（生命情報・社会情報・機械情報）が、ばらばらに見えていた情報Ⅰの単元を一本の軸でつなぐことを示した。 続きをみる",
+      "starred": false,
+      "category": "exam",
+      "tags": [
+        "授業実践",
+        "情報Ⅰ",
+        "教材",
+        "共通テスト",
+        "入試",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_df00ade60a4af36f",
+      "title": "【前編】「ドラえもんは意味が分かっているのか？」―基礎情報学が情報の授業を変える",
+      "url": "https://note.com/takeshi_fujioka/n/n215b78eeaba2",
+      "source_id": "note_joho1",
+      "source_name": "note（情報科教員）",
+      "published_at": "2026-05-05T12:30:57.000Z",
+      "summary": "情報Ⅰの授業でこんな問いを投げかけてみた。 「ドラえもんは、のび太の言っていることの意味が分かっているのだろうか？」 続きをみる",
+      "starred": false,
+      "category": "exam",
+      "tags": [
+        "授業実践",
+        "情報Ⅰ",
+        "教材",
+        "共通テスト",
+        "入試",
         "教育ニュース"
       ],
       "priority_score": 60
@@ -1742,47 +1782,6 @@
         "教育ニュース"
       ],
       "priority_score": 60
-    },
-    {
-      "id": "item_20d8aaeccdbf98a0",
-      "title": "情報科教員による共通テスト2026「情報」本試験解説（＋感想）：第４問",
-      "url": "https://note.com/takeshi_fujioka/n/ndbfa24702572",
-      "source_id": "note_joho1",
-      "source_name": "note（情報科教員）",
-      "published_at": "2026-02-08T03:53:47.000Z",
-      "summary": "問題・解答はこちら 河合塾「2026年度 大学入学共通テスト速報」 共通テスト「情報」第4問（データの活用）は、初年度（2025）は大変示唆に富んだ問題（新たな指標を作成してその意味を理解し、思考・判断する）でしたが、今年（2026）はそれと比べて頭一つ抜けていた感じがします（特に問3と問4）。「桜の開花日」がテーマで、決して難問ではなく、問題の質が素晴らしいと感じました。とても学びが多い問題なの…",
-      "starred": false,
-      "category": "exam",
-      "tags": [
-        "授業実践",
-        "情報Ⅰ",
-        "教材",
-        "共通テスト",
-        "入試",
-        "教育ニュース"
-      ],
-      "priority_score": 60
-    },
-    {
-      "id": "item_93259ce8c8855210",
-      "title": "共通テスト情報Ⅰ用疑似言語 (DNCL)について。実装、Pythonへの変換…",
-      "url": "https://note.com/newricefield_m/n/nf56650efc982",
-      "source_id": "note_joho1",
-      "source_name": "note（情報科教員）",
-      "published_at": "2026-02-02T21:49:05.000Z",
-      "summary": "今日の記事はあまり教育に振っていません。 以前の記事で、共通テスト2026情報Ⅰのプログラミングの問題を、実際にProcessingでコーディングする、という勉強をしたことを書きました。 共通テストでは、専用の疑似言語でプログラムが書かれています。仕様は大学入試センターのHPに掲載されています。 以前から知ってはいたのですが、この疑似言語（DNCL）がそのまま動く環境を構築されている方がたくさんい…",
-      "starred": false,
-      "category": "exam",
-      "tags": [
-        "授業実践",
-        "情報Ⅰ",
-        "教材",
-        "共通テスト",
-        "入試",
-        "ツール",
-        "教育ニュース"
-      ],
-      "priority_score": 90
     }
   ],
   "clips": []
