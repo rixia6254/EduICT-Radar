@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-06T11:10:40.474Z",
+  "generated_at": "2026-05-06T21:51:46.901Z",
   "total": 101,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-05-06T11:10:30.021Z",
+      "published_at": "2026-05-06T21:51:37.058Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-05-06T11:10:30.021Z",
+      "published_at": "2026-05-06T21:51:37.058Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-05-06T11:10:30.021Z",
+      "published_at": "2026-05-06T21:51:37.058Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,61 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_5554ed738254ea9a",
+      "title": "【2009年のINTERNET Watch】「iPhone 3GS」3キャリアで発売、Googleも「謎の携帯端末」で対抗？　モバイル通信技術と端末の話題多数の年",
+      "url": "https://internet.watch.impress.co.jp/docs/special/30th/2100195.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-05-06T21:30:00.000Z",
+      "summary": "2009年（平成21年）、8月に行われた衆議院選挙で民主党が圧勝、鳩山由紀夫首相が誕生した。この年の新語・流行語大賞は「政権交代」だった。",
+      "starred": false,
+      "category": "dx",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "校務DX",
+        "GIGA"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_a5e6bd93c5118527",
+      "title": "小学4〜6年生の75％以上が生成AIを利用～総務省「青少年のインターネット・リテラシー指標等に係る調査結果」",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2106224.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-05-06T21:00:00.000Z",
+      "summary": "総務省は4月30日「2025年度 青少年のインターネット・リテラシー指標等に係る調査結果」を公表した。リテラシーを測る「ILASテスト」の結果は前年度よりやや向上との結果となった。生成AIについては「使ったことはない」との回答が前年度から大幅に低下した。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "生成AI",
+        "AI活用",
+        "行政",
+        "文科省",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_f251c9ea28f5c0c7",
+      "title": "米国政府、最新AIモデルを事前チェック　Google DeepMind、xAI、MS",
+      "url": "https://www.watch.impress.co.jp/docs/news/2106609.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-05-06T11:01:53.000Z",
+      "summary": "米国 商務省傘下のAI標準・イノベーションセンター(the Center for AI Standards and Innovation/CAISI)は5日(米国時間)、Google DeepMind、Microsoft、xAIとの新たな協定を発表した。各社の最先端モデルについて、一般公開前に政府がその評価や研究を行なえるようにする。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_b7280b0b8c87807f",
@@ -1016,22 +1071,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_6c1cc819024a3be7",
-      "title": "グーグル、検索のお気に入りメディア表示に日本語も対応",
-      "url": "https://www.watch.impress.co.jp/docs/news/2106029.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-05-01T01:10:10.000Z",
-      "summary": "Googleは1日、「Google 検索」において好きなサイトからのニュースを優先的に表示できる機能「優先するソース(Preferred Sources)」の対応言語を拡大した。2025年12月に英語圏での対応を発表していたが、日本語を含む全ての対応言語に拡大された。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_c1054c757e12b5af",
       "title": "Spotifyが人間アーティスト認証バッジ導入──AI生成コンテンツとの識別を強化",
       "url": "https://www.itmedia.co.jp/news/articles/2605/01/news065.html",
@@ -1409,38 +1448,6 @@
         "AI活用",
         "教材",
         "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_339bad0c674292cb",
-      "title": "ニトリ、肌に当てて直接冷やせる「4WAY冷却プレートペルチェ折りたたみファン」発売",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2105900.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-04-30T22:30:00.000Z",
-      "summary": "株式会社ニトリは、冷却プレート付きの折りたたみファン「4WAY冷却プレートペルチェ折りたたみファン」（MN05NR）を全国のニトリ店舗およびニトリネットで発売した。価格は1990円で、本体カラーはホワイト、モカ、ダークグレー。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_0497b8037b43ea48",
-      "title": "光ファイバーケーブル先端のゴミを除去するクリーニングペーパー、サンワサプライが発売",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2105464.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-04-30T22:00:00.000Z",
-      "summary": "サンワサプライ株式会社は、光ファイバー用クリーニングペーパー「HKB-AC-CL6」を5月中旬に発売する。10セット入りで市場想定価格は2068円。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
       ],
       "priority_score": 50
     },
