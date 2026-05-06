@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-06T06:08:02.603Z",
+  "generated_at": "2026-05-06T11:10:40.474Z",
   "total": 101,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-05-06T06:07:51.786Z",
+      "published_at": "2026-05-06T11:10:30.021Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-05-06T06:07:51.786Z",
+      "published_at": "2026-05-06T11:10:30.021Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-05-06T06:07:51.786Z",
+      "published_at": "2026-05-06T11:10:30.021Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,25 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_b7280b0b8c87807f",
+      "title": "Meta、AIで13歳未満を自動検出　InstagramとFacebookで導入拡大",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/06/news033.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-05-06T08:17:00.000Z",
+      "summary": "Metaは、FacebookとInstagramで13歳未満のユーザーを検出するAIを導入する。プライバシー配慮を強調しつつ、業界全体での一貫した年齢確認の必要性を訴え、OS事業者が年齢確認を行うことを義務付ける法整備を求めている。",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_0956a78e3de72200",
@@ -1472,23 +1491,6 @@
       "source_name": "ITmedia AI+",
       "published_at": "2026-04-30T06:42:00.000Z",
       "summary": "Cloudflareは、AIエージェントが同サービスアカウントの作成や課金、ドメイン登録、デプロイまで実行できるようになる新機能を発表。規約への同意などを除き、手作業が不要になるという。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_dfab061357898e9a",
-      "title": "NEC社長「AI投資に数百億円」　最高益・利益率2桁突入の先に描く展望とは？",
-      "url": "https://www.itmedia.co.jp/business/articles/2604/30/news092.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-04-30T06:00:00.000Z",
-      "summary": "NECの森田隆之社長兼CEOは、4月28日の決算説明会で「2026年は大きな節目」になると語った。AI投資などを加速させるという。その中身とは。",
       "starred": false,
       "category": "ai",
       "tags": [
