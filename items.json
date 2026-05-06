@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-05T21:56:28.024Z",
+  "generated_at": "2026-05-06T06:08:02.603Z",
   "total": 101,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-05-05T21:56:16.238Z",
+      "published_at": "2026-05-06T06:07:51.786Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-05-05T21:56:16.238Z",
+      "published_at": "2026-05-06T06:07:51.786Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-05-05T21:56:16.238Z",
+      "published_at": "2026-05-06T06:07:51.786Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -56,24 +56,181 @@
       "priority_score": 60
     },
     {
-      "id": "item_b3a3e8bfd6e093bc",
-      "title": "【後編】「ドラえもんは意味が分かっているのか？」―基礎情報学が情報の授業を変える",
-      "url": "https://note.com/takeshi_fujioka/n/n00523bb8e39f",
-      "source_id": "note_joho1",
-      "source_name": "note（情報科教員）",
-      "published_at": "2026-05-05T12:34:31.000Z",
-      "summary": "前編のおさらい 前編では、「ドラえもんは意味が分かっているのか？」という問いを入口に、基礎情報学の3つの情報概念（生命情報・社会情報・機械情報）が、ばらばらに見えていた情報Ⅰの単元を一本の軸でつなぐことを示した。 続きをみる",
+      "id": "item_0956a78e3de72200",
+      "title": "ChatGPT、“正確性”を向上した新デフォルトモデル「GPT-5.5 Instant」",
+      "url": "https://www.watch.impress.co.jp/docs/news/2106577.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-05-06T03:19:10.000Z",
+      "summary": "OpenAIは5日(米国時間)、ChatGPTの新たなデフォルトモデル「GPT-5.5 Instant」を提供開始した。従来のGPT-5.3 Instantから切り替えて、すべてのChatGPTユーザー向けに展開する。",
       "starred": false,
-      "category": "exam",
+      "category": "ai",
       "tags": [
-        "授業実践",
-        "情報Ⅰ",
-        "教材",
-        "共通テスト",
-        "入試",
-        "教育ニュース"
+        "テクノロジー",
+        "デジタル",
+        "生成AI",
+        "AI活用"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_8e408e7eb9149d9c",
+      "title": "アンソロピック、Claudeに金融機関向け新機能　市場調査・月次決算など",
+      "url": "https://www.watch.impress.co.jp/docs/news/2106565.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-05-06T01:48:09.000Z",
+      "summary": "Anthropicは5日(米国時間)、金融機関向けの新機能を発表した。銀行、保険、資産運用、フィンテック分野の金融機関に向けたClaudeの新機能として提供するもので、ピッチの作成、バリュエーション・レビューなどの10種類のClaudeエージェントのテンプレートを公開した。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "生成AI",
+        "AI活用"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_cfb94a8723692641",
+      "title": "「プリンシプル オブ プログラミング」が55％オフ！　AmazonでKindle本GWビッグキャンペーン",
+      "url": "https://internet.watch.impress.co.jp/docs/shopping/2106261.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-05-06T01:30:00.000Z",
+      "summary": "5月7日まで「Kindle本 ゴールデンウィーク ビッグキャンペーン」を開催中のAmazon.co.jpのKindleストアで、コンピュータ・IT関係書が最大80％オフとなっている「9社合同 コンピュータ・IT書籍特集」が実施されている。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_2b727fd4ce46c170",
+      "title": "理想のアプリに近づけるため「Claude Design」を試す ゼロから始めるAIコーディング(2)",
+      "url": "https://www.watch.impress.co.jp/docs/topic/2105497.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-05-05T23:30:00.000Z",
+      "summary": "唐突に「AIコーディングを始めよう!」と思っても、具体的にどうやって進めると良いのか……。そんな人に向けてお送りする「ゼロから始めるAIコーディング」の2回目は、「見た目」にフォーカスします。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "生成AI",
+        "AI活用",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_c4a14c309a723329",
+      "title": "質問力こそ、AI時代の最強の武器　生成AIから「使える提案」を引き出す8つのプロンプト例",
+      "url": "https://www.itmedia.co.jp/business/articles/2605/06/news001.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-05-05T23:00:00.000Z",
+      "summary": "生成AIに質問しても、どこか物足りない答えしか返ってこない――そんな経験はないだろうか。原因はAIの性能ではなく「質問の立て方」にあるのかもしれない。ありがちな回答を脱し、実務で使える提案を引き出すには何が必要か。生成AIを“使えるパートナー”に変える「質問のコツ」と、すぐに実践できる8つのプロンプト例を解説する。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_d2204137325178b2",
+      "title": "Amazon、物流サービスを外部に開放　「物流版AWS」",
+      "url": "https://www.watch.impress.co.jp/docs/news/2106557.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-05-05T23:00:00.000Z",
+      "summary": "Amazonは4日(米国時間)、物流サービスを外部企業に解放する新たな仕組み「Amazon Supply Chain Services(Amazonサプライチェーンサービス/ASCS)」を開始すると発表した。Amazonの販売事業者以外でも、Amazonによる商品の輸送や保管、配送などの仕組みを利用可能となる。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_fbed087ec4a3deeb",
+      "title": "【注目記事】社長を名乗り金銭をだまし取る「CEO詐欺」（ニセ社長詐欺）の被害が拡大中！　対策をトレンドマイクロに聞く　本文「今後の業務連絡を効率的に行うため、LINEのQRコードを送信してください」など",
+      "url": "https://internet.watch.impress.co.jp/docs/readitnow/2105895.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-05-05T23:00:00.000Z",
+      "summary": "「今すぐ読みたい注目記事」コーナーでは、過去に掲載した記事の中から、「今読んでほしい記事」を再紹介しています。記事内容は掲載当時のもので、最新の状況とは異なる場合もあります。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_6eb70d4e1054fc5e",
+      "title": "Anthropic、金融業界向けに10種のAIエージェントテンプレートを公開",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/06/news023.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-05-05T22:53:00.000Z",
+      "summary": "Anthropicは、金融サービス企業向けに10種類のAIエージェントテンプレートを公開した。投資銀行などの専門家を対象に、ピッチブック作成や監査などの業務を支援する。Microsoft 365との連携強化や、外部データプロバイダーとの接続も発表した。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用",
+        "校務DX",
+        "GIGA"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_6b63121e4b314f23",
+      "title": "OpenAI、ChatGPTの新デフォルトモデル「GPT-5.5 Instant」　回答の根拠をユーザーが確認・管理可能に",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2605/06/news022.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-05-05T22:00:00.000Z",
+      "summary": "OpenAIは次世代の標準モデル「GPT-5.5 Instant」をリリースした。前モデルの低遅延を維持しつつ、専門分野でのハルシネーションを大幅に削減。過去のチャットやGmail等を活用した高度なパーソナライズ機能や、回答の根拠を確認する新機能も導入された。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_0732039950f76a5f",
+      "title": "【注目記事】大丈夫なバックアップはどれだ？　ランサムウェア攻撃がもたらした「復旧長期化」という現実　「Security Days Spring 2026」レポート",
+      "url": "https://internet.watch.impress.co.jp/docs/readitnow/2105414.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-05-05T22:00:00.000Z",
+      "summary": "「今すぐ読みたい注目記事」コーナーでは、過去に掲載した記事の中から、「今読んでほしい記事」を再紹介しています。記事内容は掲載当時のもので、最新の状況とは異なる場合もあります。",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_df00ade60a4af36f",
@@ -856,22 +1013,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_0fc8b9196c8e8a5d",
-      "title": "AKRacing、西武ライオンズゲーミングチェア　\"監督チェア\"デザイン",
-      "url": "https://www.watch.impress.co.jp/docs/news/2105970.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-05-01T01:00:00.000Z",
-      "summary": "テックウインドは、ゲーミングチェアブランド“AKRacing(エーケーレーシング)”から、プロ野球 埼玉西武ライオンズとのコラボモデル「Pro-X V2 ライオンズ」を5月1日に発売する。価格は59,800円。ベルーナドームのホームチーム側ダグアウトに設置されている監督用チェアと共通デザインのモデル。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_c1054c757e12b5af",
       "title": "Spotifyが人間アーティスト認証バッジ導入──AI生成コンテンツとの識別を強化",
       "url": "https://www.itmedia.co.jp/news/articles/2605/01/news065.html",
@@ -921,42 +1062,6 @@
         "AI",
         "LLM",
         "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_9ebac4292a5278d9",
-      "title": "【鈴木淳也のPay Attention】なぜFintech企業のRevolutがF1のタイトルスポンサーになったのか",
-      "url": "https://www.watch.impress.co.jp/docs/series/suzukij/2106003.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-04-30T23:40:00.000Z",
-      "summary": "日本への正式上陸前から追いかけてきたRevolutだが、新体制からのリブートを経て新たな局面を迎えつつある。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_4676c9f7af60785b",
-      "title": "目指せ自分専用アプリ! まずは何をつくる? ゼロから始めるAIコーディング(1)",
-      "url": "https://www.watch.impress.co.jp/docs/topic/2104942.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-04-30T23:20:00.000Z",
-      "summary": "AIツールでソフトウェア開発する、いわゆる「AIコーディング」や「バイブコーディング」が話題になっています。でも、「なんとなく難しそう」「どこから始めればいいのか分からない」と諦めてしまっている人も少なくないでしょう。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "生成AI",
-        "AI活用",
-        "教材",
-        "ツール"
       ],
       "priority_score": 50
     },
@@ -1289,22 +1394,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_91e4d0fba3acb61a",
-      "title": "GWの渋滞　後半5連休は混雑が本格化　上りのピークは5日",
-      "url": "https://www.watch.impress.co.jp/docs/topic/2105808.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-04-30T23:00:00.000Z",
-      "summary": "いよいよゴールデンウィークは後半に入り、5月2日から5連休という人もいるのではないでしょうか。今年のゴールデンウィーク前半は4月29日の昭和の日が水曜日で連休とはならないため、混雑はそれほどでもありませんでしたが、後半は「みどりの日」も含めて6日まで連休となることから、高速道路では大きな混雑が予測されています。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_339bad0c674292cb",
       "title": "ニトリ、肌に当てて直接冷やせる「4WAY冷却プレートペルチェ折りたたみファン」発売",
       "url": "https://internet.watch.impress.co.jp/docs/news/2105900.html",
@@ -1337,22 +1426,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_95f374264c1f8399",
-      "title": "Belkin、最大40mのワイヤレス接続が可能なHDMIアダプター「ConnectAir ワイヤレス HDMI ディスプレイアダプター」発売",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2105955.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-04-30T21:30:00.000Z",
-      "summary": "ベルキン株式会社（Belkin）は4月28日、最大40mの安定接続が可能なワイヤレスHDMIアダプター「ConnectAir ワイヤレス HDMI ディスプレイアダプター」を発売した。Amazon.co.jpでの販売価格は1万7991円。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_b1fe674ea4063b26",
       "title": "AI×シミュレーションでタイヤ開発を加速　横浜ゴムの金型設計支援システム",
       "url": "https://monoist.itmedia.co.jp/mn/articles/2605/01/news024.html",
@@ -1366,24 +1439,6 @@
         "生成AI",
         "AI",
         "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_3d18a368a8a54ce9",
-      "title": "SwitchBot、AIハブ上でOpenClawを手軽に導入できる「AIエージェントプラン」提供開始",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2105853.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-04-30T21:00:00.000Z",
-      "summary": "SWITCHBOT株式会社は4月29日、「SwitchBot AIハブ」上でAIエージェント「OpenClaw」を利用するためのLLMリクエストを提供する新サービス「AIエージェントプラン」の提供を開始した。月額料金は269円で、AIハブでOpenClawを初回設定する場合は初月無料。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "インターネット",
-        "セキュリティ",
-        "生成AI",
-        "AI活用"
       ],
       "priority_score": 50
     },
@@ -1440,76 +1495,6 @@
         "生成AI",
         "AI",
         "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_54d58985e462f626",
-      "title": "QNAPのNASキットが安い！ 　Amazon GWスマイルSale　エントリークラスの1ベイNASキット「TS-133/AZ」は2万7255円",
-      "url": "https://internet.watch.impress.co.jp/docs/shopping/2105707.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-04-30T04:30:00.000Z",
-      "summary": "Amazon.co.jpでは5月3日までの期間限定でビッグセール「ゴールデンウィーク スマイルSale」が開催される。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_98ab3a6d9376e2ab",
-      "title": "AGIはどうすれば実現するのか？　知性を成す「10の認知能力」をGoogleが特定",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2604/30/news024.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-04-30T04:00:00.000Z",
-      "summary": "Google DeepMindは、「AGI」の実現への進捗を測定するための認知フレームワークを提示した論文を発表した。AIシステムの「知性」を評価する実証的ツールの不足を受け、認知科学を基盤とする新たな評価手法を提案した。",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_91a37887819f1103",
-      "title": "アクセンチュアとSAP、AIを前提とした基幹システム刷新プログラムを本格展開へ",
-      "url": "https://www.itmedia.co.jp/enterprise/articles/2604/30/news053.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-04-30T02:10:00.000Z",
-      "summary": "アクセンチュアとSAPジャパンは、基幹システム導入の投資規模と期間を圧縮するプログラム「ADVANCE」の国内展開を本格化する。AI駆動型オペレーションを前提に、従来のアドオン前提の作り込みからの脱却を図る。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_518427ad6c81c6ff",
-      "title": "なぜ一部のAIモデルは「日本文化」に執着するのか？　「4o-mini」などの出力が日本に偏る実態、欧州チームが研究発表",
-      "url": "https://www.itmedia.co.jp/news/articles/2604/30/news025.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-04-30T01:00:00.000Z",
-      "summary": "スペインのバスク大学や英カーディフ大学などに所属する研究者らが発表した論文「Why are all LLMs Obsessed with Japanese Culture? On the Hidden Cultural and Regional Biases of LLMs」は、一部のAIモデルが文化的な話題において日本文化に強い執着を見せることが明らかにした研究報告だ。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
       ],
       "priority_score": 50
     },
@@ -1771,6 +1756,26 @@
       "source_name": "note（情報科教員）",
       "published_at": "2026-02-16T23:22:54.000Z",
       "summary": "おはようございます。 2026年2月17日、火曜日。 新学年が本格始動して約2週間。多くのご家庭で、一変した生活リズムと、週を追うごとに積み上がる「膨大な宿題」との格闘が続いていることでしょう。しかし、目の前のテキストや単語帳に没頭している間にも、日本の教育ランドスケープは劇的な、そして不可逆的な変化を見せています。 続きをみる",
+      "starred": false,
+      "category": "exam",
+      "tags": [
+        "授業実践",
+        "情報Ⅰ",
+        "教材",
+        "共通テスト",
+        "入試",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_20d8aaeccdbf98a0",
+      "title": "情報科教員による共通テスト2026「情報」本試験解説（＋感想）：第４問",
+      "url": "https://note.com/takeshi_fujioka/n/ndbfa24702572",
+      "source_id": "note_joho1",
+      "source_name": "note（情報科教員）",
+      "published_at": "2026-02-08T03:53:47.000Z",
+      "summary": "問題・解答はこちら 河合塾「2026年度 大学入学共通テスト速報」 共通テスト「情報」第4問（データの活用）は、初年度（2025）は大変示唆に富んだ問題（新たな指標を作成してその意味を理解し、思考・判断する）でしたが、今年（2026）はそれと比べて頭一つ抜けていた感じがします（特に問3と問4）。「桜の開花日」がテーマで、決して難問ではなく、問題の質が素晴らしいと感じました。とても学びが多い問題なの…",
       "starred": false,
       "category": "exam",
       "tags": [
