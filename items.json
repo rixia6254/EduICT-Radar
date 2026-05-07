@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-07T06:13:26.837Z",
+  "generated_at": "2026-05-07T11:12:58.760Z",
   "total": 102,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-05-07T06:13:11.874Z",
+      "published_at": "2026-05-07T11:12:39.583Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-05-07T06:13:11.874Z",
+      "published_at": "2026-05-07T11:12:39.583Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-05-07T06:13:11.874Z",
+      "published_at": "2026-05-07T11:12:39.583Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -56,13 +56,139 @@
       "priority_score": 60
     },
     {
+      "id": "item_ed583a9ece8ff863",
+      "title": "M365 Copilotの定着に万全なサポートは逆効果？　社内利用率95％の企業が実践する5つの鉄則",
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2605/07/news113.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-05-07T10:00:00.000Z",
+      "summary": "務効率化が期待されるMicrosoft 365 Copilot。だが、実際は従業員の間で利用に差が生じ、思うように活用が進まないことも。本ブックレットでは、導入事例と専門家の解説を通じ、運用の盲点と定着のポイントを解説する。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用",
+        "校務DX",
+        "GIGA"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_e2e864b569ef5b7a",
+      "title": "商品選びから決済までをAIでお助け──MUFGがGoogleとタッグで実現目指す　Google Cloud上にインフラ構築",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/07/news110.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-05-07T09:30:00.000Z",
+      "summary": "",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_a5c6daacb5cfcdb5",
+      "title": "AIに「これ買っておいて」で決済から家計簿記録まで完結　MUFGがGoogleとの提携で目指す自律型金融サービス",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2605/07/news099.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-05-07T09:25:00.000Z",
+      "summary": "MUFGはGoogleと提携し、AIエージェント時代の購買、決済を担う次世代基盤の構築を目指す。AIエージェントが商品選択から購買、決済、家計データの可視化まで実行するサービスの開発を予定している。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_596a26725fda27f5",
+      "title": "楽天カードアプリ、カード番号表示でiPhoneマイナ対応",
+      "url": "https://www.watch.impress.co.jp/docs/news/2106903.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-05-07T09:14:53.000Z",
+      "summary": "楽天カードは7日、「楽天カードアプリ」iOS版のカード番号表示サービスにおいて、iPhoneのマイナンバーカードを利用した本人確認への対応を開始した。利用にはアプリのアップデートが必要。",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_bcd8150561c3e4d5",
+      "title": "Grok、外部アプリを操作できる「コネクタ」　GmailやNotionなど対応",
+      "url": "https://www.watch.impress.co.jp/docs/news/2106860.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-05-07T08:02:49.000Z",
+      "summary": "xAIは6日(米国時間)、Web版のGrokで新機能「Connectors(コネクタ)」を提供開始した。外部アプリをGrokに直接統合する機能で、メールの閲覧と要約、スライドの更新、カレンダーの整理、スプレッドシートの編集などに対応する。",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_0dfaeb276246746c",
+      "title": "Claudeの利用上限が一部緩和、5時間利用上限は倍増　イーロン・マスク氏のSpaceXAIと提携で計算資源確保",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2605/07/news071.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-05-07T07:30:00.000Z",
+      "summary": "AnthropicはSpaceXAIを始めとした業界各社と提携し計算資源を確保し、Claudeの利用制限を緩和したと発表した。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_9505cedfb188caf8",
+      "title": "「セーラームーンに似ている」　生成AIを使った化粧品の広告が物議　メーカーは謝罪と広告の撤去を発表",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/07/news075.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-05-07T06:05:00.000Z",
+      "summary": "化粧品やスキンケア商品などを手掛けるウテナ（東京都世田谷区）は5月6日、同社の化粧品の屋外広告が既存アニメに酷似していると物議を呼んだ問題で謝罪し、公式YouTube動画の削除および交通広告の撤去を発表した",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 60
+    },
+    {
       "id": "item_cc7e0b57e512b51f",
-      "title": "MUFGとグーグル、AIコマース・決済で戦略提携　エムット「非金融」強化へ",
+      "title": "MUFGとグーグル、金融AIエージェントで戦略提携　「エムット」は\"非金融”強化",
       "url": "https://www.watch.impress.co.jp/docs/news/2106771.html",
       "source_id": "impress_watch",
       "source_name": "Impress Watch",
       "published_at": "2026-05-07T05:30:00.000Z",
-      "summary": "三菱UFJフィナンシャル・グループ(MUFG)は、Googleとリテール領域における戦略提携に合意した。GoogleおよびGoogle Cloudと連携し、AIだけでなく、Googleのサービスを活用するほか、エージェンテック・コマース/決済のための次世代インフラをGoogle Cloud上に構築する。",
+      "summary": "三菱UFJフィナンシャル・グループ(MUFG)は、Googleとリテール領域における戦略提携に合意した。GoogleおよびGoogle Cloudと連携し、AIだけでなく、Googleの各サービスを活用した金融AIエージェントなどを展開。さらに、エージェンティック・コマース/決済のための次世代インフラをGoogle Cloud上に構築する。",
       "starred": false,
       "category": "tech",
       "tags": [
@@ -1240,38 +1366,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_11d0f8ca78bb20cb",
-      "title": "【西田宗千佳のイマトミライ】“今のアップルを作った”ティム・クック氏の功績　量産・半導体戦略が築いた競争力",
-      "url": "https://www.watch.impress.co.jp/docs/series/nishida/2106429.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-05-03T23:30:00.000Z",
-      "summary": "アップルが15年ぶりに経営トップを交代する人事を発表した。2011年以来CEOを務めてきたティム・クック氏がエグゼクティブ・チェアマン(会長)になり、新CEOには、現在ハードウェアエンジニアリング担当シニアバイスプレジデントを務めるジョン・ターナス氏が就任する。新体制への移行は9月1日からスタートする予定だ。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_accdaa0ce87a5a2e",
-      "title": "シチズン アテッサ、スターウォーズ新作の限定コラボモデル",
-      "url": "https://www.watch.impress.co.jp/docs/news/2105050.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-05-03T23:00:00.000Z",
-      "summary": "シチズン時計は、「CITIZEN ATTESA」(シチズン アテッサ)の新作として、映画「スター・ウォーズ」の「マンダロリアン」の世界観をテーマにした限定コラボレーションモデル「AT8385-55E」を5月22日に発売する。電波ソーラーの腕時計で、価格は192,500円。数量は世界限定1,400本。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_0508b7a4e0a19b82",
       "title": "【注目記事】「NURO 光」の自宅で、ゲーマーが忌み嫌う「二重ルーター」環境を導入　Switch 2のNATタイプを維持する設定を考えた",
       "url": "https://internet.watch.impress.co.jp/docs/readitnow/2105342.html",
@@ -1413,103 +1507,6 @@
         "セキュリティ"
       ],
       "priority_score": 50
-    },
-    {
-      "id": "item_0114fab2b6b51b4b",
-      "title": "GPT-5.5のサイバー攻撃能力は一部「Mythos超え」　英政府機関が評価",
-      "url": "https://www.itmedia.co.jp/aiplus/articles/2605/01/news108.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-05-01T08:22:00.000Z",
-      "summary": "英国のAISIは、OpenAIの「GPT-5.5」が「Claude Mythos Preview」と同等のサイバー攻撃能力を持つとの評価を公表した。能力向上が業界共通の傾向である可能性が示唆されている。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用",
-        "セキュリティ",
-        "情報モラル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_14d5f63efbccc70b",
-      "title": "なぜ？　ChatGPTの回答で「ゴブリン」増殖の謎　OpenAIが対策済み",
-      "url": "https://www.itmedia.co.jp/aiplus/articles/2605/01/news085.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-05-01T05:25:00.000Z",
-      "summary": "ChatGPTで「ゴブリン」の比喩が急増した原因をOpenAIが解明。原因は「オタク」人格設定の学習過程における過剰評価だった。後継モデルにも波及したが、現在は人格の廃止やプロンプトによる抑制で修正が図られている。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用",
-        "教育ニュース"
-      ],
-      "priority_score": 60
-    },
-    {
-      "id": "item_498aac5ddcd8f5d0",
-      "title": "NVIDIA「NemoClaw」がAIエージェント推進の転換点に　Clawブームで直面する「特権リスク」",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/01/news057.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-05-01T04:00:00.000Z",
-      "summary": "企業の関心が「対話型AI」から「AIエージェント」へと移り変わる中、ABI ResearchはNVIDIAのNemoClawを「エンタープライズにおけるAIエージェント採用を加速させるための転換点になる」との見解を示した。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_7a9739a2a4dc57c6",
-      "title": "「Claude Mythos」でセキュリティはどう変わる？　競合「GPT-5.4-Cyber」と比較",
-      "url": "https://www.itmedia.co.jp/aiplus/articles/2605/01/news022.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-05-01T03:00:00.000Z",
-      "summary": "4月に発表された米AnthropicのAIモデル「Claude Mythos Preview」と米OpenAIの「GPT-5.4-Cyber」。サイバーセキュリティの観点から両者を比較する。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用",
-        "セキュリティ",
-        "情報モラル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_d5585da6a8ae5135",
-      "title": "OpenAI、「ChatGPT」に物理キー対応の高度なセキュリティ機能「AAS」を導入",
-      "url": "https://www.itmedia.co.jp/news/articles/2605/01/news071.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-05-01T02:08:00.000Z",
-      "summary": "OpenAIは、ChatGPTユーザー向けの保護機能「Advanced Account Security」を発表した。パスキーや物理キーによる認証を導入し、アカウント回復手段を制限することで安全性を高める。有効化によりAI学習の対象からも自動で除外される。Yubicoとの提携による専用キーの優待販売も実施し、全ユーザーが利用可能だ。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用",
-        "セキュリティ",
-        "情報モラル",
-        "教育ニュース"
-      ],
-      "priority_score": 60
     },
     {
       "id": "item_a2978806b0b51ecd",
