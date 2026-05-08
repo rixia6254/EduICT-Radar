@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-05-08T10:43:42.245Z",
+  "generated_at": "2026-05-08T21:53:15.034Z",
   "total": 102,
   "items": [
+    {
+      "id": "item_21f8651de3f2baea",
+      "title": "文部科学省ホームページトップはこちら",
+      "url": "https://www.mext.go.jp/",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-05-08T21:53:04.139Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
     {
       "id": "item_bd1951ae70f98dac",
       "title": "サイトマップはこちら",
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-05-08T10:43:28.639Z",
+      "published_at": "2026-05-08T21:53:04.139Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -25,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-05-08T10:43:28.639Z",
+      "published_at": "2026-05-08T21:53:04.139Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -38,22 +56,20 @@
       "priority_score": 60
     },
     {
-      "id": "item_21f8651de3f2baea",
-      "title": "文部科学省ホームページトップはこちら",
-      "url": "https://www.mext.go.jp/",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-05-08T10:43:28.638Z",
-      "summary": "",
+      "id": "item_1d751ee41c32d6ac",
+      "title": "ドコモ、「金融」で成長へ　通信料金値上げは「否定できない」",
+      "url": "https://www.watch.impress.co.jp/docs/news/2107331.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-05-08T11:05:10.000Z",
+      "summary": "NTTドコモは8日、2025年度決算発表とともに、金融事業の再編などについて説明した。7月にグループの金融事業を束ねる新会社「NTTドコモ・フィナンシャルグループ」(ドコモFG)を設立し、dカード、d払いのほか、住信SBIネット銀行やマネックス証券などドコモの金融事業を集約する。",
       "starred": false,
-      "category": "admin",
+      "category": "tech",
       "tags": [
-        "行政",
-        "文科省",
-        "制度",
-        "教育ニュース"
+        "テクノロジー",
+        "デジタル"
       ],
-      "priority_score": 60
+      "priority_score": 50
     },
     {
       "id": "item_037cd72aca70b5fa",
@@ -1168,26 +1184,6 @@
       "tags": [
         "テクノロジー",
         "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_93e61f0a1bfd3687",
-      "title": "グーグル、Fitbitに変わる新健康アプリ「Google Health」　Geminiがコーチに",
-      "url": "https://www.watch.impress.co.jp/docs/news/2106930.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-05-07T14:00:00.000Z",
-      "summary": "Googleは7日、新しい「Google Health アプリ」を開始すると発表した。これまでのGoogleのヘルスケアサービスは、2019年に買収した「Fitbit」と紐づいていたが、Googleのブランドに統一し、ユーザーインターフェースを刷新するとともに、多くの機能強化を図っている。米国では5月19日から順次展開する。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "生成AI",
-        "AI活用",
-        "教材",
-        "ツール"
       ],
       "priority_score": 50
     },
