@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-10T10:19:58.852Z",
+  "generated_at": "2026-05-10T21:40:46.204Z",
   "total": 102,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-05-10T10:19:49.230Z",
+      "published_at": "2026-05-10T21:40:34.664Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-05-10T10:19:49.230Z",
+      "published_at": "2026-05-10T21:40:34.664Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-05-10T10:19:49.230Z",
+      "published_at": "2026-05-10T21:40:34.664Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,56 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_c197b72d560285b9",
+      "title": "【2010年のINTERNET Watch】iPadも発売された「電子書籍元年」、通信業界は「光の道」構想で激論",
+      "url": "https://internet.watch.impress.co.jp/docs/special/30th/2100889.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-05-10T21:30:00.000Z",
+      "summary": "2010年（平成22年）9月、沖縄県の尖閣諸島付近で、違法操業する中国の漁船を取り締まろうとした海上保安庁の巡視船に対し、漁船が衝突する事件があった。衝突時の動画が流出してYouTubeに公開されたことも大きな騒動となり、本誌では当時の連載「山谷剛史のマンスリー・チャイナネット事件簿」で言及している。",
+      "starred": false,
+      "category": "dx",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "校務DX",
+        "GIGA"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_312525d9e13bd833",
+      "title": "【本日5月11日 20時配信】Wi-Fiが遅いそのワケは？　有線LANとなにが違う？　電波の影響は？　Wi-Fiならではの遅延要因をライブで解説【清水理史の「イニシャルB」チャンネル】",
+      "url": "https://internet.watch.impress.co.jp/docs/column/shimizumovie/2107241.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-05-10T21:00:00.000Z",
+      "summary": "「なんかWi-Fiが遅い!!」",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_e29135a2dcc94968",
+      "title": "「Pingスパイク」とは何か？　Wi-Fiで起こる「遅延」の実態を見てみよう【イニシャルB】",
+      "url": "https://internet.watch.impress.co.jp/docs/column/shimizu/2105722.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-05-10T21:00:00.000Z",
+      "summary": "Web会議の映像が一瞬止まる……。オンラインゲームでキャラクターがワープする……。Wi-Fi環境で、こうした一瞬のラグが発生するのはなぜなのか？ 少し長めに「RTT（Round Trip Time：往復通信時間）」を取得してみるだけでも、こうした状況の原因が見えてくる。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_e82d7c5770167ae7",
@@ -1394,59 +1444,6 @@
         "インターネット",
         "セキュリティ",
         "情報モラル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_52cae8014773dd9e",
-      "title": "エレコム、ナトリウムイオン電池搭載製品の機内持ち込み禁止について発表、返金要望受付",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2106600.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-05-06T23:00:00.000Z",
-      "summary": "エレコム株式会社は、同社が販売していたナトリウムイオン電池を搭載した製品について、飛行機機内への持ち込みが禁止であると情報を訂正するとともに、返品・返金の要望を受け付けると発表した。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_a57afd21b45472d9",
-      "title": "いえらぶGROUP、クラウドサービスへの不正アクセスによる情報流出について発表　多くの不動産関連サービスに影響",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2106599.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-05-06T22:30:00.000Z",
-      "summary": "株式会社いえらぶGROUPは4月30日、同社のクラウドサービスに対する不正アクセスについて第二報を発表し、情報流出の可能性が高いことを発表した。",
-      "starred": false,
-      "category": "dx",
-      "tags": [
-        "インターネット",
-        "セキュリティ",
-        "校務DX",
-        "GIGA",
-        "情報モラル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_4ca88aa25057b0f9",
-      "title": "インフルエンサーが言ってたのと違う！？　巧妙化する定期購入トラブルに国民生活センターが注意喚起",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2106190.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-05-06T22:00:00.000Z",
-      "summary": "1回限りの購入のはずが定期購入契約をさせられてしまうトラブルが巧妙化しているとして、独立行政法人国民生活センターが注意を呼び掛けている。",
-      "starred": false,
-      "category": "admin",
-      "tags": [
-        "インターネット",
-        "セキュリティ",
-        "行政",
-        "文科省"
       ],
       "priority_score": 50
     },
