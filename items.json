@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-09T21:36:30.492Z",
+  "generated_at": "2026-05-10T06:14:40.831Z",
   "total": 102,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-05-09T21:36:19.329Z",
+      "published_at": "2026-05-10T06:14:29.207Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-05-09T21:36:19.329Z",
+      "published_at": "2026-05-10T06:14:29.207Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-05-09T21:36:19.329Z",
+      "published_at": "2026-05-10T06:14:29.207Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,24 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_e82d7c5770167ae7",
+      "title": "「え、就職の面接官がAIだって？」　普及する“AI面接官”への困惑と改善要望【調査】",
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2605/09/news020.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-05-10T03:00:00.000Z",
+      "summary": "ある調査によると、米国人回答者の63％が「AI面接官」による面談を経験している。AI活用を拒否する意見は少ない半面、運用面への“注文”が並ぶ。多くの求職者の支持を集めた改善要望は何か。また、「AI面接官」を導入する企業のデメリットとは。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_459c82ba343a7a76",
@@ -1295,24 +1313,6 @@
         "AI活用"
       ],
       "priority_score": 50
-    },
-    {
-      "id": "item_9505cedfb188caf8",
-      "title": "「セーラームーンに似ている」　生成AIを使った化粧品の広告が物議　メーカーは謝罪と広告の撤去を発表",
-      "url": "https://www.itmedia.co.jp/news/articles/2605/07/news075.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-05-07T06:05:00.000Z",
-      "summary": "化粧品やスキンケア商品などを手掛けるウテナ（東京都世田谷区）は5月6日、同社の化粧品の屋外広告が既存アニメに酷似していると物議を呼んだ問題で謝罪し、公式YouTube動画の削除および交通広告の撤去を発表した",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 60
     },
     {
       "id": "item_b9beebf49eba78f3",
