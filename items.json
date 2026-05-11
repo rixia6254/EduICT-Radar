@@ -1,32 +1,14 @@
 {
-  "generated_at": "2026-05-11T12:17:38.093Z",
+  "generated_at": "2026-05-11T21:59:23.795Z",
   "total": 102,
   "items": [
-    {
-      "id": "item_21f8651de3f2baea",
-      "title": "文部科学省ホームページトップはこちら",
-      "url": "https://www.mext.go.jp/",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-05-11T12:17:23.249Z",
-      "summary": "",
-      "starred": false,
-      "category": "admin",
-      "tags": [
-        "行政",
-        "文科省",
-        "制度",
-        "教育ニュース"
-      ],
-      "priority_score": 60
-    },
     {
       "id": "item_bd1951ae70f98dac",
       "title": "サイトマップはこちら",
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-05-11T12:17:23.249Z",
+      "published_at": "2026-05-11T21:59:12.913Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +25,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-05-11T12:17:23.249Z",
+      "published_at": "2026-05-11T21:59:12.913Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +36,108 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_21f8651de3f2baea",
+      "title": "文部科学省ホームページトップはこちら",
+      "url": "https://www.mext.go.jp/",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-05-11T21:59:12.912Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_97364b75a77c5cbd",
+      "title": "企業が“ブランドTLD”を申請するのに必要な「Trademark Clearinghouse」への商標登録を代行、JPRSが「TMCH Agent」に",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2107648.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-05-11T21:50:00.000Z",
+      "summary": "株式会社日本レジストリサービス（JPRS）は5月11日、「Trademark Clearinghouse（TMCH）」への商標登録申請を代行する「TMCH Agent」になったと発表した。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_1aab53b19c1791bf",
+      "title": "OpenAI、企業向けAI導入支援を本格展開　「Deployment Company」設立",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/12/news053.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-05-11T21:31:00.000Z",
+      "summary": "OpenAIは、AI導入を支援する新会社「OpenAI Deployment Company」を設立した。AIコンサルティング企業のTomoro買収により体制を強化し、専門エンジニアを顧客に派遣して業務フローのAI転換を推進する。TPGやソフトバンクなどから40億ドル超の資金を確保。Anthropicとの企業向けAI導入支援競争が激化している。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_30906fd6d48c4971",
+      "title": "Wi-Fi 7の現状とWi-Fi 8（4）Wi-Fi 8の「超高信頼性」を実現するMAC層の技術：前編 DBE、DUO/PUO、DPSなど【ネット新技術】",
+      "url": "https://internet.watch.impress.co.jp/docs/column/nettech/2098499.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-05-11T21:30:00.000Z",
+      "summary": "前回はPHYにおけるWi-Fi 7とWi-Fi 8の違いを紹介した。今回は、続いてMAC層についてとなるが、全てを紹介すると大変な長さとなるので前後編として、今回のキーワードは次の5つである。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_84f080e61b0fd254",
+      "title": "サイバー犯罪で捕まった人たちの年齢層・性別・国籍は？【海の向こうの“セキュリティ”】",
+      "url": "https://internet.watch.impress.co.jp/docs/column/security/2106907.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-05-11T21:00:00.000Z",
+      "summary": "フランスの大手通信事業者Orange（旧フランステレコム）グループのセキュリティベンダーOrange Cyberdefenseは2025年12月に年次報告書「Security Navigator 2026」を公開しました。これは2024年10月1日から2025年8月31日までの11カ月にわたる、世界中の13万9000件を超えるセキュリティインシデントの分析と、独自のサイバー脅威インテリジェンスデー…",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_e9525dbdb6765acf",
+      "title": "GPT-5.5は最高性能ではないのに、なぜエンジニアが熱狂？　カギは“最後まで自走する力”",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/12/news009.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-05-11T20:00:00.000Z",
+      "summary": "GPT-5.5は、ベンチマークだけを見れば絶対王者ではない。それでも開発者が熱狂する理由を、Codexとの組み合わせ、トークン効率、そして“最後まで自走する力”から整理する。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_212d8f21af47779a",
@@ -1336,22 +1420,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_1f43aefe565a511e",
-      "title": "データを保存する先がない？ 世界的なストレージ不足と価格高騰がInternet ArchiveやWikipediaを直撃【やじうまWatch】",
-      "url": "https://internet.watch.impress.co.jp/docs/yajiuma/2107036.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-05-08T02:18:20.000Z",
-      "summary": "世界的なストレージ不足・価格高騰により、Internet Archiveをはじめとするアーカイブサイトの容量が枯渇しつつあることを、海外メディア「404 Media」が伝えている。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_5fcbadcd3fae9c27",
       "title": "Spotify、AI生成の音声コンテンツを保存できるCLIツール「Save to Spotify」公開",
       "url": "https://www.itmedia.co.jp/news/articles/2605/08/news059.html",
@@ -1370,76 +1438,6 @@
         "ツール"
       ],
       "priority_score": 50
-    },
-    {
-      "id": "item_a4fcf9ad41081a46",
-      "title": "Amazonで「Kindle本 高価格帯タイトルセール」実施中！　技術書なども最大50％OFF　本づくりに必要な知識を解説する「本のつくりかた」は1430円",
-      "url": "https://internet.watch.impress.co.jp/docs/shopping/2107006.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-05-08T01:30:00.000Z",
-      "summary": "Amazon.co.jpのKindleストアでは、5月8日までの期間限定で「Kindle本 高価格帯タイトルセール」が開催中だ。3000点以上の高額電子書籍が最大50％OFFで販売中だ。その一環として、コンピュータ・IT関連書籍も多数ラインアップされている。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_7c193662276e22fa",
-      "title": "OpenAI、次世代音声API群を発表──推論・翻訳・文字起こしをリアルタイムで処理",
-      "url": "https://www.itmedia.co.jp/aiplus/articles/2605/08/news057.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-05-08T00:08:00.000Z",
-      "summary": "OpenAIは、Realtime API向けの次世代音声機能群を発表した。GPT-5クラスの推論力を備えた「GPT-Realtime-2」、多言語同時通訳の「GPT-Realtime-Translate」、即時文字起こしの「GPT-Realtime-Whisper」が含まれる。音声を自然なインタフェースとして普及させ、高度な音声アシスタント構築を支援する。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_a66eaee7b225cb5f",
-      "title": "ニトリ、ハンズフリーで使える小型ボックスファン発売、クリップやストラップで好きな所に取り付け",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2106926.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-05-07T23:30:00.000Z",
-      "summary": "株式会社ニトリは、充電式の「ベルトに付けられるボックスファン」（MN08NR）を発売した。カラーバリエーションはホワイトとダークグレーの2種類。価格は1990円で、4月下旬から一部のニトリ店舗およびニトリネットにて販売している。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_7cb4b924c0c3a59f",
-      "title": "「ChatGPT」に緊急連絡先機能「Trusted Contact」登場　自殺リスク検知で通知",
-      "url": "https://www.itmedia.co.jp/news/articles/2605/08/news054.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-05-07T23:05:00.000Z",
-      "summary": "OpenAIは、「ChatGPT」にメンタルヘルスの懸念が生じた際に信頼できる人物へ通知する安全機能「Trusted Contact」を追加した。18歳以上の個人ユーザーが対象で、AIと人間が深刻なリスクを検知した場合にのみユーザーが指定した連絡先へ安否確認を促す。会話の詳細は非公開で、現実のサポートへの橋渡しを目的とする。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用",
-        "行政",
-        "文科省"
-      ],
-      "priority_score": 60
     },
     {
       "id": "item_df00ade60a4af36f",
