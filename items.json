@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-14T11:18:43.179Z",
+  "generated_at": "2026-05-14T22:03:47.914Z",
   "total": 102,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-05-14T11:18:34.051Z",
+      "published_at": "2026-05-14T22:03:37.051Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-05-14T11:18:34.051Z",
+      "published_at": "2026-05-14T22:03:37.051Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-05-14T11:18:34.051Z",
+      "published_at": "2026-05-14T22:03:37.051Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,109 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_cf0b2de3556a3216",
+      "title": "経済的事情を抱える小中学生向け、プログラミングやデジタルスキル教育支援を一般社団法人Kids Code Clubが実施　PC・Wi-Fi環境と、学習プログラムを無料提供",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2108754.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-05-14T22:00:00.000Z",
+      "summary": "子どものテクノロジー教育支援を行う一般社団法人Kids Code Club（キッズコードクラブ）は、小中学生向けのプログラミング学習支援「デジタル探求プログラム2026」の参加者を募集中だ。申し込み期限は5月26日。実施される動画説明会の参加希望をLINEで受け付けている。",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_3dc570b0498f9e28",
+      "title": "AIネイティブか、死か――オラクルが描く「次世代SaaS」への生存戦略",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2605/15/news049.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-05-14T21:30:00.000Z",
+      "summary": "日本オラクルは、同社が展開する「基幹系AI」の最新動向を説明した。AIのコモディティ化が進む中、SaaS事業者は技術の固定化を避け、柔軟なアーキテクチャ構成が求められる。ウイングアーク1st、NSW、ソフトマックスの3社も登壇し、「SaaSの死」を回避するAIを核とした生存戦略を紹介した。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_5355c3e2bc3b9fd7",
+      "title": "「なくなったら半導体産業が成立しない」　ソフトバンクGが絶大な信頼を置く企業「Arm」とは何者か",
+      "url": "https://www.itmedia.co.jp/business/articles/2605/15/news054.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-05-14T21:30:00.000Z",
+      "summary": "孫正義社長が3.3兆円で買収した、半導体設計企業のArm。AI時代に欠かせない存在となった同社は、一体どのような企業なのか。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_401929c997e4e0cf",
+      "title": "セキュアな接続と強固なバックアップでランサムウェア被害の早期復旧を支援するサービス、KDDIアイレットが提供開始",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2108724.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-05-14T21:30:00.000Z",
+      "summary": "KDDIアイレット株式会社は5月14日、Oracle Cloud Infrastructure（OCI）を基盤とした、ランサムウェア被害からの早期復旧を支援するサービスの提供を開始した。",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_331a83e31d2bbc9b",
+      "title": "混雑しない6GHz帯と、海外でも使える5Gバンドに対応。さらに有線LANでホームルーターとしても使える多機能すぎなモバイルWi-Fiルーター TP-Link M8550[Sponsored]",
+      "url": "https://internet.watch.impress.co.jp/docs/topic/special/2104581.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-05-14T21:00:00.000Z",
+      "summary": "「TP-Link M8550」（以下M8550）は、携帯電話回線が利用できるモバイルWi-Fiルーター。最新の携帯電話回線の技術である5G回線に対応しており、スマートフォンやPCを接続するWi-Fiに関しても、Wi-Fi 6Eのトライバンドに対応。従来のモバイルWi-Fiルーターでよく実装されている2.4GHz帯、5GHz帯に加えて、利用者がまだ少ない6GHz帯も利用可能。イベント会場など、人が多…",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_62070033824bf1bd",
+      "title": "Python 3.15 β1がリリースされたので新機能や変更点をまとめてみた",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/15/news016.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-05-14T20:00:00.000Z",
+      "summary": "2026年10月にリリース予定のPython 3.15のβ1がリリースされた。Python 3.15の新機能はこれで出そろったことから、どんなものが追加されたかをまとめてみました。",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_1760839cd09af42b",
@@ -1242,42 +1345,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_67618144b31d371e",
-      "title": "米国防総省、Anthropic排除継続も「Mythos」は導入　「国家安全保障上の重要局面」",
-      "url": "https://www.itmedia.co.jp/aiplus/articles/2605/13/news118.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-05-13T06:48:00.000Z",
-      "summary": "米国防総省はAnthropicの「Claude Mythos Preview」を利用していることを明かした。同省は同時に、Anthropicのサービスの使用停止に向け移行作業を急いでいる。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_379562961148f803",
-      "title": "阿波おどりの「AI活用ポスター」公募　徳島県鳴門市",
-      "url": "https://www.itmedia.co.jp/aiplus/articles/2605/13/news110.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-05-13T05:02:00.000Z",
-      "summary": "徳島県鳴門市は、同市で8月9～11日に開催するイベント「鳴門市阿波おどり」の一環として、生成AIを活用したポスターの公募を始めた。最優秀賞を受賞した作品は同イベントの広報で利用する。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 60
-    },
-    {
       "id": "item_9c04e8383bb0dfc0",
       "title": "新日本検定協会、ランサムウェア攻撃による情報流出のおそれを発表。システム障害はおおむね復旧",
       "url": "https://internet.watch.impress.co.jp/docs/news/2108203.html",
@@ -1291,23 +1358,6 @@
         "インターネット",
         "セキュリティ",
         "情報モラル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_2c1a0d76f0a0c35f",
-      "title": "まだ信用されていない「AIエージェントによる意思決定」　“人の目”による主な検証方法とは",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/13/news054.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-05-13T04:00:00.000Z",
-      "summary": "エージェント型AIの意思決定は、人の検証が前提となっていることがDynatraceの調査で明らかになった。企業はどのように検証しているのか。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
       ],
       "priority_score": 50
     },
@@ -1368,54 +1418,6 @@
       "source_name": "INTERNET Watch",
       "published_at": "2026-05-13T02:30:00.000Z",
       "summary": "Amazon.co.jpのGMKtecストアページでは現在、同社のミニPCがタイムセール中だ。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_8158a851c45052bd",
-      "title": "エレコムのUSB PD対応充電器がAmazonで安い！　最大65W出力に対応する「EC-AC4465」は3090円",
-      "url": "https://internet.watch.impress.co.jp/docs/shopping/2108106.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-05-13T01:40:00.000Z",
-      "summary": "Amazon.co.jpのエレコムストアページでは、同社のUSB PD対応充電器が特売中だ。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_0edbd771586e6287",
-      "title": "横スクロールと高速縦スクロール対応、3デバイスに接続できる多機能マウス、サンワサプライが発売",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2107679.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-05-12T22:30:00.000Z",
-      "summary": "サンワサプライ株式会社は5月11日、多機能ワイヤレスマウス「ワイヤレスマウス VELZA」（400-MAWB220）を発売した。直販サイト「サンワダイレクト」での販売価格は7980円。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_a16919a577bf8238",
-      "title": "コンパクトながら容量15L、静音仕様の家庭用シュレッダー「400-PSD078」、サンワサプライが発売",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2107662.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-05-12T22:00:00.000Z",
-      "summary": "サンワサプライ株式会社は5月11日、家庭用の電動シュレッダー「400-PSD078」を発売した。ホワイト・ブラックの2色で、直販サイト「サンワダイレクト」での販売価格は7980円。",
       "starred": false,
       "category": "tech",
       "tags": [
