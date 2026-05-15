@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-15T11:25:04.443Z",
+  "generated_at": "2026-05-15T21:52:19.133Z",
   "total": 102,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-05-15T11:24:52.679Z",
+      "published_at": "2026-05-15T21:52:08.591Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-05-15T11:24:52.679Z",
+      "published_at": "2026-05-15T21:52:08.591Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-05-15T11:24:52.679Z",
+      "published_at": "2026-05-15T21:52:08.591Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,59 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_35c19a88332d29e0",
+      "title": "PayPay、サービス未払い・公金未納を騙るフィッシングに注意喚起",
+      "url": "https://www.watch.impress.co.jp/docs/news/2109216.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-05-15T12:45:48.000Z",
+      "summary": "PayPayは15日、サービスの未払いや公金の未納を騙るフィッシングメール・SMSに注意するよう呼びかけを行なった。",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_ca69ba0a6981ed35",
+      "title": "動画生成AIのRunwayが日本進出、60億円超を投資　「日本は世界で最も洗練されたクリエイティブ産業持つ」とCEO",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2605/15/news108.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-05-15T11:18:00.000Z",
+      "summary": "動画生成AIなどを開発する米Runwayは5月14日（現地時間）、日本市場に本格進出すると発表した。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_fd3d20a1ab4304d5",
+      "title": "キオクシア社長「記録的な増収増益」　3カ月の売上収益1兆円、純利益は2990％増　好決算の背景は",
+      "url": "https://www.itmedia.co.jp/business/articles/2605/15/news112.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-05-15T11:15:00.000Z",
+      "summary": "キオクシアは、2026年1～3月の売上収益が1兆29億円だったと発表した。太田裕雄社長は「記録的な増収増益となった」と語る。好決算の背景は何か。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_7751d0efe450c9f5",
@@ -89,7 +142,7 @@
     },
     {
       "id": "item_b4107e16373b8f83",
-      "title": "フィルムカメラ風の撮影体験「Insta360 GO 3S レトロキット」",
+      "title": "親指カメラがレトロに進化　Insta360 GO 3S「レトロキット」",
       "url": "https://www.watch.impress.co.jp/docs/news/2109154.html",
       "source_id": "impress_watch",
       "source_name": "Impress Watch",
@@ -1242,24 +1295,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_1b6031580647ec38",
-      "title": "セールスフォース、Slackを全顧客に標準提供　Slackbotも連携",
-      "url": "https://www.watch.impress.co.jp/docs/news/2108757.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-05-14T09:07:44.000Z",
-      "summary": "セールスフォース・ジャパンは、SlackをAIワークプラットフォームとして、すべてのSalesforce顧客に標準提供すると発表した。5月15日より、新規顧客には無料のSlackワークスペースが自動的に提供される。",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_9806b390c4c9b033",
       "title": "“Mythosレベル”のAIサイバー攻撃対策で官民連携　金融庁が作業部会、Anthropic日本法人も参加",
       "url": "https://www.itmedia.co.jp/aiplus/articles/2605/14/news129.html",
@@ -1276,41 +1311,6 @@
         "AI活用",
         "セキュリティ",
         "情報モラル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_ef0799a2929501c9",
-      "title": "シャープ、テレビでAIキャラと会話できる「AQUOS AI」開始",
-      "url": "https://www.itmedia.co.jp/aiplus/articles/2605/14/news118.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-05-14T07:15:00.000Z",
-      "summary": "無料で月50回まで会話でき、月400回までの「ノーマル」が月額495円、月1600回までの「ゴールド」が月額1980円。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_53af121e32e0c60b",
-      "title": "AIが長時間タスクをこなす性能、想定を超えるスピードで成長　MythosとGPT-5.5がブレークスルーか",
-      "url": "https://www.itmedia.co.jp/aiplus/articles/2605/14/news110.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-05-14T07:15:00.000Z",
-      "summary": "AIエージェントが自律的にタスクを処理できる時間が、研究機関の予想を上回る速さで伸びている。Anthropicの「Claude Mythos Preview」やOpenAIの「GPT-5.5」といった最新モデルが既存モデルの性能を大きく上回っているという。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
       ],
       "priority_score": 50
     },
