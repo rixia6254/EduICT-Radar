@@ -1,32 +1,14 @@
 {
-  "generated_at": "2026-05-18T12:39:21.044Z",
+  "generated_at": "2026-05-18T21:58:55.749Z",
   "total": 102,
   "items": [
-    {
-      "id": "item_21f8651de3f2baea",
-      "title": "文部科学省ホームページトップはこちら",
-      "url": "https://www.mext.go.jp/",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-05-18T12:39:11.465Z",
-      "summary": "",
-      "starred": false,
-      "category": "admin",
-      "tags": [
-        "行政",
-        "文科省",
-        "制度",
-        "教育ニュース"
-      ],
-      "priority_score": 60
-    },
     {
       "id": "item_bd1951ae70f98dac",
       "title": "サイトマップはこちら",
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-05-18T12:39:11.465Z",
+      "published_at": "2026-05-18T21:58:46.106Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +25,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-05-18T12:39:11.465Z",
+      "published_at": "2026-05-18T21:58:46.106Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +36,98 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_21f8651de3f2baea",
+      "title": "文部科学省ホームページトップはこちら",
+      "url": "https://www.mext.go.jp/",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-05-18T21:58:46.105Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_6e963994f5143b00",
+      "title": "生成AIで3Dモデルを自動作成　専門スキル不要でテキストや画像から3D化",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2605/19/news029.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-05-18T21:30:00.000Z",
+      "summary": "スリー・ディー・エスは、テキストや画像入力から3Dモデルを自動生成できる生成AI「Meshy.ai」の日本国内での提供を開始した。専門的な3Dモデリングスキルを必要とせず、試作検討やデザイン用途などに向けた3D活用を支援する。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_be0f9dd0de3f829a",
+      "title": "「Claude Mythos」などの高度化したAIを踏まえたセキュリティ対策パッケージ「Project YATA-Shield」、政府が発表　重要インフラ事業者やソフトウェアベンダーに注意喚起",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2109608.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-05-18T21:30:00.000Z",
+      "summary": "国会サイバー統括室（NCO）らは5月18日、Anthropicの「Claude Mythos Preview」をはじめとしたAI性能の高度化を踏まえ、政府全体としてサイバーセキュリティ対策の強化に関する対策パッケージ「Project YATA-Shield」を取りまとめ、各方面に対策強化などを呼び掛ける複数の文書を公開した。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "生成AI",
+        "AI活用",
+        "情報モラル",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_0043ce97bbc3a154",
+      "title": "災害時、避難所にモバイルバッテリーなど提供、メーカーと通信事業者が連携協定",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2109535.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-05-18T21:00:00.000Z",
+      "summary": "モバイルバッテリーメーカー7社と「つなぐ×かえるプロジェクト」に参画する通信事業者は5月18日、「大規模災害発生時における被災地への電源確保に関する連携協定」を締結したと発表した。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_621ddec959732358",
+      "title": "Python 3.15に追加されるlazy importと内包表記でのアンパッキングについて調べてみた",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/19/news014.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-05-18T20:00:00.000Z",
+      "summary": "Python 3.15の新機能として追加された「モジュールの読み込みを必要な時点まで遅延するlazy import」と二重ループの構造を取る内包表記をより直感的に書けるようになる「内包表記でのアンパッキング」がどんなものかをちょっとコードを書いて調べてみました。",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_8090e6420e604713",
@@ -1379,78 +1453,6 @@
         "生成AI",
         "AI",
         "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_f21d038ec155fa56",
-      "title": "AIエージェントが2D図面を読図して3D化、renueが図面SaaSを機能強化",
-      "url": "https://monoist.itmedia.co.jp/mn/articles/2605/15/news019.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-05-15T00:00:00.000Z",
-      "summary": "renueは、図面SaaS「Drawing Agent」の機能アップデートを発表した。AIエージェントが図面ごとに適したツールを選択して読図し、2D図面から3Dモデルを生成する。さらに、最小限の設計情報から2D図面を自動生成する基盤も実装し、図面データが少ない領域への対応も進める。",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_72206300f6b33e19",
-      "title": "エレコム、充電電力をディスプレイに表示する小型充電器2種を発売",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2108799.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-05-15T00:00:00.000Z",
-      "summary": "エレコム株式会社は、充電電力をリアルタイムで表示できるディスプレイを搭載したコンパクトな充電器2種を発売した。ラインアップはUSB PD最大30W対応の「MPA-AC13030BK」と最大45W対応の「MPA-AC13145BK」。市場想定価格は3280円、3780円。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_08e471dd3396ec66",
-      "title": "Anthropicとゲイツ財団が提携　AIによる社会貢献に2億ドル拠出",
-      "url": "https://www.itmedia.co.jp/news/articles/2605/15/news064.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-05-14T23:42:00.000Z",
-      "summary": "AnthropicとGates Foundationは、AI関連のインフラやヘルスケア、教育分野を支援するため2億ドルを拠出すると発表した。市場原理ではAIが届きにくい低中所得国に対し、AIモデル「Claude」の利用クレジットや技術支援を提供する。ワクチン開発の加速や学習支援アプリの開発を通じ、AIを公平に活用できる環境を整える。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用",
-        "教材",
-        "ツール",
-        "教育ニュース"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_4ef796824400a345",
-      "title": "サンワサプライ、難燃素材を採用したネジ固定式ケーブルトレーを発売",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2108762.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-05-14T23:30:00.000Z",
-      "summary": "サンワサプライ株式会社は5月14日、難燃メッシュ素材を採用したケーブルトレー「200-CT013BK」（幅60cm）、「200-CT014BK」（幅90cm）を発売した。直販サイト「サンワダイレクト」での販売価格は5980円、6480円。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
       ],
       "priority_score": 50
     },
