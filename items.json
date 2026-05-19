@@ -1,32 +1,14 @@
 {
-  "generated_at": "2026-05-19T12:16:08.328Z",
+  "generated_at": "2026-05-19T22:09:38.333Z",
   "total": 102,
   "items": [
-    {
-      "id": "item_21f8651de3f2baea",
-      "title": "文部科学省ホームページトップはこちら",
-      "url": "https://www.mext.go.jp/",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-05-19T12:15:57.508Z",
-      "summary": "",
-      "starred": false,
-      "category": "admin",
-      "tags": [
-        "行政",
-        "文科省",
-        "制度",
-        "教育ニュース"
-      ],
-      "priority_score": 60
-    },
     {
       "id": "item_bd1951ae70f98dac",
       "title": "サイトマップはこちら",
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-05-19T12:15:57.508Z",
+      "published_at": "2026-05-19T22:09:24.559Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +25,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-05-19T12:15:57.508Z",
+      "published_at": "2026-05-19T22:09:24.559Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +36,296 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_21f8651de3f2baea",
+      "title": "文部科学省ホームページトップはこちら",
+      "url": "https://www.mext.go.jp/",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-05-19T22:09:24.558Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_05b067b45e44e1da",
+      "title": "420GHz超の帯域で初の100Gbps級無線通信を実証。徳島大と岐阜大の研究グループが発表",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2109899.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-05-19T22:00:00.000Z",
+      "summary": "徳島大学ポストLEDフォトニクス研究所／フォトニクス健康フロンティア研究院の時実悠講師・岸川博紀准教授・久世直也教授・安井武史教授、徳島大学大学院創成科学研究科の菊原拓海大学院生、徳島大学ポストLEDフォトニクス研究所の永妻忠夫客員教授らと、岐阜大学工学部の久武信太郎教授の研究グループは、マイクロ光コム駆動型テラヘルツ通信システムを開発し、560GHz帯において単一チャネル112Gbpsの無線伝送…",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_513ff059fcdd5969",
+      "title": "WD（Western Digital）、Ultrastar HDDにポスト量子暗号機能を統合。次世代高信頼インフラを推進",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2109842.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-05-19T21:30:00.000Z",
+      "summary": "WD（Western Digitalは2026年2月にブランドを「WD」に刷新した。読みは「ダブリューディー」）は5月18日、同社製の最新・大容量のUltrastar UltraSMR HDDにポスト量子暗号（PQC：Post-Quantum Cryptography）を統合したと発表した。これにより、次世代インフラのセキュリティにおいて重要な前進を遂げたとしている。",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_3f7fcc4526a4f6e8",
+      "title": "Appleが5年がかりで開発したセキュリティ対策を5日で突破　「Mythos」が見せつけた脆弱性攻撃の威力",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/19/news100.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-05-19T21:00:00.000Z",
+      "summary": "米セキュリティ企業のCalifが、米Appleが5年がかりで開発した最先端のセキュリティ対策「MIE」を突破するエクスプロイト（攻撃プログラム）を、わずか5日間で開発したと発表した。利用したのはAnthropicのAIモデル「Mythos」のプレビュー版だった。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_05bfec432e3051db",
+      "title": "終電が花火のように可視化された「東京終電マップ」など、新しい地図表現を追究する「Map Museum 2026」の受賞作品発表【地図とデザイン】",
+      "url": "https://internet.watch.impress.co.jp/docs/column/chizu2/2109931.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-05-19T21:00:00.000Z",
+      "summary": "4月28日に開催された地理空間情報のイベント「ジオ展2026」で、新しい地図表現を追究するプロジェクト「Map Museum 2026」の受賞作品が発表された。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_7be0136c40cf1d2d",
+      "title": "6割超がSNS依存を自覚、「成人のSNS利用に規制が必要」との回答は7割に迫る～Job総研調査",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2109836.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-05-19T21:00:00.000Z",
+      "summary": "パーソルキャリア株式会社は、同社が運営する調査機関「Job総研」が実施した「2026年 SNS利用の実態調査」の結果を発表した。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_f7eb5cac498ef5da",
+      "title": "グーグル、AIエージェント「Gemini Spark」発表　AI Ultraに月100ドルプラン",
+      "url": "https://www.watch.impress.co.jp/docs/news/2110016.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-05-19T20:15:30.000Z",
+      "summary": "Googleは19日(米国時間)、開発者会議「Google I/O 2026」で、Google WorkspaceおよびGeminiアプリに関する新機能を発表した。Gmail、Docs、Keepで使える会話型音声機能や、画像作成・編集ツール「Google Pics」、Gmailの「AI Inbox」の対象プラン拡充、パーソナルAIエージェント「Gemini Spark」などを展開する。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "生成AI",
+        "AI活用",
+        "校務DX",
+        "GIGA",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_ba18ff5dcb152c0d",
+      "title": "グーグル、検索ボックスを25年ぶり大規模刷新　AI融合でエージェント化",
+      "url": "https://www.watch.impress.co.jp/docs/news/2110019.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-05-19T20:12:40.000Z",
+      "summary": "Googleは19日(米国時間)、「Google 検索」の25年ぶりの大規模アップデートを発表した。AIモード検索に新しい「Gemini 3.5 Flash」モデルを導入するほか、検索ボックスについてもGoogle 検索の登場以来の刷新を行ない、テキスト、画像、ファイル、動画などの形式を組み合わせて検索できるようになる。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "生成AI",
+        "AI活用"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_1a4c800a32948ce0",
+      "title": "【やさしいデータ分析】ベイズ統計入門 ～ 古典的な統計との違いと使い分け",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/20/news006.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-05-19T20:00:00.000Z",
+      "summary": "初歩から応用までステップアップしながら学んでいく『やさしいデータ分析』シリーズ第5弾がスタート。ベイズ統計を学ぶに当たって、知っておくべきキーワード、連載の予定を紹介します。データ分析を実践的に役立てるための基礎をしっかり学んでみませんか？",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_4e4ba0d30a7e719a",
+      "title": "グーグル、「Gemini 3.5 Flash」公開　エージェント特化でProは来月",
+      "url": "https://www.watch.impress.co.jp/docs/news/2110012.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-05-19T19:08:15.000Z",
+      "summary": "Googleは19日(米国時間)、開発者会議「Google I/O 2026」で、AIモデル群「Gemini 3.5」を発表した。最初のモデルとして「Gemini 3.5 Flash」を本日より提供開始し、Geminiアプリ、Google 検索のAIモード、Google Antigravity、Gemini API in Google AI Studio、Android Studio、Gemini…",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "生成AI",
+        "AI活用",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_26257a229aa73353",
+      "title": "グーグル、新AIオーディオグラスを今秋発売　Geminiでナビ・翻訳・タスク",
+      "url": "https://www.watch.impress.co.jp/docs/news/2110011.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-05-19T18:43:54.000Z",
+      "summary": "Googleは19日(米国時間)、2026年秋に発売する「オーディオグラス」のデザインを開発者会議「Google I/O」で公開した。SamsungやQualcommと共同でスマートグラスなどのプラットフォーム「Android XR」を展開しているが、本製品は新しいスマートアイウェアとして展開する。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "生成AI",
+        "AI活用",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_05d69c7f8bbe1a93",
+      "title": "Google、“動画版Nano Banana”こと「Gemini Omni」公開　会話で映像を生成・編集",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/20/news063.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-05-19T18:38:00.000Z",
+      "summary": "米Googleが開発者会議「Google I/O 2026」で、動画の生成・編集に対応するAIモデル「Gemini Omni」を発表した。自然言語による指示で動画を作成・編集でき、同社は「世界モデル」や画像生成モデル「Nano Banana」の動画版とうたう。最初のモデル「Gemini Omni Flash」の提供も開始した。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_9a30d09cbe770527",
+      "title": "日立、Anthropicと提携　グループ29万人に「Claude」などAI導入　社会インフラ分野にも展開へ",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/19/news120.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-05-19T12:30:00.000Z",
+      "summary": "日立製作所と米Anthropicが戦略的パートナーシップを締結した。Anthropicの生成AIサービス「Claude」など先進AIを日立グループ約29万人の全ビジネスプロセスに導入するほか、同社の社会インフラ向けソリューション群「HMAX by Hitachi」（HMAX）にも展開する。Anthropicを巡っては、4月にNECとの協業を発表。国内ITとの提携を進めている。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_4e44860e7740c846",
+      "title": "OpenAIの共同設立者アンドレイ・カーパシー、Anthropicにジョイン",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2605/20/2000000006/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-05-19T10:02:53.000Z",
+      "summary": "米OpenAIの共同設立者でAI研究者のアンドレイ・カーパシー氏は5月20日（日本時間）、米Anthropicにジョインしたと自身のXアカウントで発表した。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_3f778f901378e876",
+      "title": "GoogleのAIサブスク、最上位プランを値下げ　月額1万4500円の新プランも",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2605/20/2000000008/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-05-19T09:51:43.000Z",
+      "summary": "Googleが最上位サブスクリプション「Google AI Ultra」を月額3万6400円から3万2000円に値下げ。月額1万4500円の新プランも登場。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_898f69a42ef22545",
+      "title": "Google「Gemini」に個人向けAIエージェント　質問に答えるだけでなく「作業を代替」　まずは米国で",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2605/20/2000000007/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-05-19T09:51:04.000Z",
+      "summary": "米Googleは、自律的にタスクをこなす個人向けAIエージェント「Gemini Spark」を発表した。「質問に答えるアシスタントから、あなたの指示に従って作業を代替するアシスタントに進化する」とアピールする。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_2001c4d2ca6e8b01",
@@ -237,6 +509,23 @@
       "tags": [
         "テクノロジー",
         "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_0091111df16d69e4",
+      "title": "AIが医療データを基に健康アドバイス――SMBC、富士通、ソフトバンク共同で「国産ヘルスケア基盤」開発へ",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2605/19/2000000005/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-05-19T03:04:51.000Z",
+      "summary": "SMBC、富士通、ソフトバンクの3社は健康・医療分野で業務提携。AIが医療機関のデータと個人の健康データを組み合わせて健康アドバイスを提供する「国産ヘルスケア基盤」を共同開発し、医療費の5兆円規模の抑制を目指す。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
       ],
       "priority_score": 50
     },
@@ -787,23 +1076,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_0091111df16d69e4",
-      "title": "AIが医療データを基に健康アドバイス――SMBC、富士通、ソフトバンク共同で「国産ヘルスケア基盤」開発へ",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2605/19/2000000005/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-05-18T22:13:44.000Z",
-      "summary": "SMBC、富士通、ソフトバンクの3社は健康・医療分野で業務提携。AIが医療機関のデータと個人の健康データを組み合わせて健康アドバイスを提供する「国産ヘルスケア基盤」を共同開発し、医療費の5兆円規模の抑制を目指す。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_618b469203bee457",
       "title": "福岡銀行、AI活用で年間7000時間の業務削減を目指す　契約書検索のムダを効率化",
       "url": "https://kn.itmedia.co.jp/kn/articles/2605/19/news024.html",
@@ -1059,70 +1331,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_cdc535b56e31bc28",
-      "title": "モバイルバッテリーを被災地へ　通信大手がメーカー7社と協定",
-      "url": "https://www.watch.impress.co.jp/docs/news/2109601.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-05-18T09:48:44.000Z",
-      "summary": "モバイルバッテリーメーカー7社と通信事業者8社は18日、大規模災害発生時における被災地への電源確保に関する連携協定を締結した。協定に基づき、災害発生時にモバイルバッテリーなどの電源関連機材を被災地へ届ける取り組みを6月1日に開始する。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_db204d91e43d112e",
-      "title": "スターリンク、「スタンバイモード」を月額1585円に値上げ　2倍以上に",
-      "url": "https://www.watch.impress.co.jp/docs/news/2109607.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-05-18T09:40:16.000Z",
-      "summary": "SpaceXは、衛星ブロードバンドサービス「Starlink」(スターリンク)で提供している「スタンバイモード」の料金を6月18日から月額1,585円に値上げする。これまでは月額730円だったが、2倍以上になる。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_f0137479c3351fbb",
-      "title": "ナチュラルローソン、「キッシュ」や「焼小籠包」など店内オーブン「焼きデリ」強化",
-      "url": "https://www.watch.impress.co.jp/docs/news/2109588.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-05-18T09:12:20.000Z",
-      "summary": "ローソンは、首都圏の一部ナチュラルローソン店舗において、店内のスチームコンベクションオーブンで焼成した「焼きデリ」を強化する。「海老にらまんじゅう」や「ほうれん草とベーコンのキッシュ」などの惣菜や軽食、「ホットク」といったおやつなど、合計8品を5月19日から順次発売する。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_8bd163ee95398e43",
-      "title": "セブンイレブン、お店で涼む「クールシェア」　“酷暑”対策で",
-      "url": "https://www.watch.impress.co.jp/docs/news/2109570.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-05-18T08:34:23.000Z",
-      "summary": "セブン-イレブン・ジャパンは、夏季の気温対策として、店舗の地域のユーザー向けに「クールシェア」の取組みを順次開始する。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_30ca82b971948c60",
       "title": "NEC社長が説く　AI時代と新たな安全保障環境の到来で「ITサービスはこう変わる」",
       "url": "https://www.itmedia.co.jp/enterprise/articles/2605/18/news062.html",
@@ -1190,39 +1398,6 @@
       "priority_score": 60
     },
     {
-      "id": "item_3024b80aa74d1436",
-      "title": "新規Googleアカウントのストレージ容量、15GB→5GBへと引き下げへ。理由はセキュリティ強化【やじうまWatch】",
-      "url": "https://internet.watch.impress.co.jp/docs/yajiuma/2109372.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-05-18T02:24:50.000Z",
-      "summary": "Googleアカウントを新規に作成する場合の無料ストレージ容量を、従来の15GBから5GBへと引き下げるテストが行われていることが明らかになった。",
-      "starred": false,
-      "category": "security",
-      "tags": [
-        "インターネット",
-        "セキュリティ",
-        "情報モラル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_3e8cdfb6debe4c73",
-      "title": "エレコムの多機能マウスがAmazonでセール中　静音仕様の5ボタン「M-XGL30DBSKABK」が2960円など",
-      "url": "https://internet.watch.impress.co.jp/docs/shopping/2109330.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-05-18T01:30:00.000Z",
-      "summary": "Amazon.co.jpのエレコムストアページでは、同社のマウスがセール中だ。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_b04f4e2a76740542",
       "title": "伊藤忠商事や三菱ケミカルなど16社が参画　大手企業の「暗黙知」を活用する新プロジェクト",
       "url": "https://www.itmedia.co.jp/business/articles/2605/18/news036.html",
@@ -1236,41 +1411,6 @@
         "生成AI",
         "AI",
         "LLM",
-        "教育ニュース"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_3598a82571ab1e32",
-      "title": "総務省、違法オンラインカジノのアクセス抑止に関する報告書案を公開、ブロッキングについて継続的な検証を提言　6月15日までパブコメ募集中",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2109190.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-05-17T23:00:00.000Z",
-      "summary": "総務省は5月14日、「オンラインカジノに係るアクセス抑止の在り方に関する検討会 報告書（案）」を公開した。",
-      "starred": false,
-      "category": "admin",
-      "tags": [
-        "インターネット",
-        "セキュリティ",
-        "行政",
-        "文科省"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_8d8042384f29ae0b",
-      "title": "JPRS、ドメイン名とDNSについてマンガで学べる「ポン太のネットの大冒険」を全国の教育機関に無償配布、6月30日まで　小冊子と連動したサイトではPDF版が公開中",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2109113.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-05-17T22:30:00.000Z",
-      "summary": "株式会社日本レジストリサービス（JPRS）は5月15日、全国の教育機関を対象に、ドメイン名とDNSについて学べるマンガ小冊子「ポン太のネットの大冒険 ～楽しくわかるインターネットのしくみ～」を無償配布する。専用ウェブサイトで、6月30日まで申し込みを受け付けている。",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "インターネット",
-        "セキュリティ",
         "教育ニュース"
       ],
       "priority_score": 50
@@ -1311,60 +1451,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_afc604a2d666341d",
-      "title": "「AIデータセンターの電力需要が急増」はホント？　発電大手Jパワー社長が明かした“報道との温度差”",
-      "url": "https://www.itmedia.co.jp/business/articles/2605/18/news017.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-05-17T22:00:00.000Z",
-      "summary": "AIブームを受けて、データセンターの電力需要が急増しているといわれる。電力関連企業は対応に追われているかと思いきや、実態は異なるようだ。発電大手J-POWERの社長が実態を語った。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_53a84b7695f274d0",
-      "title": "人間 vs. 人型ロボ、より多く作業をこなせるのは？　生配信で対決した結果……　米企業",
-      "url": "https://www.itmedia.co.jp/aiplus/articles/2605/18/news069.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-05-17T18:23:00.000Z",
-      "summary": "人間と人型ロボット、どちらがより多く作業をこなせるのか――ロボット開発企業の米Figureは5月18日（日本時間）、このような勝負の様子を生配信した。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_a282c1a8c5b30fae",
-      "title": "「ポンコツ」と呼ばれたM365 Copilotの逆転劇、GPT-5が転換点　活用の秘訣は“脱・プロンプト職人”",
-      "url": "https://www.itmedia.co.jp/aiplus/articles/2605/15/news013.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-05-17T16:15:00.000Z",
-      "summary": "リリース当初は期待外れとの声もあった「Microsoft 365 Copilot」だが、近年は評価が変わってきているようだ。何が転換点だったのか。3人のMicrosoft MVPがその進化と活用の本質を語り合った座談会の模様をお届けする。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用",
-        "校務DX",
-        "GIGA"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_cf961d9277268c89",
       "title": "【中編】「ドラえもんは意味が分かっているのか？」―基礎情報学が情報の授業を変える",
       "url": "https://note.com/takeshi_fujioka/n/n1f379542d917",
@@ -1385,41 +1471,6 @@
       "priority_score": 60
     },
     {
-      "id": "item_07a711de757c57cf",
-      "title": "OpenAI、「ChatGPT」に個人向け資産管理機能　金融口座と連携",
-      "url": "https://www.itmedia.co.jp/news/articles/2605/16/news027.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-05-15T22:59:00.000Z",
-      "summary": "OpenAIは、ChatGPTの新機能として個人向け資産管理機能のプレビュー版を米国のProプランユーザー向けにリリースした。金融データネットワークPlaidを介して銀行や証券などの口座と連携し、ダッシュボードでの資産管理や、実際の財務状況に基づいたパーソナライズされた相談が可能。将来的に全ユーザーへの拡大を計画している。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 60
-    },
-    {
-      "id": "item_fd3d20a1ab4304d5",
-      "title": "キオクシア社長「記録的な増収増益」　3カ月の売上収益1兆円、純利益は2990％増　好決算の背景は",
-      "url": "https://www.itmedia.co.jp/business/articles/2605/15/news112.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-05-15T11:15:00.000Z",
-      "summary": "キオクシアは、2026年1～3月の売上収益が1兆29億円だったと発表した。太田裕雄社長は「記録的な増収増益となった」と語る。好決算の背景は何か。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_3aac2bb0ff2673b3",
       "title": "【情報】 bit（ビット）、Byte（バイト）って何だっけ…？🤔",
       "url": "https://note.com/let_me_umetsu/n/n4d3218374860",
@@ -1433,42 +1484,6 @@
         "授業実践",
         "情報Ⅰ",
         "教材"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_73779f572df3d6fa",
-      "title": "ファナックがGoogleと協業、AIエージェントでロボットを操作へ",
-      "url": "https://monoist.itmedia.co.jp/mn/articles/2605/15/news087.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-05-15T04:45:00.000Z",
-      "summary": "ファナックは、Googleとの協業により、産業用ロボットのフィジカルAIシステムを構築した。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_a28fcc95a736ece4",
-      "title": "無料の「Apple Business」　Appleデバイス、独自ドメイン管理機能を統合",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/15/news059.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-05-15T04:00:00.000Z",
-      "summary": "Appleは、企業向けのオールインワンプラットフォーム「Apple Business」を発表した。モバイルデバイス管理、ビジネスメールなどを統合し、日本を含む200以上の国と地域で提供を開始した。",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "教材",
-        "ツール"
       ],
       "priority_score": 50
     },
