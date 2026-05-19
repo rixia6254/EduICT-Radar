@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-19T06:50:53.585Z",
-  "total": 82,
+  "generated_at": "2026-05-19T12:16:08.328Z",
+  "total": 102,
   "items": [
     {
       "id": "item_21f8651de3f2baea",
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-05-19T06:50:43.580Z",
+      "published_at": "2026-05-19T12:15:57.508Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-05-19T06:50:43.580Z",
+      "published_at": "2026-05-19T12:15:57.508Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-05-19T06:50:43.580Z",
+      "published_at": "2026-05-19T12:15:57.508Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,142 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_2001c4d2ca6e8b01",
+      "title": "秩父=熱海など西武線からJR線へ直通臨時列車　JR東と西武鉄道が28年に",
+      "url": "https://www.watch.impress.co.jp/docs/news/2109926.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-05-19T09:11:28.000Z",
+      "summary": "JR東日本と西武鉄道は、JR武蔵野線～西武池袋線間の連絡線を活用した直通運転と、JR東日本新秋津駅から西武鉄道秋津駅までの乗換通路の整備により、「快適でシームレスな移動」と「沿線価値向上」を実現することについて両社で合意した。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_a7076f691ec3bbf6",
+      "title": "名鉄、新型自動改札機を15年ぶりに導入",
+      "url": "https://www.watch.impress.co.jp/docs/news/2109901.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-05-19T08:23:23.000Z",
+      "summary": "名古屋鉄道は、新型自動改札機を20日から順次導入する。名古屋本線鳴海駅(東改札口)への導入を皮切りに、3年程度をかけて配備する予定。名鉄の自動改札機更新は、2011年の交通系ICカード「manaca」サービスインに伴う配備以来、15年ぶりとなる。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_bf2605c277ec8f68",
+      "title": "AIグラス「Ray-Ban Meta」遂に日本上陸　7万円台から",
+      "url": "https://www.watch.impress.co.jp/docs/news/2109879.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-05-19T08:00:00.000Z",
+      "summary": "Metaと「Ray-Ban」や「Oakley」ブランドを展開するEssilorLuxotticaは、AIグラス「Ray-Ban Meta」および「Oakley Meta」シリーズを5月21日に日本で発売する。価格は73,700円～96,580円。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_b2d25ff0928b2b2f",
+      "title": "JR東日本、新潟駅万代口に14階建て複合施設　28年夏開業",
+      "url": "https://www.watch.impress.co.jp/docs/news/2109874.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-05-19T07:47:13.000Z",
+      "summary": "JR東日本は、「新潟駅万代口東地区開発」の工事に着手すると発表した。オフィス、住宅、商業、医療機能が一体となった複合開発を行なうとともに、新潟駅ペデストリアンデッキ、隣接商業ビルと接続するデッキを整備する。2028年夏開業予定。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_d137395c5c8a87b9",
+      "title": "Japan Dashboard、GDP統計に「経済循環図」",
+      "url": "https://www.watch.impress.co.jp/docs/news/2109858.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-05-19T06:45:37.000Z",
+      "summary": "デジタル庁は19日、公表される行政データを使いやすい形で公開する「Japan Dashboard」のGDP統計を強化した。",
+      "starred": false,
+      "category": "dx",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "校務DX",
+        "GIGA",
+        "行政",
+        "文科省"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_d87915401837dca0",
+      "title": "SMBC・富士通・ソフトバンク、「国産ヘルスケア基盤」で連携",
+      "url": "https://www.watch.impress.co.jp/docs/news/2109831.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-05-19T06:05:26.000Z",
+      "summary": "三井住友フィナンシャルグループ(SMBCグループ)、富士通、ソフトバンクの3社は、健康・医療分野での業務提携で基本合意したと発表した。国民皆保険を基盤とする日本の医療を持続可能にするための取組みで、受診した医療機関のデータと連携できるヘルスケアアプリを提供する。",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_fe72886122b0c9ad",
+      "title": "アマゾン、沖縄で生鮮食品ネットスーパー　サンエーと連携",
+      "url": "https://www.watch.impress.co.jp/docs/news/2109833.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-05-19T05:44:27.000Z",
+      "summary": "Amazonは、沖縄で食品スーパーマーケットを運営するサンエーと協業し、Amazon.co.jp上にサンエーネットスーパーをオープンした。沖縄県那覇市のほか、本島中南部の一部エリアでサービスを提供する。Amazonが沖縄県において生鮮食品のオンライン販売・配送サービスを提供するのは今回が初。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_3cb9ebf2ba632b06",
+      "title": "Yahoo!フリマ、初出品後90日間は手数料無料",
+      "url": "https://www.watch.impress.co.jp/docs/news/2109815.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-05-19T05:14:49.000Z",
+      "summary": "LINEヤフーは、フリマアプリ「Yahoo!フリマ」において、はじめての出品から30日以内に3回以上商品が売れたユーザーを対象に、販売手数料を90日間無料にする取り組みを開始した。対象期間中の無料対象は最大50個まで。条件達成後は、マイページで販売手数料無料期間や残り期間、利用個数を確認できる。",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_0abfb463f4981e7d",
@@ -69,6 +205,54 @@
         "生成AI",
         "AI",
         "LLM"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_4515f924a3e83394",
+      "title": "Uber Driftが日本初上陸　茂原ツインサーキットで90分ドリフト体験",
+      "url": "https://www.watch.impress.co.jp/docs/news/2109782.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-05-19T03:48:42.000Z",
+      "summary": "Uber Japanは、ドリフト走行を助手席で体験できる特別ツアー「Uber Drift(ウーバー・ドリフト)」を、6月3日から7月1日まで東京で提供する。予約開始は5月27日。料金は1グループ30,000円で、往復送迎とサーキット体験を含む。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_f4e691113d670126",
+      "title": "カシオ、\"聞こえ\"の課題を解決するオープンイヤーイヤフォン",
+      "url": "https://www.watch.impress.co.jp/docs/news/2109767.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-05-19T03:28:26.000Z",
+      "summary": "カシオ計算機は、電子楽器などで培った音のデジタル制御技術を活用し、「聞こえ」の悩みを解決する新ブランド「earU(イアユー)」を立ち上げた。第一弾として、耳をふさがないカフ型形状のヒアリングアシストイヤホン「ER-100」を5月28日に発売する。価格はオープンプライスで、カシオオンラインストアでの価格は49,940円から。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_e31881a89048eeaa",
+      "title": "青山、ビジネス向けハーフパンツ",
+      "url": "https://www.watch.impress.co.jp/docs/news/2109748.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-05-19T02:59:53.000Z",
+      "summary": "洋服の青山は、ビジネス向けハーフパンツを5月19日に発売する。価格は5,489円。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
       ],
       "priority_score": 50
     },
@@ -125,6 +309,24 @@
       "priority_score": 50
     },
     {
+      "id": "item_c79ba27bde00dfd4",
+      "title": "NTT製LLM「tsuzumi 2」が図表を“理解”　ビジネス文書全般をカバー",
+      "url": "https://www.watch.impress.co.jp/docs/news/2109501.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-05-19T02:00:00.000Z",
+      "summary": "NTTは、軽量で日本語処理に優れるNTT製の生成AI(LLM)「tsuzumi 2」のアップデート版「tsuzumi 2 Visionモデル」を発表した。新たに図表の入力や理解が可能になっており、幅広い日本語ビジネス文書を生成AIで活用できるようになる。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "生成AI",
+        "AI活用"
+      ],
+      "priority_score": 60
+    },
+    {
       "id": "item_183a4e3ed1002637",
       "title": "3WAYのハンディファン、リズム「Silky Wind Mobile 4」シリーズがAmazonでセール中！　国内精密機器メーカーの2026年モデルが2950円",
       "url": "https://internet.watch.impress.co.jp/docs/shopping/2109693.html",
@@ -141,6 +343,24 @@
       "priority_score": 50
     },
     {
+      "id": "item_3be25c5dfd166a95",
+      "title": "日立、アンソロピックと戦略提携　HMAX強化や社員29万人のAI活用",
+      "url": "https://www.watch.impress.co.jp/docs/news/2109686.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-05-19T01:03:50.000Z",
+      "summary": "日立製作所は19日、Anthropic(アンソロピック)と戦略的協業を開始したと発表した。ドメイン知識とAIを掛け合わせて社会課題を解決する「Lumada 3.0」において、ClaudeをはじめとするAnthropicのAIを導入し、社会インフラソリューション「HMAX」を強化していく。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "生成AI",
+        "AI活用"
+      ],
+      "priority_score": 50
+    },
+    {
       "id": "item_7b34f08aae0dabee",
       "title": "チームのドキュメントを一元管理して業務を効率化するノウハウを解説した「できるDocuWorks 10」、インプレスが発売",
       "url": "https://internet.watch.impress.co.jp/docs/news/2107219.html",
@@ -153,6 +373,26 @@
       "tags": [
         "インターネット",
         "セキュリティ",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_54ff400a5c094f91",
+      "title": "コーディングの“外”に広がるCodex　エージェント時代の「人」の役割と「意思決定」",
+      "url": "https://www.watch.impress.co.jp/docs/topic/2109278.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-05-18T23:20:00.000Z",
+      "summary": "OpenAIが“コーディングエージェント”の「Codex」を強化している。ソフトウェア開発者の「コーディング」を主な目的として生まれたサービスだが、その“使われ方”が広がりを見せているという。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "生成AI",
+        "AI活用",
         "教材",
         "ツール"
       ],
@@ -499,6 +739,22 @@
       "priority_score": 50
     },
     {
+      "id": "item_1018947dc2651746",
+      "title": "チープカシオ、アナログ「MQ-24」にメタルバンド+サンレイダイヤル",
+      "url": "https://www.watch.impress.co.jp/docs/news/2107701.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-05-18T23:00:00.000Z",
+      "summary": "カシオ計算機は、CASIO Collectionの新作として、「MQ-24」にメタルバンドを組み合わせたバリエーションモデル「MQ-24DA」「MQ-24GA」の計4機種を5月に発売する。クオーツ式の腕時計で、価格は「MQ-24DA」が6,050円、「MQ-24GA」が7,700円。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
       "id": "item_b4c14f1f5954f891",
       "title": "Amazon Music、「FUJI ROCK FESTIVAL ’26」オフィシャルサポーター就任、スペシャル番組とプレイリストを公開",
       "url": "https://internet.watch.impress.co.jp/docs/news/2109573.html",
@@ -527,6 +783,23 @@
       "tags": [
         "インターネット",
         "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_0091111df16d69e4",
+      "title": "AIが医療データを基に健康アドバイス――SMBC、富士通、ソフトバンク共同で「国産ヘルスケア基盤」開発へ",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2605/19/2000000005/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-05-18T22:13:44.000Z",
+      "summary": "SMBC、富士通、ソフトバンクの3社は健康・医療分野で業務提携。AIが医療機関のデータと個人の健康データを組み合わせて健康アドバイスを提供する「国産ヘルスケア基盤」を共同開発し、医療費の5兆円規模の抑制を目指す。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
       ],
       "priority_score": 50
     },
@@ -753,6 +1026,22 @@
       "priority_score": 50
     },
     {
+      "id": "item_eeebe3914e86110b",
+      "title": "りそなの銀行取引でJCBのポイント「りそなプラス」",
+      "url": "https://www.watch.impress.co.jp/docs/news/2109614.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-05-18T10:10:25.000Z",
+      "summary": "りそなホールディングス(りそなグループ)、第一ライフグループ(旧・第一生命グループ)、ジェーシービー(JCB)は、個人顧客のくらしを起点とした新たなエコシステムの確立に向け、協業に向けた基本合意を締結した。りそなグループは9月下旬を目途に個人向けサービス「りそなプラス」を開始する。優待サービスで第一ライフグループ、ポイントサービスでJCBと連携する。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
       "id": "item_d4ac007dc8d2ccde",
       "title": "ユニバーサルミュージック、ECサイトへの不正アクセスで約310万件の個人情報が流出",
       "url": "https://internet.watch.impress.co.jp/docs/news/2109626.html",
@@ -766,6 +1055,70 @@
         "インターネット",
         "セキュリティ",
         "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_cdc535b56e31bc28",
+      "title": "モバイルバッテリーを被災地へ　通信大手がメーカー7社と協定",
+      "url": "https://www.watch.impress.co.jp/docs/news/2109601.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-05-18T09:48:44.000Z",
+      "summary": "モバイルバッテリーメーカー7社と通信事業者8社は18日、大規模災害発生時における被災地への電源確保に関する連携協定を締結した。協定に基づき、災害発生時にモバイルバッテリーなどの電源関連機材を被災地へ届ける取り組みを6月1日に開始する。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_db204d91e43d112e",
+      "title": "スターリンク、「スタンバイモード」を月額1585円に値上げ　2倍以上に",
+      "url": "https://www.watch.impress.co.jp/docs/news/2109607.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-05-18T09:40:16.000Z",
+      "summary": "SpaceXは、衛星ブロードバンドサービス「Starlink」(スターリンク)で提供している「スタンバイモード」の料金を6月18日から月額1,585円に値上げする。これまでは月額730円だったが、2倍以上になる。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_f0137479c3351fbb",
+      "title": "ナチュラルローソン、「キッシュ」や「焼小籠包」など店内オーブン「焼きデリ」強化",
+      "url": "https://www.watch.impress.co.jp/docs/news/2109588.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-05-18T09:12:20.000Z",
+      "summary": "ローソンは、首都圏の一部ナチュラルローソン店舗において、店内のスチームコンベクションオーブンで焼成した「焼きデリ」を強化する。「海老にらまんじゅう」や「ほうれん草とベーコンのキッシュ」などの惣菜や軽食、「ホットク」といったおやつなど、合計8品を5月19日から順次発売する。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_8bd163ee95398e43",
+      "title": "セブンイレブン、お店で涼む「クールシェア」　“酷暑”対策で",
+      "url": "https://www.watch.impress.co.jp/docs/news/2109570.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-05-18T08:34:23.000Z",
+      "summary": "セブン-イレブン・ジャパンは、夏季の気温対策として、店舗の地域のユーザー向けに「クールシェア」の取組みを順次開始する。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
       ],
       "priority_score": 50
     },
@@ -1068,7 +1421,7 @@
     },
     {
       "id": "item_3aac2bb0ff2673b3",
-      "title": "【情報】 bit（ビット）、Byte（バイト）って何やっけ…？🤔",
+      "title": "【情報】 bit（ビット）、Byte（バイト）って何だっけ…？🤔",
       "url": "https://note.com/let_me_umetsu/n/n4d3218374860",
       "source_id": "note_joho1",
       "source_name": "note（情報科教員）",
@@ -1116,24 +1469,6 @@
         "LLM",
         "教材",
         "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_1b33ee3875999d85",
-      "title": "「テキスト検索では限界」　リコーLMMは図表も扱える、“大型商用モデル並み”の実力",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/15/news038.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-05-15T04:00:00.000Z",
-      "summary": "リコーは、経済産業省とNEDOが実施するプロジェクト「GENIAC」第3期において、リーズニング性能を備えたマルチモーダル大規模言語モデルの開発を完了した。軽量モデルをHugging Faceで無償公開している。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
       ],
       "priority_score": 50
     },
