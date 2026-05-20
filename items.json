@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20T11:52:35.682Z",
+  "generated_at": "2026-05-20T22:19:56.151Z",
   "total": 102,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-05-20T11:52:25.777Z",
+      "published_at": "2026-05-20T22:19:45.869Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-05-20T11:52:25.777Z",
+      "published_at": "2026-05-20T22:19:45.869Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-05-20T11:52:25.777Z",
+      "published_at": "2026-05-20T22:19:45.869Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,92 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_3d612259f18b33a6",
+      "title": "エレコム、磁石つきコネクタでケーブルが迷子にならない「カチッとコネクターケーブル」発売",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2110175.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-05-20T22:00:00.000Z",
+      "summary": "エレコム株式会社は、片側のコネクタ部に付いた磁石で鉄製のデスク横や壁などに固定できる「カチッとコネクターケーブル」を5月下旬より発売する。市場想定価格は、USB Type-C－USB Type-Cの「MPA-CCMW10」が1680円、USB Type-A－USB Type-Cの「MPA-ACMW10」が1480円。カラーはブラックとホワイト。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_bc65c4321eeec4bb",
+      "title": "SCS評価制度に関する調査、発注企業の過半数が「★4」以上を要求する想定～キヤノンITS発表",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2110267.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-05-20T21:30:00.000Z",
+      "summary": "キヤノンITソリューションズ株式会社（キヤノンITS）は5月18日、同社が実施した「サプライチェーン強化に向けたセキュリティ対策評価制度」（SCS評価制度）に関する調査の結果を発表した。",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_baad730daddfac9c",
+      "title": "ケーブル不要で簡単にファイル共有！ Windowsの「スマートフォン連携」アプリでPCからiPhoneに写真を転送する【自宅Wi-Fiの“わからない”をスッキリ！】",
+      "url": "https://internet.watch.impress.co.jp/docs/column/homewifi/2109472.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-05-20T21:00:00.000Z",
+      "summary": "第275回〜第279回では、スマートフォンのデータをまるごとPCへバックアップする手法を実践した。続けて、第280回からは、スマートフォンの写真と動画を、ファイルとしてPCにコピーする方法を実践している。",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_1cde3e4af3f68f44",
+      "title": "Python 3.15で追加されるfrozendictクラスとsentinelクラスってどんなもの？",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/21/news014.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-05-20T20:00:00.000Z",
+      "summary": "Python 3.15では組み込み型として変更不可能な辞書であるfrozendictクラスと、値が見つからないことや使えないことを意味する番兵値を表すsentinelクラスが追加される予定です。これらをどんなふうに使うのか、ちょっと調べてみました。",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_0342a9be0befa035",
+      "title": "MetaのAIグラス日本発売はなぜ“いま”なのか 「視力補正」と「続ける意思」",
+      "url": "https://www.watch.impress.co.jp/docs/topic/2110003.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-05-20T15:01:00.000Z",
+      "summary": "AIグラスでトップシェアを持つMetaが、ついに日本参入を果たした。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_2779c33116ce361a",
@@ -883,24 +969,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_ba8bf0819e75c732",
-      "title": "グーグル、あらゆるコンテンツ作成に対応する新モデル「Gemini Omni」",
-      "url": "https://www.watch.impress.co.jp/docs/news/2110026.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-05-19T22:30:00.000Z",
-      "summary": "Googleは19日、開発者会議「Google I/O 2026」において、新たなコンテンツ生成モデル「Gemini Omni」を発表した。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "生成AI",
-        "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_cc2657d15bc72370",
       "title": "Netskope、SASEプラットフォーム「Netskope One」に、AIエージェントにも対応するセキュリティ機能群を統合",
       "url": "https://internet.watch.impress.co.jp/docs/news/2109912.html",
@@ -1269,38 +1337,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_b4c14f1f5954f891",
-      "title": "Amazon Music、「FUJI ROCK FESTIVAL ’26」オフィシャルサポーター就任、スペシャル番組とプレイリストを公開",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2109573.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-05-18T23:00:00.000Z",
-      "summary": "Amazon Musicは、7月24日〜26日に苗場スキー場（新潟県湯沢町）で開催される野外音楽フェスティバル「FUJI ROCK FESTIVAL ’26」のオフィシャルサポーターに4年連続で就任したと発表した。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_1c44755478cbe701",
-      "title": "NECがミクロネシア・キリバス・ナウルを結ぶ約2250kmの光海底ケーブルの建設完了。3国の通信環境を改善へ　ナウルでは陸揚げセレモニー",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2109549.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-05-18T22:30:00.000Z",
-      "summary": "日本電気株式会社（NEC）は5月15日、太平洋島嶼国を結ぶ光海底ケーブル「East Micronesia Cable System」（EMCS）の建設を完了し、ミクロネシア連邦の海底ケーブル運営会社FSM Telecommunications Cable Corporation（FSMTCC）、キリバス共和国の国営通信会社Bwebweriki Net Limited（BNL）、ナウル共和国の国営通…",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_618b469203bee457",
       "title": "福岡銀行、AI活用で年間7000時間の業務削減を目指す　契約書検索のムダを効率化",
       "url": "https://kn.itmedia.co.jp/kn/articles/2605/19/news024.html",
@@ -1357,22 +1393,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_3c27adb43f1bbced",
-      "title": "古野電気、「ブルーカーボン創出」で旭タンカー・山口県漁協と連携",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2109499.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-05-18T22:00:00.000Z",
-      "summary": "古野電気株式会社は5月18日、旭タンカー株式会社および山口県漁業協同組合と、持続可能な里海づくりの推進を目的とした連携を開始したと発表した。連携により、3者は科学的根拠に基づくブルーカーボン創出に取り組む。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_6e963994f5143b00",
       "title": "生成AIで3Dモデルを自動作成　専門スキル不要でテキストや画像から3D化",
       "url": "https://monoist.itmedia.co.jp/mn/articles/2605/19/news029.html",
@@ -1407,25 +1427,6 @@
         "AI活用",
         "教材",
         "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_de4aae11b8d8db4b",
-      "title": "「行政特化型国産AIモデル」構築へ、東京都が公募　最大1億1000万円投資、正確性と透明性を確保",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2605/19/2000000004/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-05-18T21:00:00.000Z",
-      "summary": "東京都とGovTech東京は、行政特化型国産AIモデルを構築する共同研究の参加機関の公募を始めた。令和8年度の構築・実証費用として最大1億1000万円を投じる。",
-      "starred": false,
-      "category": "admin",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "行政",
-        "文科省"
       ],
       "priority_score": 50
     },
