@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-05-21T12:21:13.290Z",
+  "generated_at": "2026-05-21T22:14:38.518Z",
   "total": 102,
   "items": [
+    {
+      "id": "item_5a2c7864b68dcd43",
+      "title": "過去の文部科学省ホームページ（※国立国会図書館ホームページへリンク）",
+      "url": "https://warp.ndl.go.jp/waid/3475",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-05-21T22:14:27.974Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
     {
       "id": "item_21f8651de3f2baea",
       "title": "文部科学省ホームページトップはこちら",
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-05-21T12:20:58.260Z",
+      "published_at": "2026-05-21T22:14:27.973Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +44,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-05-21T12:20:58.260Z",
+      "published_at": "2026-05-21T22:14:27.973Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -38,22 +56,89 @@
       "priority_score": 50
     },
     {
-      "id": "item_5a2c7864b68dcd43",
-      "title": "過去の文部科学省ホームページ（※国立国会図書館ホームページへリンク）",
-      "url": "https://warp.ndl.go.jp/waid/3475",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-05-21T12:20:58.260Z",
-      "summary": "",
+      "id": "item_121df9f6e2a4eb3c",
+      "title": "ビーマップ、最大3.2Wの高出力Wi-Fiで600m先のAPと200Mbpsの通信速度を確認。6GHz帯SPモードを見据えた実証実験",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2110694.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-05-21T22:00:00.000Z",
+      "summary": "株式会社ビーマップは5月20日、キリンビール仙台工場で3月30日に実施した、最大3.2Wの高出力アクセスポイントを用いた無線通信の実証実験において、その有効性を確認したと発表した。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_fa5f2037234d8f5e",
+      "title": "「副業サポート」や「投資」をうたって若者を狙い、いくつも借金をさせる手口に、国民生活センターが注意喚起",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2110573.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-05-21T21:30:00.000Z",
+      "summary": "独立行政法人国民生活センターは5月20日、若年層を中心に副業や投資などを勧誘する業者から指示されるがままに、複数の貸金業者から短期間のうちに次々に借り入れ、支払いを行っているケースが目立つとして注意喚起を実施した。",
       "starred": false,
       "category": "admin",
       "tags": [
+        "インターネット",
+        "セキュリティ",
         "行政",
-        "文科省",
-        "制度",
-        "教育ニュース"
+        "文科省"
       ],
-      "priority_score": 60
+      "priority_score": 50
+    },
+    {
+      "id": "item_863971e2a4ffa953",
+      "title": "求人詐欺は「最初のメッセージ」からすでに始まっている！　LinkedInの調査が示す、求職活動で注意すべきポイント【読めば身に付くネットリテラシー】",
+      "url": "https://internet.watch.impress.co.jp/docs/column/netliteracy/2109600.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-05-21T21:00:00.000Z",
+      "summary": "ビジネスSNSの「LinkedIn」が5月6日、求職活動における安全性について調査したレポート「The LinkedIn Job Search Safety Pulse: 2026」を公開しました。同レポートによれば、調査対象者の62％が詐欺と疑われる求人を見たことがあり、21％は実際に被害に遭い、30％は危うく被害に遭いかけたと答えています。",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_2cbaab4a6ad42552",
+      "title": "ローカルLLMは本当に手元で動くのか？　ハードウェアとモデルの現実的な選び方【2026年春】",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/22/news012.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-05-21T20:00:00.000Z",
+      "summary": "Gemma 4を手元で使ってみると、翻訳や要約ならローカルLLMでも十分に実用的だと感じた。モデル選び、GPU選び、Macや専用AIマシンの価格感まで、個人が無理なく始めるための判断材料を整理する。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_089a9f313cf5d6b1",
+      "title": "検索窓も25年ぶり刷新　Google検索トップに聞く「AIとエージェントと検索」の現在地",
+      "url": "https://www.watch.impress.co.jp/docs/topic/2110631.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-05-21T15:01:00.000Z",
+      "summary": "Googleの年次開発者会議「Google I/O 2026」では、エージェンティックAIからスマートグラスまで、様々なことが発表された。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_a650f79015769d35",
@@ -138,7 +223,7 @@
     },
     {
       "id": "item_c414f3a606bd07dc",
-      "title": "ローソン、首都圏のミニスーパー新業態「Lミニマート」　普段使いに特化",
+      "title": "ローソン、“普段使い”ミニスーパー新業態「Lミニマート」",
       "url": "https://www.watch.impress.co.jp/docs/news/2110674.html",
       "source_id": "impress_watch",
       "source_name": "Impress Watch",
@@ -1062,22 +1147,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_48a6426af1696f31",
-      "title": "Twitch、視聴者参加の収益化機能を拡充　ハイプトレインも強化",
-      "url": "https://www.watch.impress.co.jp/docs/news/2110335.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-05-20T09:54:09.000Z",
-      "summary": "Twitchは20日、視聴者による参加や応援をストリーマーの収益につなげる視聴者参加型機能の拡充を発表した。対象は収益化しているストリーマーで、クリエイターのコミュニティ形成と配信体験の向上を支援する。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_c4c1ab619b4fe061",
       "title": "Google「25年で最大の刷新」　AI検索、新モデルで“OpenAI対抗”鮮明に【発表まとめ】",
       "url": "https://www.itmedia.co.jp/business/articles/2605/20/news107.html",
@@ -1166,22 +1235,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_b4a8e0b8c3ed890a",
-      "title": "ベンキュー（BenQ）の目に優しい「アイケアモニター」がAmazonでお買い得！　WQHD対応の27インチ「GW2790Q」は2万4300円",
-      "url": "https://internet.watch.impress.co.jp/docs/shopping/2110065.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-05-20T01:30:00.000Z",
-      "summary": "Amazon.co.jpのベンキュー（BenQ）ジャパンストアページでは同社のアイケアモニターがタイムセール中となっている。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_7f2acd84af1f93e7",
       "title": "「Gemini 3.5」登場　軽量モデルは一部3.1 Pro超え、高性能モデルは6月公開予定",
       "url": "https://www.itmedia.co.jp/aiplus/article/2605/20/2000000010/",
@@ -1200,22 +1253,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_efba4f029b2f6d91",
-      "title": "10ポートを小さな本体に詰め込んだドッキングステーション「USB-CVDK22」、サンワサプライが発売",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2109944.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-05-19T23:30:00.000Z",
-      "summary": "サンワサプライ株式会社は5月19日、4K対応のHDMIポートや有線LANポートなど10のインターフェースを拡張できる据え置き型ドッキングステーション「USB-CVDK22」を発売した。市場想定価格は1万3200円。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_6507d7d60810d9b7",
       "title": "アクセンチュアらが「エージェント型工場」を開発　製造現場の計画外停止の削減図る",
       "url": "https://www.itmedia.co.jp/enterprise/articles/2605/20/news022.html",
@@ -1229,24 +1266,6 @@
         "生成AI",
         "AI",
         "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_413a00c8e7758a91",
-      "title": "NTT、軽量で日本語に特化したLLM「tsuzumi 2」に図表入りビジネス文書の処理性能を高めるアップデート",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2109930.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-05-19T23:00:00.000Z",
-      "summary": "NTT株式会社は5月19日、軽量かつ日本語処理に特化した大規模言語モデル（LLM）の「tsuzumi 2」をアップデートすると発表した。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "インターネット",
-        "セキュリティ",
-        "生成AI",
-        "AI活用"
       ],
       "priority_score": 50
     },
@@ -1411,23 +1430,6 @@
         "AI",
         "LLM",
         "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_0abfb463f4981e7d",
-      "title": "みずほFGが実現　2週間かかるAIエージェント開発を最短数日にする仕組みとは？",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/19/news044.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-05-19T04:00:00.000Z",
-      "summary": "AIエージェントを短期間で開発、量産するための仕組み「エージェントファクトリー」を構築したみずほフィナンシャルグループ。複雑なAIエージェントの開発期間を最大70％短縮し、最短数日での開発を可能にする。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
       ],
       "priority_score": 50
     },
