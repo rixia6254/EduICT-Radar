@@ -1,32 +1,14 @@
 {
-  "generated_at": "2026-05-22T11:49:57.954Z",
+  "generated_at": "2026-05-22T22:01:11.632Z",
   "total": 102,
   "items": [
-    {
-      "id": "item_5a2c7864b68dcd43",
-      "title": "過去の文部科学省ホームページ（※国立国会図書館ホームページへリンク）",
-      "url": "https://warp.ndl.go.jp/waid/3475",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-05-22T11:49:47.148Z",
-      "summary": "",
-      "starred": false,
-      "category": "admin",
-      "tags": [
-        "行政",
-        "文科省",
-        "制度",
-        "教育ニュース"
-      ],
-      "priority_score": 60
-    },
     {
       "id": "item_21f8651de3f2baea",
       "title": "文部科学省ホームページトップはこちら",
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-05-22T11:49:47.147Z",
+      "published_at": "2026-05-22T22:01:00.669Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -44,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-05-22T11:49:47.147Z",
+      "published_at": "2026-05-22T22:01:00.669Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +36,24 @@
         "制度"
       ],
       "priority_score": 50
+    },
+    {
+      "id": "item_5a2c7864b68dcd43",
+      "title": "過去の文部科学省ホームページ（※国立国会図書館ホームページへリンク）",
+      "url": "https://warp.ndl.go.jp/waid/3475",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-05-22T22:01:00.669Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
     },
     {
       "id": "item_b5e7ea4e2f36e72a",
@@ -192,6 +192,23 @@
       "tags": [
         "テクノロジー",
         "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_54be681231b21884",
+      "title": "「Google Antigravity」利用上限緩和　ただし2.0アップデート手順に要注意",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2605/22/2000000018/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-05-22T05:53:26.000Z",
+      "summary": "Googleは「Google Antigravity 2.0」の利用上限を2回に渡って緩和した。ただしアップデート後にIDEが起動しないなどのトラブルが報告されており、導入には注意が必要だ。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
       ],
       "priority_score": 50
     },
@@ -1405,23 +1422,6 @@
         "AI",
         "LLM",
         "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_6507d7d60810d9b7",
-      "title": "アクセンチュアらが「エージェント型工場」を開発　製造現場の計画外停止の削減図る",
-      "url": "https://www.itmedia.co.jp/enterprise/articles/2605/20/news022.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-05-19T23:00:00.000Z",
-      "summary": "アクセンチュアとアバナード、Microsoftは、製造業向けAIエージェント基盤「エージェント型工場」を共同開発した。従来の製造分析ダッシュボードの枠を超え、現場担当者の判断を支援する。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
       ],
       "priority_score": 50
     },
