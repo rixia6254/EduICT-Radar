@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-05-23T10:40:13.678Z",
+  "generated_at": "2026-05-23T21:46:31.022Z",
   "total": 102,
   "items": [
+    {
+      "id": "item_21f8651de3f2baea",
+      "title": "文部科学省ホームページトップはこちら",
+      "url": "https://www.mext.go.jp/",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-05-23T21:46:20.373Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
     {
       "id": "item_bd1951ae70f98dac",
       "title": "サイトマップはこちら",
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-05-23T10:40:03.919Z",
+      "published_at": "2026-05-23T21:46:20.373Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -25,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-05-23T10:40:03.919Z",
+      "published_at": "2026-05-23T21:46:20.373Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -38,22 +56,24 @@
       "priority_score": 60
     },
     {
-      "id": "item_21f8651de3f2baea",
-      "title": "文部科学省ホームページトップはこちら",
-      "url": "https://www.mext.go.jp/",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-05-23T10:40:03.918Z",
-      "summary": "",
+      "id": "item_e72d0f54bf19c426",
+      "title": "ミトス級モデルの公開は「強力な安全対策後」 アンソロピックが成果説明",
+      "url": "https://www.watch.impress.co.jp/docs/news/2111151.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-05-23T10:57:58.000Z",
+      "summary": "Anthropicは22日、未公開の最新モデル「Mythos Preview(ミトス)」などを活用したサイバーセキュリティの取り組み「Project Glasswing」の進捗などについて発表した。ミトス級のモデル公開は、「必要な安全対策の後」とし、サイバーセキュリティ対策の強化を呼びかけている。",
       "starred": false,
-      "category": "admin",
+      "category": "ai",
       "tags": [
-        "行政",
-        "文科省",
-        "制度",
-        "教育ニュース"
+        "テクノロジー",
+        "デジタル",
+        "生成AI",
+        "AI活用",
+        "セキュリティ",
+        "情報モラル"
       ],
-      "priority_score": 60
+      "priority_score": 50
     },
     {
       "id": "item_bbc36705d57af922",
@@ -959,22 +979,6 @@
         "AI活用"
       ],
       "priority_score": 60
-    },
-    {
-      "id": "item_96260b76328b1e35",
-      "title": "無印、朝の栄養補給に着目したバウム　たんぱく質・食物繊維・鉄分",
-      "url": "https://www.watch.impress.co.jp/docs/news/2110704.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-05-21T23:00:00.000Z",
-      "summary": "無印良品は、朝にも手軽に取り入れやすい食べきりサイズで、「たんぱく質」「食物繊維」「鉄分」を手軽に補えるバウム5種を5月27日に発売する。価格は180円。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
     },
     {
       "id": "item_67b45178fb78c184",
