@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T21:46:31.022Z",
+  "generated_at": "2026-05-24T06:39:35.440Z",
   "total": 102,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-05-23T21:46:20.373Z",
+      "published_at": "2026-05-24T06:39:25.914Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-05-23T21:46:20.373Z",
+      "published_at": "2026-05-24T06:39:25.914Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-05-23T21:46:20.373Z",
+      "published_at": "2026-05-24T06:39:25.914Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,60 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_aa8c3996709caf00",
+      "title": "金属も切れるハサミが水洗い対応「フィットカットカーブ 万能チタン」",
+      "url": "https://www.watch.impress.co.jp/docs/news/2109939.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-05-24T01:05:10.000Z",
+      "summary": "プラスは、家庭用はさみ「フィットカットカーブ」シリーズから、切れ味をさらに高め、新たに水洗いも可能にした「フィットカットカーブ 万能チタン」を5月29日に発売する。価格は2,530円。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_1a94ce201e372bf4",
+      "title": "「Gemini」「Claude Code」「Codex」　全社展開・本番実装に役立つ5つのポイント",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/24/news007.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-05-23T23:00:00.000Z",
+      "summary": "開発現場における生成AIの利用は常態化しつつあるものの、「コード補完の域を出ない」「特定の個人のスキルに依存している」といった課題があります。本稿では、個人の生産性向上からチームへの定着、全社規模での展開、そしてAIエージェントの本番実装に至るまで、開発プロセス変革に役立つ5つのポイントを整理します。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_5cebc998e2f7f5ea",
+      "title": "ソースネクストのAI議事録、Microsoft 365 Copilot連携で検索、要約を効率化",
+      "url": "https://kn.itmedia.co.jp/kn/articles/2605/23/news017.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-05-23T22:00:00.000Z",
+      "summary": "ソースネクストは、AI議事録サービス「AutoMemo」の新機能として、「AutoMemo Copilot エージェント」の提供を始めた。Microsoft 365 Copilotから過去の会議データを検索、要約、抽出できるようにし、議事録作成や報告業務の効率化を支援する。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用",
+        "校務DX",
+        "GIGA"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_e72d0f54bf19c426",
@@ -582,23 +636,6 @@
         "デジタル",
         "教材",
         "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_21a28327789e6d7c",
-      "title": "【お金の教室】50代になったときの貯金額イメージできてる? 平均/中央値を知って目標設定",
-      "url": "https://www.watch.impress.co.jp/docs/series/tsukamoto/2108761.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-05-21T23:40:00.000Z",
-      "summary": "「老後資金が足りるか不安」「50代の貯金の平均って本当に1,000万円もあるの?」……そんな疑問を抱える方は多いのではないでしょうか。今回は、J-FLEC(金融経済教育推進機構)が発表した「家計の金融行動に関する世論調査2025年」をもとに、50代の貯金の実態と、資産形成のヒントをお伝えします。30～40代の方も、将来を見据えた資産づくりの参考にしてください。",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "教育ニュース"
       ],
       "priority_score": 50
     },
@@ -1410,44 +1447,6 @@
         "生成AI",
         "AI",
         "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_c4c1ab619b4fe061",
-      "title": "Google「25年で最大の刷新」　AI検索、新モデルで“OpenAI対抗”鮮明に【発表まとめ】",
-      "url": "https://www.itmedia.co.jp/business/articles/2605/20/news107.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-05-20T07:35:00.000Z",
-      "summary": "Googleは「新AIモデル『Gemini 3.5』」「AI検索の機能強化」「AIエージェントツール」などを発表した。OpenAIらへの対抗姿勢が鮮明となった発表をまとめた。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_7f2acd84af1f93e7",
-      "title": "「Gemini 3.5」登場　軽量モデルは一部3.1 Pro超え、高性能モデルは6月公開予定",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2605/20/2000000010/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-05-20T00:02:56.000Z",
-      "summary": "Googleが新しいAIモデル群「Gemini 3.5」シリーズを発表。軽量モデルの「Gemini 3.5 Flash」は発表同日から利用可能。高性能モデルの「Gemini 3.5 Pro」は6月にリリース予定。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
       ],
       "priority_score": 50
     },
