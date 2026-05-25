@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25T07:17:16.774Z",
+  "generated_at": "2026-05-25T12:37:40.108Z",
   "total": 102,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-05-25T07:17:06.551Z",
+      "published_at": "2026-05-25T12:37:29.734Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-05-25T07:17:06.551Z",
+      "published_at": "2026-05-25T12:37:29.734Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-05-25T07:17:06.551Z",
+      "published_at": "2026-05-25T12:37:29.734Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -56,8 +56,135 @@
       "priority_score": 60
     },
     {
+      "id": "item_6b86549d2ef0c45e",
+      "title": "「Claude Mythos」が1万件以上の脆弱性を発見　しかし修正追い付かず　Anthropicが報告書",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/25/news130.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-05-25T11:20:00.000Z",
+      "summary": "米Anthropicは5月22日（現地時間）、セキュリティプロジェクト「Project Glasswing」の初期報告を公開した。約50社のパートナー企業が1カ月で高・重大レベルの脆弱性を1万件超発見した成果に加え、同社が独自に進めてきたオープンソースソフトウェアのスキャン結果も公表された。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用",
+        "セキュリティ",
+        "情報モラル",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_484f22497d9b8461",
+      "title": "日大、教職員1万人が「Google AI Pro」活用へ",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/25/news129.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-05-25T10:38:00.000Z",
+      "summary": "日本大学が、米Googleの教育機関向けAIサブスクリプション「Google AI Pro for Education」を導入する。専任の教職員1万人が利用可能にし、定型業務のさらなる効率化を目指す。グーグル・クラウド・ジャパンが発表した。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用",
+        "校務DX",
+        "GIGA",
+        "教育ニュース"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_179c7f36ea80cd1d",
+      "title": "ソフトバンク、AI特化の先端クラウド基盤を提供開始",
+      "url": "https://www.watch.impress.co.jp/docs/news/2111434.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-05-25T10:03:15.000Z",
+      "summary": "ソフトバンクは、ネオクラウド事業として、AIデータセンター向けのソフトウエアスタック「Infrinia AI Cloud OS」を搭載したクラウドサービス「AIデータセンター GPUクラウド」を10月から提供開始する。5月25日からベータ版を展開し、ソフトバンクやグループ会社での利用を開始している。",
+      "starred": false,
+      "category": "dx",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "校務DX",
+        "GIGA"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_1f8dc826ac31770a",
+      "title": "「TDXラジオ」Teacher’s ［Shift］File.269  芝浦工業大学附属中高 金森 千春 先生（前編）を公開",
+      "url": "https://ict-enews.net/2026/05/25tdxradio-9/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-05-25T10:00:16.000Z",
+      "summary": "TDXラジオは25日、教育ICTを活用した「新しい学び」と「先生の働き方改革」を応援するTeacher’s ［Shift］ File.269「芝浦工業大学附属中学高等学校 金森千春 […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_7022f902fb5c3cb7",
+      "title": "ドコモあんしんセキュリティに新プラン　詐欺対策強化",
+      "url": "https://www.watch.impress.co.jp/docs/news/2111423.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-05-25T09:01:36.000Z",
+      "summary": "ドコモは、「あんしんセキュリティ スタンダードプラン 詐欺対策プラス」と「あんしんセキュリティ トータルプラン 詐欺対策プラス」を、5月27日に提供開始する。料金は「スタンダードプラン 詐欺対策プラス」が月額999円、「トータルプラン 詐欺対策プラス」が月額1,815円。",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_f68eab5292752fd4",
+      "title": "デスクトップPCをWi-Fi 7化したい!!　AMD環境にも対応するPCIe接続のWi-Fi 7アダプター MSI「HERALD-BE WIFI 7 MAX」を動画で紹介【清水理史の「イニシャルB」チャンネル】",
+      "url": "https://internet.watch.impress.co.jp/docs/column/shimizumovie/2111333.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-05-25T09:00:00.000Z",
+      "summary": "PCIe接続でデスクトップPCをWi-Fi 7対応にできるアダプターが登場。しかもQualcommチップを採用しているから、AMD環境での動作にも対応!!",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_aabb303cd825f66c",
+      "title": "東京都、新木場駅から日本科学未来館で自動運転バス実証　運賃無料",
+      "url": "https://www.watch.impress.co.jp/docs/news/2111421.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-05-25T08:48:05.000Z",
+      "summary": "東京都交通局は、自動運転に向けた取り組みとして、既存のバス路線の一部を運行ルートとした大型バスによる実証実験を行なう。場所は、江東区の新木場駅前と日本科学未来館の間。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
       "id": "item_c50aa856bd177e2e",
-      "title": "ハンズ渋谷が閉店へ　48年の歴史に幕",
+      "title": "ハンズ渋谷、11月で閉店　48年の歴史に幕",
       "url": "https://www.watch.impress.co.jp/docs/news/2111367.html",
       "source_id": "impress_watch",
       "source_name": "Impress Watch",
@@ -317,6 +444,41 @@
       "tags": [
         "インターネット",
         "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_c0c1369e8dac5255",
+      "title": "金融庁と日銀、「フロンティアAI」による脆弱性大量発見に備えた対応を金融機関に要請",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2605/25/2000000020/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-05-25T01:57:42.000Z",
+      "summary": "金融庁と日本銀行はフロンティアAIの進展で脆弱性が短期間に大量発見される事態に備え、金融機関などに早期の対応を要請した。経営トップの直接関与の下、9項目の対策を求める。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_5142902bdde72cdd",
+      "title": "「控えめに言って100兆円」巨大フィジカルAI市場、日本の勝ち筋は　日立がAnthropicとの提携で示した戦略",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2605/25/2000000021/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-05-25T01:33:18.000Z",
+      "summary": "日立製作所はフィジカルAIをテーマにしたカンファレンスを開催。前日に発表した米Anthropicとの戦略的パートナーシップを軸に、100兆円市場の獲得戦略を示した。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
       ],
       "priority_score": 50
     },
@@ -651,24 +813,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_028b71fbaa6cdd8d",
-      "title": "LoiLo、ロイロノートの学習ポートフォリオ「ロイログ」で使える教科書準拠コンテンツを配信開始",
-      "url": "https://ict-enews.net/2026/05/25loilo-9/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-05-24T23:02:46.000Z",
-      "summary": "LoiLoは22日、東京書籍と連携して、授業支援アプリ「ロイロノート・スクール」の学習ポートフォリオ「ロイログ」で使用できる教科書準拠コンテンツ「単元カード」（理解度チェックシート […]",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "教育ニュース",
-        "ICT",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_2e1c65ecfe42ec57",
       "title": "ChatGPTでパワポ作成・修正 「ChatGPT for PowerPoint」公開",
       "url": "https://www.watch.impress.co.jp/docs/news/2111175.html",
@@ -952,58 +1096,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_f6f2124e8ee7d8e5",
-      "title": "金融庁と日銀、AI悪用のサイバー攻撃に備え金融機関に要請",
-      "url": "https://www.watch.impress.co.jp/docs/news/2111091.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-05-22T10:07:59.000Z",
-      "summary": "金融庁と日本銀行は22日、フロンティアAIによるサイバー攻撃の脅威に対応するため、金融機関などに対する要請文書「フロンティアAIによる脅威変化を踏まえた金融機関等の短期的な対応」を公開した。",
-      "starred": false,
-      "category": "security",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "セキュリティ",
-        "情報モラル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_4527e2575dd7cf07",
-      "title": "Googleが買収した送金アプリ「pring」がサービス終了",
-      "url": "https://www.watch.impress.co.jp/docs/news/2111092.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-05-22T09:55:37.000Z",
-      "summary": "送金アプリの「pring」(プリン)は22日、8月24日に資金移動業を廃止し、12月1日をもってサービスを終了する。",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_5ac55a82ded9b8e0",
-      "title": "GREEN×EXPO、東京駅に開幕300日前ボード　高市首相が名誉会長に",
-      "url": "https://www.watch.impress.co.jp/docs/news/2111083.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-05-22T09:52:44.000Z",
-      "summary": "GREEN×EXPO協会とJR東日本は、2027年国際園芸博覧会(GREEN×EXPO 2027)の開幕300日前にあわせ、東京駅構内にカウントダウンボードを5月22日に設置した。設置場所は東京駅1F中央通路の改札内、5・6番線ホーム階段付近。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_34895add27adcc3a",
       "title": "「私も2次元しか愛せない人間」　小野田大臣がAIへの恋愛感情に見解示す　依存には懸念",
       "url": "https://www.itmedia.co.jp/news/articles/2605/22/news125.html",
@@ -1224,22 +1316,6 @@
       "priority_score": 60
     },
     {
-      "id": "item_67b45178fb78c184",
-      "title": "サンワサプライ、貼り付けるだけで既存スイッチをスマート化できるIoT指ロボットを発売",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2110670.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-05-21T23:00:00.000Z",
-      "summary": "サンワサプライ株式会社は5月21日、工事不要で既存スイッチをスマート化できる指ロボット「400-SSA009」を発売した。直販サイト「サンワダイレクト」での販売価格は6800円。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_9b64f0b83e7b3615",
       "title": "「Cursor」開発の新モデル、コスト1/10で最先端モデル並み性能　第三者機関が評価",
       "url": "https://www.itmedia.co.jp/aiplus/article/2605/22/2000000017/",
@@ -1358,77 +1434,6 @@
       "source_name": "ITmedia AI+",
       "published_at": "2026-05-21T16:33:33.000Z",
       "summary": "OpenAIは、約80年未解決だった離散幾何学の問題について、同社のAIがこれまでの予想を反証し、その証明が正しいことを外部の数学者らが検証したと発表。今回の成果を数学とAIの両分野にとっての「重要な転換点」だと位置付ける。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_3b1f6c51095ddd9b",
-      "title": "“あすけんの女”運営も「バイブコーディング」　工数増でもメリットあり？　AIで開発、本当の価値は",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2605/22/2000000016/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-05-21T16:31:05.000Z",
-      "summary": "食事管理アプリ「あすけん」がバイブコーディングで新機能を試作する新たな開発プロセスを確立。その過程では通常2人月の開発が6人月まで膨らむという想定外の工数増に直面。この壁をどう乗り越え、新たな開発手法は現場にどのような利益をもたらしたのか。",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_7789e2b5efb0ad49",
-      "title": "AI投資など成果最大化へ国・地域別戦略　自民提言案の全容判明　骨太にも反映",
-      "url": "https://www.itmedia.co.jp/news/articles/2605/21/news126.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-05-21T10:10:00.000Z",
-      "summary": "高市早苗首相（自民党総裁）直属の党日本成長戦略本部（本部長・岸田文雄元首相）が月内にも取りまとめるAIやエネルギー安全保障など戦略17分野への投資促進に向けた提言案の全容が判明した。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_a6d0a2a0b3f05311",
-      "title": "「仮面ライダーアギト」最新映画、“AI動画”で宣伝　担当者が明かすねらい",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2605/21/2000000011/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-05-21T02:31:50.000Z",
-      "summary": "有名俳優が演じる登場人物たちが過去から現在の姿に変化する――公開中の映画「アギトー超能力戦争ー」の公式SNSアカウントが4月27日に投稿したこのような宣伝動画が注目を集めた。同映画の宣伝を手掛けるシュナイトに詳細を聞いた。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_5eb8b5297bb54569",
-      "title": "「SaaSの死」への反撃シナリオ　Anthropicショックを覆すIBMの「4つの武器」",
-      "url": "https://www.itmedia.co.jp/business/articles/2605/21/news026.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-05-20T22:45:00.000Z",
-      "summary": "ボストンで開催されたIBMの顧客イベント「Think Boston 2026」。会場の熱気とは裏腹に、同社はかつてない逆風にさらされていた。米Anthropic「Claude Mythos」は、メインフレームの脆弱性を容易に特定し、IBMの牙城を揺るがしかねないとの見方が広がったからだ。「SaaSの死」という言葉が飛び交い、IBMの株価は30％近く急落した。この「Anthropicショック」に対し…",
       "starred": false,
       "category": "ai",
       "tags": [
