@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-28T12:35:48.593Z",
-  "total": 101,
+  "generated_at": "2026-05-28T22:28:25.405Z",
+  "total": 102,
   "items": [
     {
       "id": "item_21f8651de3f2baea",
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-05-28T12:35:37.510Z",
+      "published_at": "2026-05-28T22:28:16.115Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-05-28T12:35:37.510Z",
+      "published_at": "2026-05-28T22:28:16.115Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-05-28T12:35:37.510Z",
+      "published_at": "2026-05-28T22:28:16.115Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,108 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_01ffddc5788e5bd9",
+      "title": "Anker、ポケモンデザインの充電器やイヤホンなど4製品を発売　ポケモンデザインのオーディオ製品は同社初",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2112499.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-05-28T22:00:00.000Z",
+      "summary": "アンカージャパン株式会社は5月27日、ポケモンデザインの充電器「Anker USB 急速充電器 70W ピカチュウモデル」および「Anker トラベルアダプタ ピカチュウモデル」、「Ankerトラベルポーチ ピカチュウモデル」、そしてイヤーカフ型イヤホン「Soundcore C50i ピカチュウモデル／イーブイモデル」を発表した。7月上旬よりAnker Japan 公式オンラインストア、直営店 A…",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_4c9f3f15eda865d6",
+      "title": "シャオミ、2つのレンズ搭載で広範囲を見守る「Xiaomi 屋外カメラ CW100 Dual」を発売",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2112656.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-05-28T21:30:00.000Z",
+      "summary": "Xiaomi（シャオミ）は5月26日、1台に2つのレンズを搭載した屋外用ネットワークカメラ「Xiaomi 屋外カメラ CW100 Dual」を発売した。市場想定価格は6380円。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_db87bdfa74cb0820",
+      "title": "NTT東日本、法人向けWi-Fiサービス「ギガらくWi-Fi」にWi-Fi 7対応の「ハイエンド7プラン」追加　「ベーシックプラン」は2027年9月末でサービス終了",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2112534.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-05-28T21:00:00.000Z",
+      "summary": "NTT東日本株式会社は、サポート付きオフィスWi-Fiサービス「ギガらくWi-Fi」について、Wi-Fi 7に対応した新プラン「ハイエンド7プラン」の提供を8月3日に開始する予定だと発表した。月額利用料は、アクセスポイント1台あたり4950円。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_fb739bb1bf0c7b5d",
+      "title": "「Google Antigravity 2.0と戯れながら感じたこと」と「LLM Wikiを実践して『ロケスマペディア』を作ってみた」",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/29/news012.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-05-28T20:00:00.000Z",
+      "summary": "かわさきからは「Google Antigravity 2.0と戯れながら感じたこと」というタイトルで生成AI時代における教科書的コンテンツの存在意義と、AIにコードを書かせる時代の学び方について、一色からは「LLM Wikiを実践して『ロケスマペディア』を作ってみた」というタイトルで、自身で執筆した記事のコンセプトを実務に落とし込んだ社内知識ベースの実践と運用課題について書きました。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_140dfd9c4e43d377",
+      "title": "EU、Temuに370億円の罰金　製品の安全リスク評価に問題",
+      "url": "https://www.watch.impress.co.jp/docs/news/2112718.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-05-28T14:12:57.000Z",
+      "summary": "欧州委員会は28日(現地時間)、デジタルサービス法(DSA)に基づき、中国系ECの「Temu(テム)」に対し2億ユーロ(約370億円)の罰金を科した。罰金の理由は、プラットフォーム上で提供する違法製品がもたらすリスクや、EUの消費者が被る損害について、十分な注意を払って特定や分析、評価を行なわなかったとするもの。",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_752c3b4408cdf4dc",
+      "title": "Anthropic、Claude Opus 4.8を一般提供　誠実さが飛躍的に向上、Mythosに並ぶアライメント性能を実現",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2605/29/2000000034/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-05-28T12:42:33.000Z",
+      "summary": "Anthropicは、AIモデルの最新版「Claude Opus 4.8」の一般提供を開始した。前世代から推論やコーディング能力を向上させ、自らの作業の不確実性に対する「誠実さ」が劇的に改善した。また、数百のサブエージェントを並行して走らせる新機能「dynamic workflows」も追加されている。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_0148fa58bc9cf422",
@@ -1154,22 +1256,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_50b8c73ba35844cb",
-      "title": "第37回：亡くなった大切な人のXアカウントを保持する唯一の方法――264アカウントの「再利用」を調べて分かったこと【天国へのプロトコル】",
-      "url": "https://internet.watch.impress.co.jp/docs/column/tengoku/2111155.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-05-27T21:00:00.000Z",
-      "summary": "2025年10月、Xは「Handle Marketplace」というサービスを公開しました。プレミアムプラス会員とプレミアムビジネスフルアクセス会員に向けて、長らく使われなくなったハンドルネーム（ユーザー名とも。以降「ネーム」と呼びます）を提供するものです。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_8070b16ccad633a3",
       "title": "最新AI「ミュトス」を使えても「バグマゲドン」に？　Firefox開発元に学ぶセキュリティ対策",
       "url": "https://www.itmedia.co.jp/aiplus/article/2605/28/2000000024/",
@@ -1204,22 +1290,6 @@
         "AI",
         "LLM",
         "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_774ad871cbade0c6",
-      "title": "新日本プロレス、テレビ朝日が連結子会社化",
-      "url": "https://www.watch.impress.co.jp/docs/news/2112289.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-05-27T15:01:00.000Z",
-      "summary": "新日本プロレスが、テレビ朝日の連結子会社となる。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
       ],
       "priority_score": 50
     },
@@ -1260,23 +1330,6 @@
         "文科省"
       ],
       "priority_score": 60
-    },
-    {
-      "id": "item_8c12d69f1406ca2c",
-      "title": "「国家情報会議設置法」成立、国のインテリジェンス機能強化へ",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2112094.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-05-27T05:20:00.000Z",
-      "summary": "第221回特別国会に法案が提出されていた国家情報会議設置法が5月27日、参議院本会議にて可決・成立した。同法は、サイバーセキュリティ・サイバー安全保障などのためのインテリジェンス（情報の収集・分析）機能強化を目的とし、「重要情報活動」および「外国情報活動」への対処に関する重要事項を調査・審議する機関「国家情報会議」の設置などを定めたもの。",
-      "starred": false,
-      "category": "security",
-      "tags": [
-        "インターネット",
-        "セキュリティ",
-        "情報モラル"
-      ],
-      "priority_score": 50
     },
     {
       "id": "item_8544a5c654f17107",
@@ -1365,42 +1418,6 @@
         "LLM"
       ],
       "priority_score": 50
-    },
-    {
-      "id": "item_363ab48135865843",
-      "title": "富士通は最新AI「ミュトス」を使える？　Anthropicと「最新AIモデルに早期アクセス」で協業　詳細を聞いてみた",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2605/27/2000000030/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-05-27T00:06:59.000Z",
-      "summary": "米Anthropicとの戦略的提携を発表した富士通に、Anthropicの最新AIモデル「Claude Mythos Preview」を使えるのか聞いた。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_996bd7bd27db007c",
-      "title": "マツダが統合ストレージ基盤を刷新　運用負荷低減、将来のAI活用も視野に",
-      "url": "https://monoist.itmedia.co.jp/mn/articles/2605/27/news021.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-05-27T00:00:00.000Z",
-      "summary": "マツダは、デル・テクノロジーズの「Dell PowerScale」ストレージを導入し、モデルベース開発やCAD、アーカイブ用途向けの統合ストレージ基盤を構築。設計開発データの増加に対応するとともに、ストレージ総容量を約10PBへ拡大し、容量単価を従来比で約10分の1に低減した。今後はAI／生成AI向けデータレイクとしての展開も視野に入れる。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 60
     },
     {
       "id": "item_bbc36705d57af922",
