@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T06:57:14.999Z",
+  "generated_at": "2026-05-28T12:35:48.593Z",
   "total": 101,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-05-28T06:57:04.147Z",
+      "published_at": "2026-05-28T12:35:37.510Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-05-28T06:57:04.147Z",
+      "published_at": "2026-05-28T12:35:37.510Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-05-28T06:57:04.147Z",
+      "published_at": "2026-05-28T12:35:37.510Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,138 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_0148fa58bc9cf422",
+      "title": "レノボ、国内に“水冷AIインフラ”の検証施設　GPUサーバ需要増で水冷活用促す",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/28/news145.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-05-28T10:25:00.000Z",
+      "summary": "レノボ・ジャパンが水冷技術を活用したAIインフラの検証施設「Neptuneラボ」を新設した。レノボの冷却技術を使う顧客やパートナー企業に対し、本番に近い検証・PoC環境として提供する。クラウドベンダーやSIerとの共同検証を通し、推奨される機器構成などの策定にも役立てる。レノボが日本で同様の施設を開設するのは初という。",
+      "starred": false,
+      "category": "dx",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "校務DX",
+        "GIGA"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_eb2334e1075157b0",
+      "title": "イオン、世界初・完全養殖ウナギ蒲焼を試験販売　天然資源に頼らない",
+      "url": "https://www.watch.impress.co.jp/docs/news/2112658.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-05-28T10:21:11.000Z",
+      "summary": "イオンは、水産研究・教育機構(FRA)が中心となって進める、ウナギの完全養殖技術の社会実装に向けた実証に、一般向け試験販売の協力企業として参画する。販売するウナギは、完全養殖を手がける山田水産によるもの。価格は4,860円～12,960円で、ネットスーパー等で予約販売する。",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "教育ニュース"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_76fa9d52d28efcc5",
+      "title": "福岡・西黒崎駅が7月に廃止　筑豊電鉄",
+      "url": "https://www.watch.impress.co.jp/docs/news/2112648.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-05-28T09:51:29.000Z",
+      "summary": "筑豊電気鉄道は、7月末をもって西黒崎駅(福岡県北九州市)を廃止すると発表した。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_a65fdabc7053045a",
+      "title": "京急、“おもてなし”で羽田に大型サイネージ内蔵ホームドア",
+      "url": "https://www.watch.impress.co.jp/docs/news/2112632.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-05-28T09:15:53.000Z",
+      "summary": "京浜急行電鉄は、羽田空港第3ターミナル駅について、「和のおもてなし空間」をテーマにした内装の改修を実施する。工事の開始は6月から。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_c47dd32f61e55ce9",
+      "title": "都内2店の「ダイエー」が「イオン」に　武蔵村山・西台",
+      "url": "https://www.watch.impress.co.jp/docs/news/2112626.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-05-28T09:09:55.000Z",
+      "summary": "イオンリテールは、「ダイエー武蔵村山店」「ダイエー西台店」だった場所に、「イオンスタイル武蔵村山南」「イオンスタイル西台」を6月にオープンする。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_0afa248564a0f389",
+      "title": "“毎日の買い物”特化のローソン新業態　ミニスーパー「Lミニマート」開店",
+      "url": "https://www.watch.impress.co.jp/docs/news/2112572.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-05-28T08:24:45.000Z",
+      "summary": "ローソンとローソンストア 100は、新業態となる首都圏型ミニスーパー「Lミニマート」の1号店「Lミニマート小平仲町店」を5月28日にオープンし、実証実験を開始した。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_fd209ec1cc76a14e",
+      "title": "特殊詐欺の口座凍結や追跡をオンラインで迅速化　警察・銀行が協働",
+      "url": "https://www.watch.impress.co.jp/docs/news/2112580.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-05-28T08:00:23.000Z",
+      "summary": "警察庁は、特殊詐欺対策の一環として、オンラインの照会で銀行口座の凍結や追跡を図る「官民協働型枠組み」を6月1日から運用開始する。警察庁が金融機関と協定を締結し実現、主要9行が参加する。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_3c984626a5109ecd",
+      "title": "G-SHOCK、「XG」コラボモデル “多面的で唯一無二”",
+      "url": "https://www.watch.impress.co.jp/docs/news/2112493.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-05-28T07:30:00.000Z",
+      "summary": "カシオ計算機は、「G-SHOCK」の新作として、HIPHOP/R&Bグループ「XG」(エックスジー)とのコラボレーションモデル「GM-S5600XG-1JR」「GMA-S110XG-4AJR」を6月12日に発売する。価格はGM-S5600XG-1JRが36,300円、GMA-S110XG-4AJRが25,300円。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_091cc7be7c501a26",
@@ -94,7 +226,7 @@
       "source_id": "internet_watch",
       "source_name": "INTERNET Watch",
       "published_at": "2026-05-28T06:15:00.000Z",
-      "summary": "国家サイバー統括局（NCO）は5月28日、「重要電子計算機に対する不正な行為による被害の防止に関する法律に基づく特別社会基盤事業者による特定侵害事象等の報告等に関する命令」の公布について発表した。",
+      "summary": "国家サイバー統括室（NCO）は5月28日、「重要電子計算機に対する不正な行為による被害の防止に関する法律に基づく特別社会基盤事業者による特定侵害事象等の報告等に関する命令」の公布について発表した。",
       "starred": false,
       "category": "security",
       "tags": [
@@ -388,6 +520,23 @@
       "tags": [
         "インターネット",
         "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_e3533f0202c54911",
+      "title": "ガバメントAI「源内」、全府省庁で実証開始　既に約10万人が利用可能",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2605/28/2000000033/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-05-28T00:57:31.000Z",
+      "summary": "27日の参院本会議では、源内の活用状況を尋ねる質問に対して、松本尚デジタル相が「この答弁も源内が原案を作成した」と話すなど、現場での利用が進みつつある。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
       ],
       "priority_score": 50
     },
@@ -885,6 +1034,24 @@
       "priority_score": 50
     },
     {
+      "id": "item_73b763b598f11d96",
+      "title": "「残高教えて」ChatGPTに話しかけるだけ　マネーツリー、「Apps in ChatGPT」対応",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2605/28/2000000032/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-05-27T22:52:54.000Z",
+      "summary": "Moneytreeの既存ユーザーは、ChatGPTから「口座と残高を確認したい」などと話しかけるだけで、関連データを確認できる。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 60
+    },
+    {
       "id": "item_4b8029c113cb3e7e",
       "title": "NTT東日本、「フレッツ 光クロス」新規申込で月額料金割引、品目変更で工事費無料など6つのキャンペーン　申し込み受付期間は9月30日まで",
       "url": "https://internet.watch.impress.co.jp/docs/news/2112205.html",
@@ -1057,72 +1224,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_f802995ee7776c74",
-      "title": "富士通、Anthropicと「戦略的提携」　OpenAIは「連携」",
-      "url": "https://www.watch.impress.co.jp/docs/news/2112269.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-05-27T12:49:58.000Z",
-      "summary": "富士通は27日、Anthropicとの「戦略的提携」と、OpenAIとの連携を発表した。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "生成AI",
-        "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_af06a1811ac7c8bc",
-      "title": "アンカー、1.7mmのワイヤレス充電対応カード型トラッカー　5990円",
-      "url": "https://www.watch.impress.co.jp/docs/news/2112234.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-05-27T11:30:00.000Z",
-      "summary": "アンカー・ジャパンは、スマートホームブランド「Eufy」の紛失防止トラッカー「Eufy SmartTrack Card E40」を発売した。価格は5,990円。Anker Japan 公式オンラインストア、Anker Store、Amazon、楽天市場、一部家電量販店で販売する。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_a77b1a7566e6f7d7",
-      "title": "アンカー、釘刺し試験を100%通過する新型バッテリ　炎も封じ込める筐体",
-      "url": "https://www.watch.impress.co.jp/docs/news/2112245.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-05-27T10:25:32.000Z",
-      "summary": "アンカー・ジャパンは、同社史上最高水準の安全性を追求した「Neo Lithium-ion Battery(ネオリチウムイオンバッテリー)」を発表した。搭載製品の「Anker Nano Power Bank(MagGo, Plus)」の予約も開始している。価格は11,990円。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_e2b499f30c9a0acd",
-      "title": "JR西と佐川、「手荷物当日配送サービス」　新幹線＋トラックでホテルへ",
-      "url": "https://www.watch.impress.co.jp/docs/news/2112236.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-05-27T10:02:22.000Z",
-      "summary": "JR西日本と佐川急便は、「顧客体験価値の共創」に関する連携協定を5月27日に締結した。その一環として、京都・大阪～広島・博多間において、駅・ホテル等に手荷物を即日配送するサービス「Same-day Delivery WEST」を6月24日に開始する。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_91a070f07fd31b9b",
       "title": "NEC、日立、富士通が“Anthropic協業”でそろい踏み　狙いは？　【3社の幹部コメントまとめ】",
       "url": "https://www.itmedia.co.jp/business/articles/2605/27/news119.html",
@@ -1137,40 +1238,6 @@
         "AI",
         "LLM",
         "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_7adc682fa423b6a5",
-      "title": "東武鉄道、越谷駅リニューアル　駅の古材を再利用",
-      "url": "https://www.watch.impress.co.jp/docs/news/2112203.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-05-27T08:38:15.000Z",
-      "summary": "東武鉄道は、東武スカイツリーライン 越谷駅の駅舎を6月30日にリニューアルする。東武線の駅の古材を再利用している。駅施設における木の古材利用は、東武鉄道では初となる。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_89769f2b0712b2b9",
-      "title": "アンカー、スターフライヤー全便でUSBケーブル貸し出し　航空法改正対応",
-      "url": "https://www.watch.impress.co.jp/docs/news/2112192.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-05-27T08:17:01.000Z",
-      "summary": "アンカー・ジャパンはスターフライヤーとの提携を通じ、6月1日よりスターフライヤーが運航する航空機内でAnkerのUSBケーブルの貸し出しを開始する。",
-      "starred": false,
-      "category": "admin",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "行政",
-        "文科省"
       ],
       "priority_score": 50
     },
@@ -1193,22 +1260,6 @@
         "文科省"
       ],
       "priority_score": 60
-    },
-    {
-      "id": "item_34c35707674eb6b5",
-      "title": "東京駅直結「トフロム八重洲」に日本初のCVC特化型ビジネス拠点",
-      "url": "https://www.watch.impress.co.jp/docs/news/2112160.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-05-27T07:46:19.000Z",
-      "summary": "東京建物とFIRST CVCは、東京駅前の新複合施設「TOFROM YAESU(トフロム八重洲)」にて、大企業の新規事業担当者やCVC(コーポレート・ベンチャー・キャピタル)を集積し、オープンイノベーションを加速させる拠点「JAPAN CVC BASECAMP」を6月1日から本格始動する。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
     },
     {
       "id": "item_8c12d69f1406ca2c",
@@ -1350,59 +1401,6 @@
         "AI活用"
       ],
       "priority_score": 60
-    },
-    {
-      "id": "item_3432ef3690707b0d",
-      "title": "AIが生んだ新たな業務、9割が「負担」　AIOpsの“不都合な実態”",
-      "url": "https://www.itmedia.co.jp/enterprise/articles/2605/27/news031.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-05-26T23:00:00.000Z",
-      "summary": "ある調査によると、AIOpsを導入した情報システム担当者の約75％が負荷軽減を実感する一方、約9割がAIを利用することで生まれた業務を「負担」と感じていることが明らかになった。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_9ecd48de3f1167f6",
-      "title": "若年人口減少の中で「新卒採用支援市場」拡大　AIは採用活動をどう変える？",
-      "url": "https://www.itmedia.co.jp/enterprise/articles/2605/26/news047.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-05-26T23:00:00.000Z",
-      "summary": "若年人口が減少する中で、優秀な人材をいかに確保するかが課題になっている。矢野経済研究所によると、新卒採用支援サービス市場は拡大基調にある。AIはこの市場をどう変えているのか。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_b105f5dbaee71b8e",
-      "title": "富士通、業務の変化に合わせて進化するAIエージェント技術を開発",
-      "url": "https://www.itmedia.co.jp/enterprise/articles/2605/27/news028.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-05-26T23:00:00.000Z",
-      "summary": "法改正や仕様変更が続く企業業務でAIエージェントを使い続けるには、専門人材による継続的な調整が欠かせなかった。富士通の「自己進化マルチAIエージェント技術」は、この前提をどう変えるのか。",
-      "starred": false,
-      "category": "admin",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "行政",
-        "文科省"
-      ],
-      "priority_score": 50
     },
     {
       "id": "item_bbc36705d57af922",
