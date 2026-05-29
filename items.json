@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-05-29T06:57:15.357Z",
+  "generated_at": "2026-05-29T12:21:26.225Z",
   "total": 102,
   "items": [
+    {
+      "id": "item_21f8651de3f2baea",
+      "title": "文部科学省ホームページトップはこちら",
+      "url": "https://www.mext.go.jp/",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-05-29T12:21:16.213Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
     {
       "id": "item_bd1951ae70f98dac",
       "title": "サイトマップはこちら",
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-05-29T06:57:06.707Z",
+      "published_at": "2026-05-29T12:21:16.213Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -25,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-05-29T06:57:06.707Z",
+      "published_at": "2026-05-29T12:21:16.213Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -38,22 +56,221 @@
       "priority_score": 60
     },
     {
-      "id": "item_21f8651de3f2baea",
-      "title": "文部科学省ホームページトップはこちら",
-      "url": "https://www.mext.go.jp/",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-05-29T06:57:06.706Z",
-      "summary": "",
+      "id": "item_faf06a8d5cbe31f7",
+      "title": "「Nano Banana 2」「Nano Banana Pro」が一般提供開始　「2」が動画からの画像生成もサポート",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/29/news146.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-05-29T11:30:00.000Z",
+      "summary": "米Googleは5月29日、「Nano Banana 2」（Gemini 3.1 Flash Image）と「Nano Banana Pro」（Gemini 3 Pro Image）の一般提供を開始すると発表した。加えて、動画入力に対応する新機能をNano Banana 2でプレビュー公開する。",
       "starred": false,
-      "category": "admin",
+      "category": "ai",
       "tags": [
-        "行政",
-        "文科省",
-        "制度",
-        "教育ニュース"
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
       ],
-      "priority_score": 60
+      "priority_score": 50
+    },
+    {
+      "id": "item_12e47e3763a67741",
+      "title": "楽天証券、6月から順次「パスキー」必須化　スマホが無くてもパスキー対応",
+      "url": "https://www.watch.impress.co.jp/docs/news/2113043.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-05-29T11:00:00.000Z",
+      "summary": "楽天証券は、ログイン時のセキュリティを強化するため、スマートフォン以外のデバイスにおいても「パスキー認証」(FIDO2)を利用できる環境を整備した。5月31日から対応を拡大していく。",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_2515c17de6e36270",
+      "title": "【注目記事】スマホ画面をテレビに表示させるにはどうすればいい？ iPhone/Androidの画面をミラーリングする方法を解説",
+      "url": "https://internet.watch.impress.co.jp/docs/readitnow/2113071.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-05-29T10:55:00.000Z",
+      "summary": "「今すぐ読みたい注目記事」コーナーでは、過去に掲載した記事の中から、「今読んでほしい記事」を再紹介しています。記事内容は掲載当時のもので、最新の状況とは異なる場合もあります。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_8d2aa390a8da95ef",
+      "title": "日本政府と主要金融機関、OpenAI新モデルのアクセス権を取得　サイバー対策強化へ",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/29/news144.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-05-29T10:14:00.000Z",
+      "summary": "片山さつき金融担当相が、米OpenAIが開発した新型AIのアクセス権を政府と主要金融機関が取得したと明らかにした。高性能AIがサイバー攻撃に悪用される懸念が高まる中、AIを防御に活用した対策が急務となっている。片山氏は「わが国金融機関のサイバーセキュリティー強化の観点から歓迎するべきものだ」と述べた。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_a10a384653e46006",
+      "title": "神戸ウォーターフロントにマリーナを臨むレストラン・カフェ　ライブハウスも",
+      "url": "https://www.watch.impress.co.jp/docs/news/2113044.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-05-29T09:31:07.000Z",
+      "summary": "神戸市は、大型艇に特化したマリーナ整備事業について、水域に隣接する緑地にマリーナを臨むレストラン・カフェなどを建設すると発表した。また、京橋地区にはライブハウス等を整備する。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_65dc4e3cb46c1f25",
+      "title": "うちわの自然な風を楽しめるUSB接続の「電動うちわ」、サンコーが発売",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2113059.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-05-29T09:30:00.000Z",
+      "summary": "サンコー株式会社は5月29日、うちわの自然な風を作り出す「USBでパワフルにあおぐ『電動うちわ』」（型番：DNUC26SWH）を発売した。直販サイト「THANKO」での販売価格は9980円。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_fe133ab64343a884",
+      "title": "港区オフィスビルに月額11万円の高級ウェルネス拠点「MITA GARDEN CLUB」",
+      "url": "https://www.watch.impress.co.jp/docs/news/2113030.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-05-29T09:04:50.000Z",
+      "summary": "住友不動産グループは、東京都港区の大規模オフィスビル「住友不動産東京三田ガーデンタワー」内に、完全会員制の高級ウェルネス施設「MITA GARDEN CLUB」を6月1日に開業する。入会金は33万円で、月会費は11万円。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_f46c07a273fd6eea",
+      "title": "三菱地所、都心型商業施設「エムズクロス」福岡初進出　6月オープン",
+      "url": "https://www.watch.impress.co.jp/docs/news/2113011.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-05-29T08:25:21.000Z",
+      "summary": "三菱地所は、都心型商業施設ブランド「エムズクロス」シリーズとして初の福岡進出となる「エムズクロス福岡大名」が5月29日に竣工したと発表した。全区画でテナントが決定しており、6月から順次開店する。8階建てで、1～2フロアに1テナントずつが出店する。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_00ff02d2468f0f4d",
+      "title": "JR西日本は“熟練者が手書きするしかなかった車両作業計画”をAIでどう自動化するのか？",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/29/news103.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-05-29T08:00:00.000Z",
+      "summary": "JR西日本は、熟練担当者が手書きで作成していた鉄道車両基地の構内作業計画を、AIで自動作成するシステムを開発している。なぜ開発し、どのような効果を見込むのか。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_64f348a8057da722",
+      "title": "衛星インターネット「Amazon Leo」 スカパーが法人向けに展開",
+      "url": "https://www.watch.impress.co.jp/docs/news/2112967.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-05-29T08:00:00.000Z",
+      "summary": "スカパーJSATは、Amazonの低軌道衛星による通信サービス「Amazon Leo」に関する契約を締結した。スカパーJSATは認定再販事業者として、日本全国の法人や官公庁向けにAmazon Leoを提供する。「Amazon Leo」の日本におけるサービス開始日はまだ明らかにされていない。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_192468d4b3026190",
+      "title": "すき家、とん汁に麺と特製タレを合わせた「とん汁みそらーめん」",
+      "url": "https://www.watch.impress.co.jp/docs/news/2112982.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-05-29T07:37:45.000Z",
+      "summary": "すき家は、「とん汁みそらーめん」を6月4日より販売する。期間限定。単品時の価格は360円。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_5536daff93d96df8",
+      "title": "Meta、インスタなどでW杯チケット詐欺・誹謗中傷対策を強化",
+      "url": "https://www.watch.impress.co.jp/docs/news/2112977.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-05-29T07:36:00.000Z",
+      "summary": "Metaは、6月11日に開幕するサッカー「FIFAワールドカップ26」に向け、詐欺への対策強化と、ファンや選手の安全を守るための取り組み強化を発表した。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_60ea9c308fa2fd22",
+      "title": "シェアラウンジ、“1人時間”の質を重視した「WORKS」1号店",
+      "url": "https://www.watch.impress.co.jp/docs/news/2112965.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-05-29T07:22:28.000Z",
+      "summary": "カルチュア・コンビニエンス・クラブ(CCC)は、仕事や勉強に集中できる“1人時間”の質を重視した新しいSHARE LOUNGE「SHARE LOUNGE WORKS」の1号店を、水道橋に5月29日にオープンした。料金はソフトドリンクプラン60分1,320円など。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_2eb43be7a4e8266e",
@@ -165,7 +382,7 @@
     },
     {
       "id": "item_fbe79b5c7372b003",
-      "title": "油まみれの自転車チェーンがピカピカに!! 超音波洗浄機とチェーンディグリーザーの素で信じられないほど汚れが落ちる【ぼっち・ざ・ろーど！その10】【空いた時間でなにしてる？】",
+      "title": "自転車のチェーンってこんなに汚れてたの!? 超音波洗浄機とチェーンディグリーザーの素でメチャきれいに【ぼっち・ざ・ろーど！その10】【空いた時間でなにしてる？】",
       "url": "https://internet.watch.impress.co.jp/docs/column/hobbytime/2112714.html",
       "source_id": "internet_watch",
       "source_name": "INTERNET Watch",
@@ -1062,135 +1279,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_eb2334e1075157b0",
-      "title": "イオン、世界初・完全養殖ウナギ蒲焼を試験販売　天然資源に頼らない",
-      "url": "https://www.watch.impress.co.jp/docs/news/2112658.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-05-28T10:21:11.000Z",
-      "summary": "イオンは、水産研究・教育機構(FRA)が中心となって進める、ウナギの完全養殖技術の社会実装に向けた実証に、一般向け試験販売の協力企業として参画する。販売するウナギは、完全養殖を手がける山田水産によるもの。価格は4,860円～12,960円で、ネットスーパー等で予約販売する。",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "教育ニュース"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_76fa9d52d28efcc5",
-      "title": "福岡・西黒崎駅が7月に廃止　筑豊電鉄",
-      "url": "https://www.watch.impress.co.jp/docs/news/2112648.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-05-28T09:51:29.000Z",
-      "summary": "筑豊電気鉄道は、7月末をもって西黒崎駅(福岡県北九州市)を廃止すると発表した。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_a65fdabc7053045a",
-      "title": "京急、“おもてなし”で羽田に大型サイネージ内蔵ホームドア",
-      "url": "https://www.watch.impress.co.jp/docs/news/2112632.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-05-28T09:15:53.000Z",
-      "summary": "京浜急行電鉄は、羽田空港第3ターミナル駅について、「和のおもてなし空間」をテーマにした内装の改修を実施する。工事の開始は6月から。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_c47dd32f61e55ce9",
-      "title": "都内2店の「ダイエー」が「イオン」に　武蔵村山・西台",
-      "url": "https://www.watch.impress.co.jp/docs/news/2112626.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-05-28T09:09:55.000Z",
-      "summary": "イオンリテールは、「ダイエー武蔵村山店」「ダイエー西台店」だった場所に、「イオンスタイル武蔵村山南」「イオンスタイル西台」を6月にオープンする。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_0afa248564a0f389",
-      "title": "“毎日の買い物”特化のローソン新業態　ミニスーパー「Lミニマート」開店",
-      "url": "https://www.watch.impress.co.jp/docs/news/2112572.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-05-28T08:24:45.000Z",
-      "summary": "ローソンとローソンストア 100は、新業態となる首都圏型ミニスーパー「Lミニマート」の1号店「Lミニマート小平仲町店」を5月28日にオープンし、実証実験を開始した。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_fd209ec1cc76a14e",
-      "title": "特殊詐欺の口座凍結や追跡をオンラインで迅速化　警察・銀行が協働",
-      "url": "https://www.watch.impress.co.jp/docs/news/2112580.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-05-28T08:00:23.000Z",
-      "summary": "警察庁は、特殊詐欺対策の一環として、オンラインの照会で銀行口座の凍結や追跡を図る「官民協働型枠組み」を6月1日から運用開始する。警察庁が金融機関と協定を締結し実現、主要9行が参加する。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_3c984626a5109ecd",
-      "title": "G-SHOCK、「XG」コラボモデル “多面的で唯一無二”",
-      "url": "https://www.watch.impress.co.jp/docs/news/2112493.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-05-28T07:30:00.000Z",
-      "summary": "カシオ計算機は、「G-SHOCK」の新作として、HIPHOP/R&Bグループ「XG」(エックスジー)とのコラボレーションモデル「GM-S5600XG-1JR」「GMA-S110XG-4AJR」を6月12日に発売する。価格はGM-S5600XG-1JRが36,300円、GMA-S110XG-4AJRが25,300円。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_091cc7be7c501a26",
-      "title": "ファッションレンタル「エアクロ」メンズ開始　時間がない・面倒を解決",
-      "url": "https://www.watch.impress.co.jp/docs/news/2112543.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-05-28T06:47:08.000Z",
-      "summary": "エアークローゼットは、男性向け月額制ファッションレンタルサービス「airCloset Men's(エアクロメンズ)」を5月28日に開始した。予約受付は4月15日に開始している。料金は単月コースの場合、2カ月に1回交換(5着)で11,800円、1カ月に1回交換(5着)で19,800円。ゲストにタレントのユージさんを招き、発表会を実施した。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_b8b9d11f010ff19f",
       "title": "能動的サイバー防御に向け、基幹インフラ事業者にサイバー攻撃の報告義務などの命令",
       "url": "https://internet.watch.impress.co.jp/docs/news/2112540.html",
@@ -1278,39 +1366,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_40dc62615265cb66",
-      "title": "カメラは2つ、さらにMagSafe搭載？ 折りたたみiPhoneの保護ケースを名乗る製品が登場【やじうまWatch】",
-      "url": "https://internet.watch.impress.co.jp/docs/yajiuma/2112372.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-05-28T02:24:14.000Z",
-      "summary": "今秋の登場が噂されている折りたたみiPhoneの保護ケースを名乗る製品が登場して話題になっている。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_ebeacd44ffa62b12",
-      "title": "AI重視のGoogle検索に見切り？　AI除外の検索エンジンのユーザー数が米国で急増【やじうまWatch】",
-      "url": "https://internet.watch.impress.co.jp/docs/yajiuma/2112365.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-05-28T02:24:03.000Z",
-      "summary": "「DuckDuckGo」といえばユーザーのプライバシー保護をうたい文句にしている検索エンジンだが、そのユーザー数が米国で急増していることが明らかになった。",
-      "starred": false,
-      "category": "security",
-      "tags": [
-        "インターネット",
-        "セキュリティ",
-        "情報モラル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_b2e86a9ada20daac",
       "title": "「国会議員マップ」話題　建設職人が個人で開発、議員の発言や政治の動きを分かりやすく　生成AI活用",
       "url": "https://www.itmedia.co.jp/news/articles/2605/28/news082.html",
@@ -1377,61 +1432,6 @@
         "生成AI",
         "AI",
         "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_73b763b598f11d96",
-      "title": "「残高教えて」ChatGPTに話しかけるだけ　マネーツリー、「Apps in ChatGPT」対応",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2605/28/2000000032/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-05-27T22:52:54.000Z",
-      "summary": "Moneytreeの既存ユーザーは、ChatGPTから「口座と残高を確認したい」などと話しかけるだけで、関連データを確認できる。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 60
-    },
-    {
-      "id": "item_f412720a53ca6cea",
-      "title": "「背中を見て覚えろ」はもう限界　「職員激減」に向けて自治体DXに必要な「AIと共有する業務マニュアル」の作り方",
-      "url": "https://www.itmedia.co.jp/business/articles/2605/28/news023.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-05-27T22:00:00.000Z",
-      "summary": "自治体DXの推進が叫ばれる中、現場では業務の属人化や知識継承の停滞といった課題が依然として残っている。背景には、「オレの背中を見て覚えろ」に象徴される暗黙知への依存や、再現性を前提とした業務設計の不足があるのではないか。CIO補佐官として全国の自治体を支援する筆者が、人間とAIエージェントの協働を考察する。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_235e906f57725042",
-      "title": "失敗データこそ資産だ――3Dモデルや解析結果をAIで統合、一目で探せるナレッジに",
-      "url": "https://monoist.itmedia.co.jp/mn/articles/2605/27/news134.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-05-27T21:00:00.000Z",
-      "summary": "「RAGでは超えられない製造現場の暗黙知がある」――ギリアは3Dモデルや解析結果をマルチモーダルLLMで統合し、設計の暗黙知を形式知化する新プラットフォームの提供を開始した。不採用理由や失敗の文脈も、組織の資産に変える。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用",
-        "教材",
-        "ツール"
       ],
       "priority_score": 50
     },
