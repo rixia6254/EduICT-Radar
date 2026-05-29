@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T12:21:26.225Z",
+  "generated_at": "2026-05-29T22:24:33.236Z",
   "total": 102,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-05-29T12:21:16.213Z",
+      "published_at": "2026-05-29T22:24:21.984Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-05-29T12:21:16.213Z",
+      "published_at": "2026-05-29T22:24:21.984Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-05-29T12:21:16.213Z",
+      "published_at": "2026-05-29T22:24:21.984Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -56,8 +56,46 @@
       "priority_score": 60
     },
     {
+      "id": "item_ed75919d5dad173b",
+      "title": "OpenAIが生命科学推論AI「GPT-Rosalind」をバイオディフェンスに開放　デュアルユースリスクに懸念も",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/30/news031.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-05-29T21:48:00.000Z",
+      "summary": "OpenAIは、生命科学研究に特化したフロンティア推論モデル「GPT-Rosalind」を活用した「Rosalind Biodefense」プログラムを発表した。生物脅威の検知など防衛目的に限定し、審査済みの開発者や米政府機関および同盟国のパートナー組織にAPIを無償提供する。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_094e108d96fc9c5f",
+      "title": "OpenAI、金融機関に「GPT-5.5-Cyber」提供　「日本サイバーアクションプラン」",
+      "url": "https://www.watch.impress.co.jp/docs/news/2113108.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-05-29T15:01:00.000Z",
+      "summary": "OpenAIは29日、日本におけるサイバーセキュリティ協力を「実装」へと進める取り組み「日本サイバー・アクションプラン(Japan Cyber Action Plan)」を発表した。金融機関に対して、サイバーセキュリティに特化した最新AIモデル「GPT-5.5-Cyber」を提供するほか、日本AIセーフティ・インスティテュート(AISI)との連携強化なども行なう。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "生成AI",
+        "AI活用",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
       "id": "item_faf06a8d5cbe31f7",
-      "title": "「Nano Banana 2」「Nano Banana Pro」が一般提供開始　「2」が動画からの画像生成もサポート",
+      "title": "「Nano Banana 2」「Nano Banana Pro」が一般提供開始　「2」は動画からの画像生成もサポート",
       "url": "https://www.itmedia.co.jp/news/articles/2605/29/news146.html",
       "source_id": "itmedia_ai",
       "source_name": "ITmedia AI+",
@@ -347,6 +385,26 @@
         "文科省"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_dd9cef741b519973",
+      "title": "OpenAI、日本政府とサイバーセキュリティで協力　最新AI「GPT-5.5-Cyber」を金融機関に提供",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2605/29/2000000037/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-05-29T04:12:36.000Z",
+      "summary": "米OpenAIは、日本政府とサイバーセキュリティで協力する取り組み「日本サイバー・アクションプラン」を発表した。まずは、金融機関にサイバーセキュリティに特化した最新AIモデル「GPT-5.5-Cyber」を提供する。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_f5aa4a25bd87a767",
@@ -1242,24 +1300,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_140dfd9c4e43d377",
-      "title": "EU、Temuに370億円の罰金　製品の安全リスク評価に問題",
-      "url": "https://www.watch.impress.co.jp/docs/news/2112718.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-05-28T14:12:57.000Z",
-      "summary": "欧州委員会は28日(現地時間)、デジタルサービス法(DSA)に基づき、中国系ECの「Temu(テム)」に対し2億ユーロ(約370億円)の罰金を科した。罰金の理由は、プラットフォーム上で提供する違法製品がもたらすリスクや、EUの消費者が被る損害について、十分な注意を払って特定や分析、評価を行なわなかったとするもの。",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_0148fa58bc9cf422",
       "title": "レノボ、国内に“水冷AIインフラ”の検証施設　GPUサーバ需要増で水冷活用促す",
       "url": "https://www.itmedia.co.jp/news/articles/2605/28/news145.html",
@@ -1398,40 +1438,6 @@
         "AI",
         "LLM",
         "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_e3533f0202c54911",
-      "title": "ガバメントAI「源内」、全府省庁で実証開始　既に約10万人が利用可能",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2605/28/2000000033/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-05-28T00:57:31.000Z",
-      "summary": "27日の参院本会議では、源内の活用状況を尋ねる質問に対して、松本尚デジタル相が「この答弁も源内が原案を作成した」と話すなど、現場での利用が進みつつある。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_7ed677fffbc50e6a",
-      "title": "AIコーディングエージェント市場が「新段階」突入　IDEが必要不可欠でなくなる“3つの理由”",
-      "url": "https://www.itmedia.co.jp/enterprise/articles/2605/28/news055.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-05-27T23:00:00.000Z",
-      "summary": "Gartnerによると、AIの進化を受けてAIコーディングエージェントの市場が「新たな段階」に入った。統合開発環境（IDE）が必要不可欠なものでなくなる3つの理由とは。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
       ],
       "priority_score": 50
     },
