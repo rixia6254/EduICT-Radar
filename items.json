@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T22:24:33.236Z",
+  "generated_at": "2026-05-30T06:25:57.459Z",
   "total": 102,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-05-29T22:24:21.984Z",
+      "published_at": "2026-05-30T06:25:46.762Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-05-29T22:24:21.984Z",
+      "published_at": "2026-05-30T06:25:46.762Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-05-29T22:24:21.984Z",
+      "published_at": "2026-05-30T06:25:46.762Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,70 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_a3de6ef587462506",
+      "title": "電動ワークチェアのLiberNovo、最上位「Omni Pro」や高耐荷重モデルなど",
+      "url": "https://www.watch.impress.co.jp/docs/news/2113079.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-05-30T02:00:00.000Z",
+      "summary": "電動ワークチェア「LiberNovo(リベルノヴォ)」シリーズを展開するLIBERNOVOは、新たに「LiberNovo Omni Pro」「LiberNovo Omni SE」「LiberNovo Maxis Airflow」を発表した。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_b31870779def8af1",
+      "title": "【いつモノコト】モニターなしMac miniに、トラックパッド付き折りたたみキーボードがちょうどいい",
+      "url": "https://www.watch.impress.co.jp/docs/series/itsmo/2110310.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-05-30T00:30:00.000Z",
+      "summary": "自宅のMac miniは、モニターもキーボードもつながない、いわゆるヘッドレスの状態で動かしています。普段の操作は別のパソコンからリモートで済ませているので、これで困ることはほとんどありません。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_1cbc63c3f2f8bed7",
+      "title": "“リモコン”から考えるテレビ選び",
+      "url": "https://www.watch.impress.co.jp/docs/topic/watchplus/2112710.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-05-30T00:00:00.000Z",
+      "summary": "Impress Watchニュースレターに掲載した記事です。ニュースレターは無料で、毎週編集部員が会員向けのコラムなどをお送りしています。登録はこちらから。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_a1903cd34e794d21",
+      "title": "シチズン、ヨットレース対応の液晶コンビウォッチ「ウェーブ・トラッカー」",
+      "url": "https://www.watch.impress.co.jp/docs/news/2110693.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-05-29T23:30:00.000Z",
+      "summary": "シチズン時計は、「シチズン プロマスター」の新型として、ヨットレースがテーマの「Wave Tracker」(ウェーブ・トラッカー)3機種を6月18日に発売する。ソーラー発電の腕時計で、価格は126,500円～154,000円。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_ed75919d5dad173b",
@@ -591,24 +655,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_1e8b6710da49bdf1",
-      "title": "アンソロピック、“正直さ”向上した「Opus 4.8」　「ミュトス級」は数週間で登場",
-      "url": "https://www.watch.impress.co.jp/docs/news/2112749.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-05-29T01:02:46.000Z",
-      "summary": "Anthropicは28日(米国時間)、最新のAIモデル「Claude Opus 4.8」を提供開始した。従来の上位モデルOpus 4.7から、コーディング、エージェントスキル、推論、実用的な知識作業タスクなどのあらゆる領域のベンチマークで改善。また、正直さ(honesty)も特徴で、自身の作業に対する不確実性を指摘する傾向が強く、根拠のない主張をする可能性が低くなったという。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "生成AI",
-        "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_e8ecaf6a5edb7790",
       "title": "それで、メモリ不足はいつまで続くの？　なかなか終わらない狂騒のウラ側",
       "url": "https://www.itmedia.co.jp/news/articles/2605/29/news041.html",
@@ -689,40 +735,6 @@
         "生成AI",
         "AI",
         "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_34acdc248ddf6f4a",
-      "title": "総務省、ふるさと納税の手数料引き下げを要請　3%プランの提案も",
-      "url": "https://www.watch.impress.co.jp/docs/news/2112659.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-05-29T00:00:00.000Z",
-      "summary": "ふるさと納税の仲介を行なう「ポータルサイト」の手数料について、総務省は5月22日に、関連団体の会員企業に対して引き下げを要請した。8月末までに対応方針の回答を求めている。",
-      "starred": false,
-      "category": "admin",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "行政",
-        "文科省"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_850ee9140776dba1",
-      "title": "弱点は全部つぶした? スマートタグ新作「Pebblebee 5」　QRで“見つけた人”から連絡も【ミニレビュー】",
-      "url": "https://www.watch.impress.co.jp/docs/review/minireview/2111361.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-05-28T23:20:00.000Z",
-      "summary": "ソースネクストから販売されているスマートタグ「Pebblebee(ペブルビー)」が、新世代の「5」シリーズになりました。ラインアップはクリップ型の「Pebblebee Clip 5」とカード型の「Pebblebee Card 5」の2種類。価格はどちらも5,390円(6月2日まで公式通販で4,800円)です。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
       ],
       "priority_score": 50
     },
@@ -1108,22 +1120,6 @@
         "LLM",
         "教材",
         "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_e56c11cd83fee588",
-      "title": "PORTER、巾着袋モチーフの「バルーンサック シュリンク」",
-      "url": "https://www.watch.impress.co.jp/docs/news/2111779.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-05-28T23:00:00.000Z",
-      "summary": "PORTERは、古くから小物を持ち歩くために使われた巾着袋をモチーフにした「BALLOONSAC SHRINK(バルーンサック シュリンク)」を発売した。ペットボトルが入る大きさの「BALLOONSAC」と、コンパクトな「BALLOONSAC(S)」の2サイズ展開で、価格はそれぞれ84,700円、73,700円。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
       ],
       "priority_score": 50
     },
