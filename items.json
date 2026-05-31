@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31T11:03:55.785Z",
+  "generated_at": "2026-05-31T21:53:20.273Z",
   "total": 102,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-05-31T11:03:44.987Z",
+      "published_at": "2026-05-31T21:53:10.066Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-05-31T11:03:44.987Z",
+      "published_at": "2026-05-31T21:53:10.066Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-05-31T11:03:44.987Z",
+      "published_at": "2026-05-31T21:53:10.066Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,55 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_2080f66b83e2bd7c",
+      "title": "【2013年のINTERNET Watch】SNS発で大問題になった「バイトテロ」「バカッター」、背景には世代間ギャップ！？",
+      "url": "https://internet.watch.impress.co.jp/docs/special/30th/2103348.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-05-31T21:30:00.000Z",
+      "summary": "2013年（平成25年）、6月に富士山が世界文化遺産に決定、9月に2020年夏季五輪の東京開催決定（コロナ禍により2021年開催となる）といったニュースがあり、前年末より始動した「アベノミクス」と相まって、景気回復・デフレ脱却のきざしが感じられるようになった。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_ce6c57437926919d",
+      "title": "新発明か？　それとも迷走か？　ルームライト内蔵のWi-Fi 7ルーター「HUAWEI WiFi Mesh X3 Pro」【イニシャルB】",
+      "url": "https://internet.watch.impress.co.jp/docs/column/shimizu/2109444.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-05-31T21:00:00.000Z",
+      "summary": "HUAWEIから、新型のWi-Fi 7メッシュルーター「WiFi Mesh X3 Pro」が発売された。最大の特徴は、「雪に覆われた山頂」をイメージしたルームライトとしても利用できること。むしろ、インテリアに溶け込むオブジェに、Wi-Fiルーター機能を内蔵したと言い換えてもいい本製品の実力を検証した。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_dedee2f272715ebf",
+      "title": "「ハーネス」って結局、何？　みんな使い方が違うAIエージェント用語をHugging Faceが整理",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/01/news016.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-05-31T20:00:00.000Z",
+      "summary": "AIエージェント分野で人によって意味が揺れる「ハーネス」「スキャフォールド」などの用語を、Hugging Faceが整理した。AIエージェントを正しく理解し議論するために押さえておきたい基本用語を初心者向けに解説する。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_10d52c9ab28e040f",
@@ -1368,25 +1417,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_fcd36fa74dad1822",
-      "title": "CODA、生成AI事業者に対してコンテンツやクリエイターの権利を尊重するよう求める声明　既存の著作物に酷似した内容が出力される現状は「著作権侵害」になりうると指摘",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2112422.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-05-28T03:30:00.000Z",
-      "summary": "一般社団法人コンテンツ海外流通促進機構（CODA）は5月27日、生成AIサービスに対してコンテンツやクリエイターの権利を尊重するよう求める声明を発表した。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "インターネット",
-        "セキュリティ",
-        "生成AI",
-        "AI活用",
-        "情報モラル"
-      ],
-      "priority_score": 60
-    },
-    {
       "id": "item_b5e1a6fac7339e14",
       "title": "Docker専用のAIエージェント「Gordon」が正式リリース　無料アカウントでも利用可能",
       "url": "https://www.itmedia.co.jp/news/articles/2605/28/news090.html",
@@ -1402,40 +1432,6 @@
         "LLM"
       ],
       "priority_score": 50
-    },
-    {
-      "id": "item_68e5bab093254e76",
-      "title": "メッシュWi-Fi対応ルーター「eero」がセール中！　Amazon スマイルSale　Wi-Fi 7対応「eero Pro 7」1ユニットが3万7800円",
-      "url": "https://internet.watch.impress.co.jp/docs/shopping/2112324.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-05-28T02:30:00.000Z",
-      "summary": "Amazon.co.jpでは6月2日までの期間限定でビッグセール「スマイルSale」を実施中だ。その一環として、同社のメッシュWi-Fiシステム、「eero」シリーズのタイムセールが実施されている。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_b2e86a9ada20daac",
-      "title": "「国会議員マップ」話題　建設職人が個人で開発、議員の発言や政治の動きを分かりやすく　生成AI活用",
-      "url": "https://www.itmedia.co.jp/news/articles/2605/28/news082.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-05-28T01:55:00.000Z",
-      "summary": "小さな建設会社を経営し、工事現場で働く職人でもある「中島」氏が、けがで現場を離れた期間に立ち上げたというサイトだ。余暇に個人で開発・運営しており、収益は目的にしていない。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 60
     },
     {
       "id": "item_bbc36705d57af922",
