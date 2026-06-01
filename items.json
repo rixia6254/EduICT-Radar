@@ -1,32 +1,14 @@
 {
-  "generated_at": "2026-06-01T15:29:53.679Z",
+  "generated_at": "2026-06-01T22:57:47.770Z",
   "total": 102,
   "items": [
-    {
-      "id": "item_21f8651de3f2baea",
-      "title": "文部科学省ホームページトップはこちら",
-      "url": "https://www.mext.go.jp/",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-06-01T15:29:42.904Z",
-      "summary": "",
-      "starred": false,
-      "category": "admin",
-      "tags": [
-        "行政",
-        "文科省",
-        "制度",
-        "教育ニュース"
-      ],
-      "priority_score": 60
-    },
     {
       "id": "item_bd1951ae70f98dac",
       "title": "サイトマップはこちら",
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-06-01T15:29:42.904Z",
+      "published_at": "2026-06-01T22:57:37.475Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +25,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-06-01T15:29:42.904Z",
+      "published_at": "2026-06-01T22:57:37.475Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +36,144 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_21f8651de3f2baea",
+      "title": "文部科学省ホームページトップはこちら",
+      "url": "https://www.mext.go.jp/",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-06-01T22:57:37.474Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_1812bd24a173d4ce",
+      "title": "NTTグループら3者、四足歩行ロボット＋フィジカルAIによる工業施設点検の高度化、国内初の実証",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2113509.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-06-01T22:30:00.000Z",
+      "summary": "NTTグループ（NTT東日本株式会社、NTTドコモビジネス株式会社、NTTドコモソリューションズ株式会社、株式会社NTTデータグループ）、1FINITY株式会社、三菱ケミカル株式会社の3者は6月1日、フィジカルAI・IOWN APN・60GHz帯無線LANによる、コンビナート設備点検の高度化を国内で初めて実証したと発表した。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_c62d6f3c64eb9d01",
+      "title": "製造現場の「AIアレルギー」をどう払拭？　日立・新卒デジタル人材「3カ月奮闘記」",
+      "url": "https://www.itmedia.co.jp/business/articles/2606/02/news023.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-06-01T22:00:00.000Z",
+      "summary": "日立製作所は、AIやデータ解析の専門スキルを持つ新人データサイエンティストを、製造現場へと送り込んでいる。いかにして現場の「AIアレルギー」を払拭し、現場とのコミュニケーションを通じて業務時間を短縮する生成AIツールを定着させたのか。実習に参加した若手女性データサイエンティストの禹周賢（ウ・ジュヒョン）さん（デジタルアナリティクス推進部）と、受け入れ先の現場担当者にインタビューした。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_26f1edb620ce1a5a",
+      "title": "Synology、家庭や小規模オフィス向けオールフラッシュNAS「FlashStation FS200T」発売",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2113420.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-06-01T22:00:00.000Z",
+      "summary": "Synologyは6月1日、家庭や小規模オフィス向けのオールフラッシュストレージソリューション「FlashStation FS200T」を発売した。株式会社アスクが取り扱っており、楽天市場の「ASKダイレクト」での販売価格は22万2826円。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_9c11e0f1db95f03e",
+      "title": "AtermシリーズのWi-Fiルーターの一部に脆弱性、対象機種および対策済みファームウェアについての記事に注目が集まる【アクセスランキング】",
+      "url": "https://internet.watch.impress.co.jp/docs/news/ranking/2113258.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-06-01T21:55:00.000Z",
+      "summary": "前週に閲覧数の多かった記事を、カテゴリーごとに上位5位までレポートします。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_2dfa6ab75499269e",
+      "title": "NVIDIAの「NemoClaw」でエッジAIを統合管理、アドバンテックが「WEDA」を発表",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2606/02/news057.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-06-01T21:45:00.000Z",
+      "summary": "アドバンテックは、パートナー向けイベント「2026 Advantech World Partner Conference（WPC）」において、エッジAIの開発から導入、運用までを統合的に管理するソリューション「WEDA」について説明した。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_54078a8a879b0fd8",
+      "title": "OpenAI、サイバー防御力と重要分野のレジリエンス強化を目的とした「日本サイバー・アクションプラン」発表",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2113409.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-06-01T21:30:00.000Z",
+      "summary": "OpenAIは5月29日、日本におけるサイバーセキュリティ協力を対話から実装へと進める取り組みとして「日本サイバー・アクションプラン」を発表した。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "生成AI",
+        "AI活用",
+        "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_9bab9befec88b014",
+      "title": "Wi-Fi 7の現状とWi-Fi 8（5）Wi-Fi 8の「超高信頼性」を実現するMAC層の技術：後編　最終的に“必須”になるのはどこまで？【ネット新技術】",
+      "url": "https://internet.watch.impress.co.jp/docs/column/nettech/2108425.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-06-01T21:00:00.000Z",
+      "summary": "Wi-Fi 7とWi-Fi 8の違いについて、前々回ではPHYについて紹介し、前回はMAC層（前半）について紹介した。ということで、今回はMAC層（後半）となる。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_e67d76b9a1b93c61",
@@ -1010,56 +1130,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_64c8d50b3bcd4346",
-      "title": "メールで税金の納付を求めることはありません！ 国税庁やe-Taxをかたる不審なメールに、国民生活センターが注意喚起",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2112792.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-05-31T22:00:00.000Z",
-      "summary": "独立行政法人国民生活センターは5月27日、国税庁やe-Tax（国税電子申告・納税システム）をかたる不審なSMSやメールに関する相談が、全国の消費生活センターなどに寄せられているとして、注意喚起を実施した。",
-      "starred": false,
-      "category": "admin",
-      "tags": [
-        "インターネット",
-        "セキュリティ",
-        "行政",
-        "文科省"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_2080f66b83e2bd7c",
-      "title": "【2013年のINTERNET Watch】SNS発で大問題になった「バイトテロ」「バカッター」、背景には世代間ギャップ！？",
-      "url": "https://internet.watch.impress.co.jp/docs/special/30th/2103348.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-05-31T21:30:00.000Z",
-      "summary": "2013年（平成25年）、6月に富士山が世界文化遺産に決定、9月に2020年夏季五輪の東京開催決定（コロナ禍により2021年開催となる）といったニュースがあり、前年末より始動した「アベノミクス」と相まって、景気回復・デフレ脱却のきざしが感じられるようになった。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_ce6c57437926919d",
-      "title": "新発明か？　それとも迷走か？　ルームライト内蔵のWi-Fi 7ルーター「HUAWEI WiFi Mesh X3 Pro」【イニシャルB】",
-      "url": "https://internet.watch.impress.co.jp/docs/column/shimizu/2109444.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-05-31T21:00:00.000Z",
-      "summary": "HUAWEIから、新型のWi-Fi 7メッシュルーター「WiFi Mesh X3 Pro」が発売された。最大の特徴は、「雪に覆われた山頂」をイメージしたルームライトとしても利用できること。むしろ、インテリアに溶け込むオブジェに、Wi-Fiルーター機能を内蔵したと言い換えてもいい本製品の実力を検証した。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_dedee2f272715ebf",
       "title": "「ハーネス」って結局、何？　みんな使い方が違うAIエージェント用語をHugging Faceが整理",
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/01/news016.html",
@@ -1234,22 +1304,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_2515c17de6e36270",
-      "title": "【注目記事】スマホ画面をテレビに表示させるにはどうすればいい？ iPhone/Androidの画面をミラーリングする方法を解説",
-      "url": "https://internet.watch.impress.co.jp/docs/readitnow/2113071.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-05-29T10:55:00.000Z",
-      "summary": "「今すぐ読みたい注目記事」コーナーでは、過去に掲載した記事の中から、「今読んでほしい記事」を再紹介しています。記事内容は掲載当時のもので、最新の状況とは異なる場合もあります。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_8d2aa390a8da95ef",
       "title": "日本政府と主要金融機関、OpenAI新モデルのアクセス権を取得　サイバー対策強化へ",
       "url": "https://www.itmedia.co.jp/news/articles/2605/29/news144.html",
@@ -1266,22 +1320,6 @@
         "AI活用",
         "セキュリティ",
         "情報モラル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_65dc4e3cb46c1f25",
-      "title": "うちわの自然な風を楽しめるUSB接続の「電動うちわ」、サンコーが発売",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2113059.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-05-29T09:30:00.000Z",
-      "summary": "サンコー株式会社は5月29日、うちわの自然な風を作り出す「USBでパワフルにあおぐ『電動うちわ』」（型番：DNUC26SWH）を発売した。直販サイト「THANKO」での販売価格は9980円。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
       ],
       "priority_score": 50
     },
@@ -1368,41 +1406,6 @@
       "source_name": "ITmedia AI+",
       "published_at": "2026-05-29T00:55:00.000Z",
       "summary": "より強力な安全策を講じた上で、数週間以内に全顧客に提供するとの見通しだという。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_3ac459de7d5ea260",
-      "title": "AI-CAEで風荷重評価を効率化、大林組がRICOS製ソリューションで検証",
-      "url": "https://monoist.itmedia.co.jp/mn/articles/2605/29/news025.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-05-29T00:00:00.000Z",
-      "summary": "RICOSは、大林組が建物の風荷重予測に向けたAI-CAEソリューションの検証を開始したと発表した。AIが風向や建物形状などの条件を踏まえて予測し、設計工程の効率化を図る。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_91a35e954bd64840",
-      "title": "富士通がOpenAI、Anthropicと相次ぎ提携　AIベンダーと組む狙いは？",
-      "url": "https://www.itmedia.co.jp/enterprise/articles/2605/29/news067.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-05-28T23:00:00.000Z",
-      "summary": "富士通はOpenAIとAnthropicとの提携を同じ日に発表した。自社独自のAI技術を持つ同社は、AIベンダーとの提携によって何を狙うのか。",
       "starred": false,
       "category": "ai",
       "tags": [
