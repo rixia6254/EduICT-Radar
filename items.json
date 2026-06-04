@@ -1,32 +1,14 @@
 {
-  "generated_at": "2026-06-04T12:07:06.412Z",
+  "generated_at": "2026-06-04T22:16:47.538Z",
   "total": 103,
   "items": [
-    {
-      "id": "item_21f8651de3f2baea",
-      "title": "文部科学省ホームページトップはこちら",
-      "url": "https://www.mext.go.jp/",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-06-04T12:06:55.881Z",
-      "summary": "",
-      "starred": false,
-      "category": "admin",
-      "tags": [
-        "行政",
-        "文科省",
-        "制度",
-        "教育ニュース"
-      ],
-      "priority_score": 60
-    },
     {
       "id": "item_bd1951ae70f98dac",
       "title": "サイトマップはこちら",
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-06-04T12:06:55.881Z",
+      "published_at": "2026-06-04T22:16:39.274Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +25,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-06-04T12:06:55.881Z",
+      "published_at": "2026-06-04T22:16:39.274Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +36,183 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_21f8651de3f2baea",
+      "title": "文部科学省ホームページトップはこちら",
+      "url": "https://www.mext.go.jp/",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-06-04T22:16:39.273Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_05f69b9fef4be777",
+      "title": "東京国際フォーラム、29年1月から休館　大規模改修のため",
+      "url": "https://www.watch.impress.co.jp/docs/news/2114650.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-06-04T22:00:00.000Z",
+      "summary": "東京都は4日、2029年1月から東京・有楽町の「東京国際フォーラム」を休館する。期間は29年1月1日から30年3月31日までの15カ月間で、ホール等の全施設・全店舗と駐車場などが休館となる。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_c5c91a4919a872f7",
+      "title": "中部テレコミュニケーション（ctc）、創立40周年で記念サイト開設～インターネット黎明期から現在までの歩みを振り返る",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2114559.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-06-04T22:00:00.000Z",
+      "summary": "中部テレコミュニケーション株式会社（ctc）は、6月3日に創立40周年を迎えた。同社はインターネット黎明期より中部地域の通信基盤構築に貢献してきたとし、これまでの歩みを振り返る記念サイトが公開されている。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_4e78727f1a52d840",
+      "title": "iPad第10世代を「PC化」するキーボード＆ケース、サンワサプライが発売　タッチパッドとペンホルダー付き",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2114551.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-06-04T21:30:00.000Z",
+      "summary": "サンワサプライ株式会社は6月3日、iPadをノートPCのように操作できる「iPad（第10世代）専用ケース付きBluetoothキーボード（400-SKB083）」を発売した。直販サイト「サンワダイレクト」での販売価格は5980円。",
+      "starred": false,
+      "category": "dx",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "校務DX",
+        "GIGA"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_7c30db897f3aa10c",
+      "title": "PCを遠隔操作して不正送金を行う「ボイスフィッシング」起点の新たな手口、法人で多額の被害発生　トレンドマイクロが注意喚起。1社で4億円を超える被害事例も",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2114453.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-06-04T21:30:00.000Z",
+      "summary": "トレンドマイクロ株式会社は、法人のインターネットバンキングを狙う「ボイスフィッシング」を起点とした、遠隔操作ソフトウェアを悪用する新たな手口について解説するブログ記事を公開した。",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "情報モラル",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_7dbe5058ffe775f6",
+      "title": "タイヤFEM解析を45分から5分に　住友ゴムと富士通がAIサロゲートモデルを共同開発",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2606/05/news022.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-06-04T21:00:00.000Z",
+      "summary": "住友ゴム工業と富士通は、タイヤ性能をAIで予測するAIサロゲートモデルを共同開発した。実証実験では、タイヤの変形挙動予測において解析時間を従来の約45分から約5分に短縮するとともに、約60万要素規模の解析を実現した。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_aaf42e3e89453891",
+      "title": "“契約リテラシー”を子どものうちから養う――スマホからボタン1つで契約成立してしまう時代の学習ゲーム【読めば身に付くネットリテラシー】",
+      "url": "https://internet.watch.impress.co.jp/docs/column/netliteracy/2112577.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-06-04T21:00:00.000Z",
+      "summary": "2022年4月に成年年齢が18歳へ引き下げられ、18歳以上は保護者の同意なく契約を結べるようになりました。一方で、18歳になると未成年者取消権を使えなくなったため、未成年であることを理由に契約を取り消すことはできません。スマートフォンからボタン1つで契約が成立してしまう時代に、副業・情報商材などのもうけ話や、サブスクの落とし穴、さらには闇バイトの募集なども含め、契約に関連するトラブルに遭わないため…",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "情報モラル",
+        "教育ニュース"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_7c83f3320a0a8c2d",
+      "title": "「稟議が通らない」はこうして解決せよ！　NISTフレームワークの「元に戻す」ための要件の多くを1台でカバーする新世代バックアップソリューションとは？[Sponsored]",
+      "url": "https://internet.watch.impress.co.jp/docs/topic/special/2107644.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-06-04T21:00:00.000Z",
+      "summary": "万が一のランサムウェアの被害で、いかに慌てず、迅速に、以前の状態に復旧できるか？ 現場の担当者が頭を悩ますバックアップの課題には、それに対してどのような仕組みを用意してどう運用するかという技術的な課題があるのはもちろんだが、それに加えて、組織の経営層に対していかにその重要性を訴求し、いかに予算と協力を引き出すのかというのも大きな課題となってくるだろう。",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "情報モラル",
+        "行政",
+        "文科省"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_2a1aa5460d2aadc1",
+      "title": "「この1年はAI戦国時代」　メルカリに学ぶ、AIガバナンス策定の勘所",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/05/news018.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-06-04T20:00:00.000Z",
+      "summary": "生成AIの業務利用が前提となり、AIを通じてビジネス価値をどう生み出すかが問われている一方で、「シャドーAI」をはじめとするリスクも指摘されている。先行企業はAIのリスクをどう受け止め、対策に乗り出しているのか。本稿では「AI-Native Company」への転換を宣言し、AIをフル活用するメルカリにインタビュー。AI活用・AIガバナンス策定のヒントを探る。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_80a9e60369a3ac9b",
+      "title": "アップル、App Storeの25年売上は1.4兆ドル　AIアプリが拡大",
+      "url": "https://www.watch.impress.co.jp/docs/news/2114646.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-06-04T14:48:17.000Z",
+      "summary": "アップルは4日、2025年に世界のApp Storeのエコシステムが1.4兆ドル(約224兆円)以上のデベロッパーの売上と販売実績をあげたと発表した。25年にはストアのトップアプリ100のうち40以上が消費者向けのAI機能を搭載しており、AI搭載アプリがより大きく成長しているという。",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_f4771b5b537be2c2",
@@ -524,22 +683,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_31787208c3e471a7",
-      "title": "【from Impress】IT仕事図鑑(2) “止まらない仕組み”をつくる「SRE＝サイト信頼性エンジニア」",
-      "url": "https://www.watch.impress.co.jp/docs/pa/impress/2112893.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-06-04T00:00:00.000Z",
-      "summary": "「ITの仕事」と聞くと、プログラマーやシステムエンジニアを思い浮かべる人が多いかもしれません。ですが実際のIT業界には、あまり知られていないものの、サービスや開発現場を支える“専門職”が数多く存在します。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_ab0a6396e4d9df47",
       "title": "長時間通話のストレスを軽減、装着しやすく高音質のカナル型Bluetooth片耳ヘッドセット2シリーズ、エレコムが発売",
       "url": "https://internet.watch.impress.co.jp/docs/news/2114223.html",
@@ -552,22 +695,6 @@
       "tags": [
         "インターネット",
         "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_d3f79b4d296215f9",
-      "title": "月から帰った「アルテミスII」その成果　トイレ問題はどう解決した？",
-      "url": "https://www.watch.impress.co.jp/docs/topic/2113874.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-06-03T23:20:00.000Z",
-      "summary": "NASAの有人月探査ミッション「Artemis II(アルテミス II)」は、2026年4月1日に米フロリダ州のケネディ宇宙センターからSLSロケットで打ち上げられました。アポロ計画以来初の有人月飛行ミッションとして、NASAからはリード・ワイズマン船長、パイロットのビクター・グローバー宇宙飛行士、ミッション・スペシャリストのクリスティーナ・コック宇宙飛行士、カナダからミッション・スペシャリストの…",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
       ],
       "priority_score": 50
     },
@@ -1192,24 +1319,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_f926cea16b9c7599",
-      "title": "LenovoのAndroidタブレットがAmazonでセール中！　12.1インチの「Lenovo Idea Tab Plus」は3万9800円",
-      "url": "https://internet.watch.impress.co.jp/docs/shopping/2113946.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-06-03T02:30:00.000Z",
-      "summary": "Amazon.co.jpでは現在、Lenovo製タブレットのセールが行われている。",
-      "starred": false,
-      "category": "dx",
-      "tags": [
-        "インターネット",
-        "セキュリティ",
-        "校務DX",
-        "GIGA"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_2d97b192893d5151",
       "title": "Microsoft、自社開発した7つのAIモデル発表　画像編集や音声認識も",
       "url": "https://www.itmedia.co.jp/news/articles/2606/03/news077.html",
@@ -1244,55 +1353,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_273bb01d0b50c860",
-      "title": "PFU、中堅企業向けパッケージ型IT運用サービス「情シスのOTOMO」販売、業務の属人化を解消　第1弾として「デバイス運用パッケージ」提供",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2113849.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-06-03T02:00:00.000Z",
-      "summary": "株式会社PFUは6月3日、主に中堅企業の情報システム部門（情シス）を想定したパッケージ型IT運用サービス「情シスのOTOMO」の販売を開始した。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_bdfdadd82a341537",
-      "title": "メールに企業ロゴ表示（BIMI）で、4割以上が「信頼できる・好印象」～GMOブランドセキュリティ調査",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2113967.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-06-03T01:45:00.000Z",
-      "summary": "GMOブランドセキュリティ株式会社は6月3日、「企業ロゴ付きメール（BIMI）に関するアンケート調査」の結果を発表した。",
-      "starred": false,
-      "category": "security",
-      "tags": [
-        "インターネット",
-        "セキュリティ",
-        "情報モラル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_b02ee3a83a921c1c",
-      "title": "DVD-R、BD-Rが安い！　ロジテックダイレクト製品がAmazonでセール中　DVD-Rが50枚1280円など、書き込み可能な光学メディアがパックで特売",
-      "url": "https://internet.watch.impress.co.jp/docs/shopping/2113944.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-06-03T01:30:00.000Z",
-      "summary": "Amazon.co.jpのロジテックダイレクト（Logitec Direct）ストアページでは、同社のBD/DVDメディアがタイムセール中となっている。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_92f2cbe90eac029d",
       "title": "トランプ米大統領、AI安全保障に関する大統領令に署名　最先端モデルを公開30日前に政府が検査可能に",
       "url": "https://www.itmedia.co.jp/news/articles/2606/03/news068.html",
@@ -1308,22 +1368,6 @@
         "LLM",
         "セキュリティ",
         "情報モラル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_6a980befdbd3dbdc",
-      "title": "エレコム、WAN/LAN 10Gbps対応のWi-Fi 7トライバンドルーター「WRC-BE100XS-BH」発売",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2113948.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-06-03T00:15:00.000Z",
-      "summary": "エレコム株式会社は、WAN/LANポートが10Gbpsに対応したWi-Fi 7トライバンドルーター「WRC-BE100XS-BH」を、6月上旬に発売する。市場想定価格は5万4780円。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
       ],
       "priority_score": 50
     },
@@ -1354,44 +1398,6 @@
       "source_name": "ITmedia AI+",
       "published_at": "2026-06-02T23:00:00.000Z",
       "summary": "ある調査によると、経営幹部の95％は「従業員は責任を持ってAIを利用している」と確信しているが、シャドーAIを使っている従業員は過半数に上るという。さらに、シャドーAIを利用している従業員の中には情報漏えいにつながりかねない「危険な使い方」をしている人も一定数いる。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_ab14be53c74830e2",
-      "title": "Microsoft、AndroidベースのAIエージェント基盤「Solara」発表　Snapdragon搭載のバッジ型端末も披露",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/03/news066.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-06-02T22:49:00.000Z",
-      "summary": "Microsoftは「Build 2026」で、AIエージェントの実行に特化した新プラットフォーム「Project Solara」を発表した。OSにはWindowsではなくAOSPベースのOSを採用。Qualcommと共同開発した社員証のようなデバイスと、MediaTekと共同開発した据え置き型デバイスのリファレンスを公開し、主要企業とのパイロット運用を開始する。",
-      "starred": false,
-      "category": "dx",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "校務DX",
-        "GIGA",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_d5f93a629e170614",
-      "title": "AI需要で半導体不足は「しばらく続く」　PCメーカー、デルの対応策は？",
-      "url": "https://www.itmedia.co.jp/business/articles/2606/03/news017.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-06-02T22:00:00.000Z",
-      "summary": "AI需要による半導体不足は「しばらく続く」――PCメーカーのデル・テクノロジーズはこう予測する。同社はこの難局をどう乗り切るのか。",
       "starred": false,
       "category": "ai",
       "tags": [
