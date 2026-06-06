@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T22:10:59.510Z",
+  "generated_at": "2026-06-06T06:32:30.268Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-06-05T22:10:49.240Z",
+      "published_at": "2026-06-06T06:32:18.464Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-06-05T22:10:49.240Z",
+      "published_at": "2026-06-06T06:32:18.464Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-06-05T22:10:49.240Z",
+      "published_at": "2026-06-06T06:32:18.464Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,91 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_20cab64031892435",
+      "title": "ミズノ、サッカーブーツのDNAを受け継いだスニーカー「MORELIA LS」",
+      "url": "https://www.watch.impress.co.jp/docs/news/2114579.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-06-06T01:00:00.000Z",
+      "summary": "ミズノは、フットボールブーツ「MORELIA(モレリア)」のDNAを受け継いだストリートスニーカー「MORELIA LS」を6月6日に発売する。価格は20,900円。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_dbf1f5cc2058817c",
+      "title": "耳をふさがないのに雑音が静かに　「Shokz OpenFit Pro」で試す新感覚オープンイヤー【ミニレビュー】",
+      "url": "https://www.watch.impress.co.jp/docs/review/minireview/2112640.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-06-06T00:30:00.000Z",
+      "summary": "骨伝導イヤフォンやオープンイヤー型イヤフォンを展開するShokzから、フラッグシップモデル「Shokz OpenFit Pro」が発売されました。耳をふさがない開放感と、これまでにない音質や新機能を両立させたという本機。今回はShokzから実機提供を受けたので、日常使いから音楽鑑賞まで、じっくりと使い込んで見えてきたリアルな使用感をお届けします。価格は39,880円です。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_72624758522ee55d",
+      "title": "ファミマATMへの期待　日常のATMの未来",
+      "url": "https://www.watch.impress.co.jp/docs/topic/watchplus/2114644.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-06-06T00:00:00.000Z",
+      "summary": "Impress Watchニュースレターに掲載した記事です。ニュースレターは無料で、毎週編集部員が会員向けのコラムなどをお送りしています。登録はこちらから。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_08a651db55886f52",
+      "title": "カシオ、デジタル+レトロモダンケースの「A140」",
+      "url": "https://www.watch.impress.co.jp/docs/news/2113053.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-06-05T23:00:00.000Z",
+      "summary": "カシオ計算機は、「CASIO CLASSIC」の新作として、レトロモダンなデザインの「A140」シリーズ3機種を発売した。クオーツ式の腕時計で、価格は「A140WE-2AJF」「A140WE-8AJF」が11,000円、「A140WEG-9AJF」が13,750円。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_ba78be9b5c917a1a",
+      "title": "英ケンブリッジ大学、AIが設計したワクチンの臨床試験に成功　未知の変異株にも備える“万能型”",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2606/06/2000000065/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-06-05T13:27:33.000Z",
+      "summary": "ケンブリッジ大学は、AIが設計した抗原を用いる“ユニバーサルワクチン”の初の臨床試験に成功したと発表した。サルベコウイルス群のゲノム配列を機械学習で解析し、グループ共通の“スーパー抗原”を設計した。健康な39人に投与し、安全性と免疫応答を確認した。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用",
+        "セキュリティ",
+        "情報モラル",
+        "教育ニュース"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_f416a3591be61433",
@@ -77,7 +162,7 @@
     },
     {
       "id": "item_73c219a33ac9ac2b",
-      "title": "青山地域最大規模　38階タワーや1haの樹林帯など「北青山三丁目地区」再開発",
+      "title": "青山地域最大　38階タワーや1haの樹林帯など「北青山三丁目地区」再開発",
       "url": "https://www.watch.impress.co.jp/docs/news/2114926.html",
       "source_id": "impress_watch",
       "source_name": "Impress Watch",
@@ -823,22 +908,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_34cb25a38c1bf7ce",
-      "title": "コクヨ、透明ボディの文具シリーズ　携帯ハサミ・ステープラー・テープのり",
-      "url": "https://www.watch.impress.co.jp/docs/news/2114189.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-06-04T23:00:00.000Z",
-      "summary": "コクヨは、「針なしステープラー＜ハリナックス＞(コンパクトアルファ)」「2Way携帯ハサミ＜ハコアケ＞」「テープのり＜ドットライナー＞」のボディを透明にした新シリーズ「TRANSPARENT MECHANISM(トランスペアレント メカニズム)」を6月10日に発売する。価格はハリナックスとハコアケが1,500円(税別)、ドットライナーが550円(税別)。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_9eece4a9ce2e893e",
       "title": "薄型でわずか50g、でも7in1の多機能USBハブ、サンワサプライが発売　ACアダプターを接続して最大90Wの給電も可能",
       "url": "https://internet.watch.impress.co.jp/docs/news/2114623.html",
@@ -887,22 +956,6 @@
         "生成AI",
         "AI",
         "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_05f69b9fef4be777",
-      "title": "東京国際フォーラム、29年1月から休館　大規模改修のため",
-      "url": "https://www.watch.impress.co.jp/docs/news/2114650.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-06-04T22:00:00.000Z",
-      "summary": "東京都は4日、2029年1月から東京・有楽町の「東京国際フォーラム」を休館する。期間は29年1月1日から30年3月31日までの15カ月間で、ホール等の全施設・全店舗と駐車場などが休館となる。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
       ],
       "priority_score": 50
     },
@@ -1015,7 +1068,7 @@
     },
     {
       "id": "item_7c83f3320a0a8c2d",
-      "title": "「稟議が通らない」はこうして解決せよ！　NISTフレームワークの「元に戻す」ための要件の多くを1台でカバーする新世代バックアップソリューションとは？[Sponsored]",
+      "title": "ランサムウェア対策に必要な「サイバーリカバリー」とは？　従来の災害対策とは異なる要件と、それをカバーするための対応方法を解説[Sponsored]",
       "url": "https://internet.watch.impress.co.jp/docs/topic/special/2107644.html",
       "source_id": "internet_watch",
       "source_name": "INTERNET Watch",
@@ -1109,24 +1162,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_80a9e60369a3ac9b",
-      "title": "アップル、App Storeの25年売上は1.4兆ドル　AIアプリが拡大",
-      "url": "https://www.watch.impress.co.jp/docs/news/2114646.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-06-04T14:48:17.000Z",
-      "summary": "アップルは4日、2025年に世界のApp Storeのエコシステムが1.4兆ドル(約224兆円)以上のデベロッパーの売上と販売実績をあげたと発表した。25年にはストアのトップアプリ100のうち40以上が消費者向けのAI機能を搭載しており、AI搭載アプリがより大きく成長しているという。",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_a8f1402cfbdfed21",
       "title": "AIがAIを作る時代の到来か──Anthropicが示す「再帰的自己改善」の実態とリスク",
       "url": "https://www.itmedia.co.jp/aiplus/article/2606/05/2000000061/",
@@ -1141,22 +1176,6 @@
         "AI",
         "LLM",
         "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_f4771b5b537be2c2",
-      "title": "楽天市場・楽天トラベル「スーパーSALE」開始　エアコン半額・宿泊35%オフ",
-      "url": "https://www.watch.impress.co.jp/docs/news/2114515.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-06-04T11:00:00.000Z",
-      "summary": "楽天市場・楽天トラベルは、6月4日20時から「スーパーSALE」をスタートしました。楽天市場では11日1時59分まで、楽天トラベルでは20日23時59分まで、多くのセールが実施されます。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
       ],
       "priority_score": 50
     },
@@ -1414,24 +1433,6 @@
       "source_name": "ITmedia AI+",
       "published_at": "2026-06-03T20:27:06.000Z",
       "summary": "Cognitionは、AIコードエディタ「Windsurf」を「Devin Desktop」に刷新した。エージェント管理機能を標準搭載し、OpenAIの「Codex」やAnthropicの「Claude Agent」など複数のAIエージェントを一元管理できる。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_f182336de739420d",
-      "title": "Claude Opus 4.8は忖度（そんたく）しません　“正直すぎる”のも善しあし？",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/04/news012.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-06-03T20:00:00.000Z",
-      "summary": "Claude Opus 4.8は、性能向上だけでなく「正直さ」の改善が大きな特徴だ。本稿では、忖度（そんたく）しないAIがなぜ評価を分けているのか、公式情報と利用者目線から整理する。",
       "starred": false,
       "category": "ai",
       "tags": [
