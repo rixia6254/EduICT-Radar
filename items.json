@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06T21:58:22.135Z",
+  "generated_at": "2026-06-07T07:07:43.363Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-06-06T21:58:12.460Z",
+      "published_at": "2026-06-07T07:07:34.347Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-06-06T21:58:12.460Z",
+      "published_at": "2026-06-07T07:07:34.347Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-06-06T21:58:12.460Z",
+      "published_at": "2026-06-07T07:07:34.347Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -52,6 +52,44 @@
         "文科省",
         "制度",
         "教育ニュース"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_fccc394f6bf728e6",
+      "title": "日建学院、「2026年度2級土木施工管理技士 前期一次検定」本日17時頃から採点結果を配信",
+      "url": "https://ict-enews.net/2026/06/07nikken/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-06-07T04:11:50.000Z",
+      "summary": "資格取得支援スクールの日建学院を運営する建築資料研究社は、6月7日に実施される「2026年度（令和8年度）2級土木施工管理技士 前期一次検定」において、無料で採点結果をお知らせする […]",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_a651147aa898aee0",
+      "title": "ChatGPTに「ロックダウンモード」　プロンプトインジェクションによる情報漏えい対策",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/07/news022.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-06-06T22:22:00.000Z",
+      "summary": "OpenAIは、ChatGPTに新たなセキュリティ機能「ロックダウンモード」の提供を開始した。プロンプトインジェクション攻撃によるデータ流出リスクを抑えるためのオプションで、有効にするとWebブラウジングや外部サービスへの接続機能が制限される。機密データを扱い、厳格な保護を求める個人や組織を想定している。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用",
+        "セキュリティ",
+        "情報モラル"
       ],
       "priority_score": 60
     },
@@ -840,24 +878,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_700a28cfb42d2626",
-      "title": "AORLYM、キッズ向けAndroidタブレット「AP10KID」を1万2900円で販売",
-      "url": "https://ict-enews.net/2026/06/05aorly/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-06-04T23:36:54.000Z",
-      "summary": "AORLYMは、子ども向けAndroidタブレット「AP10KID」を楽天市場で期間限定の特別価格で販売する。 セール期間は6月4日から11日までで、通常価格1万6900円（税込） […]",
-      "starred": false,
-      "category": "dx",
-      "tags": [
-        "教育ニュース",
-        "ICT",
-        "校務DX",
-        "GIGA"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_f9d5f477cde27afd",
       "title": "【鈴木淳也のPay Attention】AI同士が超高速取引　まもなく訪れる「エージェンティック・コマース」の世界",
       "url": "https://www.watch.impress.co.jp/docs/series/suzukij/2114101.html",
@@ -1422,24 +1442,6 @@
         "LLM",
         "教材",
         "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_132a57d8e40071cb",
-      "title": "さらば、Windsurf　「Devin Desktop」にリニューアル、ClaudeもCodexも一元管理",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2606/04/2000000057/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-06-03T20:27:06.000Z",
-      "summary": "Cognitionは、AIコードエディタ「Windsurf」を「Devin Desktop」に刷新した。エージェント管理機能を標準搭載し、OpenAIの「Codex」やAnthropicの「Claude Agent」など複数のAIエージェントを一元管理できる。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
       ],
       "priority_score": 50
     },
