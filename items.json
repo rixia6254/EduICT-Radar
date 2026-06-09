@@ -1,32 +1,14 @@
 {
-  "generated_at": "2026-06-09T12:09:59.313Z",
+  "generated_at": "2026-06-09T22:18:28.361Z",
   "total": 103,
   "items": [
-    {
-      "id": "item_21f8651de3f2baea",
-      "title": "文部科学省ホームページトップはこちら",
-      "url": "https://www.mext.go.jp/",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-06-09T12:09:47.836Z",
-      "summary": "",
-      "starred": false,
-      "category": "admin",
-      "tags": [
-        "行政",
-        "文科省",
-        "制度",
-        "教育ニュース"
-      ],
-      "priority_score": 60
-    },
     {
       "id": "item_bd1951ae70f98dac",
       "title": "サイトマップはこちら",
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-06-09T12:09:47.836Z",
+      "published_at": "2026-06-09T22:18:17.635Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +25,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-06-09T12:09:47.836Z",
+      "published_at": "2026-06-09T22:18:17.635Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +36,72 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_21f8651de3f2baea",
+      "title": "文部科学省ホームページトップはこちら",
+      "url": "https://www.mext.go.jp/",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-06-09T22:18:17.634Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_55c3dbd858394b5b",
+      "title": "サイフィックス、1.6Tbps対応MCF光インターコネクトのマルチベンダー相互接続を実証。AIデータセンター向け実用化へ前進",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2115565.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-06-09T22:00:00.000Z",
+      "summary": "株式会社サイフィックス（SiPhx）は6月9日、株式会社フジクラ、住友電気工業株式会社、Corning Incorporated（コーニング）の3社が提供するマルチコアファイバー（MCF）と、SiPhx製のMCF対応光トランシーバーとのマルチベンダー相互接続検証に成功したと発表した。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_1e4d057f992cc229",
+      "title": "Windows Hello ESS・パスキーに対応したUSB指紋リーダー2種、エレコムが発売　安全性の高い「MoC方式」採用",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2115616.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-06-09T21:30:00.000Z",
+      "summary": "エレコム株式会社は、Windows対応のUSB指紋リーダー2種を6月上旬に発売する。ラインアップと市場想定価格は、ドングルモデルの「CR-FI01UBK」が6800円、ケーブル接続の独立モデル「CR-FI50UBK」が8980円。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_17051b3626b2b9ef",
+      "title": "数ミリ秒の差が対戦格闘で効く！ 最強ゲーミングルーター「ROG Rapture GT-BE19000AI」[Sponsored]",
+      "url": "https://internet.watch.impress.co.jp/docs/topic/special/2110609.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-06-09T21:00:00.000Z",
+      "summary": "ASUS製ゲーミングWi-Fiルーターのハイエンドとして投入される「ROG Rapture GT-BE19000AI」。製品名にAIと入っているとおり、AI処理専用プロセッサーであるNPUを搭載している。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_24b8e46c4100e33f",
@@ -68,6 +116,26 @@
       "tags": [
         "テクノロジー",
         "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_edeeb57302ead75e",
+      "title": "Anthropic、最上位「ミュトス」級モデルを一般提供　悪用防ぐ保護機能を備えた「Claude Fable 5」",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2606/10/2000000073/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-06-09T10:34:43.000Z",
+      "summary": "米Anthropicは6月9日（現地時間）、新AIモデル「Claude Fable 5」の一般提供を始めた。同社がOpusクラスを上回る能力を持つと位置付ける最上位の「Mythos（ミュトス）クラス」に属するモデルで、これまでセキュリティ上の懸念から一般公開を見送ってきた水準の能力を、悪用を防ぐ保護機能（セーフガード）とともに初めて全ユーザーに開放した。同時に、保護機能の一部を解除した上位版「Cl…",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用",
+        "セキュリティ",
+        "情報モラル"
       ],
       "priority_score": 50
     },
@@ -1319,22 +1387,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_acd205d2fc578838",
-      "title": "Amazonで「Kindle本 科学・テクノロジー特集」、最大50％OFF　「スーパーユーザーなら知っておくべきLinuxシステムの仕組み」が1980円など",
-      "url": "https://internet.watch.impress.co.jp/docs/shopping/2115106.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-06-07T23:50:00.000Z",
-      "summary": "Amazon.co.jpのKindleストアでは、6月15日までの期間限定で「Kindle本 科学・テクノロジー特集」が開催されている。2000冊以上の電子書籍が最大50％OFFで販売中だ。その一環として、コンピュータ・IT関連書が多数ラインアップされている。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_c07c3c4a37ba6963",
       "title": "LINEヤフー、AI強化へ若手エンジニア募集　新卒・第二新卒、給与に一律の上限なし",
       "url": "https://www.itmedia.co.jp/aiplus/article/2606/08/2000000067/",
@@ -1348,22 +1400,6 @@
         "生成AI",
         "AI",
         "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_79e07b5fa6531639",
-      "title": "SwitchBot、AIが「何が起きたのか」を言葉で知らせる「屋外パンチルトカメラ5MP」発売　発売記念キャンペーンで15％OFF",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2114885.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-06-07T23:30:00.000Z",
-      "summary": "SWITCHBOT株式会社は6月5日、映像の内容を分析するAI機能に対応したネットワークカメラ「SwitchBot 屋外パンチルトカメラ5MP」を発売した。市場想定価格は8980円。Amazon.co.jpの公式ストアでは、6月15日まで15％オフの7674円で販売されている。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
       ],
       "priority_score": 50
     },
@@ -1385,24 +1421,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_3b5db835c516d2b2",
-      "title": "ネット広告で「安い」「即日対応」などとうたうエアコン修理業者とのトラブルに、国民生活センターが注意喚起",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2114794.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-06-07T23:00:00.000Z",
-      "summary": "独立行政法人国民生活センターは、「インターネットで検索した即日対応の業者に修理を依頼し、高額な料金を支払ったが直っていなかった」など、エアコンの修理に関するトラブルについて注意喚起を実施した。",
-      "starred": false,
-      "category": "admin",
-      "tags": [
-        "インターネット",
-        "セキュリティ",
-        "行政",
-        "文科省"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_09088cb2a3b31cc4",
       "title": "なぜ姫路市の救急病院AIチャットは、2週間で正答率最高90％を出せたのか？",
       "url": "https://kn.itmedia.co.jp/kn/articles/2606/08/news036.html",
@@ -1419,24 +1437,6 @@
         "AI活用"
       ],
       "priority_score": 60
-    },
-    {
-      "id": "item_8836850466d3e3ea",
-      "title": "NEC、富士通に先手!?　日立が「Claude Mythos」アクセス権を取得した背景",
-      "url": "https://www.itmedia.co.jp/business/articles/2606/08/news058.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-06-07T22:00:00.000Z",
-      "summary": "日立製作所が、Anthropicの先進AI「Claude Mythos」のアクセス権を取得した。Anthropicを巡っては、NECや富士通も協業を発表している。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 50
     },
     {
       "id": "item_52f8b513de486c26",
