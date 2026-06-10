@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T07:11:23.764Z",
+  "generated_at": "2026-06-10T12:29:11.166Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-06-10T07:11:13.502Z",
+      "published_at": "2026-06-10T12:29:00.302Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-06-10T07:11:13.502Z",
+      "published_at": "2026-06-10T12:29:00.302Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-06-10T07:11:13.502Z",
+      "published_at": "2026-06-10T12:29:00.302Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,204 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_8c9ef1c425787803",
+      "title": "ChatGPTで広告表示へ　無料・Goプランが対象　6月22日にポリシー更新",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/10/news128.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-06-10T11:50:00.000Z",
+      "summary": "米OpenAIは6月10日、「ChatGPT」の広告に関する規定を追加したプライバシーポリシーを改定した。無料プラン、「Go」プランが対象となる。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_a68c048dde4fbae1",
+      "title": "JR九州、線路内対応の自律飛行ドローン技術　トンネルモードも",
+      "url": "https://www.watch.impress.co.jp/docs/news/2116142.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-06-10T11:00:00.000Z",
+      "summary": "JR九州とセンシンロボティクスは、1台のドローンで線路内を連続的に飛行可能とする飛行制御技術の開発・検証を行なった。鉄道特有の多様な環境条件に対応するため、複数の自律飛行モードを組み合わせて実現した。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_8cf288c887a0d336",
+      "title": "AIエージェントもフィッシング詐欺に引っかかる？　米セキュリティ企業がOpenClawで検証　結果は……",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/10/news126.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-06-10T10:42:00.000Z",
+      "summary": "AIエージェントが話題になる昨今。ローカル環境で動作するエージェントにPCを操作させ、作業を効率化しようと試みる人も散見される。ただ、AIエージェントがフィッシング詐欺に引っ掛かったら、大変なことになるかもしれない。米セキュリティ企業Varonisが6月9日（現地時間）に発表した検証レポートによれば、エージェントもフィッシングに引っかかる場合があったという。",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_992e405037dccaa8",
+      "title": "Apple「Siri AI」、13億台超が“利用不能”か？　新機能の拡大阻む“弱点”とは",
+      "url": "https://www.itmedia.co.jp/business/articles/2606/10/news117.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-06-10T09:58:00.000Z",
+      "summary": "米Morgan Stanleyは調査レポートで、米Appleが新たに発表した「Siri AI」について、新機能の拡大を阻む、ある弱点を指摘した。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_acaa30eda127eaff",
+      "title": "LUUPで死亡事故　警察には全面協力",
+      "url": "https://www.watch.impress.co.jp/docs/news/2116127.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-06-10T09:35:52.000Z",
+      "summary": "LUUPは、6月2日に東京都北区で発生した、自動車と特定小型原動機付自転車の事故について、同社のサービス利用者が死亡したことを明らかにした。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_514a5049d6103c2a",
+      "title": "アップル、EUで「Siri AI」提供見送り　欧州委は「アップルの判断」と反論",
+      "url": "https://www.watch.impress.co.jp/docs/news/2116084.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-06-10T08:41:40.000Z",
+      "summary": "Appleは、Apple Intelligenceを活用したSiriの最新バージョン「Siri AI」について、年内に提供開始されるiOS 27とiPadOS 27のリリース時点では、EU域内のiPhoneとiPad向けに提供しないと発表した。デジタル市場法(DMA)への対応を理由に挙げており、現時点でEU域内のiOSとiPadOS向け提供のめどは立っていない。",
+      "starred": false,
+      "category": "dx",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "校務DX",
+        "GIGA"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_149b7fa58d4b63e1",
+      "title": "LINEから加入できる「Yahoo!ほけん」　保険金請求まで完結",
+      "url": "https://www.watch.impress.co.jp/docs/news/2116095.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-06-10T08:32:50.000Z",
+      "summary": "LINEヤフーとPayPay保険サービスは、「LINE」アプリから保険の加入から保険金請求までをシームレスに行なえる「Yahoo!ほけん」の提供を開始した。専用アプリのダウンロードやID・パスワードの設定を行なうことなく、「LINE」上で保険手続きを完結できる。まずは、熱中症のリスクに備える「熱中症お見舞い金(月額型・期間選択型)」を含む2商品の提供を開始している。",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "セキュリティ",
+        "情報モラル",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_be218ffb7de77684",
+      "title": "「Siri AI」の進化に「Geminiそのまま」の誤解――現地取材で見えた“新生Apple Intelligence”の全貌",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/10/news122.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-06-10T08:30:00.000Z",
+      "summary": "「GeminiがApple Intelligenceの正体」は誤解だ。WWDC 2026の現地取材で見えてきた第3世代は、200億パラメータのAIをiPhoneで動かす革新技術、Google Cloud＋NVIDIAによるインフラ刷新、そして静かに変わる「無料」の定義まで、想像以上に深い変化を遂げていた。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_31a41d836894b728",
+      "title": "生成AI台頭、経営コンサルの倒産・廃業が過去最多ペース　“補助金頼み”限界に",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2606/10/2000000077/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-06-10T08:01:47.000Z",
+      "summary": "「専門性による差別化を図れず、労働集約的・制度依存的なビジネスから脱却できない事業者は、生成AIの台頭による下押し圧力に耐えきれず、今後さらに淘汰が加速する」",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用",
+        "行政",
+        "文科省"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_c550a55a5cb11fc7",
+      "title": "てんや新業態、おにぎり天どん専門店「おにどん」",
+      "url": "https://www.watch.impress.co.jp/docs/news/2116075.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-06-10T07:56:28.000Z",
+      "summary": "ロイヤルグループのロイヤルコントラクトサービスは、てんやの新業態として、おりぎり天どん専門店「おにどん」をJR御茶ノ水駅「エキュートエディション御茶ノ水」内に、7月7日にオープンする。同日、同施設にクラフトバーガー専門店「JB's TOKYO」もオープンする。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_f346aeb9d19d8a35",
+      "title": "Yahoo!フリマ、推し活「グッズ交換」強化　情報収集・交換・売買を簡単に",
+      "url": "https://www.watch.impress.co.jp/docs/news/2116031.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-06-10T07:25:49.000Z",
+      "summary": "LINEヤフーは、フリマアプリ「Yahoo!フリマ」のグッズ交換機能における「推し登録」機能を拡充した。推し登録と連動した3つのタブを新設し、推し活に関する情報収集から交換、売買までをシームレスに行なえるようにした。",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_dbd67b3f1b5939cf",
@@ -917,24 +1115,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_4fa2230ef76f2d98",
-      "title": "アンソロピック、“ミュトス級”最上位モデル「Claude Fable 5」公開",
-      "url": "https://www.watch.impress.co.jp/docs/news/2115813.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-06-09T22:35:01.000Z",
-      "summary": "Anthropic(アンソロピック)は9日、最上位の大規模言語モデル(LLM)となる「Claude Fable 5(フェイブル5)」を提供開始した。同社が4月に発表した「Claude Mythos Preview」(ミュトス)と同一の基盤モデルだが、安全対策を追加して一般公開する。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "生成AI",
-        "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_d98297e05b58e1ab",
       "title": "エレコム、20000mAhで67W出力の半固体電池採用モバイルバッテリー「DE-C87-20000BK」発売",
       "url": "https://internet.watch.impress.co.jp/docs/news/2115722.html",
@@ -1077,54 +1257,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_24b8e46c4100e33f",
-      "title": "SpaceXがいよいよ株式公開　個人も参加できる大型上場",
-      "url": "https://www.watch.impress.co.jp/docs/topic/2115709.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-06-09T11:00:00.000Z",
-      "summary": "米国の民間宇宙開発企業「SpaceX」が新規株式公開(IPO)を6月12日に予定しています。SpaceXの正式名称は、「Space Exploration Technologies Corp.」。宇宙開発だけでなく衛星通信事業やAIなど多岐にわたる事業展開が想定され、期待度の高い企業の一つです。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_81877e471e62bcf1",
-      "title": "H3ロケット打上げ再開　6月12日に30形態試験機",
-      "url": "https://www.watch.impress.co.jp/docs/news/2115734.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-06-09T10:10:26.000Z",
-      "summary": "JAXAは、H3ロケット6号機(30形態試験機)の打上げを6月12日に実施する。打上げ予定時間帯は9時53分59秒～11時52分46秒。打上げ予備期間は6月13日～30日と7月9日～31日。場所は種子島宇宙センター 大型ロケット発射場。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_b58cd5e0a8d4ba92",
-      "title": "アキレス、「瞬足」のChromeコラボモデル製作　25名にプレゼント",
-      "url": "https://www.watch.impress.co.jp/docs/news/2115726.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-06-09T09:34:30.000Z",
-      "summary": "アキレスは9日、子どものための靴「瞬足」とGoogle Chromeのキャラクター「くろーむ」によるコラボレーションモデル「くろーむブースター」を製作した。販売は行なわず、Google Japan公式Xアカウントにて25足限定のプレゼントキャンペーンとして展開する。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_ef060b15a709bd45",
       "title": "北海道医療センター・北海道がんセンターで、患者の個人情報を含むHDDが外部に流通。廃棄処理業者が破砕せず",
       "url": "https://internet.watch.impress.co.jp/docs/news/2115720.html",
@@ -1140,38 +1272,6 @@
         "情報モラル",
         "行政",
         "文科省"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_6cb07c5b5c2ea31f",
-      "title": "JR東、夜行特急「ルナ・アズール」　寝台列車への想いを引き継ぐ",
-      "url": "https://www.watch.impress.co.jp/docs/news/2115683.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-06-09T08:35:07.000Z",
-      "summary": "JR東日本は、2027年度に導入予定の夜行運転に対応する新たな特急列車の名称を「ルナ・アズール」に決定した。あわせて車体ロゴを発表した。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_bd5ff902c871574d",
-      "title": "ローソン、値引き商品購入で寄付　子どもにおにぎり提供",
-      "url": "https://www.watch.impress.co.jp/docs/news/2115688.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-06-09T08:23:17.000Z",
-      "summary": "ローソンは、食品ロス削減プログラム「FOOD GOOD SMILE」の一環として、値引き商品の購入が寄付につながる施策の第3弾を、全国のローソン店舗(約14,000店、ローソンストア100を除く)で開始した。期間は8月31日まで。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
       ],
       "priority_score": 50
     },
@@ -1303,41 +1403,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_a669d5795de7ab4b",
-      "title": "Google「AI Plus」4割値下げ、月725円に　ストレージ倍増、価格攻勢でシェア拡大へ",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/09/news077.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-06-09T02:07:00.000Z",
-      "summary": "同社は上位プランの「AI Pro」や「AI Ultra」でも値下げや特典追加を相次いで実施しており、「Plus」の改定で全3プランのてこ入れが一巡した。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_fd4142e4cf342b34",
-      "title": "個人向け「Gemini」値下げ　「Google AI Plus」が月額1200円→725円に　ストレージも倍増",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2606/09/2000000070/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-06-09T01:51:23.000Z",
-      "summary": "米Googleは、AIサービスの個人向けサブスクリプションプラン「Google AI Plus」を値下げすると発表した。月額を1200円から725円に引き下げる。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_b32f5db1528808c7",
       "title": "HP（ヒューレット・パッカード）のBD/DVD/CDメディアがAmazonでセール中！　繰り返し録画対応のBD-RE×50枚が2254円、DVD-R×50枚が954円など",
       "url": "https://internet.watch.impress.co.jp/docs/shopping/2115472.html",
@@ -1350,60 +1415,6 @@
       "tags": [
         "インターネット",
         "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_2716a18f4f67ca13",
-      "title": "OpenAIがIPO申請を発表　時期は未定",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/09/news074.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-06-09T01:25:00.000Z",
-      "summary": "ChatGPTを手がける米OpenAIは6月8日（現地時間）、米国での新規株式公開（IPO）を内密に申請していたことを発表した。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 60
-    },
-    {
-      "id": "item_4385a85c8d8b6953",
-      "title": "Apple、EU当局を批判「どの解決策も受け入れず」　「Siri AI」EUのiPhone・iPadで提供見送り",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/09/news069.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-06-09T00:33:00.000Z",
-      "summary": "EU側が求めるデジタル市場法（DMA）への対応について、Appleが提示した解決策を欧州委員会がすべて拒否したためという。",
-      "starred": false,
-      "category": "dx",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "校務DX",
-        "GIGA"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_b840e08d8321f2e2",
-      "title": "コンサルの品質、なぜ「バラつく」のか？　ガートナーが背景を解説",
-      "url": "https://www.itmedia.co.jp/enterprise/articles/2606/08/news066.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-06-08T23:00:00.000Z",
-      "summary": "コンサルティングサービスを利用する国内企業のうち、「期待以上」の成果を実感する企業は半数に満たない。最大の不満要因である「品質のバラつき」はなぜ発生するのか。顧客企業が取るべき手立てとは。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
       ],
       "priority_score": 50
     },
