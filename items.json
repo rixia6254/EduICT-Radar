@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-06-11T08:06:23.649Z",
+  "generated_at": "2026-06-11T12:50:22.566Z",
   "total": 103,
   "items": [
+    {
+      "id": "item_21f8651de3f2baea",
+      "title": "文部科学省ホームページトップはこちら",
+      "url": "https://www.mext.go.jp/",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-06-11T12:50:12.664Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
     {
       "id": "item_bd1951ae70f98dac",
       "title": "サイトマップはこちら",
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-06-11T08:06:12.647Z",
+      "published_at": "2026-06-11T12:50:12.664Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -25,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-06-11T08:06:12.647Z",
+      "published_at": "2026-06-11T12:50:12.664Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -38,22 +56,88 @@
       "priority_score": 60
     },
     {
-      "id": "item_21f8651de3f2baea",
-      "title": "文部科学省ホームページトップはこちら",
-      "url": "https://www.mext.go.jp/",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-06-11T08:06:12.646Z",
-      "summary": "",
+      "id": "item_16e146ba7e59b6de",
+      "title": "三井不動産、エントランスも玄関も「オール顔認証」の分譲マンション",
+      "url": "https://www.watch.impress.co.jp/docs/news/2116491.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-06-11T11:00:00.000Z",
+      "summary": "三井不動産レジデンシャルは、エントランスから各住戸玄関まで顔認証のみでセキュリティ解除を完結する「オール顔認証」を導入した新築分譲マンション「パークホームズ船橋」を開発する。規模は15階建て、総戸数は121戸。竣工は28年1月下旬、入居開始は同年5月下旬予定。",
       "starred": false,
-      "category": "admin",
+      "category": "security",
       "tags": [
-        "行政",
-        "文科省",
-        "制度",
-        "教育ニュース"
+        "テクノロジー",
+        "デジタル",
+        "セキュリティ",
+        "情報モラル"
       ],
-      "priority_score": 60
+      "priority_score": 50
+    },
+    {
+      "id": "item_72ea4bfcf8a6b191",
+      "title": "VisaとOpenAI、AIエージェント決済で提携　安全な取引基盤を構築",
+      "url": "https://www.watch.impress.co.jp/docs/news/2116479.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-06-11T09:48:27.000Z",
+      "summary": "VisaとOpenAIは、AIエージェントが開始する決済を安全に処理する仕組みの構築で提携する。OpenAIのサービスにVisaの決済機能を統合し、開発者や加盟店がエージェント経由のVisa決済を利用できるようにする。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "生成AI",
+        "AI活用"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_67fa771506f4efc0",
+      "title": "NTT3社が衛星インターネット「Amazon Leo」再販　ドコモ網でも活用",
+      "url": "https://www.watch.impress.co.jp/docs/news/2116474.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-06-11T09:17:15.000Z",
+      "summary": "NTTは、グループ3社が「Amazon Leo」の再販事業者契約を締結したと発表した。法人と官公庁向けに関連サービスを提供する方針。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_bc82d9359d45c79f",
+      "title": "NTTとOIST、東シナ海で水蒸気観測　九州の線状降水帯予測へ",
+      "url": "https://www.watch.impress.co.jp/docs/news/2116463.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-06-11T08:42:46.000Z",
+      "summary": "NTTと沖縄科学技術大学院大学(OIST)は気象研究所と連携し、東シナ海で海上の水蒸気観測を開始する。気象衛星では捉えにくい台風直下や線状降水帯周辺のデータを直接収集し、九州地方へ流れ込む暖かく湿った空気の把握や、線状降水帯の発生・発達メカニズムの解明、雨量予測の精度向上を目指す。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_2167334605f04889",
+      "title": "ドコモとタイミー、金融サービスで協業　住信SBIネット銀のBaaS活用",
+      "url": "https://www.watch.impress.co.jp/docs/news/2116448.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-06-11T08:08:07.000Z",
+      "summary": "NTTドコモとタイミー、住信SBIネット銀行は11日、金融領域を中心とする協業に向け、基本合意書を締結し、今後具体的なサービス設計に向けた検討を本格化すると発表した。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_9519a65d2de39b4b",
@@ -1202,44 +1286,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_514a5049d6103c2a",
-      "title": "アップル、EUで「Siri AI」提供見送り　欧州委は「アップルの判断」と反論",
-      "url": "https://www.watch.impress.co.jp/docs/news/2116084.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-06-10T08:41:40.000Z",
-      "summary": "Appleは、Apple Intelligenceを活用したSiriの最新バージョン「Siri AI」について、年内に提供開始されるiOS 27とiPadOS 27のリリース時点では、EU域内のiPhoneとiPad向けに提供しないと発表した。デジタル市場法(DMA)への対応を理由に挙げており、現時点でEU域内のiOSとiPadOS向け提供のめどは立っていない。",
-      "starred": false,
-      "category": "dx",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "校務DX",
-        "GIGA"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_149b7fa58d4b63e1",
-      "title": "LINEから加入できる「Yahoo!ほけん」　保険金請求まで完結",
-      "url": "https://www.watch.impress.co.jp/docs/news/2116095.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-06-10T08:32:50.000Z",
-      "summary": "LINEヤフーとPayPay保険サービスは、「LINE」アプリから保険の加入から保険金請求までをシームレスに行なえる「Yahoo!ほけん」の提供を開始した。専用アプリのダウンロードやID・パスワードの設定を行なうことなく、「LINE」上で保険手続きを完結できる。まずは、熱中症のリスクに備える「熱中症お見舞い金(月額型・期間選択型)」を含む2商品の提供を開始している。",
-      "starred": false,
-      "category": "security",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "セキュリティ",
-        "情報モラル",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_be218ffb7de77684",
       "title": "「Siri AI」の進化に「Geminiそのまま」の誤解――現地取材で見えた“新生Apple Intelligence”の全貌",
       "url": "https://www.itmedia.co.jp/news/articles/2606/10/news122.html",
@@ -1278,40 +1324,6 @@
       "priority_score": 60
     },
     {
-      "id": "item_c550a55a5cb11fc7",
-      "title": "てんや新業態、おにぎり天どん専門店「おにどん」",
-      "url": "https://www.watch.impress.co.jp/docs/news/2116075.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-06-10T07:56:28.000Z",
-      "summary": "ロイヤルグループのロイヤルコントラクトサービスは、てんやの新業態として、おりぎり天どん専門店「おにどん」をJR御茶ノ水駅「エキュートエディション御茶ノ水」内に、7月7日にオープンする。同日、同施設にクラフトバーガー専門店「JB's TOKYO」もオープンする。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_f346aeb9d19d8a35",
-      "title": "Yahoo!フリマ、推し活「グッズ交換」強化　情報収集・交換・売買を簡単に",
-      "url": "https://www.watch.impress.co.jp/docs/news/2116031.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-06-10T07:25:49.000Z",
-      "summary": "LINEヤフーは、フリマアプリ「Yahoo!フリマ」のグッズ交換機能における「推し登録」機能を拡充した。推し登録と連動した3つのタブを新設し、推し活に関する情報収集から交換、売買までをシームレスに行なえるようにした。",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_dbd67b3f1b5939cf",
       "title": "“Claude Fable 5の次\"に備えよ――Anthropicが東京でイベント開催、「Claude」責任者が明かした開発者向け3つの指針",
       "url": "https://www.itmedia.co.jp/aiplus/article/2606/10/2000000076/",
@@ -1342,22 +1354,6 @@
       "tags": [
         "インターネット",
         "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_21fa86a63150114b",
-      "title": "3メガバンク共同“信託型”ステーブルコイン 26年度中に実取引へ",
-      "url": "https://www.watch.impress.co.jp/docs/news/2116013.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-06-10T06:15:00.000Z",
-      "summary": "三菱UFJ銀行、みずほ銀行、三井住友銀行は、協議中のステーブルコインの共同発行について、2026年度中に実取引の開始を目指すと発表した。運営・ガバナンスなどを共同検討する協議会も設置し、取組みを加速させる。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
       ],
       "priority_score": 50
     },
