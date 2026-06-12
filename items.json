@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-11T22:47:33.197Z",
-  "total": 103,
+  "generated_at": "2026-06-12T07:25:09.012Z",
+  "total": 83,
   "items": [
     {
       "id": "item_21f8651de3f2baea",
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-06-11T22:47:23.852Z",
+      "published_at": "2026-06-12T07:24:58.384Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-06-11T22:47:23.852Z",
+      "published_at": "2026-06-12T07:24:58.384Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-06-11T22:47:23.852Z",
+      "published_at": "2026-06-12T07:24:58.384Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,478 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_d57dd1a5196ed9a7",
+      "title": "みんなの銀行、複数口座に対応　APIエコノミーでBaaS本格拡大",
+      "url": "https://www.watch.impress.co.jp/docs/news/2116747.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-06-12T06:30:00.000Z",
+      "summary": "みんなの銀行は11日、5周年を記念した事業説明会を開催し、「複数支店対応」の開始を発表したほか、BaaS事業の新展開や法人事業の強化について説明した。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_efdb3d479999b920",
+      "title": "スマートリング「SOXAI」が熱中症アラートに対応",
+      "url": "https://www.watch.impress.co.jp/docs/news/2116769.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-06-12T05:45:54.000Z",
+      "summary": "SOXAIは、国産スマートリング「SOXAI RING」(ソクサイリング)と連携する「SOXAI RINGアプリ」において、熱中症アラート機能の提供を開始した。スマートリングでは世界初の機能としている。対象のリングは「SOXAI RING 2」で、ファームウェアとアプリのアップデートで利用できるようになる。",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_0c82b32f501d6fa6",
+      "title": "ガーミンとMetaが連携　AIグラスで心拍数やペースを音声確認",
+      "url": "https://www.watch.impress.co.jp/docs/news/2116752.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-06-12T05:32:08.000Z",
+      "summary": "ガーミンジャパンは、Metaとの協業を発表。日本でも販売を開始した「Oakley Meta Vanguard」などのMeta AIグラスと、対応するGarminウォッチやサイクリングコンピューターを連携させることで、トレーニング中の各種データを音声やLED表示で確認できる。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_e769d903a50a17e4",
+      "title": "NECとアンソロピック、金融7社とAI共創",
+      "url": "https://www.watch.impress.co.jp/docs/news/2116745.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-06-12T05:19:23.000Z",
+      "summary": "NECとAnthropicは、金融7社と連携し、AIを活用した新たな価値創出に向けた検討および共創の取り組みを開始した。NECとAnthropicを中心に複数の金融機関が参画し、高い安全性と正確性が求められる金融業界を皮切りに、信頼性の高いAIの活用と実装を推進する。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "生成AI",
+        "AI活用"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_ab2e0798c0679851",
+      "title": "Visa、AI主導型コマースに向け進化　「信頼性とコントロール」",
+      "url": "https://www.watch.impress.co.jp/docs/news/2116712.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-06-12T04:36:31.000Z",
+      "summary": "米Visaは、“次世代コマース”を実現するための新たなAI、ステーブルコイン、トークン機能を発表した。目的はシンプルで、信頼性やセキュリティ、コントロールの維持を可能にするものとしている。",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_5a68cc50d9d4f77e",
+      "title": "ASUSのAIコア搭載Wi-Fi 7ゲーミングルーター「ROG Rapture GT-BE19000AI」、本日発売　Amazonでは13.6万円",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2116688.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-06-12T03:45:00.000Z",
+      "summary": "ASUS JAPAN株式会社は6月12日、発表済みのAIコア搭載Wi-Fi 7ゲーミングルーター「ROG Rapture GT-BE19000AI」の販売を開始した。記事公開時点のAmazon.co.jpでの販売価格は13万6182円",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_831298ec511bc007",
+      "title": "「今、Codexのレート制限を解除したい」を解決？　“付与したリセット権の貯蓄”可能に　有料ユーザー向け",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2606/12/2000000084/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-06-12T03:42:02.000Z",
+      "summary": "米OpenAIは、AIコーディング支援ツール「Codex」で、付与したレート制限のリセット権をユーザーの望むタイミングで使える機能を追加すると発表した。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_cead828f26e31cd7",
+      "title": "AIレコーダー「Plaud」にチーム向けプラン　デバイスやデータを一元管理",
+      "url": "https://www.watch.impress.co.jp/docs/news/2116670.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-06-12T03:35:09.000Z",
+      "summary": "Plaudは、AIボイスレコーダー「Plaud」のチーム向け新プラン「Plaud Team」の国内提供を開始した。カード型「Plaud Note」やウェアラブル型「Plaud NotePin」などを活用し、チーム全体の請求、ユーザー、デバイスの一元管理や、データの共有に対応する。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_778491d0320a659c",
+      "title": "神戸市、市役所本庁舎2号館の建設始動　市役所機能＋商業・オフィス・ホテル",
+      "url": "https://www.watch.impress.co.jp/docs/news/2116669.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-06-12T03:29:35.000Z",
+      "summary": "神戸市役所本庁舎2号館を、市役所機能のほか商業機能、屋上庭園、オフィス、ラグジュアリーホテルを有する施設とする再整備事業の建設工事が始動した。オリックス不動産を代表企業とするコンソーシアムが本格着手すると発表した。規模は地上29階・地下2階・高さ約135m。竣工は2029年9月予定。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_a7effd9a410d3d07",
+      "title": "AKRacingとANAが初コラボチェア「AKRacing for ANA Pro-X V2」",
+      "url": "https://www.watch.impress.co.jp/docs/news/2116678.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-06-12T03:28:10.000Z",
+      "summary": "テックウインドは、ゲーミングチェアブランド「AKRacing(エーケーレーシング)」より、ANAとの初コラボレーションモデル「AKRacing for ANA Pro-X V2」を、全日空商事が運営する「ANAショッピング A-style」で発売した。価格は69,800円。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_27743a490732811d",
+      "title": "初心者でも自転車で富士山に登れるだと!?　50歳を過ぎてからなぜか「富士ヒル」にはまってしまった理由【ぼっち・ざ・ろーど！その11】【空いた時間でなにしてる？】",
+      "url": "https://internet.watch.impress.co.jp/docs/column/hobbytime/2116552.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-06-12T03:12:00.000Z",
+      "summary": "山梨の河口湖付近から富士山五合目までつながる有料道路「富士スバルライン」。片道およそ24kmで、通行料は軽自動車で往復2300円、普通車は往復2800円、他にも中型車や大型車などの料金が設定されているが、実は自転車の料金設定もあって往復280円。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_ba38df675cdb6a49",
+      "title": "裁判で双方の弁護士がAIを用いて存在しない架空の判例を引用、判事激怒で裁判は中止に【やじうまWatch】",
+      "url": "https://internet.watch.impress.co.jp/docs/yajiuma/2116657.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-06-12T03:09:06.000Z",
+      "summary": "米ミシシッピ州で行われた未払いとなっている弁護士費用を巡る訴訟において、双方の弁護士がAIを用いて主張を展開していたことが判明し、裁判が中止されるという出来事があった。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_eeb233fb93309fa5",
+      "title": "Google検索のAIまとめ、誤っていた場合の責任は「Googleにあり」。ドイツで画期的判決【やじうまWatch】",
+      "url": "https://internet.watch.impress.co.jp/docs/yajiuma/2116652.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-06-12T03:08:31.000Z",
+      "summary": "Google検索のAIまとめに誤りがあった場合、その責任はGoogleにあるとする判決が下され、波紋を呼んでいる。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_59d91a48bb1d0840",
+      "title": "「人型ロボ世界シェア1位」中国Unitreeに聞く“普及戦略”　日本市場をどう開拓？",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2606/12/2000000080/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-06-12T03:00:00.000Z",
+      "summary": "近年激化する人型ロボットの開発競争の中で、注目を集める中国Unitree Robotics。事業戦略や日本市場での展望を担当者に聞いた。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_af0c9d9dfdaa170b",
+      "title": "Waymo、完全自動運転タクシー体験をより上質にする「Premier」",
+      "url": "https://www.watch.impress.co.jp/docs/news/2116641.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-06-12T02:57:53.000Z",
+      "summary": "Waymoは、自動運転による配車サービスの利用者向けに、有料会員制プログラム「Waymo Premier」を提供開始した。月額29.99ドル(約4,800円)で、サンフランシスコ、ロサンゼルス、フェニックスの一部利用者を対象に、招待制で提供される。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_14c221d63ae161fe",
+      "title": "「いいねを押すだけ」「動画を見るだけ」などとうたう副業の正体は、出口のないネット詐欺なので要注意！【読めば身に付くネットリテラシー】",
+      "url": "https://internet.watch.impress.co.jp/docs/column/netliteracy/2113893.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-06-12T02:52:00.000Z",
+      "summary": "「動画に『いいね』を押すだけ」「商品レビューのスクリーンショットを送るだけ」――そんな簡単な作業で報酬がもらえるとうたい、最後はお金をだまし取るのが“タスク詐欺”の手口です。数年前から話題になっているタイプの詐欺ですが、今もなお猛威を振るっています。",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_e8154b82be12e619",
+      "title": "モトローラのAndroid 15対応SIMフリースマホがAmazonでセール中！　FMラジオ機能も搭載した「motorola g66j 5G PANTONE」が2万6820円",
+      "url": "https://internet.watch.impress.co.jp/docs/shopping/2116575.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-06-12T02:30:00.000Z",
+      "summary": "Amazon.co.jpのモトローラのストアでは現在、同社のAndroidスマートフォン「motorola g66j 5G PANTONE」がセールとなっている。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_57b66be4f495efed",
+      "title": "データセンター建設に足りないのは「発電」ではなく「送電」　AI需要で電力消費26％増、Gartner予想",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2606/12/2000000083/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-06-12T01:50:17.000Z",
+      "summary": "Gartnerは世界のデータセンターの電力消費が2026年に26％増の565TWhに達すると予測。日本では発電能力の不足ではなく、送電設備の整備遅れがデータセンター建設の足かせになっていると指摘した。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_4ad2b67c6bbf6480",
+      "title": "シリコンパワーのmicroSDカードがAmazonでセール中！　UHS-I 4K対応の128GBが2831円。アプリ動作が快適なA2適合の64GBは2071円",
+      "url": "https://internet.watch.impress.co.jp/docs/shopping/2116574.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-06-12T01:30:00.000Z",
+      "summary": "Amazon.co.jpのシリコンパワー（Silicon Power）ストアでは現在、同社のmicroSDカードのセールが行われている。",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_a1dd2215f44303ef",
+      "title": "シチズン アテッサ、“結晶チタニウム”でオールブラックの限定モデル",
+      "url": "https://www.watch.impress.co.jp/docs/news/2116109.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-06-12T01:00:00.000Z",
+      "summary": "シチズン時計は、「CITIZEN ATTESA」(シチズン アテッサ)の新作として、結晶チタニウムの模様とオールブラックのデザインが特徴の限定モデル「Crystal Octagon」(クリスタル オクタゴン)を7月2日に発売する。GPS電波ソーラーの腕時計で、価格は385,000円。数量は世界限定1,800本。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_a0b140c011d975dc",
+      "title": "漏洩IDの遮断からシャドーAI管理まで　ジョーシス、ランサム対策のAI新機能",
+      "url": "https://www.watch.impress.co.jp/docs/news/2116418.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-06-12T00:00:00.000Z",
+      "summary": "ジョーシスは11日、アイデンティティセキュリティ基盤「Josys」において、ランサムウェア攻撃などのサイバー攻撃への対策を強化する新機能を提供開始した。新機能はAIエージェントを活用した「漏洩した認証情報検知」「AIエージェント検知・管理」「AIによるポリシーの自動実行」の3つで、いずれも国内初の機能とする。",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_e93303b45975027f",
+      "title": "児童向けの探求型学習プログラム「みんなでつくる！次世代型交通安全マッププロジェクト」提供へ、ソニーネットワークコミュニケーションズと損保ジャパンが提携",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2116492.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-06-12T00:00:00.000Z",
+      "summary": "ソニーネットワークコミュニケーションズ株式会社と損害保険ジャパン株式会社は6月10日、探求型学習プログラム「みんなでつくる！次世代型交通安全マッププロジェクト」の提供を発表した。両社は本プロジェクトの全国普及を推進するとともに、得られたデータや知見を幅広いステークホルダーと連携して活用することで、子どもたちが安心して暮らせる社会の実現に貢献するとしている。",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "教育ニュース"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_bf30ca2c27c9c418",
+      "title": "マイナポータル刷新へ　アプリ統合や「パスポート」申請しやすく",
+      "url": "https://www.watch.impress.co.jp/docs/news/2116390.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-06-11T23:40:00.000Z",
+      "summary": "デジタル庁は11日、主要な政策についての記者向け説明会を開催し、マイナンバーカードやマイナポータルの今後の展開について説明した。マイナポータルでは、今夏に旅券申請の対応を強化するほか、「マイナポータルアプリ」を「マイナアプリ」に刷新するなど、多くの改善を予定している。",
+      "starred": false,
+      "category": "dx",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "校務DX",
+        "GIGA",
+        "教材",
+        "ツール",
+        "行政",
+        "文科省"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_78729cfaafd5e468",
+      "title": "アイ・オー、組み込みシステム向けのWindows 11を搭載したミニPC「MPC-NCI3W2」発売",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2116456.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-06-11T23:30:00.000Z",
+      "summary": "株式会社アイ・オー・データ機器は、組み込みシステム向けのWindows 11 IoT Enterpriseを搭載したミニPC「MPC-NCI3W2」を発売する。直販サイト「ioPLAZA」での販売価格は19万5800円で、7月中旬の出荷予定。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_1234bc7efee41acb",
+      "title": "【お金の教室】ボーナスで「資産が増える人」の考え方　投資・浪費・家電",
+      "url": "https://www.watch.impress.co.jp/docs/series/tsukamoto/2115251.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-06-11T23:20:00.000Z",
+      "summary": "もうすぐボーナスシーズンですね。景気も比較的好調で、昨年よりボーナスが増える方も多いのではないでしょうか。そのボーナスの使い方によっては、あっという間に消えてしまう人もいれば、着実に資産を増やしていく人もいます。今回は、その違いについて詳しく見ていきます。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_ac5cd5aaef1fd859",
+      "title": "NTTグループ、衛星通信サービス「Amazon Leo」との協業を拡大し、再販事業者契約締結",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2116520.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-06-11T23:15:00.000Z",
+      "summary": "NTTグループは、Amazonとの戦略的協業の枠組みのもと検討を進めてきた低軌道衛星通信を活用したサービスの提供に関して、NTTドコモビジネス株式会社、株式会社エヌ・ティ・ティ エムイー・NTTメディアサプライ株式会社の3社が、2026年6月9日までにAmazon Leoとの再販事業者契約を締結したと発表した。今後、技術検証やサービス内容の検討を進め、国内法人や官公庁向けに提供体制を構築する。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_04bc522c8dac6665",
+      "title": "三菱鉛筆、「ユニボール ゼント」3色ボールペン",
+      "url": "https://www.watch.impress.co.jp/docs/news/2116469.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-06-11T23:00:00.000Z",
+      "summary": "三菱鉛筆は、水性ボールペン「uniball ZENTO(ユニボール ゼント)」シリーズから、「ユニボール ゼント シグニチャーモデル 回転繰り出し式3色ボールペン」など3色ボールペン3モデルを6月25日に発売する。価格は825円から5,500円。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_6e890159ebc54636",
+      "title": "コードレスで折りたたみでき、最長13時間使える充電式デスクライト、サンワサプライが発売",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2116427.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-06-11T23:00:00.000Z",
+      "summary": "サンワサプライ株式会社は6月9日、コンパクトに折りたたんで持ち運べるUSB充電式LEDデスクライト「LED-DESK5BK」を発売した。市場想定価格は4070円。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_1dd1b769df981443",
@@ -273,22 +745,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_a27261ccc95bafe3",
-      "title": "書店併設ローソン、書店のない横浜・緑園にオープン",
-      "url": "https://www.watch.impress.co.jp/docs/news/2116422.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-06-11T07:31:37.000Z",
-      "summary": "ローソンは、書店を併設した店舗「LAWSON マチの本屋さん」として、「ローソン泉緑園四丁目店」を6月12日にオープンする。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_75c04b365f4497f9",
       "title": "AnthropicとNEC、金融8社とAI活用で連携　三井住友FG、大和証券など",
       "url": "https://www.itmedia.co.jp/aiplus/article/2606/11/2000000082/",
@@ -303,22 +759,6 @@
         "AI",
         "LLM",
         "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_46429a491e98f2db",
-      "title": "無印良品、「たんぱく質」がとれる冷凍おにぎり",
-      "url": "https://www.watch.impress.co.jp/docs/news/2116414.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-06-11T07:22:08.000Z",
-      "summary": "良品計画は、「たんぱく質」「食物繊維」がとれる冷凍おにぎり4種を、6月17日に発売する。価格は各650円。1袋5個入り(400g)。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
       ],
       "priority_score": 50
     },
@@ -358,22 +798,6 @@
       "priority_score": 60
     },
     {
-      "id": "item_6d35b9d6fa51dea4",
-      "title": "チャージスポットが最大半額　九州で10月まで",
-      "url": "https://www.watch.impress.co.jp/docs/news/2116328.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-06-11T05:43:40.000Z",
-      "summary": "INFORICHは、モバイルバッテリーシェア「CHARGESPOT」において、九州エリア限定で利用料金が最大半額となる「新料金プラン」を6月15日から10月31日まで実施する。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_c247015030286f9c",
       "title": "AnthropicのアモデイCEO、フロンティアAIに「航空機並みの安全審査」求めるエッセイと政策提言を公開",
       "url": "https://www.itmedia.co.jp/aiplus/article/2606/11/2000000081/",
@@ -390,22 +814,6 @@
         "AI活用",
         "行政",
         "文科省"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_4e9087c7f51bf03b",
-      "title": "dカード入会時の本人確認が「iPhoneのマイナンバーカード」対応",
-      "url": "https://www.watch.impress.co.jp/docs/news/2116357.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-06-11T04:58:28.000Z",
-      "summary": "NTTドコモは、「dカード」のオンライン入会手続きの本人確認手段として、6月11日から「iPhoneのマイナンバーカード」に対応した。ユーザーは物理カードのマイナンバーカードを事前に用意することなく本人確認を行なえる。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
       ],
       "priority_score": 50
     },
@@ -449,38 +857,6 @@
       "priority_score": 60
     },
     {
-      "id": "item_9adb4a1f0cbffc95",
-      "title": "三井住友カード、ケンタッキーやくら寿司で最大30%還元キャンペーン",
-      "url": "https://www.watch.impress.co.jp/docs/news/2116287.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-06-11T03:36:23.000Z",
-      "summary": "三井住友カードは、最大30%還元の「Apple Payでも！タッチでVisa割キャンペーン！」を6月11日から開始した。対象の店舗・カード限定で、期間は7月19日まで。早期終了する場合があるとしている。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_086d40de6e509135",
-      "title": "コクヨ、「本に寄り添う文鎮」にピンクゴールドの青銅製",
-      "url": "https://www.watch.impress.co.jp/docs/news/2116291.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-06-11T03:29:33.000Z",
-      "summary": "コクヨは、「本に寄り添う文鎮」の青銅製を、7月15日に発売する。ヘリテージが発刊する季刊文房具誌「趣味の文具箱」とのコラボレーションによるもので、価格は8,500円(税別)。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_90111ab7e9f4d6f2",
       "title": "忙しいエンジニアの睡眠の悩みを解決！ 最先端の睡眠ソリューションを体験できる「スリープテック」【Interop Tokyo 2026】",
       "url": "https://internet.watch.impress.co.jp/docs/event/2116284.html",
@@ -493,24 +869,6 @@
       "tags": [
         "インターネット",
         "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_6d41713a463fe2aa",
-      "title": "セブン、リテールメディア新会社「セブン‐イレブン・アドコネクト」設立",
-      "url": "https://www.watch.impress.co.jp/docs/news/2116268.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-06-11T03:14:58.000Z",
-      "summary": "セブン‐イレブン・ジャパン、電通、サイバーエージェントの3社は、リテールメディア事業の成長と発展に向け、3社共同出資による合弁会社「セブン‐イレブン・アドコネクト」設立について合意し、9月1日より事業開始する。",
-      "starred": false,
-      "category": "security",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "セキュリティ",
-        "情報モラル"
       ],
       "priority_score": 50
     },
@@ -564,72 +922,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_3cc2c25bae3edd0e",
-      "title": "欧州独自開発のオフィススイート「Euro-Office」をLibreOfficeが激しく非難、その理由は？【やじうまWatch】",
-      "url": "https://internet.watch.impress.co.jp/docs/yajiuma/2116216.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-06-11T01:59:26.000Z",
-      "summary": "欧州独自のオフィススイートとして新たに登場した「Euro-Office」が、実際にはMicrosoftの囲い込み戦略に加担しているとして、LibreOfficeが非難声明を発表した。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_5885d5d34b754f8b",
-      "title": "Starlink、これまでのアンテナ買い切り制から方針転換？ 月額10ドルのレンタル制を導入か【やじうまWatch】",
-      "url": "https://internet.watch.impress.co.jp/docs/yajiuma/2116211.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-06-11T01:59:16.000Z",
-      "summary": "SpaceXが提供する衛星通信サービス「Starlink」のアンテナなどの端末機器について、月額10ドルのレンタル制を導入する方向で調整しているようだ。すでに一部の国ではこれを反映したプランが表示されているという。",
-      "starred": false,
-      "category": "dx",
-      "tags": [
-        "インターネット",
-        "セキュリティ",
-        "校務DX",
-        "GIGA"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_a48d343e56afebbd",
-      "title": "ロジテックの外付けHDDがAmazonで安い！　NAS向け「WD Red Plus」を内蔵した1TB版が1万5180円　TV・レコーダー買い替え時もデータ移行できるSeeQVault対応 4TB版は2万1480円",
-      "url": "https://internet.watch.impress.co.jp/docs/shopping/2116189.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-06-11T01:30:00.000Z",
-      "summary": "Amazon.co.jpのロジテックダイレクトのストアでは現在、ロジテック製外付けHDDのセールが行われている。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_6cab3b82e340865e",
-      "title": "グーグル、テキスト生成速度を最大4倍にする「DiffusionGemma」",
-      "url": "https://www.watch.impress.co.jp/docs/news/2116188.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-06-11T01:12:55.000Z",
-      "summary": "Google DeepMindは10日(米国時間)、テキスト生成速度が最大4倍になるオープンソースモデル「DiffusionGemma」を発表した。実験用のオープンモデルとして、Apache 2.0ライセンスの下で公開される。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_3124a3f887b461fd",
       "title": "公式がワンコーラス公開→AIで無断フルコーラス化、拡散　大原ゆい子氏「無職転生III」OPが被害",
       "url": "https://www.itmedia.co.jp/news/articles/2606/11/news075.html",
@@ -668,22 +960,6 @@
       "priority_score": 70
     },
     {
-      "id": "item_f24078ce0c17c16d",
-      "title": "エレコム、小型で持ち運びに便利なドッキングステーション2モデルを発売",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2116140.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-06-11T00:30:00.000Z",
-      "summary": "エレコム株式会社は6月10日、映像出力、高速データ通信、充電機能を備えた、ケーブル直付けタイプのドッキングステーション「DST-030BP」シリーズ（3ポートモデル）と「DST-040BPSV」（4ポートモデル）を発売した。市場想定価格は2980円、3581円。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_7dd0fed89f0947b5",
       "title": "中国が人型ロボット開発競争をリードする「納得の理由」　日本に残された逆転シナリオは？",
       "url": "https://www.itmedia.co.jp/aiplus/article/2606/11/2000000078/",
@@ -697,424 +973,6 @@
         "生成AI",
         "AI",
         "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_6eea545792365c06",
-      "title": "【from Impress】IT仕事図鑑(4) 「VPoE」って何者? プロジェクトマネージャーとの違い",
-      "url": "https://www.watch.impress.co.jp/docs/pa/impress/2112898.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-06-11T00:00:00.000Z",
-      "summary": "「ITの仕事」と聞くと、プログラマーやシステムエンジニアを思い浮かべる人が多いかもしれません。ですが実際のIT業界には、あまり知られていないものの、サービスや開発現場を支える“専門職”が数多く存在します。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_35eec1c90fa75881",
-      "title": "A3サイズまで対応、60～90秒で使える高速予熱ローラーラミネーター、サンワサプライが発売",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2116134.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-06-10T23:50:00.000Z",
-      "summary": "サンワサプライ株式会社は、60〜90秒ほどの短いウォームアップ時間でスピーディーに作業を開始できる2本ローラーの高速予熱ラミネーター「LM-A32R1W」（A3対応）、「LM-A42R1W」（A4対応）を6月下旬に発売することを発表した。市場想定価格は9570円、8140円。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_98e412d864b479aa",
-      "title": "H3ロケット飛行再開へ　初のブースタなし「30形態」とは?",
-      "url": "https://www.watch.impress.co.jp/docs/topic/2115286.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-06-10T23:40:00.000Z",
-      "summary": "2026年6月12日、約半年のブランクを経て、H3ロケットの打上げが再開されます。打上げ再開となるのは、H3ロケット6号機です。すでに7号機、8号機が飛行していますが、6号機は固体ロケットブースタ(SRB-3)を使用しない初めての機体として打上げ準備に時間をかけていたため、8号機の後から打上げられることになりました。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_1827930476f6842f",
-      "title": "アイ・オー、法人向けNASの当日オンサイト保守サービスに「7年パック」追加",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2116129.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-06-10T23:30:00.000Z",
-      "summary": "株式会社アイ・オー・データ機器は6月10日、法人向けNAS「ランディスク」（LAN DISK）シリーズ向け保守サービス「ISS」（アイオー・セーフティ・サービス）の当日オンサイト保守に、最長期間をまとめて購入できる「7年パック」を追加した。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_b95a237cf6d8498e",
-      "title": "コーヒーミルを使って美味しい1杯を　カリタ・ハリオ・メリタ・デロンギ",
-      "url": "https://www.watch.impress.co.jp/docs/topic/2113441.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-06-10T23:20:00.000Z",
-      "summary": "自宅でおいしいコーヒーを飲むためにコーヒーメーカーを活用している人も多いと思いますが、より自分好みの1杯を追求するなら、豆の挽き方にもこだわりたいもの。そこで必要となるのがコーヒーミルです。ここでは、家でコーヒー豆を挽くことのメリットや、手動・電動を問わず今おすすめの商品を、ビックカメラ有楽町店 生活家電アドバイザーの古谷野歩さんに聞きました。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_90f67707e36d4e74",
-      "title": "みんがく、AIプラットフォーム「スクールAI」が沖縄県のAI校務サポート推進事業で継続採用",
-      "url": "https://ict-enews.net/2026/06/11mingaku-5/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-06-10T23:08:22.000Z",
-      "summary": "みんがくは10日、同社の教育向け生成AIプラットフォーム「スクールAI」が、沖縄県教育委員会の「AI校務サポート推進事業」で、2026年度も、オーシーシー提案のもと、継続して選定・ […]",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "教育ニュース",
-        "ICT",
-        "生成AI",
-        "AI活用",
-        "教材",
-        "ツール",
-        "行政",
-        "文科省"
-      ],
-      "priority_score": 60
-    },
-    {
-      "id": "item_9cfdbf2b4b718e7a",
-      "title": "山田進太郎D&I財団、愛知県・愛知県経営者協会と「STEM分野における女性活躍推進に関する連携協定」を締結",
-      "url": "https://ict-enews.net/2026/06/11shinfdn-2/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-06-10T23:07:02.000Z",
-      "summary": "山田進太郎D&I財団は9日、愛知県および愛知県経営者協会と、STEM分野における女性活躍推進に関する連携協定を締結した。 これにより、3者は中高生女子向けSTEM領域のツア […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_81083aaf5ea43d9b",
-      "title": "28卒理系学生就活状況 83.5％が早期化による学生生活への影響を実感 =カンビア調べ=",
-      "url": "https://ict-enews.net/2026/06/11cambiainc/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-06-10T23:06:46.000Z",
-      "summary": "カンビアは9日、運営する理系就活サイト「リケイマッチ」で、2028年卒業予定の理系学生を対象に実施した、インターンシップ・オープンカンパニーへの参加状況や就活早期化の影響に関する調 […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_35ad4389467efde0",
-      "title": "日本金融教育支援機構、中高生が小学生に向けた金融教育動画を制作するFESコンテスト開催",
-      "url": "https://ict-enews.net/2026/06/11faincation/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-06-10T23:06:25.000Z",
-      "summary": "日本金融教育支援機構は、ゆうちょ銀行を冠パートナーに迎えて第4回「FESコンテストSupported byゆうちょ銀行」を開催する。 FESコンテストは、大学生が運営に参画し、中高 […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_cbd6369bd7e1ca41",
-      "title": "OZU、留学中のタイのAI分野トップ学生に「実践型研究プロジェクト」実施",
-      "url": "https://ict-enews.net/2026/06/11ozu/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-06-10T23:06:01.000Z",
-      "summary": "OZUは、武蔵野大学に短期留学中の、タイ最高峰の総合大学「チュラロンコン大学」（Chulalongkorn University）工学部のAI専攻のトップ学生4人に、5月から「国際 […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_2d5ebb4ab4d99c9f",
-      "title": "ヴォートレイル ファッション アカデミー、ファッション・クリエイター学科に「VRファッションコース」新設",
-      "url": "https://ict-enews.net/2026/06/11voutrail/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-06-10T23:05:50.000Z",
-      "summary": "ヴォートレイル ファッション アカデミーは、4月から、ファッション・クリエイター学科内に「VRファッションコース」を新設した。 同コースでは、服づくり・衣装表現の専門性に加え、キャ […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_9aa883c5b22e9ba2",
-      "title": "コー・イノベーション大学（CoIU）、富山エアポートと連携協定を締結",
-      "url": "https://ict-enews.net/2026/06/11coiu/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-06-10T23:05:38.000Z",
-      "summary": "CoIU設立基金は9日、4月に開学したCo-Innovation University（コー・イノベーション大学：CoIU）を運営するCoIUが、富山エアポートと、飛騨高山地域およ […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_b7e55dc051645762",
-      "title": "大阪芸術大学、「“世紀のダ・ヴィンチを探せ！”高校生アートコンペティション2026」作品募集7月開始",
-      "url": "https://ict-enews.net/2026/06/11osaka-geidai/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-06-10T23:05:28.000Z",
-      "summary": "大阪芸術大学は、若き高校生クリエイターの才能発掘と応援を目的としたアートコンペティション「“世紀のダ・ヴィンチを探せ!”高校生アートコンペティション 2026」の作品募集を7月1日 […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_e66a0a3ab712186c",
-      "title": "ピーペック、15歳以上19歳未満の若者対象ポスター＆動画コンテスト「みんつくミラキャン」募集開始",
-      "url": "https://ict-enews.net/2026/06/11ppecc/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-06-10T23:05:18.000Z",
-      "summary": "ピーペックは9日、15歳以上19歳未満の若者を対象にしたポスター＆動画コンテスト「みんなでつくろう、これからの医療プロジェクト 未来キャンバス（みんつくミラキャン）」の参加申込を開 […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_2eac7839be29179a",
-      "title": "中部テレコミュニケーション、「全国高校e-Motorsports選手権 アオハルGP 2026」運営に参画",
-      "url": "https://ict-enews.net/2026/06/11ctc/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-06-10T23:04:55.000Z",
-      "summary": "中部テレコミュニケーションは、ウエインズトヨタ神奈川が8月4日に主催する「全国高校e-Motorsports選手権 アオハルGP 2026～supported by グランツーリス […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_3d4363327d17ee80",
-      "title": "amulapo、ローラス インターナショナル スクールの「STEAM Fair 2026」でワークショップ開催",
-      "url": "https://ict-enews.net/2026/06/11amulapo/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-06-10T23:04:45.000Z",
-      "summary": "amulapoは、ローラス インターナショナル スクール オブ サイエンスが6月13日・14日に開催する「STEAM Fair 2026」で、宇宙をテーマにしたワークショップを提供 […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_283046552be96310",
-      "title": "テックアイエス、鳥取県主催「とっとりIT summer CAMP」の受講生を募集",
-      "url": "https://ict-enews.net/2026/06/11techis-2/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-06-10T23:04:25.000Z",
-      "summary": "テックアイエスは10日、鳥取県が9月24～26日に主催する、学生×IT企業によるITサマーキャンプ「とっとりIT summer CAMP」の受講生の募集を開始した。申込みは7月20 […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_7fd90723fa90160f",
-      "title": "日本デザイン振興会、「教育×デザイン」シンポジウム  7月5日開催",
-      "url": "https://ict-enews.net/2026/06/11jidp/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-06-10T23:04:14.000Z",
-      "summary": "日本デザイン振興会（JDP）は、「教育×デザイン」のプロジェクトに関連するシンポジウムを7月5日に開催する。 JDPは、2023年に制定したパーパスの「DESIGN PLAYGRO […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_834475efbebdc244",
-      "title": "京進、「テクノロジーがひらく未来」がテーマの探究教室オンラインイベント20日開催",
-      "url": "https://ict-enews.net/2026/06/11kyoshin-5/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-06-10T23:04:03.000Z",
-      "summary": "京進は、子どもたちの「考える力」や「表現力」を育てる人気イベント「探究教室オンラインイベント」を、「京進の中学・高校受験TOPΣ」主催で6月20日に開催する。 同イベントは、小学5 […]",
-      "starred": false,
-      "category": "exam",
-      "tags": [
-        "教育ニュース",
-        "ICT",
-        "共通テスト",
-        "入試"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_4088d7040966ca92",
-      "title": "大阪駆動開発、大阪・鹿児島・北海道「Xグラスハッカソン 2026」開催",
-      "url": "https://ict-enews.net/2026/06/11osaka-driven-dev/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-06-10T23:03:53.000Z",
-      "summary": "大阪駆動開発は、XR Meetup Kagoshimaと主催するスマートグラス・ARグラス特化型「Xグラスハッカソン」の開催を発表した。 同ハッカソンは、梅田・芝田2丁目や札幌、鹿 […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_a4419a9005bcdb55",
-      "title": "佑人社、デジタル採点システム「YouMark Personal」が教育プラットフォーム「Classi」とAPI連携",
-      "url": "https://ict-enews.net/2026/06/11yu-jin/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-06-10T23:03:42.000Z",
-      "summary": "佑人社は9日、デジタル採点システム「YouMark Personal」が、教育プラットフォーム「Classi」とのAPI連携機能の提供を開始したと発表した。 これまでは、「YouM […]",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "教育ニュース",
-        "ICT",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_dee59832915fbff7",
-      "title": "GeekAca、教材作成、講義、学習管理に教育研修特化AI「AINOBI」β版リリース",
-      "url": "https://ict-enews.net/2026/06/11geekaca/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-06-10T23:03:00.000Z",
-      "summary": "GeekAcaは9日、教材作成から講義、学習管理までをAIで行う教育研修向けAI学習プラットフォーム「AINOBI（アイノビ）」のクローズドβ版を公開し、期間限定の無料トライアル受 […]",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "教育ニュース",
-        "ICT",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_2b012a2307ec7098",
-      "title": "BooQs、AI辞書＆単語帳アプリ「DiQt」 23言語の発音問題をリリース",
-      "url": "https://ict-enews.net/2026/06/11booqs/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-06-10T23:02:40.000Z",
-      "summary": "BooQsは9日、同社が提供するAI辞書＆単語帳アプリ「DiQt（ディクト）」で、23言語に対応した発音問題を公開した。 対応したのは、英語、中国語、フランス語、ドイツ語、スペイン […]",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "教育ニュース",
-        "ICT",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_86a9196e239d54f2",
-      "title": "ジョイゾー、自治体・教育委員会向け「ジチタイ39」から「家庭環境調査票等管理業務システム」公開",
-      "url": "https://ict-enews.net/2026/06/11joyzo/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-06-10T23:02:25.000Z",
-      "summary": "ジョイゾーは9日、自治体・教育委員会向けパッケージシステム「ジチタイ39」から、学校現場の家庭環境調査票業務を効率化する「家庭環境調査票等管理業務システム」を公開した。 同システム […]",
-      "starred": false,
-      "category": "admin",
-      "tags": [
-        "教育ニュース",
-        "ICT",
-        "行政",
-        "文科省"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_7e1b1481c44dd86a",
-      "title": "ソニーネットワークコミュニケーションズ、交通安全向け地理空間分析プラットフォーム「APAS Platform」提供開始",
-      "url": "https://ict-enews.net/2026/06/11sonynetwork/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-06-10T23:02:08.000Z",
-      "summary": "ソニーネットワークコミュニケーションズは10日、歩行者や自転車といった交通弱者の行動データに特化し、交通事故リスクを可視化・分析する地理空間分析プラットフォーム「APAS Plat […]",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "教育ニュース",
-        "ICT",
-        "教材",
-        "ツール"
       ],
       "priority_score": 50
     },
@@ -1155,54 +1013,6 @@
       "priority_score": 70
     },
     {
-      "id": "item_8a6109ee2ac0dd41",
-      "title": "AOKI、超高通気素材の「パジャマスーツ」",
-      "url": "https://www.watch.impress.co.jp/docs/news/2116121.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-06-10T23:00:00.000Z",
-      "summary": "AOKIは、通気性が特徴の「スーパーエアクール」シリーズから、パジャマスーツとセットアップを発売した。価格は7,689円から21,890円。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_91a3c351d011d69c",
-      "title": "機器の形に合わせて密着冷却、USB給電式の小型PCクーラーをサンワサプライが発売",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2116107.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-06-10T23:00:00.000Z",
-      "summary": "サンワサプライ株式会社は6月9日、USB給電で手軽に使える小型ペルチェ冷却クーラー「400-CLN043」を発売した。直販サイト「サンワダイレクト」での販売価格は4980円。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_00256657e2ab8476",
-      "title": "JEITA新会長にNEC会長の新野氏が就任、「テクノロジーを社会価値へとつなぐ」姿勢を表明",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2116153.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-06-10T22:30:00.000Z",
-      "summary": "一般社団法人電子情報技術産業協会（JEITA）の新会長に就任したNECの新野隆会長が会見を行い、今後の活動方針などについて説明した。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_0ac5b68c2c7dc37d",
       "title": "「何でもIT化」が組織を壊す　「GIGAスクール名付け親」に聞くAI時代のリーダー論",
       "url": "https://www.itmedia.co.jp/business/articles/2606/11/news029.html",
@@ -1223,58 +1033,6 @@
         "ツール"
       ],
       "priority_score": 70
-    },
-    {
-      "id": "item_177f8441fda3a3a3",
-      "title": "ShowNetにも採用された屋外対応アクセスポイントに放水し続け、耐水性をアピール～TP-Link【Interop Tokyo 2026】",
-      "url": "https://internet.watch.impress.co.jp/docs/event/2116087.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-06-10T22:00:00.000Z",
-      "summary": "「Interop Tokyo 2026」のティーピーリンクジャパン株式会社（TP-Link）のブースでは、法人向けソリューション「Omada」「VIGI」シリーズ、SOHO向けに家庭用ネットワークカメラ「Tapo」シリーズなど、さまざまな製品の展示を行っている。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_f2f26c92b938083d",
-      "title": "NTTら、グローバルファンド「IOWN AI Fund」と、運営会社Catalight Capital株式会社を創設",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2115978.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-06-10T21:30:00.000Z",
-      "summary": "NTT株式会社、ベンチャー投資家のYoung Sohn氏、AI事業等を手掛ける韓国の財閥SK Group、（以下、SK）、台湾の通信事業者である中華電信股份有限公司、株式会社日本政策投資銀行の5者は6月10日、AI時代の先端技術への投資を通じて、IOWNエコシステムの構築と新たな事業創出をめざす投資ファンド「IOWN AI Fund」を組成し、運営会社としてCatalight Capital株式会…",
-      "starred": false,
-      "category": "admin",
-      "tags": [
-        "インターネット",
-        "セキュリティ",
-        "行政",
-        "文科省"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_751cf7a08bb194c4",
-      "title": "Zabbix画面上で現場をモニタリングできる、デジタルツイン設備管理システム「ZeugMa」【Interop Tokyo 2026】",
-      "url": "https://internet.watch.impress.co.jp/docs/event/2115764.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-06-10T21:00:00.000Z",
-      "summary": "オープンソースの統合監視ツール「Zabbix」を提供するZabbixのパートナー企業が集まるブースで、NSW株式会社がデジタルツイン技術を活用した設備管理システム「ZeugMa（ジーグマ）」を紹介している。ZeugMaでは、フォトグラメトリ技術により現実の設備・施設を撮影するとともに、同時に点群データも取得することにより現場を忠実に再現した3Dモデルを仮想空間上に構築し、設備の稼働状況や環境データ…",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "インターネット",
-        "セキュリティ",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
     },
     {
       "id": "item_e7134dfbf30055d7",
@@ -1317,22 +1075,6 @@
       "priority_score": 60
     },
     {
-      "id": "item_a68c048dde4fbae1",
-      "title": "JR九州、線路内対応の自律飛行ドローン技術　トンネルモードも",
-      "url": "https://www.watch.impress.co.jp/docs/news/2116142.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-06-10T11:00:00.000Z",
-      "summary": "JR九州とセンシンロボティクスは、1台のドローンで線路内を連続的に飛行可能とする飛行制御技術の開発・検証を行なった。鉄道特有の多様な環境条件に対応するため、複数の自律飛行モードを組み合わせて実現した。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_8cf288c887a0d336",
       "title": "AIエージェントもフィッシング詐欺に引っかかる？　米セキュリティ企業がOpenClawで検証　結果は……",
       "url": "https://www.itmedia.co.jp/news/articles/2606/10/news126.html",
@@ -1365,78 +1107,6 @@
         "生成AI",
         "AI",
         "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_acaa30eda127eaff",
-      "title": "LUUPで死亡事故　警察には全面協力",
-      "url": "https://www.watch.impress.co.jp/docs/news/2116127.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-06-10T09:35:52.000Z",
-      "summary": "LUUPは、6月2日に東京都北区で発生した、自動車と特定小型原動機付自転車の事故について、同社のサービス利用者が死亡したことを明らかにした。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_be218ffb7de77684",
-      "title": "「Siri AI」の進化に「Geminiそのまま」の誤解――現地取材で見えた“新生Apple Intelligence”の全貌",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/10/news122.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-06-10T08:30:00.000Z",
-      "summary": "「GeminiがApple Intelligenceの正体」は誤解だ。WWDC 2026の現地取材で見えてきた第3世代は、200億パラメータのAIをiPhoneで動かす革新技術、Google Cloud＋NVIDIAによるインフラ刷新、そして静かに変わる「無料」の定義まで、想像以上に深い変化を遂げていた。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_31a41d836894b728",
-      "title": "生成AI台頭、経営コンサルの倒産・廃業が過去最多ペース　“補助金頼み”限界に",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2606/10/2000000077/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-06-10T08:01:47.000Z",
-      "summary": "「専門性による差別化を図れず、労働集約的・制度依存的なビジネスから脱却できない事業者は、生成AIの台頭による下押し圧力に耐えきれず、今後さらに淘汰が加速する」",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用",
-        "行政",
-        "文科省"
-      ],
-      "priority_score": 60
-    },
-    {
-      "id": "item_dbd67b3f1b5939cf",
-      "title": "“Claude Fable 5の次\"に備えよ――Anthropicが東京でイベント開催、「Claude」責任者が明かした開発者向け3つの指針",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2606/10/2000000076/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-06-10T06:42:16.000Z",
-      "summary": "Anthropicが東京で開発者向けイベント「Code with Claude」を開催。同日に一般提供を始めた新モデル「Claude Fable 5」を念頭に、高性能なAIを組み込んだサービスを開発する際の指針が語られた。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
       ],
       "priority_score": 50
     },
