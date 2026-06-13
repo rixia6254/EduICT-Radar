@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-06-13T07:00:37.948Z",
-  "total": 83,
+  "generated_at": "2026-06-13T11:20:55.413Z",
+  "total": 103,
   "items": [
+    {
+      "id": "item_21f8651de3f2baea",
+      "title": "文部科学省ホームページトップはこちら",
+      "url": "https://www.mext.go.jp/",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-06-13T11:20:44.341Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
     {
       "id": "item_bd1951ae70f98dac",
       "title": "サイトマップはこちら",
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-06-13T07:00:28.583Z",
+      "published_at": "2026-06-13T11:20:44.341Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -25,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-06-13T07:00:28.583Z",
+      "published_at": "2026-06-13T11:20:44.341Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -38,22 +56,23 @@
       "priority_score": 60
     },
     {
-      "id": "item_21f8651de3f2baea",
-      "title": "文部科学省ホームページトップはこちら",
-      "url": "https://www.mext.go.jp/",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-06-13T07:00:28.582Z",
-      "summary": "",
+      "id": "item_894ebd8439542c66",
+      "title": "2026年度　大学入学共通テスト「情報Ⅰ」第１問　問３への疑問？？",
+      "url": "https://note.com/magic_eel5366/n/n97ea2bd5fd5c",
+      "source_id": "note_joho1",
+      "source_name": "note（情報科教員）",
+      "published_at": "2026-06-13T11:08:17.000Z",
+      "summary": "情報デザイン？ 続きをみる",
       "starred": false,
-      "category": "admin",
+      "category": "exam",
       "tags": [
-        "行政",
-        "文科省",
-        "制度",
-        "教育ニュース"
+        "授業実践",
+        "情報Ⅰ",
+        "教材",
+        "共通テスト",
+        "入試"
       ],
-      "priority_score": 60
+      "priority_score": 70
     },
     {
       "id": "item_0d897e77413c3778",
@@ -693,6 +712,352 @@
       "tags": [
         "インターネット",
         "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_0b9fcabfbac94870",
+      "title": "「令和8年度 保育対策総合支援事業費補助金（保育ICTラボ事業）」の公募開始",
+      "url": "https://ict-enews.net/2026/06/12cfa-go/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-06-11T23:29:05.000Z",
+      "summary": "保育ICTラボ事務局は10日、「令和8年度（令和7年度からの繰越分）保育対策総合支援事業費補助金（保育ICTラボ事業（令和7年度補正予算分）分））」の公募を開始した。 同事業は、保 […]",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "行政",
+        "文科省"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_b9cf452827e06df3",
+      "title": "AI型ドリル搭載教材「ラインズeライブラリアドバンス」、京都府久御山町の全小中学校に一斉導入",
+      "url": "https://ict-enews.net/2026/06/12education-2/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-06-11T23:28:47.000Z",
+      "summary": "ラインズは10日、AI型ドリル搭載の学習支援サービス「ラインズeライブラリアドバンス」が、京都府久御山町立の全小中学校4校（児童生徒合計約900人）を対象に、4月から利用されている […]",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_d41787167e63feb6",
+      "title": "角川アスキー、中高生向け「岐阜アントレプレナーシッププログラム」の参加者を募集",
+      "url": "https://ict-enews.net/2026/06/12lab-kadokawa/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-06-11T23:28:22.000Z",
+      "summary": "角川アスキー総合研究所は11日、岐阜県が主催する「2026年度 岐阜アントレプレナーシッププログラム」（Gifu EP）の運営事務局として、参加者の募集を開始した。応募は8月20日 […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_dd6eabf8643c293e",
+      "title": "72％がAIによって仕事に求められるスキルが変わったと回答 =BCG調べ=",
+      "url": "https://ict-enews.net/2026/06/12bcg/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-06-11T23:28:05.000Z",
+      "summary": "ボストン コンサルティング グループ（BCG）は10日、職場におけるAI活用に関するグローバル調査レポート「AI at Work: Strategy Matters More Th […]",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "生成AI",
+        "AI活用"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_69438441c422f9e8",
+      "title": "全国大学生協連、高校生対象に「受験生の今」アンケートを実施中",
+      "url": "https://ict-enews.net/2026/06/12univcoop/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-06-11T23:27:44.000Z",
+      "summary": "全国大学生活協同組合連合会（全国大学生協連）は、5月1日～10月31日の期間、大学受験を目指す高校生を対象に、「受験生の今」と題するアンケートを実施している。 同生協連が11日に発 […]",
+      "starred": false,
+      "category": "exam",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "共通テスト",
+        "入試"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_9a46fa81c17bd034",
+      "title": "拓殖大学、高大連携「アイデアコンテスト」今年のテーマは「スポーツ×AI」",
+      "url": "https://ict-enews.net/2026/06/12takushoku-u/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-06-11T23:27:22.000Z",
+      "summary": "拓殖大学工学部は、高校生を対象とした高大連携プログラム「アイデアのタネコンテスト ORANGE CUP 2026」の作品を6月26日まで募集する。 ORANGE CUPは、高校生の […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_7c7379a97c1a7085",
+      "title": "教育AI活用協会、IT検証技術者認定試験で「UX評価スペシャリスト認定試験」今秋開始",
+      "url": "https://ict-enews.net/2026/06/12ivia/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-06-11T23:26:57.000Z",
+      "summary": "IT検証産業協会（IVIA）は10日、IT検証技術者認定試験（IVEC）にて、新たに「UX評価スペシャリスト認定試験」を今年の秋期試験（試験時期：11月末～12月初予定）から開始す […]",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "生成AI",
+        "AI活用"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_089f277ff2c76dd2",
+      "title": "ハイヤールー、コーディング試験サービス「HireRoo」で新試験「AI協働課題」リリース",
+      "url": "https://ict-enews.net/2026/06/12hireroo/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-06-11T23:26:26.000Z",
+      "summary": "ハイヤールーは10日、コーディング試験サービス「HireRoo」にて、候補者がAIエージェントを活用して課題を解く過程を可視化・評価できる新しい問題形式「AI協働課題」をリリースし […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_d3d1a8cbdb3ba41e",
+      "title": "チエル、「第70回全国学芸サイエンスコンクール」に協賛",
+      "url": "https://ict-enews.net/2026/06/12chieru-6/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-06-11T23:26:05.000Z",
+      "summary": "チエルは10日、「第70回全国学芸サイエンスコンクール」に協賛企業として参画すると発表した。 全国学芸サイエンスコンクールは、青少年の学術・科学および文芸の振興奨励を目的に1957 […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_09ada9514cbf3704",
+      "title": "CA Tech Kids、スイス・チューリッヒで学ぶ海外プログラム「Global STEM Program inスイス」募集開始",
+      "url": "https://ict-enews.net/2026/06/12techkidsschool-4/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-06-11T23:25:42.000Z",
+      "summary": "CA Tech Kidsは11日、エイチ・アイ・エスと共同で、8月17日～23日に開催する海外教育プログラム「Global STEM Program inスイス」の参加者の募集を開 […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_0dc8fc6a252b6c60",
+      "title": "スタディプラス、「Studyplus Agenda 2026 SS～いま考えるべき教育と経営の論点～」18日に開催",
+      "url": "https://ict-enews.net/2026/06/12studyplus-7/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-06-11T23:24:52.000Z",
+      "summary": "スタディプラスは、カンファレンス「Studyplus Agenda 2026 SS～いま考えるべき教育と経営の論点～」を18日に開催する。 少子高齢化などの人口問題が顕在化するいわ […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_13a832f4f640fb02",
+      "title": "NIJIN、小学校教諭向けセミナー「磨け授業力～Deeper Learning～」8月1日開催",
+      "url": "https://ict-enews.net/2026/06/12nijin-9/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-06-11T23:24:29.000Z",
+      "summary": "NIJINが運営する教員研修プラットフォーム「授業てらす」は、小学校教諭向けセミナー「磨け授業力～Deeper Learning～」を8月1日に開催する。 当日は、新潟大学付属小学 […]",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_d260f56f75154830",
+      "title": "教育ネット、「情報モラルの“常識”を問い直す　教職員向けセミナー」開催",
+      "url": "https://ict-enews.net/2026/06/12edu-net-5/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-06-11T23:24:00.000Z",
+      "summary": "教育ネットは、2月からスタートした教職員向けセミナーを6月24日・25日に開催する。 5月・6月のセミナーは、「情報モラルの“常識”を問い直すシリーズ」。 シリーズ第2回目となる6 […]",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_3196ff12831399ae",
+      "title": "Save Our Kids、「家庭での熱中症対策セミナー」オンデマンド配信を開始",
+      "url": "https://ict-enews.net/2026/06/12saveourkids/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-06-11T23:23:26.000Z",
+      "summary": "Save Our Kidsは10日、家庭で実践できる熱中症対策を学べる文部科学省後援の無料オンラインセミナー「家庭での熱中症対策セミナー」のオンデマンド配信の開始を発表した。 同法 […]",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "行政",
+        "文科省"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_959775776e545967",
+      "title": "マイクロシミュレーション、AI採点システム「testus」で化学式の自動採点機能提供開始",
+      "url": "https://ict-enews.net/2026/06/12microsimulation/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-06-11T23:22:26.000Z",
+      "summary": "マイクロシミュレーションは10日、生成AIを活用したAI採点システム「testus（テスタス）」で、手書き答案の化学式自動採点機能の提供を開始したと発表した。 同サービスはこれまで […]",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "生成AI",
+        "AI活用",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_b28645ae0eeda516",
+      "title": "学研、「大学受験ムビスタ」シリーズでレジェンド講師の「歴史総合」参考書を発売",
+      "url": "https://ict-enews.net/2026/06/12-gakken/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-06-11T23:22:06.000Z",
+      "summary": "学研ホールディングスのグループ会社Gakkenは11日、参考書×授業動画で学ぶ「大学受験ムビスタ」シリーズで、レジェンド講師・佐藤幸夫氏による参考書「佐藤のたった8時間で歴史総合」 […]",
+      "starred": false,
+      "category": "exam",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "共通テスト",
+        "入試"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_ea48583b9ee72f15",
+      "title": "キユーピー、小学生向け教材「食品ロス・ゼロチャレンジ大作戦！」を制作",
+      "url": "https://ict-enews.net/2026/06/12kewpie/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-06-11T23:21:40.000Z",
+      "summary": "キユーピーは、食品ロスの現状や削減に向けた取り組みについて学び、減らすための実践につなげる小学生向け教材をARROWSと共同で制作した。ARROWSが運営する教員向けプラットフォー […]",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_f74cf98b3d4be87d",
+      "title": "英語学習サイト「ALTogether」、外国人の視点から異文化理解を深める動画「My Japan」公開",
+      "url": "https://ict-enews.net/2026/06/12borderlink/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-06-11T23:21:19.000Z",
+      "summary": "レアジョブの子会社で外国語教育支援事業を展開するボーダーリンクは10日、英語学習サイト「ALTogether」にて、動画コンテンツの新たなカテゴリーとして「My Japan（私にと […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_c5bd02490a231573",
+      "title": "FLENS、日能研プラネット「ユリウス」の一部教室で「FLENS School Manager」トライアル導入",
+      "url": "https://ict-enews.net/2026/06/12flens-5/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-06-11T23:20:32.000Z",
+      "summary": "FLENSは、提供する教育機関向けコミュニケーションアプリ「FLENS School Manager（FSM）」が、日能研プラネット「ユリウス」の神奈川・東京・埼玉の一部教室で、5 […]",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_f52e1a65c144b277",
+      "title": "Schoo、「伝わるコミュニケーション」授業の特集を公開",
+      "url": "https://ict-enews.net/2026/06/12schoo-6/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-06-11T23:20:12.000Z",
+      "summary": "Schooは11日、社会人向けオンライン学習サービス「Schoo」にて「伝わるコミュニケーション」をテーマにした授業特集を公開した。特集内で紹介している授業はすべて無料で視聴できる […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
       ],
       "priority_score": 50
     },
@@ -1421,26 +1786,6 @@
       "source_name": "note（情報科教員）",
       "published_at": "2026-05-17T03:22:34.000Z",
       "summary": "前編のおさらい 前編では、「ドラえもんは意味が分かっているのか？」という問いを入口に、基礎情報学の3つの情報概念（生命情報・社会情報・機械情報）が、ばらばらに見えていた情報Ⅰの単元を一本の軸でつなぐことを示した。 続きをみる",
-      "starred": false,
-      "category": "exam",
-      "tags": [
-        "授業実践",
-        "情報Ⅰ",
-        "教材",
-        "共通テスト",
-        "入試",
-        "教育ニュース"
-      ],
-      "priority_score": 60
-    },
-    {
-      "id": "item_3aac2bb0ff2673b3",
-      "title": "【高校/情報Ⅰ】 コンピュータで聞く「bit（ビット）」「Byte（バイト）」って何だっけ…？🤔",
-      "url": "https://note.com/let_me_umetsu/n/n4d3218374860",
-      "source_id": "note_joho1",
-      "source_name": "note（情報科教員）",
-      "published_at": "2026-05-15T05:42:58.000Z",
-      "summary": "あくまで直感重視のメモなので、不足がある部分はご了承ください。 続きをみる",
       "starred": false,
       "category": "exam",
       "tags": [
