@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-14T07:25:02.418Z",
+  "generated_at": "2026-06-14T11:33:50.695Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-06-14T07:24:51.311Z",
+      "published_at": "2026-06-14T11:33:40.207Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-06-14T07:24:51.311Z",
+      "published_at": "2026-06-14T11:33:40.207Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-06-14T07:24:51.311Z",
+      "published_at": "2026-06-14T11:33:40.207Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,26 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_1dec74e46fcb93dc",
+      "title": "Amazon、Anthropicの最新AIについて懸念を伝えていた　米政権による停止命令に先立ち　関係筋",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/14/news019.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-06-14T09:20:00.000Z",
+      "summary": "米Amazonのアンディ・ジャシーCEOは今週、米Anthropicの最先端AIモデルにおけるセキュリティリスクについて、トランプ政権高官に懸念を示したテック業界幹部の一人だった。事情に詳しい関係者がロイターに明らかにした。トランプ政権はAnthropicに対し、米国内外を問わず、外国籍者が同社の最新モデルである「Fable 5」と「Mythos 5」の両方を利用できないようにすることを命じていた…",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_6811ddc28739ece2",
@@ -1439,28 +1459,6 @@
         "AI",
         "LLM",
         "AI活用"
-      ],
-      "priority_score": 70
-    },
-    {
-      "id": "item_0ac5b68c2c7dc37d",
-      "title": "「何でもIT化」が組織を壊す　「GIGAスクール名付け親」に聞くAI時代のリーダー論",
-      "url": "https://www.itmedia.co.jp/business/articles/2606/11/news029.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-06-10T22:00:00.000Z",
-      "summary": "業務を劇的に効率化させる一方で、扱い方を間違えれば組織のエンゲージメントを破壊する生成AI。テスト採点時間を最大80％削減するDXを実現しながらも「記述式の自動採点は絶対に導入しない」と言い切るEdLog社長の中川哲氏（元日本マイクロソフト業務執行役員）。同氏が形だけのDXで組織を停滞させないためのマネジメント論を展開。「AIのスコアだけで判断された部下の心は離れる」と語る組織論に迫る。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用",
-        "校務DX",
-        "GIGA",
-        "教材",
-        "ツール"
       ],
       "priority_score": 70
     },
