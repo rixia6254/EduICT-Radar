@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-15T15:20:53.354Z",
-  "total": 103,
+  "generated_at": "2026-06-15T22:58:45.714Z",
+  "total": 83,
   "items": [
     {
       "id": "item_21f8651de3f2baea",
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-06-15T15:20:43.059Z",
+      "published_at": "2026-06-15T22:58:35.875Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-06-15T15:20:43.059Z",
+      "published_at": "2026-06-15T22:58:35.875Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-06-15T15:20:43.059Z",
+      "published_at": "2026-06-15T22:58:35.875Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,127 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_ed226fb17ee1fe69",
+      "title": "300億円は「ROI不問」　Olive、Trunkを仕掛けるSMBC、新規事業の神髄は「撤退」にアリ",
+      "url": "https://www.itmedia.co.jp/business/articles/2606/16/news018.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-06-15T22:00:00.000Z",
+      "summary": "「Olive」や「Trunk」を相次いで成長軌道に乗せ、生成AI活用に向けて500億円の投資計画も打ち出した三井住友フィナンシャルグループ。そんな同社だが、約10年前はモバイルアプリで競合他行に大きく後れを取るなど、変革が進んでいなかった。堅実なメガバンクは、いかに挑戦を次々と形にできる組織へと変貌したのか。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_e59fc83c76e445b5",
+      "title": "生成AI×3D CADでどこまでできるか試してみた",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2606/16/news023.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-06-15T22:00:00.000Z",
+      "summary": "生成AIの活用は、文章や画像、動画だけでなく、3D CADの分野にも広がり始めています。自然言語で指示するだけで、3Dモデルのたたき台を作成できる環境も登場しつつあります。今回はAutodesk Fusionの「Autodesk Assistant」を使い、ペットボトルの3Dモデル作成を試しながら、生成AI×3D CADの可能性と課題を紹介します。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_5ddb131dbb477a43",
+      "title": "月2000時間のムダをなくす大阪ガスらのNotion×AI活用　「使われない情報」の生かし方",
+      "url": "https://kn.itmedia.co.jp/kn/articles/2606/16/news022.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-06-15T22:00:00.000Z",
+      "summary": "「あの資料はどこ」といった情報探索の負担を、NotionとAIの活用によって大幅に軽減した大阪ガスら2社の事例を紹介。月2000時間の業務削減を実現した取り組みによって埋もれた情報を組織の知識資産へと変え、属人化を防ぐ仕組みづくりのポイントを分かりやすく解説する。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_c4de0a2d5be5b550",
+      "title": "32インチでAndroid搭載のタッチ対応スマートディスプレイ「モバイルスマートスクリーン32」、SKTが発売",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2117163.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-06-15T22:00:00.000Z",
+      "summary": "SKT株式会社は6月15日、32インチのタッチディスプレイにAndroidを搭載した移動式スマートディスプレイ「モバイルスマートスクリーン32」を発売した。市場想定価格は14万9800円。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_f619f0e0a0a74b58",
+      "title": "古いWi-Fiルーターは本当に遅い？ Wi-Fiルーターの性能は5年でどれだけ進化した？ 徹底検証した様子を動画で紹介する記事に注目が集まる【アクセスランキング】",
+      "url": "https://internet.watch.impress.co.jp/docs/news/ranking/2117106.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-06-15T21:55:00.000Z",
+      "summary": "前週に閲覧数の多かった記事を、カテゴリーごとに上位5位までレポートします。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_fd7e8b99bc977648",
+      "title": "厚労省、委託事業者の作業ミスでTeams上のチャットデータが消失。業務への影響は限定的",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2117220.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-06-15T21:30:00.000Z",
+      "summary": "厚生労働省は6月12日、職員が業務で使用するグループウェアなどを提供する「厚生労働省LANシステム」の運用を委託している株式会社東芝が業務データの一部を消失させた事案が発生したとして、その概要と原因を発表した。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_ccdd0447247ea781",
+      "title": "Zscaler、AI時代に向けセキュリティ基盤「Zscaler Zero Trust SASE」を拡張、自律運用可能かつ広範囲対象に",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2117178.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-06-15T21:00:00.000Z",
+      "summary": "ゼットスケーラー株式会社（Zscaler）は6月11日、同社のゼロトラストSASE「Zscaler Zero Trust SASE」を、AI時代に向けて再定義したと発表した。",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_aaa8e910908c53cf",
@@ -1020,25 +1141,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_894ebd8439542c66",
-      "title": "2026年度　大学入学共通テスト「情報Ⅰ」第１問　問３への疑問？？",
-      "url": "https://note.com/magic_eel5366/n/n97ea2bd5fd5c",
-      "source_id": "note_joho1",
-      "source_name": "note（情報科教員）",
-      "published_at": "2026-06-13T11:08:17.000Z",
-      "summary": "情報デザイン？ 続きをみる",
-      "starred": false,
-      "category": "exam",
-      "tags": [
-        "授業実践",
-        "情報Ⅰ",
-        "教材",
-        "共通テスト",
-        "入試"
-      ],
-      "priority_score": 70
-    },
-    {
       "id": "item_0d897e77413c3778",
       "title": "Anthropic、「Mythos 5」「Fable 5」の提供を一時停止　米政府指示を受け",
       "url": "https://www.itmedia.co.jp/aiplus/article/2606/13/2000000087/",
@@ -1262,22 +1364,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_eeb233fb93309fa5",
-      "title": "Google検索のAIまとめ、誤っていた場合の責任は「Googleにあり」。ドイツで画期的判決【やじうまWatch】",
-      "url": "https://internet.watch.impress.co.jp/docs/yajiuma/2116652.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-06-12T03:08:31.000Z",
-      "summary": "Google検索のAIまとめに誤りがあった場合、その責任はGoogleにあるとする判決が下され、波紋を呼んでいる。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_59d91a48bb1d0840",
       "title": "「人型ロボ世界シェア1位」中国Unitreeに聞く“普及戦略”　日本市場をどう開拓？",
       "url": "https://www.itmedia.co.jp/aiplus/article/2606/12/2000000080/",
@@ -1291,39 +1377,6 @@
         "生成AI",
         "AI",
         "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_14c221d63ae161fe",
-      "title": "「いいねを押すだけ」「動画を見るだけ」などとうたう副業の正体は、出口のないネット詐欺なので要注意！【読めば身に付くネットリテラシー】",
-      "url": "https://internet.watch.impress.co.jp/docs/column/netliteracy/2113893.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-06-12T02:52:00.000Z",
-      "summary": "「動画に『いいね』を押すだけ」「商品レビューのスクリーンショットを送るだけ」――そんな簡単な作業で報酬がもらえるとうたい、最後はお金をだまし取るのが“タスク詐欺”の手口です。数年前から話題になっているタイプの詐欺ですが、今もなお猛威を振るっています。",
-      "starred": false,
-      "category": "security",
-      "tags": [
-        "インターネット",
-        "セキュリティ",
-        "情報モラル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_e8154b82be12e619",
-      "title": "モトローラのAndroid 15対応SIMフリースマホがAmazonでセール中！　FMラジオ機能も搭載した「motorola g66j 5G PANTONE」が2万6820円",
-      "url": "https://internet.watch.impress.co.jp/docs/shopping/2116575.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-06-12T02:30:00.000Z",
-      "summary": "Amazon.co.jpのモトローラのストアでは現在、同社のAndroidスマートフォン「motorola g66j 5G PANTONE」がセールとなっている。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
       ],
       "priority_score": 50
     },
@@ -1345,24 +1398,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_4ad2b67c6bbf6480",
-      "title": "シリコンパワーのmicroSDカードがAmazonでセール中！　UHS-I 4K対応の128GBが2831円。アプリ動作が快適なA2適合の64GBは2071円",
-      "url": "https://internet.watch.impress.co.jp/docs/shopping/2116574.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-06-12T01:30:00.000Z",
-      "summary": "Amazon.co.jpのシリコンパワー（Silicon Power）ストアでは現在、同社のmicroSDカードのセールが行われている。",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "インターネット",
-        "セキュリティ",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_b0b4f75abad63d4a",
       "title": "“AIが電力使いすぎ問題”　「電力不足」懸念で、発電能力より深いボトルネックとは",
       "url": "https://www.itmedia.co.jp/business/articles/2606/12/news029.html",
@@ -1378,412 +1413,6 @@
         "LLM"
       ],
       "priority_score": 50
-    },
-    {
-      "id": "item_bdf040f0b4f32d04",
-      "title": "「日本がいないと成り立たない」世界へ、フィジカルAIが導く独自の交渉力",
-      "url": "https://monoist.itmedia.co.jp/mn/articles/2606/12/news049.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-06-11T21:45:00.000Z",
-      "summary": "Laboro.AIはメディア向けAI勉強会を開催し、2026年の業界トレンドや、日本の生存戦略となる次世代AIの動向を解説した。「SaaSの死」に伴うソフトウェア開発の変化や、グローバルなエコシステムで不可欠性を目指す「フィジカルAI」としての勝ち筋を語る。",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_252b878714d27366",
-      "title": "JASRAC、「AI作曲・人間作詞」の曲は管理します――「人間の創作的寄与の有無」で線引き",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/11/news110.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-06-11T06:49:00.000Z",
-      "summary": "歌詞・楽曲両方をAIが作った曲は管理しないが、歌詞か楽曲をAI生成し、もう片方を人間が創作した曲は、人が作った部分のみ管理するという。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_39e63cdb03c248a0",
-      "title": "サッカーW杯、偽ライブ配信サイトに注意　生成AIで詐欺が巧妙化　Acronisが警告",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/11/news106.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-06-11T06:14:00.000Z",
-      "summary": "生成AI技術の発展により、偽のチケット販売サイトや偽のライブ配信サイトなどの手口は巧妙化しており、十分な注意が必要だ。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 60
-    },
-    {
-      "id": "item_1a0fb4c18d529829",
-      "title": "高校の情報Ⅰに向けて今からできること｜小中学生のうちに身につけたい力とは",
-      "url": "https://note.com/iteen_media/n/n753bc4b86d8b",
-      "source_id": "note_joho1",
-      "source_name": "note（情報科教員）",
-      "published_at": "2026-06-11T01:00:55.000Z",
-      "summary": "2022年度から高校で「情報Ⅰ」が必修となりました。 さらに大学入学共通テストでも情報が出題されるようになり、 続きをみる",
-      "starred": false,
-      "category": "exam",
-      "tags": [
-        "授業実践",
-        "情報Ⅰ",
-        "教材",
-        "共通テスト",
-        "入試",
-        "教育ニュース"
-      ],
-      "priority_score": 70
-    },
-    {
-      "id": "item_9680367a3924d7ed",
-      "title": "【Python超入門】知識ゼロから抜け出す！プログラミングの基本概念とアルゴリズム完全攻略",
-      "url": "https://note.com/quirky_frog4014/n/n226018090935",
-      "source_id": "note_joho1",
-      "source_name": "note（情報科教員）",
-      "published_at": "2026-06-08T17:39:21.000Z",
-      "summary": "こんにちは。この記事に興味を持っていただき、ありがとうございます。 昨今、「プログラミング」や「AI（人工知能）」といった言葉を聞かない日はありませんよね。社会のデジタル化が急速に進む中、プログラミングスキルは一部の専門家だけのものではなく、現代を生きる私たち全員にとっての「読み書きそろばん」になりつつあります。実際、今の高校生たちは「情報Ⅰ」という科目の中で、全員がプログラミングやデータの活用を…",
-      "starred": false,
-      "category": "exam",
-      "tags": [
-        "授業実践",
-        "情報Ⅰ",
-        "教材",
-        "共通テスト",
-        "入試",
-        "生成AI",
-        "AI活用",
-        "校務DX"
-      ],
-      "priority_score": 70
-    },
-    {
-      "id": "item_52f8b513de486c26",
-      "title": "情報学概論　第15回：プログラミングの実践（２）と総括",
-      "url": "https://note.com/quirky_frog4014/n/n450171c6f276",
-      "source_id": "note_joho1",
-      "source_name": "note（情報科教員）",
-      "published_at": "2026-06-02T14:45:30.000Z",
-      "summary": "みなさん、こんにちは。「情報学概論」の講義も、ついに今回が最終回となる第15回を迎えました。ここまで本当によく頑張りましたね。 前回の第14回では、「プログラミングの実践（１）」として、変数というデータを入れる箱の使い方や、配列を使って大量のデータを一気に扱う方法、そして「選択構造（if文）」や「反復構造（for文・while文）」といったプログラムを賢く動かすための基本的なテクニックを学びました…",
-      "starred": false,
-      "category": "lesson",
-      "tags": [
-        "授業実践",
-        "情報Ⅰ",
-        "教材"
-      ],
-      "priority_score": 60
-    },
-    {
-      "id": "item_c67c90afb5ac2345",
-      "title": "情報学概論　第14回：プログラミングの実践（１）",
-      "url": "https://note.com/quirky_frog4014/n/n1157e373f33b",
-      "source_id": "note_joho1",
-      "source_name": "note（情報科教員）",
-      "published_at": "2026-06-02T14:31:06.000Z",
-      "summary": "みなさん、こんにちは。全15回でお送りしている「情報学概論」も、いよいよ大詰めとなる第14回を迎えました。 前回の第13回では、「アルゴリズムの基礎」をテーマに、コンピュータに指示を出すための「手順」の考え方や、それを図式化するフローチャート、そしてすべてのプログラムの土台となる「順次」「選択」「反復」という3つの基本制御構造について学びました。カレーライスの作り方からSNSのメッセージ確認まで、…",
-      "starred": false,
-      "category": "lesson",
-      "tags": [
-        "授業実践",
-        "情報Ⅰ",
-        "教材"
-      ],
-      "priority_score": 60
-    },
-    {
-      "id": "item_f0ea9a66e8277678",
-      "title": "情報学概論　第13回：アルゴリズムの基礎",
-      "url": "https://note.com/quirky_frog4014/n/n23fce2d8ab31",
-      "source_id": "note_joho1",
-      "source_name": "note（情報科教員）",
-      "published_at": "2026-06-02T14:15:14.000Z",
-      "summary": "みなさん、こんにちは。全15回でお送りしている「情報学概論」も、いよいよ大詰めの第13回となりました。 前回の第12回では「モデル化とシミュレーション」について学びました。現実世界の複雑な問題を、必要な要素だけを抜き出して「モデル」として単純化し、コンピュータ上で仮想の実験（シミュレーション）を行うことで、コストやリスクをかけずに未来を予測したり、最適な解決策を見つけ出したりできるというお話でした…",
-      "starred": false,
-      "category": "lesson",
-      "tags": [
-        "授業実践",
-        "情報Ⅰ",
-        "教材"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_36876b9e58c1c2cc",
-      "title": "情報学概論　第12回：モデル化とシミュレーション",
-      "url": "https://note.com/quirky_frog4014/n/n054581c529ba",
-      "source_id": "note_joho1",
-      "source_name": "note（情報科教員）",
-      "published_at": "2026-06-02T14:05:34.000Z",
-      "summary": "みなさん、こんにちは。全15回でお送りしている「情報学概論」の第12回講義です。 前回の第11回では、「データの収集と活用」というテーマで、問題解決の根拠となるデータの集め方や、表計算ソフトを使ったクロス集計、グラフによる可視化、そして大量のデータを扱うデータベースの基礎について学びました。客観的な事実（データ）に基づいて現状を把握することの大切さが、しっかりと伝わっていれば嬉しいです。 続きをみ…",
-      "starred": false,
-      "category": "lesson",
-      "tags": [
-        "授業実践",
-        "情報Ⅰ",
-        "教材"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_297021011d403eeb",
-      "title": "情報学概論　第11回：データの収集と活用",
-      "url": "https://note.com/quirky_frog4014/n/ndcaf3e9b577b",
-      "source_id": "note_joho1",
-      "source_name": "note（情報科教員）",
-      "published_at": "2026-06-02T13:56:37.000Z",
-      "summary": "みなさん、こんにちは。全15回でお送りしている「情報学概論」、今回は第11回の講義となります。 前回の第10回では、「問題解決のプロセス」について学びました。「理想」と「現状」のギャップを問題として捉え、ブレーンストーミングで解決案を出し、PDCAサイクルを回していくという一連の流れを解説しましたね。このプロセスの中で、客観的な現状を把握したり、解決策が本当に効果があったのかを評価したりするために…",
-      "starred": false,
-      "category": "lesson",
-      "tags": [
-        "授業実践",
-        "情報Ⅰ",
-        "教材"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_66cad8854a2c5700",
-      "title": "情報学概論　第10回：問題解決のプロセス",
-      "url": "https://note.com/quirky_frog4014/n/ncfde954d9ce2",
-      "source_id": "note_joho1",
-      "source_name": "note（情報科教員）",
-      "published_at": "2026-06-02T13:45:50.000Z",
-      "summary": "みなさん、こんにちは。全15回でお送りしている「情報学概論」も、いよいよ第10回を迎えました。講義もいよいよ後半戦に突入です。 前回の第9回では「情報セキュリティ」をテーマに、サイバー空間に潜む脅威と、それらから身を守るための暗号化技術やファイアウォールなどの防御策について学びました。技術の進歩は私たちの生活を豊かにしてくれますが、同時に新たなリスクも生み出します。常に「自衛」の意識を持つことが大…",
-      "starred": false,
-      "category": "security",
-      "tags": [
-        "授業実践",
-        "情報Ⅰ",
-        "教材",
-        "セキュリティ",
-        "情報モラル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_2fe3eab2ef66326e",
-      "title": "情報学概論　第9回：情報セキュリティ",
-      "url": "https://note.com/quirky_frog4014/n/n2fbb6125baee",
-      "source_id": "note_joho1",
-      "source_name": "note（情報科教員）",
-      "published_at": "2026-06-02T13:36:05.000Z",
-      "summary": "みなさん、こんにちは。全15回でお送りしている「情報学概論」、今回は第9回の講義です。 前回の第8回では「情報通信ネットワーク」というテーマで、私たちが普段当たり前のように使っているインターネットの裏側についてお話ししました。世界中のコンピュータがTCP/IPという共通の言葉（プロトコル）で会話し、データを細かく分けた「パケット」が、IPアドレスを頼りにルータたちのバケツリレーによって目的地まで届…",
-      "starred": false,
-      "category": "security",
-      "tags": [
-        "授業実践",
-        "情報Ⅰ",
-        "教材",
-        "セキュリティ",
-        "情報モラル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_18f6d54e0aca1e72",
-      "title": "情報学概論　第8回：情報通信ネットワーク",
-      "url": "https://note.com/quirky_frog4014/n/neab20af53a05",
-      "source_id": "note_joho1",
-      "source_name": "note（情報科教員）",
-      "published_at": "2026-06-02T13:26:55.000Z",
-      "summary": "みなさん、こんにちは。全15回でお送りしている「情報学概論」の第8回講義です。 前回の第7回では「マルチメディアのデジタル表現」というテーマで、私たちが普段楽しんでいる音楽や写真、動画といった複雑なデータが、コンピュータの内部でどのように「0」と「1」に変換されているのかを学びました。また、膨大に膨れ上がるデータ量を、非可逆圧縮などの技術を使って小さくする仕組みについても解説しましたね。 さて、そ…",
-      "starred": false,
-      "category": "lesson",
-      "tags": [
-        "授業実践",
-        "情報Ⅰ",
-        "教材"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_1d01f61d0b74f9a2",
-      "title": "情報学概論　第7回：マルチメディアのデジタル表現",
-      "url": "https://note.com/quirky_frog4014/n/nb3c11b41804a",
-      "source_id": "note_joho1",
-      "source_name": "note（情報科教員）",
-      "published_at": "2026-06-02T11:35:19.000Z",
-      "summary": "みなさん、こんにちは。「情報学概論」の第7回の講義です。 前回の第6回では、現実世界の連続したアナログ情報を、コンピュータが扱えるように「0」と「1」のデジタル情報に変換するメリットや、数値、そして文字がどのようにデジタル化されているのかについて学びました。「あ」という文字も、コンピュータの内部では文字コードというルールに基づいて、単なる0と1の数字の羅列として記憶されているのでしたね。 続きをみ…",
-      "starred": false,
-      "category": "dx",
-      "tags": [
-        "授業実践",
-        "情報Ⅰ",
-        "教材",
-        "校務DX",
-        "GIGA"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_d4fd724c050989e9",
-      "title": "情報学概論　第6回：情報のデジタル化と数値・文字の表現",
-      "url": "https://note.com/quirky_frog4014/n/n6f72d06f616f",
-      "source_id": "note_joho1",
-      "source_name": "note（情報科教員）",
-      "published_at": "2026-06-02T11:16:52.000Z",
-      "summary": "みなさん、こんにちは。「情報学概論」の第6回の講義です。 前回の第5回では、「コンピュータの構成と仕組み」をテーマに、ハードウェアの5大装置やCPUの働き、そしてOSの役割について探検しました。コンピュータという魔法の箱が、実は非常に論理的で規則正しい働きをしていることがおわかりいただけたかと思います。 続きをみる",
-      "starred": false,
-      "category": "dx",
-      "tags": [
-        "授業実践",
-        "情報Ⅰ",
-        "教材",
-        "校務DX",
-        "GIGA"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_7b01e3924f9bbdf2",
-      "title": "情報学概論　第5回：コンピュータの構成と仕組み",
-      "url": "https://note.com/quirky_frog4014/n/n3c2c0d372ed6",
-      "source_id": "note_joho1",
-      "source_name": "note（情報科教員）",
-      "published_at": "2026-06-02T09:37:43.000Z",
-      "summary": "みなさん、こんにちは。「情報学概論」の第5回の講義です。 前回の第4回では「情報デザイン」をテーマに、相手に正しく情報を伝えるためのフォント選びや図解、そして誰にでも使いやすいユニバーサルデザインの考え方について学びました。情報の「外側（見せ方）」を整えることの重要性がお分かりいただけたかと思います。 続きをみる",
-      "starred": false,
-      "category": "lesson",
-      "tags": [
-        "授業実践",
-        "情報Ⅰ",
-        "教材"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_0b8f777633933ae1",
-      "title": "情報学概論　第4回：情報デザインの基礎と実践",
-      "url": "https://note.com/quirky_frog4014/n/n63c43ba0c9aa",
-      "source_id": "note_joho1",
-      "source_name": "note（情報科教員）",
-      "published_at": "2026-06-02T09:29:06.000Z",
-      "summary": "みなさん、こんにちは。「情報学概論」の第4回の講義です。 前回は「メディアとコミュニケーション」というテーマで、情報メディア、表現メディア、伝達メディアという3つの側面や、相手の状況に応じて適切なコミュニケーションツールを選ぶことの重要性についてお話ししました。 続きをみる",
-      "starred": false,
-      "category": "lesson",
-      "tags": [
-        "授業実践",
-        "情報Ⅰ",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_f5071819d8d9d3e4",
-      "title": "情報学概論　第3回：メディアとコミュニケーション",
-      "url": "https://note.com/quirky_frog4014/n/n77e15f00cdbe",
-      "source_id": "note_joho1",
-      "source_name": "note（情報科教員）",
-      "published_at": "2026-06-02T09:17:45.000Z",
-      "summary": "みなさん、こんにちは。「情報学概論」第3回の講義です。 前回の第2回では、知的財産権や個人情報保護、そしてAIやIoTが創り出すデータ駆動型社会についてお話ししました。ルールを守るだけでなく、ルールを活用して自分を守ることの大切さが伝わっていれば嬉しいです。 続きをみる",
-      "starred": false,
-      "category": "security",
-      "tags": [
-        "授業実践",
-        "情報Ⅰ",
-        "教材",
-        "セキュリティ",
-        "情報モラル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_bb2f8f16a17f517d",
-      "title": "情報学概論　第2回：情報社会の法規と新しい社会知的財産権と著作物の利用・公開のルール,個人情報の保護と管理（個人情報保護法、プライバシー、情報の流出と対策）",
-      "url": "https://note.com/quirky_frog4014/n/n40c186fd6459",
-      "source_id": "note_joho1",
-      "source_name": "note（情報科教員）",
-      "published_at": "2026-06-02T08:25:01.000Z",
-      "summary": "みなさん、こんにちは。「情報学概論」第2回の講義です。 前回は、「情報」という言葉の本来の意味や、それが持つ強力な特性（残存性、複製性、伝播性）についてお話ししました。一度ネットの海に放たれた情報は消すことができない、という「デジタルタトゥー」の怖さについても触れましたね。 続きをみる",
-      "starred": false,
-      "category": "security",
-      "tags": [
-        "授業実践",
-        "情報Ⅰ",
-        "教材",
-        "セキュリティ",
-        "情報モラル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_301cf67a587b1082",
-      "title": "情報学概論　第1回：情報と情報社会の特性情報の定義と「こと」と「もの」の違い",
-      "url": "https://note.com/quirky_frog4014/n/n3b947d22c005",
-      "source_id": "note_joho1",
-      "source_name": "note（情報科教員）",
-      "published_at": "2026-06-02T08:13:07.000Z",
-      "summary": "みなさん、こんにちは。今回から全15回にわたって、「情報学概論」の講義をこのnoteでお届けしていきます。 現代は「情報社会」と呼ばれて久しいですが、私たちは毎日、スマートフォンやパソコンを通じて、滝のような情報を浴びて生活していますよね。皆さんも、朝起きて最初にスマホでニュースやSNSをチェックし、夜寝る前にも動画を見たりメッセージを返したりしているのではないでしょうか。 続きをみる",
-      "starred": false,
-      "category": "lesson",
-      "tags": [
-        "授業実践",
-        "情報Ⅰ",
-        "教材"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_bbc36705d57af922",
-      "title": "怪しい情報商材より「情報1」の教科書を読もう",
-      "url": "https://note.com/hatosan_dx/n/n8b81834065b5",
-      "source_id": "note_joho1",
-      "source_name": "note（情報科教員）",
-      "published_at": "2026-05-23T05:51:59.000Z",
-      "summary": "皆さんも最近、高校生がプログラミングを習うようになったことはご存じでしょうか？「情報I」という強化が必修化されたことで、高校生全員がITについて学んでいます。 Pythonのコード、公開鍵暗号の仕組み、相関係数と回帰直線、情報デザインの4原則、著作権法の解説 ── 私自身が社会人になってから、研修や書籍やスクールで、十数年かけて少しずつ身につけてきたものが、ほぼ全部入っていたのです。 続きをみる",
-      "starred": false,
-      "category": "exam",
-      "tags": [
-        "授業実践",
-        "情報Ⅰ",
-        "教材",
-        "共通テスト",
-        "入試",
-        "セキュリティ",
-        "情報モラル",
-        "ツール"
-      ],
-      "priority_score": 70
-    },
-    {
-      "id": "item_cf961d9277268c89",
-      "title": "【中編】「ドラえもんは意味が分かっているのか？」―基礎情報学が情報の授業を変える",
-      "url": "https://note.com/takeshi_fujioka/n/n1f379542d917",
-      "source_id": "note_joho1",
-      "source_name": "note（情報科教員）",
-      "published_at": "2026-05-17T03:22:34.000Z",
-      "summary": "前編のおさらい 前編では、「ドラえもんは意味が分かっているのか？」という問いを入口に、基礎情報学の3つの情報概念（生命情報・社会情報・機械情報）が、ばらばらに見えていた情報Ⅰの単元を一本の軸でつなぐことを示した。 続きをみる",
-      "starred": false,
-      "category": "exam",
-      "tags": [
-        "授業実践",
-        "情報Ⅰ",
-        "教材",
-        "共通テスト",
-        "入試",
-        "教育ニュース"
-      ],
-      "priority_score": 60
     }
   ],
   "clips": []
