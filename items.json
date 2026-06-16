@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-06-16T08:48:27.228Z",
+  "generated_at": "2026-06-16T14:22:15.133Z",
   "total": 103,
   "items": [
+    {
+      "id": "item_21f8651de3f2baea",
+      "title": "文部科学省ホームページトップはこちら",
+      "url": "https://www.mext.go.jp/",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-06-16T14:22:04.448Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
     {
       "id": "item_bd1951ae70f98dac",
       "title": "サイトマップはこちら",
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-06-16T08:48:17.168Z",
+      "published_at": "2026-06-16T14:22:04.448Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -25,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-06-16T08:48:17.168Z",
+      "published_at": "2026-06-16T14:22:04.448Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -38,31 +56,13 @@
       "priority_score": 60
     },
     {
-      "id": "item_21f8651de3f2baea",
-      "title": "文部科学省ホームページトップはこちら",
-      "url": "https://www.mext.go.jp/",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-06-16T08:48:17.167Z",
-      "summary": "",
-      "starred": false,
-      "category": "admin",
-      "tags": [
-        "行政",
-        "文科省",
-        "制度",
-        "教育ニュース"
-      ],
-      "priority_score": 60
-    },
-    {
-      "id": "item_23d85100cf5c795c",
-      "title": "ローソン、「Lミニマート」2号店を板橋にオープン",
-      "url": "https://www.watch.impress.co.jp/docs/news/2117607.html",
+      "id": "item_3fdb46c376ff5c68",
+      "title": "RingConn、サブスク不要リング「Gen 3」　血管ヘルス傾向や振動アラート",
+      "url": "https://www.watch.impress.co.jp/docs/news/2117661.html",
       "source_id": "impress_watch",
       "source_name": "Impress Watch",
-      "published_at": "2026-06-16T08:28:14.000Z",
-      "summary": "ローソンは、Lミニマート2号店を板橋でオープンした。5月28日にオープンしたLミニマート小平仲町店に続く2店舗目。",
+      "published_at": "2026-06-16T11:00:00.000Z",
+      "summary": "RingConn (Hong Kong) Limitedは、スマートリング「RingConn Gen 3」の予約販売を開始した。予約受付期間は7月1日までで、一般販売日は7月2日を予定する。販売は、公式オンラインサイト、楽天市場公式ストア、家電量販店。",
       "starred": false,
       "category": "tech",
       "tags": [
@@ -77,7 +77,7 @@
       "url": "https://www.itmedia.co.jp/aiplus/article/2606/16/2000000093/",
       "source_id": "itmedia_ai",
       "source_name": "ITmedia AI+",
-      "published_at": "2026-06-16T08:00:00.000Z",
+      "published_at": "2026-06-16T10:27:46.000Z",
       "summary": "米OpenAIのサム・アルトマンCEOが来日するイベントが予定されていたが、来日が中止となった。",
       "starred": false,
       "category": "ai",
@@ -86,6 +86,96 @@
         "AI",
         "LLM",
         "AI活用"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_17e73fbdf027d609",
+      "title": "メガバンク3行、普通預金金利を0.4%に引き上げ",
+      "url": "https://www.watch.impress.co.jp/docs/news/2117660.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-06-16T10:23:53.000Z",
+      "summary": "日銀は16日、政策金利を1%程度に引き上げることを決定した。政策金利としている短期の市場金利がこれまでの0.75%程度から、1%程度へと引き上げられる。",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "行政",
+        "文科省"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_e4ea2bf2e754e9d6",
+      "title": "「日本を守る」　ソフトバンクとOpenAIが重要インフラのサイバー防御を提案",
+      "url": "https://www.watch.impress.co.jp/docs/news/2117614.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-06-16T10:00:00.000Z",
+      "summary": "ソフトバンクグループ、ソフトバンク、SB OAI Japanは、OpenAIの技術を活用したサイバーセキュリティー対策ソリューション「Patching as a Service」を提供開始する。日本国内の重要インフラを支える一部の企業に対して提供し、脆弱性診断の申し込み受付を順次案内する。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "生成AI",
+        "AI活用",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_38f511b351f70237",
+      "title": "パチンコ業界もキャッシュレス　「PPPAY」導入準備完了",
+      "url": "https://www.watch.impress.co.jp/docs/news/2117644.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-06-16T09:52:53.000Z",
+      "summary": "PPPは、パチンコホール向けキャッシュレス決済サービス「PPPAY」の提供準備が完了したと発表した。具体的な提供開始日や導入店舗は明らかにしていない。Visa・Mastercardブランドのデビットカードおよびプリペイドカードで、ホール内カウンターにおいて玉・メダルの貸与を受けられる。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_7043438f79a58399",
+      "title": "OpenAIの高度AIでソフトバンクの脆弱性を1万件発見　孫正義氏「大変な危機」　日本の重要インフラ企業へ診断サービス提供",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2606/16/2000000095/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-06-16T09:06:44.000Z",
+      "summary": "ソフトバンクグループは6月16日、米OpenAIの高度なAI技術を活用したサイバーセキュリティ対策サービス「Patching as a Service」を発表した。OpenAIのサイバーセキュリティに特化したAI「GPT-5.5 Cyber」などの技術とソフトバンクの運用ノウハウを組み合わせ、企業システムに疑似的に攻撃することで脆弱性を見つける。見つけた脆弱性に対し、修復方針の策定や実装の提案まで…",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_23d85100cf5c795c",
+      "title": "ローソン、「Lミニマート」2号店を板橋にオープン",
+      "url": "https://www.watch.impress.co.jp/docs/news/2117607.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-06-16T08:28:14.000Z",
+      "summary": "ローソンは、Lミニマート2号店を板橋でオープンした。5月28日にオープンしたLミニマート小平仲町店に続く2店舗目。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
       ],
       "priority_score": 50
     },
@@ -123,7 +213,7 @@
     },
     {
       "id": "item_93e74ac29ab8b9a6",
-      "title": "Amazonプライムデーは7月10日から　300万点登場のお得な7日間",
+      "title": "Amazonプライムデーは7月10日から　iPhone Airなど300万点が登場",
       "url": "https://www.watch.impress.co.jp/docs/news/2117526.html",
       "source_id": "impress_watch",
       "source_name": "Impress Watch",
@@ -1049,40 +1139,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_b6771d6133073a1a",
-      "title": "ラーメンの「スガキヤ」、20年ぶり関東進出　神奈川に2店舗",
-      "url": "https://www.watch.impress.co.jp/docs/news/2117315.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-06-15T11:10:00.000Z",
-      "summary": "名古屋など中京圏を中心にラーメンチェーン「スガキヤ」を展開するスガキコシステムズは、26年内に神奈川県に2店舗を出店し、20年ぶりに関東エリアに再進出する。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_8937b8c19a7db1ba",
-      "title": "ワンバンク、「シェア貯金」強化　目標金額を決めた「ポケット」など",
-      "url": "https://www.watch.impress.co.jp/docs/news/2117261.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-06-15T11:00:00.000Z",
-      "summary": "AI家計管理アプリ「ワンバンク」を運営するスマートバンクは15日、カップル・夫婦が未来の目的のために協力して貯金する「シェア貯金」のための新機能を追加した。目標金額を設定したシェア貯金などが可能になる。",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_d17fd0c9f13b2383",
       "title": "人工知能学会「AIは人間を代替しない」　社会実装へ4提言　安保・著作権にも言及",
       "url": "https://www.itmedia.co.jp/aiplus/article/2606/15/2000000091/",
@@ -1099,42 +1155,6 @@
         "AI活用",
         "セキュリティ",
         "情報モラル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_c4573109c19f9617",
-      "title": "鍵は「検索できるPDF」　アドビとPFUが語るAI時代の文書活用",
-      "url": "https://www.watch.impress.co.jp/docs/news/2117288.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-06-15T09:56:08.000Z",
-      "summary": "アドビとPFUは、6月15日の「PDFの日」を記念した報道関係者向け説明会を開催した。説明会では、紙文書のデジタル化からAI活用までの流れを紹介するとともに、AI時代におけるPDFの役割と可能性を示した。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "生成AI",
-        "AI活用",
-        "校務DX",
-        "GIGA"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_4ade189fe65b17d0",
-      "title": "ANA、羽田で車いす・ベビーカーレンタル「MoVA」　空港で借りて旅先で使える",
-      "url": "https://www.watch.impress.co.jp/docs/news/2117286.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-06-15T09:48:41.000Z",
-      "summary": "ANAホールディングスは、空港で車いすやベビーカーをレンタルするサービス「MoVA(ムーバ)」の実証実験を羽田空港で6月15日に開始する。料金は1日1,500円～。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
       ],
       "priority_score": 50
     },
@@ -1436,24 +1456,6 @@
         "生成AI",
         "AI",
         "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_75c04b365f4497f9",
-      "title": "AnthropicとNEC、金融8社とAI活用で連携　三井住友FG、大和証券など",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2606/11/2000000082/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-06-12T11:20:12.000Z",
-      "summary": "開示可能な範囲で各社が業務に関する知見を持ち寄り、業界の枠を超えた協働体制を築く。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
       ],
       "priority_score": 50
     },
