@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T08:10:31.254Z",
+  "generated_at": "2026-06-18T12:29:45.052Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-06-18T08:10:20.333Z",
+      "published_at": "2026-06-18T12:29:34.281Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-06-18T08:10:20.333Z",
+      "published_at": "2026-06-18T12:29:34.281Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-06-18T08:10:20.333Z",
+      "published_at": "2026-06-18T12:29:34.281Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,92 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_7effc655043da514",
+      "title": "チームみらい安野氏「牧歌的なAI開発の時代が終わった」　“ミュトス停止騒動”受け",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2606/18/2000000105/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-06-18T10:39:36.000Z",
+      "summary": "「牧歌的なAI開発の時代が終わった」――チームみらいの安野貴博党首は6月18日の会見で、米AnthropicのAIモデル「Mythos 5」「Fable 5」の提供停止を巡る騒動を受け、このように述べた。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_c76064272857b634",
+      "title": "リチウムイオン電池火災を防ぐ「3つのC」　消防庁が対策サイト公開",
+      "url": "https://www.watch.impress.co.jp/docs/news/2118324.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-06-18T09:30:00.000Z",
+      "summary": "消防庁は、リチウムイオン電池の発火や発煙などの事故を防ぐための情報や、適切な廃棄方法に関する情報を発信する「リチウムイオン電池総合対策ポータルサイト」を公開した。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_30827f1e1e00cd76",
+      "title": "【復旧済み】「Claude」が使いにくい状態に　「動かない」「落ちた？」などの声相次ぐ",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2606/18/2000000104/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-06-18T09:08:25.000Z",
+      "summary": "",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_ed0a5cd3ade386c7",
+      "title": "アドビ、AI検索でのブランド露出を高める「Brand Visibility」",
+      "url": "https://www.watch.impress.co.jp/docs/news/2118316.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-06-18T08:46:27.000Z",
+      "summary": "アドビは、AIプラットフォーム上でのブランドの可視性向上を支援する統合ソリューション「Adobe Brand Visibility」を発表した。企業の顧客ライフサイクル全体を支援するエージェント型AIシステム「Adobe CX Enterprise」の一部として提供する。",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_8c84c2251fdc875f",
+      "title": "povoは“au品質のメイン回線”を狙う　他社回線の品質低下に“勝機”",
+      "url": "https://www.watch.impress.co.jp/docs/news/2118292.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-06-18T08:07:05.000Z",
+      "summary": "KDDI Digital Lifeは、「povo2.0」の新たなトッピングやラインナップの刷新、キャンペーンを発表した。6月19日から順次提供される。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_6038703c5977d210",
@@ -68,24 +154,6 @@
       "tags": [
         "テクノロジー",
         "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_30827f1e1e00cd76",
-      "title": "「Claude」が使いにくい状態に　「動かない」「落ちた？」などの声相次ぐ",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2606/18/2000000104/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-06-18T07:24:46.000Z",
-      "summary": "",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
       ],
       "priority_score": 50
     },
@@ -982,38 +1050,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_72b55c725f818c56",
-      "title": "ブックオフ、査定待ち不要の店頭買取が「銀行振込」対応",
-      "url": "https://www.watch.impress.co.jp/docs/news/2117975.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-06-17T09:45:42.000Z",
-      "summary": "ブックオフコーポレーションは、店頭買取サービス「キャッシュレス買取」において銀行口座振込による買取代金の現金受取を開始した。同時に名称を「おまかせ買取」へと変更している。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_f5cb3c1532d588dc",
-      "title": "東海道・山陽新幹線、上級個室座席「Supreme Class」10月開始",
-      "url": "https://www.watch.impress.co.jp/docs/news/2117957.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-06-17T09:12:14.000Z",
-      "summary": "JR東海とJR西日本は東海道・山陽新幹線に、グリーン車よりもさらに上質な設備・サービスを備えた上級クラス座席「Supreme Class(スプリームクラス)」を10月1日に開始する。個室の「Cabin(キャビン)」と半個室の「Seat(シート)」があり、キャビンを先行導入する。シートは2027年度中導入予定。キャビンの料金は東京～名古屋間片道で32,440円など。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_61226bcb3e679b12",
       "title": "Cursor、Gitホスティング「Origin」発表　SpaceXによる買収発表直後に",
       "url": "https://www.itmedia.co.jp/aiplus/article/2606/17/2000000100/",
@@ -1044,22 +1080,6 @@
         "生成AI",
         "AI",
         "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_8ffdae5490c62cc8",
-      "title": "Notta、AIエージェント「Notta Brain」に定例タスクやSlack・LINE連携",
-      "url": "https://www.watch.impress.co.jp/docs/news/2117922.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-06-17T08:06:54.000Z",
-      "summary": "Nottaは17日、AI文字起こし・議事録サービス「Notta」のAIエージェント「Notta Brain」に、3つの機能を追加した。追加されたのは「定例タスク」、Slack上で質問できる「Slack連携」、LINE上で会話できる「LINE連携」。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
       ],
       "priority_score": 50
     },
@@ -1393,24 +1413,6 @@
         "LLM",
         "教材",
         "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_5c1ab802286ccb07",
-      "title": "OpenAIのサム・アルトマンCEO、来日中止　都内イベント登壇予定を変更",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2606/16/2000000093/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-06-16T10:27:46.000Z",
-      "summary": "米OpenAIのサム・アルトマンCEOが来日するイベントが予定されていたが、来日が中止となった。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
       ],
       "priority_score": 50
     },
