@@ -1,32 +1,14 @@
 {
-  "generated_at": "2026-06-19T08:34:18.609Z",
+  "generated_at": "2026-06-19T12:52:01.154Z",
   "total": 103,
   "items": [
-    {
-      "id": "item_21f8651de3f2baea",
-      "title": "文部科学省ホームページトップはこちら",
-      "url": "https://www.mext.go.jp/",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-06-19T08:34:07.646Z",
-      "summary": "",
-      "starred": false,
-      "category": "admin",
-      "tags": [
-        "行政",
-        "文科省",
-        "制度",
-        "教育ニュース"
-      ],
-      "priority_score": 60
-    },
     {
       "id": "item_bd1951ae70f98dac",
       "title": "サイトマップはこちら",
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-06-19T08:34:07.646Z",
+      "published_at": "2026-06-19T12:51:50.891Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +25,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-06-19T08:34:07.646Z",
+      "published_at": "2026-06-19T12:51:50.891Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -56,6 +38,146 @@
       "priority_score": 60
     },
     {
+      "id": "item_21f8651de3f2baea",
+      "title": "文部科学省ホームページトップはこちら",
+      "url": "https://www.mext.go.jp/",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-06-19T12:51:50.890Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_324d33fa2b018469",
+      "title": "ビックカメラ、ヨドバシ上陸の「池袋」限定でポイントアップ 「池祭」開催",
+      "url": "https://www.watch.impress.co.jp/docs/news/2118677.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-06-19T11:20:00.000Z",
+      "summary": "ビックカメラは、創業の地「池袋」を盛り上げる池袋限定の「池祭」を6月26日から開催する。毎日誰かに10万円分のビックポイントが当たる特典や、池袋地区限定の最大10%のポイントアップ企画などを展開する。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_1f10d2d4a9a610d8",
+      "title": "OpenAI、Codexが作業を見て覚える「Record& Replay」",
+      "url": "https://www.watch.impress.co.jp/docs/news/2118707.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-06-19T10:22:19.000Z",
+      "summary": "OpenAIは18日(米国時間)、AIコーディングツール「Codex」に新機能「Record & Replay」をmacOS向けに追加した。ユーザーがMac上で実演した作業手順を、再利用可能な「スキル」としてCodexに記録できる。同機能は、欧州経済領域、英国、スイスを除く地域でまず提供される。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "生成AI",
+        "AI活用",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_cf4f799cc0fbce8e",
+      "title": "「イオン八王子滝山」を見てきた　ネットスーパー拠点と一体の商業施設",
+      "url": "https://www.watch.impress.co.jp/docs/news/2118694.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-06-19T10:11:50.000Z",
+      "summary": "イオンモールは、6月26日にオープンする「イオン八王子滝山」の内覧会を実施した。商業施設、物流拠点、Green Beansブランド体験ラボ「Green Beans Park」が一体となった施設で、テナントは「イオンスタイル」などのスーパーマーケットはなく、体験価値の提供に特化している点を特徴としている。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_7dd0d3ace0d74475",
+      "title": "楽天モバイル、公衆Wi-Fiサービス開始　商業施設など混雑エリアで",
+      "url": "https://www.watch.impress.co.jp/docs/news/2118683.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-06-19T09:41:35.000Z",
+      "summary": "楽天モバイルは、公衆Wi-Fiサービス「楽天モバイルWiFiスポット」を19日から順次提供開始する。対象は「Rakuten最強プラン」「Rakuten最強U-NEXT」「Rakuten最強プラン(データタイプ)」、法人向けの「音声＋データプラン」「データ専用プラン」の契約者。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_54414fddb695a5fc",
+      "title": "楽天モバイル、契約者向けフリーWi-Fiの提供を開始、まずは関東のイオンモールやアトレから",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2118686.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-06-19T09:28:09.000Z",
+      "summary": "楽天モバイル株式会社は6月19日、同社のモバイル通信サービス契約者向けに、フリーWi-Fiサービス「楽天モバイルWiFiスポット」の提供を開始した。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_98dd6050cfd2224f",
+      "title": "理研、AI特化スパコンの名称は「理究(りきゅう)」に　7月稼働",
+      "url": "https://www.watch.impress.co.jp/docs/news/2118669.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-06-19T09:10:49.000Z",
+      "summary": "理化学研究所最先端研究プラットフォーム連携(TRIP)事業本部 科学研究基盤モデル開発プログラム(AGIS)と計算科学研究センター(R-CCS)は、AI(人工知能)を使った科学研究「AI for Science」開発用スーパーコンピュータの名称を「理究(りきゅう)」に決定した。英語表記は\"RIKYU\"。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "生成AI",
+        "AI活用",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_dfd0d4dc3a242c6b",
+      "title": "ソニーの着るエアコン「REON POCKET」　本体ボタンで温度設定可能に",
+      "url": "https://www.watch.impress.co.jp/docs/news/2118666.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-06-19T08:48:29.000Z",
+      "summary": "ソニーサーモテクノロジーは19日、ウェアラブルサーモデバイス「REON POCKET」シリーズのソフトウェアアップデートを実施した。SMART COOL/WARMモードなどで使う温度の好みを、本体ボタンだけで設定できるようにした。対象型名はRNPK-P1/RNPK-P1P/RNPK-6で、アップデート後の専用アプリはVer. 2.3.0。",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
       "id": "item_dc7a4631e814fc21",
       "title": "理研、AI for Science向けスパコンの名前を「理究」（りきゅう）に決定　由来は？",
       "url": "https://www.itmedia.co.jp/aiplus/article/2606/19/2000000110/",
@@ -63,6 +185,23 @@
       "source_name": "ITmedia AI+",
       "published_at": "2026-06-19T08:00:51.000Z",
       "summary": "理化学研究所は、AIを活用した科学研究「AI for Science」向けのスーパーコンピュータの名前を「理究」（りきゅう）に決定したと発表した。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_e0ea48fa7811fb6d",
+      "title": "大阪メトロは「月1000件の社内問い合わせを効率化」にAIをどう使った？",
+      "url": "https://kn.itmedia.co.jp/kn/articles/2606/19/news113.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-06-19T07:26:00.000Z",
+      "summary": "PKSHA Technologyは、Osaka Metroへの「PKSHA AIヘルプデスク」の導入部署を人事や調達に拡大した。全従業員約5000人の社内問い合わせを一元化し、情報格差の解消や業務効率化、ナレッジの共有資産化を目指す。",
       "starred": false,
       "category": "ai",
       "tags": [
@@ -1096,106 +1235,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_1261ddb6b5955613",
-      "title": "Claude Designが大規模アップデート　デザインシステムやCode連携強化",
-      "url": "https://www.watch.impress.co.jp/docs/news/2118230.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-06-18T07:00:18.000Z",
-      "summary": "Anthropicは17日(米国時間)、AIデザインツール「Claude Design」をアップデートし、Claude Codeとのシームレスな連携やキャンバス上での直接編集などに対応した。また、ユーザーが指定したデザインシステムをプロジェクト横断で利用可能となる。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "生成AI",
-        "AI活用",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_b159d6e84429b7b4",
-      "title": "PayPay、マイコード受け取りに本人確認必須化　不正利用対策を強化",
-      "url": "https://www.watch.impress.co.jp/docs/news/2118244.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-06-18T06:00:00.000Z",
-      "summary": "PayPayは、送る・受け取る機能の安全性を強化するため、6月18日から「請求リンク作成」や「マイコード表示」で残高を受け取る際に、本人確認(eKYC)を必須とした。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_ab2cb8fe75a5b95b",
-      "title": "DAZNサッカー、新規入会を停止　「即解約」「Standardへ変更」「継続」を選択へ",
-      "url": "https://www.watch.impress.co.jp/docs/news/2118234.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-06-18T05:29:31.000Z",
-      "summary": "スポーツ動画配信サービスの「DAZN」は18日、サッカー専用プラン「DAZN Soccer(DAZNサッカー)」の入会案内や契約手続きの一部において、プラン内容や契約条件に関する表示に問題があったとし、新規の受付を停止した。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_7ff939638a3949e8",
-      "title": "インスタグラムにライブ動画広告　商品タグも拡充",
-      "url": "https://www.watch.impress.co.jp/docs/news/2118229.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-06-18T05:26:09.000Z",
-      "summary": "Metaは17日(米国時間)、Instagramにライブ動画広告を導入し、Facebookでは同広告をグローバルに提供拡大すると発表した。あわせて、日本を含む22カ国・地域で、Instagramの商品タグ付けをアフィリエイトリンクに対応させる。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_067abbd050ad57de",
-      "title": "人件費と競い始めたAIトークン　「トークンマネジメント」という新課題",
-      "url": "https://www.watch.impress.co.jp/docs/watchplus/2116364.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-06-18T04:44:28.000Z",
-      "summary": "インプレスの会員サービス「Watch+」の会員限定記事です。会員登録は無料です。登録はこちらから。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_68bc16acb0776800",
-      "title": "PayPay銀行、税引後でも金利1%の1年もの定期預金キャンペーン",
-      "url": "https://www.watch.impress.co.jp/docs/news/2118161.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-06-18T03:45:37.000Z",
-      "summary": "PayPay銀行は、個人を対象に、円定期預金1年ものの特別金利として、税引後 年1%(税引前年1.255%)を適用するキャンペーンを2026年7月上旬より開始する。預入総額1,000億円に到達するまで特別金利を適用する。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_c8893ca19e732329",
       "title": "「サ終ゲームの継続動作をパブリッシャーへ義務付け」法案化は欧州委員会に却下される【やじうまWatch】",
       "url": "https://internet.watch.impress.co.jp/docs/yajiuma/2118142.html",
@@ -1379,41 +1418,6 @@
         "AI活用"
       ],
       "priority_score": 60
-    },
-    {
-      "id": "item_72f1c06c0733ffcc",
-      "title": "MagSafeに対応し、自由に角度を変えられるクランプ式スマホ・タブレットアーム、サンワサプライが発売",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2117913.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-06-17T22:30:00.000Z",
-      "summary": "サンワサプライ株式会社は6月17日、MagSafeに対応したクランプ式スマホ・タブレットアーム「スマホアーム」（200-STN102BK）、「タブレットアーム」（200-STN103BK）を発売した。直販サイト「サンワダイレクト」での販売価格は、スマホアームが3980円、タブレットアームが3780円。",
-      "starred": false,
-      "category": "dx",
-      "tags": [
-        "インターネット",
-        "セキュリティ",
-        "校務DX",
-        "GIGA"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_a7c213c4880f1e78",
-      "title": "かんぽ生命、AIで営業支援　“郵便局での一言”拾って保険提案へ　寸劇で分かる活用例",
-      "url": "https://www.itmedia.co.jp/business/articles/2606/18/news019.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-06-17T22:00:00.000Z",
-      "summary": "1700万人の顧客を抱えるかんぽ生命保険が、営業フローにAIエージェントを組み込んだ。商談準備に奔走する現場がどう変わるのか、デモンストレーションの様子を紹介する。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
     },
     {
       "id": "item_894ebd8439542c66",
