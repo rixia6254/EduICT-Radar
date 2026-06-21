@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-06-21T11:48:41.609Z",
-  "total": 83,
+  "generated_at": "2026-06-21T22:08:43.098Z",
+  "total": 103,
   "items": [
+    {
+      "id": "item_21f8651de3f2baea",
+      "title": "文部科学省ホームページトップはこちら",
+      "url": "https://www.mext.go.jp/",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-06-21T22:08:33.011Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
     {
       "id": "item_bd1951ae70f98dac",
       "title": "サイトマップはこちら",
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-06-21T11:48:31.414Z",
+      "published_at": "2026-06-21T22:08:33.011Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -25,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-06-21T11:48:31.414Z",
+      "published_at": "2026-06-21T22:08:33.011Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -38,22 +56,124 @@
       "priority_score": 60
     },
     {
-      "id": "item_21f8651de3f2baea",
-      "title": "文部科学省ホームページトップはこちら",
-      "url": "https://www.mext.go.jp/",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-06-21T11:48:31.413Z",
-      "summary": "",
+      "id": "item_cb8cda87f374f42d",
+      "title": "4K×2画面を縦置き、約1.6kgの「15.6インチ上下2画面拡張デュアルモニター 4K」、サンコーが発売",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2118551.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-06-21T22:00:00.000Z",
+      "summary": "サンコー株式会社は6月19日、モバイルモニター「15.6インチ上下2画面拡張デュアルモニター 4K」（XY-PD045P03）を発売した。直販サイト「THANKO」での販売価格は6万9800円。",
       "starred": false,
-      "category": "admin",
+      "category": "tech",
       "tags": [
-        "行政",
-        "文科省",
-        "制度",
-        "教育ニュース"
+        "インターネット",
+        "セキュリティ"
       ],
-      "priority_score": 60
+      "priority_score": 50
+    },
+    {
+      "id": "item_fa73422ca1ffb89c",
+      "title": "【連載】第2回　大人のための「情報Ⅰ・Ⅱ」再入門：データが明かす「情報」受験のリアルと、ビジネスにおける今後の視点",
+      "url": "https://note.com/mama_oyako_it/n/n6ba3774395c7",
+      "source_id": "note_joho1",
+      "source_name": "note（情報科教員）",
+      "published_at": "2026-06-21T21:35:13.000Z",
+      "summary": "こんにちは。どんぐり村長です。 2025年度（令和7年度）の大学入学共通テストから、新教科として導入された「情報」。 前回の第1回では、「情報Ⅰ・Ⅱ」のカリキュラムが単なるIT用語の暗記ではなく、データサイエンスやプログラミング、DXの本質を網羅した実務レベルの内容であることを解説しました。 続きをみる",
+      "starred": false,
+      "category": "exam",
+      "tags": [
+        "授業実践",
+        "情報Ⅰ",
+        "教材",
+        "共通テスト",
+        "入試"
+      ],
+      "priority_score": 90
+    },
+    {
+      "id": "item_0489d805e8221a50",
+      "title": "エッジAIと無線リモコンを融合、DMG MORI Digitalが建機操作支援システム",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2606/22/news021.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-06-21T21:30:00.000Z",
+      "summary": "双葉電子工業とDMG MORI Digitalは、「第8回 国際 建設・測量展（CSPI 2026）」において、エッジAIの画像認識技術と無線リモコンを組み合わせた、建設重機の遠隔操作支援システムを展示した。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_a52d2b431036cd85",
+      "title": "【2016年のINTERNET Watch】Googleの囲碁AI「AlphaGo」が初めてプロに勝利、検索アルゴリズムに大きな影響を及ぼした「WELQ騒動」も",
+      "url": "https://internet.watch.impress.co.jp/docs/special/30th/2118628.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-06-21T21:30:00.000Z",
+      "summary": "2016年（平成28年）2月、待機児童問題を訴えた「保育園落ちた日本死ね！！！」と題する記事がはてな匿名ダイアリーに公開され、国会でも取り上げられるなど話題に。4月、熊本地震が発生。震度7を観測し、大きな被害をもたらした。5月にG7伊勢志摩サミット開催。閉幕後、米オバマ大統領が現職の大統領として初めて被爆地・広島を訪問した。",
+      "starred": false,
+      "category": "lesson",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "授業実践",
+        "情報Ⅰ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_83c71b6aae3612b8",
+      "title": "インテル「シリーズ3」はフィジカルAIでも力を発揮、“ヤマネコ”の実力は？",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2606/22/news051.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-06-21T21:15:00.000Z",
+      "summary": "インテルがメインストリームPC向け製品「インテル Core シリーズ3 プロセッサー」と、ハンドヘルドゲーミングPC向け製品「インテル Arc G3 プロセッサー」について説明。また、「COMPUTEX TAIPEI 2026」に併せて発表したエッジAI／フィジカルAI向けソリューションも紹介した。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_2871003abcfd7700",
+      "title": "千葉県印西市はなぜ「データセンターの聖地」になったのか　Google、Microsoftを呼び込んだ半世紀前の“読み違い”",
+      "url": "https://www.itmedia.co.jp/business/articles/2606/22/news018.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-06-21T21:00:00.000Z",
+      "summary": "東京都心から北東へおよそ40キロメートルにある千葉県印西市。かつて「千葉ニュータウン」として開発されたこの郊外の街が、いま世界の巨大IT企業にとって“聖地”になっている。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_47214bf0b7831d93",
+      "title": "こういうのでいいんだよ！　10GbE×2でユーザーニーズに応えつつコストとパフォーマンスを最適化した新型NAS「UGREEN NASync DXP4800 GT」【イニシャルB【特別編】】[Sponsored]",
+      "url": "https://internet.watch.impress.co.jp/docs/topic/shimizu_sp/2116744.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-06-21T21:00:00.000Z",
+      "summary": "UGREENにしては珍しく、派手目なゴールドのアクセントを纏った新型NASが、今回登場した「NASync DXP4800 GT」だ。先行して海外で販売されていたシリーズだが、今回、日本を含む複数の国での展開となった。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_e61169c85c16cd62",
@@ -586,6 +706,330 @@
       "priority_score": 50
     },
     {
+      "id": "item_4da14a99373e1260",
+      "title": "コードタクト、授業支援クラウド「スクールタクト」が北海道の幼小中一貫義務教育学校で活用",
+      "url": "https://ict-enews.net/2026/06/19codetakt-3/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-06-18T23:31:13.000Z",
+      "summary": "コードタクトは18日、同社の授業支援クラウド「スクールタクト」が、北海道枝幸郡中頓別町に採用され、2026年4月に開校した町立の幼小中一貫義務教育学校「中頓別学園」の義務教育課程で […]",
+      "starred": false,
+      "category": "dx",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "校務DX",
+        "GIGA"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_1a90b2cdf02e0f9e",
+      "title": "Chammi、⿓馬学園・高知県と生成AI時代の「AIショートアニメ実践講座」を開講",
+      "url": "https://ict-enews.net/2026/06/19cham-mi/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-06-18T23:30:50.000Z",
+      "summary": "Chammiは、龍馬学園・高知県と生成AIを活用した「AIショートアニメ実践講座」を開講する。 龍馬情報ビジネス＆フード専門学校と龍馬デザイン・ビューティ専門学校の学生を対象に実施 […]",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "生成AI",
+        "AI活用"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_1ef45bddca398bd2",
+      "title": "デジタル・ナレッジ、「企業研修・eラーニング活用の実践ポイントがわかる初級編セミナー」7月開催",
+      "url": "https://ict-enews.net/2026/06/19digital-knowledge-25/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-06-18T23:30:14.000Z",
+      "summary": "デジタル・ナレッジは、無料オンラインセミナー「生成AIは教育をどう変えるのか？企業研修・eラーニング活用の全体像がわかる初級編セミナー」を7月29日に開催する。 同セミナーは、企業 […]",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "生成AI",
+        "AI活用"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_fd0e8727fd241108",
+      "title": "クエスト・グローバル・ジャパン、次世代技術者育成を目的とした「Future Global Engineers Event」を実施",
+      "url": "https://ict-enews.net/2026/06/19questglobal/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-06-18T23:29:48.000Z",
+      "summary": "クエスト・グローバル・ジャパンは16日、ルネサス エレクトロニクスとともに、次世代の技術者育成を目的としたイベント「Future Global Engineers Event」を、 […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_cc05bb414a9ebb87",
+      "title": "Polimill、岡山県鏡野町の職員対象に自治体向け生成AI「QommonsAI」活用研修実施",
+      "url": "https://ict-enews.net/2026/06/19polimill-3/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-06-18T23:28:08.000Z",
+      "summary": "Polimillは11日、青森県むつ市の職員を対象に、自治体向け生成AI「QommonsAI（コモンズAI）」の活用研修を実施した。 研修は現地とオンラインを組み合わせたハイブリッ […]",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "生成AI",
+        "AI活用"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_7e9640ec2e7804fa",
+      "title": "生成AI、学生の約半数が「頼りすぎて思考力・文章力が落ちる」ことを警戒 =パレンテ調べ=",
+      "url": "https://ict-enews.net/2026/06/19parente/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-06-18T23:27:49.000Z",
+      "summary": "パレンテは18日、同社の学生向け「学割」アプリ内のアンケートコーナーで、10〜20代の学生ユーザー228人を対象に実施した、「学生の生成AI利用実態に関するアンケート調査」の結果を […]",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "生成AI",
+        "AI活用",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_47391d639351ee8d",
+      "title": "AIスキルは“必須要件”へ、約9割が年収に影響と回答 =ジェイ エイ シー リクルートメント調べ=",
+      "url": "https://ict-enews.net/2026/06/19corp-jac-recruitment/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-06-18T23:27:23.000Z",
+      "summary": "ジェイ エイ シー リクルートメントは17日、同社が運営する転職サイトにて、中途採用に関わっている企業の採用担当者・人事責任者1017人を対象に実施した「企業の採用担当者がハイクラ […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_6c432f0a5e77ed45",
+      "title": "夏休み、保護者の約9割が「子どもの成長にとって重要な期間」と回答 =イー・ラーニング研究所調べ=",
+      "url": "https://ict-enews.net/2026/06/19e-ll-7/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-06-18T23:26:58.000Z",
+      "summary": "イー・ラーニング研究所は18日、子どもがいる親世代183人を対象に実施した、「夏休みに伸ばしたい力と家庭でできる取り組みに関する意識調査」の結果をまとめ発表した。 それによると、「 […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_f96813b2af7ef2c2",
+      "title": "テックタッチ、立命館が生成AIを活用した業務支援基盤「Techtouch AI Hub」導入",
+      "url": "https://ict-enews.net/2026/06/19techtouch/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-06-18T23:26:34.000Z",
+      "summary": "テックタッチは18日、立命館が生成AIを活用した業務支援基盤「テックタッチ AI Hub」を導入したと発表した。 立命館では、中期計画「学園ビジョンR2030」のもとでDXを推進。 […]",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "生成AI",
+        "AI活用"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_c744a60ddee8b54b",
+      "title": "アンドドット、東海大学で生成AIワークショップを実施",
+      "url": "https://ict-enews.net/2026/06/19and-dot/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-06-18T23:26:10.000Z",
+      "summary": "アンドドットは、東海大学にて生成AIワークショップを5月18日に実施した。 東海大学品川キャンパスにて、経営学部 成川忠之教授ゼミの3年生・4年生（計49名）に、自社のビジネスおよ […]",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "生成AI",
+        "AI活用"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_cd026b7ffc4601c6",
+      "title": "スカイブレックスKIDS DRONE西尾久校、子ども向けドローン教室を「毎週通える」本格スクールとして開講",
+      "url": "https://ict-enews.net/2026/06/19skybrex/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-06-18T23:25:45.000Z",
+      "summary": "スカイブレックスが運営するスカイブレックスKIDS DRONE西尾久校は、これまで単発ワークショップとして実施していた子ども向けドローン教室を、毎週通える本格スクールとして新たに1 […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_e0e531682e572270",
+      "title": "Gleam Tech、慶應義塾大学法学部FIT入試を控える高校生を対象にした無料イベント 28日開催",
+      "url": "https://ict-enews.net/2026/06/19gleamtech/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-06-18T23:25:08.000Z",
+      "summary": "Gleam Techは、主に慶應義塾大学法学部FIT入試を控える高校生を対象にした無料イベント「FIT入試入門：～法学部が求める人物像と合格をつかむ思考法～」を28日に開催する。 […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_a20ec5cc801da3f0",
+      "title": "音鑑、音楽の授業づくりを考える「ONKAN 音楽科教育セミナー2026」8月開催",
+      "url": "https://ict-enews.net/2026/06/19onkan-web-2/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-06-18T23:24:30.000Z",
+      "summary": "音楽鑑賞振興財団（音鑑）は、音楽科教員や教員志望の学生を対象とした「ONKAN音楽科教育セミナー2026」を8月17日に開催する。 同セミナーは、音楽鑑賞を中心とした授業づくりにつ […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_4f2db998b23d6b61",
+      "title": "オープンバッジ・ネットワーク、「“学びの見える化”最前線（甲南大学 導入事例）」7月1日開催",
+      "url": "https://ict-enews.net/2026/06/19openbadge-2/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-06-18T23:23:54.000Z",
+      "summary": "オープンバッジ・ネットワークは、オンラインセミナー「甲南大学におけるオープンバッジの導入事例 ―『彩り教育』による学修成果の可視化―」を7月1日に開催する。 同セミナーでは、学位や […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_801450e68ec0296c",
+      "title": "ポリグロッツ、「英語を教える人」のための「英語教育＜ここから＞ゼミ・リアル」8月開催",
+      "url": "https://ict-enews.net/2026/06/19polyglots-7/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-06-18T23:22:58.000Z",
+      "summary": "ポリグロッツは、慶應義塾大学名誉教授 田中茂範氏を講師に迎え、「英語を教える人」のためのセミナー「英語教育＜ここから＞ゼミ・リアル」を8月12日に開催する。 田中氏とAI英語学習ア […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_9cff9f60c1281fd4",
+      "title": "NTT都市開発、3GeV高輝度放射光施設「Nano Terasu」の連携イベント第3弾を7月24日開催",
+      "url": "https://ict-enews.net/2026/06/19nanoterasu/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-06-18T23:22:28.000Z",
+      "summary": "NTT都市開発は、アーバンネット仙台中央ビル「YUI NOS」と3GeV高輝度放射光施設「Nano Terasu」の連携イベント第3弾となる「YUI NOS to Nano Ter […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_6093b3ed4ff84899",
+      "title": "エクシード、「夏期講習バナーをClaude Design × Canva MCPで量産する」29日開催",
+      "url": "https://ict-enews.net/2026/06/19tfe-2/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-06-18T23:21:58.000Z",
+      "summary": "エクシードは、教室の運営者を対象にしたオンラインセミナー「Claude実践セミナ ー 第2回:夏期講習バナーをClaude Design × Canva MCPで量産する」を6月2 […]",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "生成AI",
+        "AI活用"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_9bd99a4d854cc454",
+      "title": "日本HP、「N-E.X.T.ハイスクール構想」に取り組む高校にICT機器と高性能ワークステーション提供",
+      "url": "https://ict-enews.net/2026/06/19hp/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-06-18T23:21:04.000Z",
+      "summary": "日本HPは18日、文部科学省が推進する高校教育改革「N-E.X.T.ハイスクール構想」に沿った教育環境の整備に取り組む高校と地方自治体に、最適なICT製品および高性能ワークステーシ […]",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "行政",
+        "文科省"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_70332c42dcaf37c1",
+      "title": "ShoPro、小中校向け探究学習ライブラリー「SPARKE」でエプソンと連携した新プログラムを無償提供",
+      "url": "https://ict-enews.net/2026/06/19shopro-4/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-06-18T23:20:39.000Z",
+      "summary": "小学館集英社プロダクション（ShoPro）は18日、COMPASSと共同開発している小・中学校向け探究学習ライブラリー「SPARKE」（スパーク）のコンテンツとして、エプソン販売と […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
       "id": "item_e44bb3ecb031f121",
       "title": "親指カメラがフィルムカメラ風に　「Insta360 GO 3S レトロキット」を試す【ミニレビュー】",
       "url": "https://www.watch.impress.co.jp/docs/review/minireview/2117979.html",
@@ -598,6 +1042,24 @@
       "tags": [
         "テクノロジー",
         "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_49da48b6a6530fcc",
+      "title": "クライムファクトリー、コンディションアプリ「Atleta」が熱中症対策機能をリリース",
+      "url": "https://ict-enews.net/2026/06/19climbfactory/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-06-18T23:19:52.000Z",
+      "summary": "クライムファクトリーは18日、選手のデータ管理とチームコミュニケーションを支えるプラットフォーム「Atleta（アトレータ）」で、熱中症予防を支援する熱中症対策機能の提供を開始した […]",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "教材",
+        "ツール"
       ],
       "priority_score": 50
     },
@@ -961,23 +1423,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_c84450c604915d4a",
-      "title": "NRI流“業務に最適なAIモデル”の選び方　「ベンチマークだけで優劣は決まらない」",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2606/18/2000000101/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-06-18T03:00:00.000Z",
-      "summary": "“業務に最適なAIモデル”はどう選べば良いのか。野村総合研究所の北村雄騎氏に聞いた。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_800432e6adab9359",
       "title": "ネスカフェのインスタントコーヒー「ゴールドブレンド」がAmazonでセール中　冷たい水やミルクで飲める「アイスブレンド」もセールに！　95g×2本で1606円から",
       "url": "https://internet.watch.impress.co.jp/docs/shopping/2118078.html",
@@ -992,90 +1437,6 @@
         "セキュリティ"
       ],
       "priority_score": 50
-    },
-    {
-      "id": "item_1141f7b4698116b1",
-      "title": "SwitchBotのスマートサーキュレーターがAmazonでセール、部屋の冷気を効率的に回そう！　Alexa、Google Home、Siriにも対応",
-      "url": "https://internet.watch.impress.co.jp/docs/shopping/2118077.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-06-18T01:30:00.000Z",
-      "summary": "Amazon.co.jpのSwitchbotストアでは現在、サーキュレーターのセールが行われている。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_3d6940673d69e4f9",
-      "title": "「猫はなぜキーボードに乗る？」から生まれたデスクサイド用猫ベッド、シービージャパンが発売",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2117989.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-06-17T23:30:00.000Z",
-      "summary": "株式会社シービージャパンは6月17日、デスク上に簡単に設置できる猫ベッド「デスクツリーキャットベッド」を発売した。価格は7150円。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_830caf34bb384853",
-      "title": "「AIコーディング」がたった5年で急進化したワケ　NTT「tsuzumi 2」開発者が分析",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/18/news038.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-06-17T23:00:00.000Z",
-      "summary": "コーディングに長けた大規模言語モデル（LLM）が登場したのは2021年ごろだ。それから5年で、競技プログラミングの問題を解けるレベルにまで成長した。なぜAIはコーディングがこれほど得意になったのか──「Interop Tokyo 2026」（幕張メッセ）で、LLM「tsuzumi」のコーディング能力向上を担当するNTT人間情報研究所の風戸広史さんが解説した。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 60
-    },
-    {
-      "id": "item_06fce2f11f6877b9",
-      "title": "アイ・オー、法人向けNAS「HDL-LX」シリーズに、誤操作しても復元できるスナップショット機能を追加",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2117910.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-06-17T23:00:00.000Z",
-      "summary": "株式会社アイ・オー・データ機器は6月17日、同社が販売する法人向けNAS「LAN DISK」のスタンダードモデル「HDL-LX」シリーズにおいて、新たにスナップショット機能に対応したと発表した。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_e3d6f5a92be984fd",
-      "title": "「AIを使う学生」vs.「使わない学生」、エッセイが創造的なのはどっち？　米大学が2025年に実証実験",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/18/news043.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-06-17T22:30:00.000Z",
-      "summary": "米ジョージタウン大学に所属する研究者らが国際学術誌Computers in Human Behavior: Artificial Humansに発表した論文「Homogenizing effect of large language models (LLMs) on creative diversity: An empirical comparison of human and ChatGPT w…",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 60
     },
     {
       "id": "item_894ebd8439542c66",
@@ -1427,26 +1788,6 @@
         "ツール"
       ],
       "priority_score": 70
-    },
-    {
-      "id": "item_cf961d9277268c89",
-      "title": "【中編】「ドラえもんは意味が分かっているのか？」―基礎情報学が情報の授業を変える",
-      "url": "https://note.com/takeshi_fujioka/n/n1f379542d917",
-      "source_id": "note_joho1",
-      "source_name": "note（情報科教員）",
-      "published_at": "2026-05-17T03:22:34.000Z",
-      "summary": "前編のおさらい 前編では、「ドラえもんは意味が分かっているのか？」という問いを入口に、基礎情報学の3つの情報概念（生命情報・社会情報・機械情報）が、ばらばらに見えていた情報Ⅰの単元を一本の軸でつなぐことを示した。 続きをみる",
-      "starred": false,
-      "category": "exam",
-      "tags": [
-        "授業実践",
-        "情報Ⅰ",
-        "教材",
-        "共通テスト",
-        "入試",
-        "教育ニュース"
-      ],
-      "priority_score": 60
     }
   ],
   "clips": []
