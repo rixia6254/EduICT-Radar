@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-06-22T09:13:01.582Z",
+  "generated_at": "2026-06-22T14:47:11.978Z",
   "total": 103,
   "items": [
+    {
+      "id": "item_21f8651de3f2baea",
+      "title": "文部科学省ホームページトップはこちら",
+      "url": "https://www.mext.go.jp/",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-06-22T14:47:01.431Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
     {
       "id": "item_bd1951ae70f98dac",
       "title": "サイトマップはこちら",
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-06-22T09:12:50.779Z",
+      "published_at": "2026-06-22T14:47:01.431Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -25,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-06-22T09:12:50.779Z",
+      "published_at": "2026-06-22T14:47:01.431Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -38,22 +56,104 @@
       "priority_score": 60
     },
     {
-      "id": "item_21f8651de3f2baea",
-      "title": "文部科学省ホームページトップはこちら",
-      "url": "https://www.mext.go.jp/",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-06-22T09:12:50.778Z",
-      "summary": "",
+      "id": "item_eb1ca5e6c6f103f4",
+      "title": "アドビの学生向けCreative Cloud、最初の3カ月は89%オフに",
+      "url": "https://www.watch.impress.co.jp/docs/news/2119106.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-06-22T11:15:00.000Z",
+      "summary": "アドビは22日、「学生・教職員向けCreative Cloud Pro」に導入価格を適用した。通常月額9,080円のところ、最初の3カ月は89%オフの月額980円で利用できる。",
       "starred": false,
-      "category": "admin",
+      "category": "tech",
       "tags": [
-        "行政",
-        "文科省",
-        "制度",
-        "教育ニュース"
+        "テクノロジー",
+        "デジタル"
       ],
-      "priority_score": 60
+      "priority_score": 50
+    },
+    {
+      "id": "item_d50b84c45ce51bf9",
+      "title": "Claude Codeに指示を出す「7つの方法」と使い分け　公式が解説",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2606/22/2000000117/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-06-22T10:47:34.000Z",
+      "summary": "米Anthropicは、AIコーディング支援ツール「Claude Code」に指示を出す7つの方法を解説する公式ブログを公開した。各方法の概要や使い分け方などを紹介している。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_59c4d1f35c69a255",
+      "title": "「TDXラジオ」Teacher’s ［Shift］File.273  和光高等学校 小池 則行 先生（前編）を公開",
+      "url": "https://ict-enews.net/2026/06/22tdxradio-12/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-06-22T10:00:08.000Z",
+      "summary": "TDXラジオは22日、教育ICTを活用した「新しい学び」と「先生の働き方改革」を応援するTeacher’s ［Shift］ File.273「和光高等学校 小池 則行 先生（前編） […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_0f2b246dd12d1928",
+      "title": "KDDI、8月から各種手数料を改定　店頭機種変は4950円",
+      "url": "https://www.watch.impress.co.jp/docs/news/2119079.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-06-22T09:35:19.000Z",
+      "summary": "沖縄セルラーとKDDIは、au/UQ mobileやインターネット回線、電話番号案内サービス、窓口請求書に関する各種手数料を改定する。スマートフォン・携帯電話、インターネット回線、電話番号案内(104)は8月1日から、窓口取扱手数料は9月1日から。WebでのeSIM発行に関する手数料改定は6月26日からとなる。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_0c01a1726e462662",
+      "title": "JR西日本、500系新幹線と「ドクターイエロー」T5編成引退に向け新企画",
+      "url": "https://www.watch.impress.co.jp/docs/news/2119017.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-06-22T09:17:09.000Z",
+      "summary": "JR西日本は22日、「500系新幹線」と「ドクターイエロー」T5編成の引退に向けたキャンペーン企画を発表。27年の引退に向けた多くの企画を実施するほか、同社の倉坂昇治社長が引退にまつわる思いなどを紹介した。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_898ff9356b91e572",
+      "title": "日本版GPS「みちびき」、偽測位信号に対抗する空間証明システム実証へ",
+      "url": "https://www.watch.impress.co.jp/docs/news/2119072.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-06-22T09:10:23.000Z",
+      "summary": "SpacidとJAXAは、準天頂衛星システム「みちびき」が提供する信号認証サービスを活用し、「みちびき信号を利用した空間証明システム」の事業共同実証を開始した。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_7ca25b0099ff2c0d",
@@ -791,22 +891,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_2ebeb1171090ba20",
-      "title": "河合楽器製作所、SDGsを学ぶ教育コンテンツ「SDGsラジオ」でコンテンツ配信開始",
-      "url": "https://ict-enews.net/2026/06/22kawai-2/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-06-21T23:04:29.000Z",
-      "summary": "河合楽器製作所は19日、ケシオンが運営する教育コンテンツ「SDGsラジオ」でコンテンツの配信を開始した。 SDGsラジオは、全国の児童生徒を対象に、企業のSDGsの取り組みを1分間 […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_1449b9903c7dd407",
       "title": "Anthropicへの500万ドル間接出資を解消、広告事業のイオレ　軸足移すAIデータセンター事業に資金投入",
       "url": "https://www.itmedia.co.jp/news/articles/2606/19/news138.html",
@@ -1152,58 +1236,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_1f10d2d4a9a610d8",
-      "title": "OpenAI、Codexが作業を見て覚える「Record& Replay」",
-      "url": "https://www.watch.impress.co.jp/docs/news/2118707.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-06-19T10:22:19.000Z",
-      "summary": "OpenAIは18日(米国時間)、AIコーディングツール「Codex」に新機能「Record & Replay」をmacOS向けに追加した。ユーザーがMac上で実演した作業手順を、再利用可能な「スキル」としてCodexに記録できる。同機能は、欧州経済領域、英国、スイスを除く地域でまず提供される。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "生成AI",
-        "AI活用",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_cf4f799cc0fbce8e",
-      "title": "「イオン八王子滝山」を見てきた　ネットスーパー拠点と一体の商業施設",
-      "url": "https://www.watch.impress.co.jp/docs/news/2118694.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-06-19T10:11:50.000Z",
-      "summary": "イオンモールは、6月26日にオープンする「イオン八王子滝山」の内覧会を実施した。商業施設、物流拠点、Green Beansブランド体験ラボ「Green Beans Park」が一体となった施設で、テナントは「イオンスタイル」などのスーパーマーケットはなく、体験価値の提供に特化している点を特徴としている。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_7dd0d3ace0d74475",
-      "title": "楽天モバイル、公衆Wi-Fiサービス開始　商業施設など混雑エリアで",
-      "url": "https://www.watch.impress.co.jp/docs/news/2118683.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-06-19T09:41:35.000Z",
-      "summary": "楽天モバイルは、公衆Wi-Fiサービス「楽天モバイルWiFiスポット」を19日から順次提供開始する。対象は「Rakuten最強プラン」「Rakuten最強U-NEXT」「Rakuten最強プラン(データタイプ)」、法人向けの「音声＋データプラン」「データ専用プラン」の契約者。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_54414fddb695a5fc",
       "title": "楽天モバイル、契約者向けフリーWi-Fiの提供を開始、まずは関東のイオンモールやアトレから",
       "url": "https://internet.watch.impress.co.jp/docs/news/2118686.html",
@@ -1216,26 +1248,6 @@
       "tags": [
         "インターネット",
         "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_98dd6050cfd2224f",
-      "title": "理研、AI特化スパコンの名称は「理究(りきゅう)」に　7月稼働",
-      "url": "https://www.watch.impress.co.jp/docs/news/2118669.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-06-19T09:10:49.000Z",
-      "summary": "理化学研究所最先端研究プラットフォーム連携(TRIP)事業本部 科学研究基盤モデル開発プログラム(AGIS)と計算科学研究センター(R-CCS)は、AI(人工知能)を使った科学研究「AI for Science」開発用スーパーコンピュータの名称を「理究(りきゅう)」に決定した。英語表記は\"RIKYU\"。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "生成AI",
-        "AI活用",
-        "教材",
-        "ツール"
       ],
       "priority_score": 50
     },
@@ -1264,23 +1276,6 @@
       "source_name": "ITmedia AI+",
       "published_at": "2026-06-19T07:26:00.000Z",
       "summary": "PKSHA Technologyは、Osaka Metroへの「PKSHA AIヘルプデスク」の導入部署を人事や調達に拡大した。全従業員約5000人の社内問い合わせを一元化し、情報格差の解消や業務効率化、ナレッジの共有資産化を目指す。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_844489bd3cc6dfb2",
-      "title": "GMO傘下、Unitreeの国内正規代理店に　人型ロボの導入から保守まで一気通貫で支援",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2606/19/2000000109/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-06-19T07:16:24.000Z",
-      "summary": "GMOインターネットグループ傘下で、ロボティクス事業などを手掛けるGMO AI＆ロボティクス商事は、ロボット開発企業の中国Unitree Roboticsと日本国内正規代理店契約を締結したと発表した。",
       "starred": false,
       "category": "ai",
       "tags": [
