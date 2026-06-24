@@ -1,10 +1,250 @@
 {
-  "generated_at": "2026-06-24T06:51:22.067Z",
-  "total": 100,
+  "generated_at": "2026-06-24T11:50:05.160Z",
+  "total": 103,
   "items": [
     {
+      "id": "item_5a2c7864b68dcd43",
+      "title": "過去の文部科学省ホームページ（※国立国会図書館ホームページへリンク）",
+      "url": "https://warp.ndl.go.jp/waid/3475",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-06-24T11:49:54.246Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_21f8651de3f2baea",
+      "title": "文部科学省ホームページトップはこちら",
+      "url": "https://www.mext.go.jp/",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-06-24T11:49:54.245Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_bd1951ae70f98dac",
+      "title": "サイトマップはこちら",
+      "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-06-24T11:49:54.245Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_dc3f931145dbd1c1",
+      "title": "姫路に新アリーナ　スタートは9月からバレーボール・Novelbright・大相撲",
+      "url": "https://www.watch.impress.co.jp/docs/news/2119766.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-06-24T11:00:00.000Z",
+      "summary": "姫路市は、大和工業アリーナ姫路の開館にあわせて、オープニングシリーズを開催する。9月22日に女子バレーボールのヴィクトリーナ姫路プレシーズンマッチ、9月26日・27日にNovelbrightによるこけら落とし公演、10月18日に大相撲の地方巡業を開催する。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_54c414f908ec8216",
+      "title": "「Transformerの最大475倍」　富士通、GPUを効率的に使うLLMアーキテクチャ「PHOTON」開発",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2606/24/2000000125/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-06-24T10:54:58.000Z",
+      "summary": "富士通が、大規模言語モデル（LLM）を少ないGPUで動かせる新アーキテクチャ「PHOTON」（フォトン）を開発した。GPU当たりの処理性能（スループット）が、現在のLLMで主流のアーキテクチャ「Transformer」の最大475倍に達するという。LLMの運用に必要なGPUを抑え、大幅なコスト削減につなげられるとしている。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_de5e111b909507e2",
+      "title": "SBI、国内初の信託型円建てステーブルコイン「JPYSC」発行開始",
+      "url": "https://www.watch.impress.co.jp/docs/news/2119744.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-06-24T09:37:14.000Z",
+      "summary": "SBIグループは24日、国内初の信託型円建てステーブルコインの発行を開始した。名称は「JPYSC」で、将来的なオンチェーン外国為替市場やクロスボーダー送金などでの活用を目指す。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_7ea389204b763535",
+      "title": "陸自駐屯地で四足歩行型の警備用ロボットが見回り　GMOインターネットグループが開発",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/24/news130.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-06-24T09:25:00.000Z",
+      "summary": "GMOインターネットグループ4社は、国産ロボット開発を担う未来ロボットと組み、国産の四足歩行型警備用ロボットを開発し、陸上自衛隊の駐屯地での導入検証を始めると発表した。警備の省人化を図り、24時間警備体制の実現を目指すという。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_e7aa1b07547f9900",
+      "title": "ミニストップ、骨なしフライドチキン「ミニちきちゃん」",
+      "url": "https://www.watch.impress.co.jp/docs/news/2119738.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-06-24T09:02:14.000Z",
+      "summary": "ミニストップは、骨なしフライドチキン「ジューシーチキン」をリニューアルし、「ミニちきちゃん」として6月26日に発売する。プレーンと辛口をラインアップし、価格はいずれも240円。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_fe0c9cc5daccbc30",
+      "title": "エージェント「Devin」日本展開を本格化　開発をAIで変革",
+      "url": "https://www.watch.impress.co.jp/docs/news/2119646.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-06-24T08:04:47.000Z",
+      "summary": "AIエージェント「Devin」を展開するCognition AI Japanは24日、事業戦略説明会を開催し、Devinの最新動向や、日本市場における今後の展開について説明した。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_c54b7ced1a1136c9",
+      "title": "民生VRグローブにロボット業界が注目　日本発ベンチャーがB2B加速",
+      "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/24/news095.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-06-24T07:25:00.000Z",
+      "summary": "Diver-Xは2026年6月23日、グローブ型仮想現実（VR）コントローラー新製品「ContactGlove3」を発表した。電磁場トラッキング方式の採用により推奨環境下で中央値0.5mm、最大値1.5mmの誤差という高精度を実現した。民生用と業務用を用意していて、ロボティクスの手の学習に使えるという。",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "教育ニュース"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_33da6c3b7da74a7a",
+      "title": "三井不動産、自由にモデルルーム見学できる新サロン　営業は「土日祝定休」",
+      "url": "https://www.watch.impress.co.jp/docs/news/2119660.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-06-24T06:56:30.000Z",
+      "summary": "三井不動産レジデンシャルは、「三井のすまい 新宿サロン」を6月にリニューアルオープンする。床に実寸投影された間取りの中で家具を動かしてレイアウトを体感できるなど、一般的なモデルルームとは異なる住空間体験ができる場を提供する。新しい新宿サロンをメディア向けに公開した。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_4c78d2ed3ad90533",
+      "title": "【解説】キオクシアなぜ急成長？　半導体メモリって何？　AIブームを見通すための基礎知識",
+      "url": "https://www.itmedia.co.jp/business/articles/2606/24/news110.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-06-24T06:40:00.000Z",
+      "summary": "注目を集める半導体メモリ大手のキオクシア。同社はなぜAI需要を取り込めたのか。いま押さえたい基礎知識を解説する。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_4a83139e473862fd",
+      "title": "ClaudeをSlackチャンネルに召喚、“チームの一員”として直接指示　新機能「Claude Tag」登場",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/24/news115.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-06-24T06:27:00.000Z",
+      "summary": "Anthropicは、「Slack」上で「Claude」を利用できる新機能「Claude Tag」のベータ版提供を23日から開始した。指定したチャンネルにClaudeを招待し、メンションをつけてタスクを依頼すると、Claudeが関連情報をもとにタスク計画を自動構築する。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_871c185f2acb9162",
+      "title": "国内ユーザー数「前年比1582％増」――AI開発支援「Devin」は競合と何が違う？　日本法人代表が語る事業戦略",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2606/24/2000000124/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-06-24T06:24:09.000Z",
+      "summary": "ソフトウェア開発向けAIエージェント「Devin」をどのように日本市場で展開するのか。Devinを手掛ける米Cognition AI日本法人の正井拓己代表が語った。",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
       "id": "item_19aaf4f4aeab86fd",
-      "title": "ファミマ、クマ対策強化　野生動物撃退装置「モンスターウルフ」",
+      "title": "ファミマ、クマを感知・威嚇する「モンスターウルフ」を設置",
       "url": "https://www.watch.impress.co.jp/docs/news/2119632.html",
       "source_id": "impress_watch",
       "source_name": "Impress Watch",
@@ -1036,24 +1276,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_98171a379dfe3c62",
-      "title": "Yahoo!ショッピング、AIがメモから商品提案「AIお買い物メモ」",
-      "url": "https://www.watch.impress.co.jp/docs/news/2119339.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-06-23T07:27:13.000Z",
-      "summary": "LINEヤフーは、「Yahoo!ショッピング」アプリのiOS版およびAndroid版で、「AIお買い物メモ」を提供開始した。欲しいものや買い足したい商品をメモとして残すと、AIが内容を解析し、関連する商品候補を提案する。",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_a0d4367eac08a699",
       "title": "KDDIのISP向けメールシステムに不正アクセス、BIGLOBE、J:COM、ニフティなど最大1422万件の情報漏えいの可能性　影響を受けるサービスの利用者はパスワードの変更を",
       "url": "https://internet.watch.impress.co.jp/docs/news/2119351.html",
@@ -1067,40 +1289,6 @@
         "インターネット",
         "セキュリティ",
         "情報モラル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_7d6e4ca66779d16c",
-      "title": "震災をきっかけに誕生した「LINE」が15周年　　限定スタンプ・特設サイト公開",
-      "url": "https://www.watch.impress.co.jp/docs/news/2119330.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-06-23T07:05:53.000Z",
-      "summary": "LINEヤフーは、コミュニケーションアプリ「LINE」がサービス開始から15周年を迎えたことにあわせ、記念コンテンツを公開した。限定デザインのLINEスタンプや壁紙、トークルームでのお祝いアニメーション、記念アプリアイコンなどを期間限定で提供する。",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_d802c951f62037aa",
-      "title": "羽田空港跡地に広大な公園　イノベーションシティ目の前",
-      "url": "https://www.watch.impress.co.jp/docs/news/2119303.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-06-23T06:40:12.000Z",
-      "summary": "羽田空港があった場所に約32,722m2の広さの「(仮称)羽田空港公園」を整備する「羽田空港跡地第1ゾーン都市計画公園事業」の起工式が、6月23日に行なわれた。2028年春の開園を計画している。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
       ],
       "priority_score": 50
     },
@@ -1141,40 +1329,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_2dfacd479621503b",
-      "title": "NTT東西、10ギガ回線「フレッツ 光クロス」エリアカバー率80％突破へ",
-      "url": "https://www.watch.impress.co.jp/docs/news/2119287.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-06-23T05:16:33.000Z",
-      "summary": "NTT東日本とNTT西日本は、10Gbps光回線サービス「フレッツ 光クロス」の提供エリア拡大状況を発表した。NTT西日本ではエリアカバー率が80％を突破し、NTT東日本でも10月のエリア拡大完了により80％を突破する。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_c450facea3cc2057",
-      "title": "Getty Images、OpenAIと提携　ChatGPTにライセンス画像",
-      "url": "https://www.watch.impress.co.jp/docs/news/2119277.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-06-23T05:02:00.000Z",
-      "summary": "ストックフォトサービスのGetty Imagesは21日(米国時間)、OpenAIとの複数年にわたるパートナーシップ「Display Partnership」を発表した。同提携により、Getty Imagesのライセンス済みコンテンツライブラリが、ChatGPT内の検索および発見機能で表示されるようになる。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "生成AI",
-        "AI活用"
-      ],
-      "priority_score": 60
-    },
-    {
       "id": "item_56c4a3b3329eb992",
       "title": "NRIセキュア、未公表の脆弱性を「Mythosと同等のレベルで」検出する診断サービス提供",
       "url": "https://www.itmedia.co.jp/aiplus/article/2606/23/2000000118/",
@@ -1193,59 +1347,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_fada6c7a3c7c68a0",
-      "title": "AI導入を阻む「現状維持志向」は打破できるか　OpenAI・Anthropicの「業務現場支援」が与える影響",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/23/news069.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-06-23T04:00:00.000Z",
-      "summary": "ノークリサーチは、OpenAIの「Deploy Co」やAnthropicの新会社設立が日本のSIerビジネスに与える影響を分析したレポートを発表した。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_3325ea7d0a54ffca",
-      "title": "トヨタ系金融会社はなぜ「AIエージェントだけ」でも「RPAだけ」でもなく“併用”にしたのか",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/23/news055.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-06-23T04:00:00.000Z",
-      "summary": "トヨタファイナンスは、顧客からの問い合わせ対応にAIエージェントを導入した。AIエージェントだけに任せるのではなく、既存のRPAロボットと役割を分担する仕組みだ。なぜ両者の併用を選んだのか。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_1cfaeb7445cae7c9",
-      "title": "AIに自然言語で3Dモデル作成を頼んでみたら？",
-      "url": "https://monoist.itmedia.co.jp/mn/articles/2606/23/news031.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-06-23T03:00:00.000Z",
-      "summary": "生成AI×3D CADの現在地。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 60
-    },
-    {
       "id": "item_323b764362a1487d",
       "title": "NTT東日本、「フレッツ 光クロス」提供エリアを13都道県で拡大。東西ともにエリアカバー率80％突破へ",
       "url": "https://internet.watch.impress.co.jp/docs/news/2119214.html",
@@ -1258,23 +1359,6 @@
       "tags": [
         "インターネット",
         "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_06277f7f85557915",
-      "title": "日立、メインフレーム事業から撤退へ　ハード製造終了から9年後の決断",
-      "url": "https://www.itmedia.co.jp/enterprise/articles/2606/23/news059.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-06-23T02:35:00.000Z",
-      "summary": "日立製作所が、自社のメインフレーム環境提供から撤退する。同社のメインフレーム事業撤退の経緯を整理する。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
       ],
       "priority_score": 50
     },
@@ -1380,23 +1464,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_2abe9becc0b71b87",
-      "title": "ダイハツ、自動車部品のキズ検査をAIで自動化　“人の目と感性”を代替",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2606/22/2000000115/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-06-23T00:13:54.000Z",
-      "summary": "アルミ加工ラインで生産されているトランスミッション用の部品について、AIで加工穴内部のキズなどを検査。人の目と感性に頼っていた検査工程を自動化した。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_46aeeaed79137e67",
       "title": "ノートPCやモニターの上部に設置できる卓上ファン、ダイアモンドヘッドが発売",
       "url": "https://internet.watch.impress.co.jp/docs/news/2119093.html",
@@ -1411,24 +1478,6 @@
         "セキュリティ"
       ],
       "priority_score": 50
-    },
-    {
-      "id": "item_edfe9746b195e43b",
-      "title": "Copilotの“元”は取れるのか問題、ついに決着？　住友商事、京都市が掴んだ「AI活用の勝ち筋」",
-      "url": "https://www.itmedia.co.jp/enterprise/articles/2606/23/news034.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-06-22T23:00:00.000Z",
-      "summary": "生成AIの導入効果が問われる時期に入っている。Microsoftが試算した削減見込み額を独自検証した住友商事が出した結論とは。住友商事と京都市の生成AI活用例を紹介し、生成AI投資の勝ち筋に迫る。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 60
     },
     {
       "id": "item_ec818a2f77f1d98c",
