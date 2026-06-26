@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T11:47:44.659Z",
+  "generated_at": "2026-06-26T22:05:18.443Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-06-26T11:47:34.580Z",
+      "published_at": "2026-06-26T22:05:10.304Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-06-26T11:47:34.580Z",
+      "published_at": "2026-06-26T22:05:10.304Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-06-26T11:47:34.580Z",
+      "published_at": "2026-06-26T22:05:10.304Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,26 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_2dbdcc3a052a7608",
+      "title": "OpenAI、次世代「GPT-5.6」シリーズを限定プレビュー　米政府と調整、命名は「Sol／Terra／Luna」に刷新",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2606/27/2000000134/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-06-26T19:56:10.000Z",
+      "summary": "米OpenAIは6月26日（現地時間）、次世代AIモデル「GPT-5.6」シリーズの限定プレビューを始めた。フラッグシップの「Sol」、日常業務向けでバランス型の「Terra」、高速・低価格の「Luna」の3モデルで構成する。コーディングや科学、サイバーセキュリティの能力を高める一方、同社として過去最も強固と位置付ける安全対策を組み合わせた。数週間以内に一般提供する計画だが、米政府との調整を踏まえ…",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_6de9d75ecaef3b92",
@@ -1392,24 +1412,6 @@
         "ツール"
       ],
       "priority_score": 50
-    },
-    {
-      "id": "item_81b67f5cd4bb66fd",
-      "title": "OpenAI、「GPT-5.5 Instant」をアップデート　会話の文脈維持や箇条書き減など「読みやすさ」を改善",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/25/news062.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-06-25T00:23:00.000Z",
-      "summary": "OpenAIは、ChatGPTで最も広く利用されているモデル「GPT-5.5 Instant」のアップデートを発表した。新機能の追加ではなく、日常的な会話の品質向上が中心。質問の意図を的確に捉えて文脈を維持する能力が向上するほか、テンプレート的な回答が減り、位置情報を活用した地域のビジネス検索などもより洗練されるとしている。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 60
     },
     {
       "id": "item_649fb58a1519b7c9",
