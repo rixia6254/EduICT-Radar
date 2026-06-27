@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T22:05:18.443Z",
+  "generated_at": "2026-06-27T06:31:24.133Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-06-26T22:05:10.304Z",
+      "published_at": "2026-06-27T06:31:14.315Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-06-26T22:05:10.304Z",
+      "published_at": "2026-06-27T06:31:14.315Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-06-26T22:05:10.304Z",
+      "published_at": "2026-06-27T06:31:14.315Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,160 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_aa991e5d6fa8a54c",
+      "title": "アンソロピック「ミュトス5」を復活　米国のインフラ組織に再展開",
+      "url": "https://www.watch.impress.co.jp/docs/news/2120572.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-06-27T02:32:57.000Z",
+      "summary": "Anthropicは26日、米国政府の指示により公開を停止していた、最上位のAIモデル「Claude Mythos 5」(ミュトス5)について、重要インフラの運用と防御を行なう米国組織に限定し、再展開可能であるとの通知を受け取ったと発表した。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "生成AI",
+        "AI活用",
+        "行政",
+        "文科省"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_e8587eb716265131",
+      "title": "AIモデル「ミュトス」、米国の一部組織に再提供へ　米政府が許可",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2606/27/2000000135/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-06-27T02:07:50.000Z",
+      "summary": "米Anthropicは6月26日（現地時間）、12日から提供を一時停止していたAIモデル「Claude Mythos 5」について、米国の一部組織に限定して再提供を始めると発表した。米政府から許可を得たという。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_1460a27d8901c8e6",
+      "title": "OpenAI「GPT-5.6」発表　最上位「Sol」など3モデルを政府要請で段階提供",
+      "url": "https://www.watch.impress.co.jp/docs/news/2120569.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-06-27T01:57:44.000Z",
+      "summary": "OpenAIは26日(米国時間)、最新のAIモデル「GPT-5.6」を発表した。フラッグシップモデルの「Sol」、日常業務向けのバランスの取れたモデル「Terra」、高速で価格を抑えた「Luna」の3モデルとなり、今後数週間で段階的に公開していく。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "生成AI",
+        "AI活用"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_9b21ce1d90d0eb2d",
+      "title": "G-SHOCK、上品な“漆黒”でみせる2100シリーズ4機種",
+      "url": "https://www.watch.impress.co.jp/docs/news/2119763.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-06-27T01:00:00.000Z",
+      "summary": "カシオ計算機は、G-SHOCKの新作として、2100シリーズを上品なブラックでまとめたカラーバリエーション「LUXE BLACK」シリーズ4機種を発売した。価格は20,900円～32,450円。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_e8f4f2dd14c5de26",
+      "title": "小さくなって“着け続ける”価値が増した　Oura Ring 5の真価【ミニレビュー】",
+      "url": "https://www.watch.impress.co.jp/docs/review/minireview/2119742.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-06-27T00:20:00.000Z",
+      "summary": "Ouraのスマートリング新モデル「Oura Ring 5」が登場しました。Ring 4と比べて本体を小型化し、より着け続けやすいデザインにしたことが主な変更点です。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_2b0cea7642febf93",
+      "title": "さよならドクターイエロー",
+      "url": "https://www.watch.impress.co.jp/docs/topic/watchplus/2120353.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-06-27T00:00:00.000Z",
+      "summary": "Impress Watchニュースレターに掲載した記事です。ニュースレターは無料で、毎週編集部員が会員向けのコラムなどをお送りしています。登録はこちらから。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_db19f6637fa3e512",
+      "title": "ミャクミャクモニュメントを道頓堀・かに道楽前に設置",
+      "url": "https://www.watch.impress.co.jp/docs/news/2120488.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-06-26T23:30:00.000Z",
+      "summary": "大阪府は、2025年に開催された大阪・関西万博の公式キャラクター「ミャクミャク」のモニュメントを、道頓堀商店街 かに道楽本店前に設置すると発表した。設置期間は7月6日から8月31日。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_e3bf0774bf03b2c2",
+      "title": "東電出資に意欲　孫正義氏が「国内データセンター誘致」で狙うインフラ戦略",
+      "url": "https://www.itmedia.co.jp/business/articles/2606/27/news024.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-06-26T23:00:00.000Z",
+      "summary": "ソフトバンクグループ株主総会で、会長兼社長の孫正義氏が、将来的な目標として「純資産価値1000兆円」の展望を語った。AIインフラの最大のボトルネックである「電力確保」を巡り、子会社のソフトバンクが東京電力の次期オーナー候補に名乗りを上げている事実にも言及した。最先端データセンターを日本へ呼び戻そうとするインフラ戦略に迫る。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_0e27010c49ffa6c3",
+      "title": "官民投資フィジカルAIに10.5兆円示す、「実証から実装へ」動き出す現場",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2606/27/news009.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-06-26T22:00:00.000Z",
+      "summary": "2026年6月22日～26日に公開された記事の中から、MONOist編集部が厳選した今週の注目ニュースをお届けします。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_2dbdcc3a052a7608",
@@ -847,22 +1001,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_cd041917e715660a",
-      "title": "“都会のローカル線”大阪「汐見橋線」全踏破　派手さはなくとも地域を支える",
-      "url": "https://www.watch.impress.co.jp/docs/topic/2118992.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-06-25T23:20:00.000Z",
-      "summary": "大阪府大阪市の難波には、JR線・南海電気鉄道・Osaka Metro(大阪メトロ)・近畿日本鉄道・阪神電気鉄道といった多くの鉄道路線が乗り入れ、大阪屈指の繁華街を形成しています。特に南海の難波駅は老舗百貨店の高島屋が併設し、近年は駅前広場がリニューアルするなど難波のシンボルともなっています。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_f8ac02f5f90f1096",
       "title": "【連載】第6回　大人のための「情報Ⅰ・Ⅱ」再入門：共通テスト過去問で学ぶ「2進数と16進法」",
       "url": "https://note.com/mama_oyako_it/n/nee79446d4d89",
@@ -917,24 +1055,6 @@
         "AI",
         "LLM",
         "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_f5fa968c81b0c023",
-      "title": "ビューカードアプリでJRE BANKの預金残高が確認可能に",
-      "url": "https://www.watch.impress.co.jp/docs/news/2120097.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-06-25T23:00:00.000Z",
-      "summary": "ビューカードは、ビューカードアプリにて、JRE BANK口座の円普通預金残高を確認できる「JRE BANK口座預金残高表示サービス」を6月29日に開始する。",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "教材",
-        "ツール"
       ],
       "priority_score": 50
     },
@@ -1105,38 +1225,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_f15d8151ef23ca80",
-      "title": "任天堂、技術開発棟を29年3月竣工　建設費1210億円",
-      "url": "https://www.watch.impress.co.jp/docs/news/2120128.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-06-25T11:00:00.000Z",
-      "summary": "任天堂は、京都市南区で建築を進める「任天堂 技術開発棟」について、2029年3月の竣工を予定していると発表した。建物建設費は、概算で1,210億円。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_232686c012faa9e9",
-      "title": "Google Play、手数料を30%から引き下げへ　日本でも年内に刷新",
-      "url": "https://www.watch.impress.co.jp/docs/news/2120104.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-06-25T09:15:06.000Z",
-      "summary": "Googleは、Google Playの手数料体系を見直し、サービス手数料と請求手数料を分離する新体系を順次導入する。米国、欧州経済領域(EEA)、英国では6月30日から開始し、日本と韓国では12月31日までに展開する。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_66c27c7261679ddd",
       "title": "男性に美人局容疑で3人逮捕　ChatGPTの示談相場示し脅迫か　警視庁",
       "url": "https://www.itmedia.co.jp/news/articles/2606/25/news129.html",
@@ -1167,38 +1255,6 @@
       "tags": [
         "インターネット",
         "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_5a65356e2c83a4e1",
-      "title": "SBI、ビットバンクを買収　暗号資産トップクラスに",
-      "url": "https://www.watch.impress.co.jp/docs/news/2120101.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-06-25T08:45:20.000Z",
-      "summary": "SBIホールディングスは25日、暗号資産取引所「bitbank」を運営するビットバンクの買収を発表した。ビットバンクの株主である、MIXIとセレスとの間で、SBI HD完全子会社のSBICAHを通じてビットバンクの完全子会社化とすることで合意した。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_840cb3c4a267ea10",
-      "title": "Coincheck、暗号資産の送金でマイナ本人確認　不正対策で",
-      "url": "https://www.watch.impress.co.jp/docs/news/2120090.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-06-25T08:21:22.000Z",
-      "summary": "コインチェックは、暗号資産取引サービス「Coincheck」において、個人ユーザーが暗号資産を送金する際の一部に「追加の本人確認」を導入した。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
       ],
       "priority_score": 50
     },
@@ -1308,41 +1364,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_4dd34049f3cef889",
-      "title": "「AIエージェント基盤の構築は色々大変」　Claude Managed Agentsはどう進化しているのか",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/25/news058.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-06-25T02:00:00.000Z",
-      "summary": "Anthropicがβ版で公開したAIエージェント実行基盤「Claude Managed Agents」。構築の課題が多い実行基盤をフルマネージド化し、さまざまな機能を追加し続けている。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_715dfcd1e486c1d6",
-      "title": "「今日言うつもりはなかったが……」　孫正義氏が明かした「ロボット自動量産工場」の実態",
-      "url": "https://www.itmedia.co.jp/business/articles/2606/25/news053.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-06-25T02:00:00.000Z",
-      "summary": "「今日ここで言うつもりはなかったんですが」──。ソフトバンクグループが6月24日に開催した株主総会の質疑応答で、会長兼社長の孫正義氏が、投資先の現場で起きている現場実態を明かす一幕があった。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_028d4f8c82c04c89",
       "title": "盗まれたiPhoneに表示する連絡先情報は「入力すべきでない」、Appleがサポート文書に明記【やじうまWatch】",
       "url": "https://internet.watch.impress.co.jp/docs/yajiuma/2119857.html",
@@ -1390,26 +1411,6 @@
       "tags": [
         "インターネット",
         "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_72e6bfbcf10942d6",
-      "title": "Google、「Gemini 3.5 Flash」に「Computer Use」を標準搭載──AIが画面を見てブラウザやアプリを操作",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2606/25/2000000127/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-06-25T01:08:52.000Z",
-      "summary": "Googleは、AIモデル「Gemini 3.5 Flash」に、AIがコンピュータの画面を認識してマウス操作やキーボード入力を自動で実行する「Computer Use」機能を標準ツールとして搭載したと発表した。これまで専用モデルでのみ提供していた機能を主力モデルに統合したもので、開発者はWebブラウザやモバイル、デスクトップ環境で動作するエージェントを構築できる。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用",
-        "教材",
-        "ツール"
       ],
       "priority_score": 50
     },
