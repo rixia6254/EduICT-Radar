@@ -1,32 +1,14 @@
 {
-  "generated_at": "2026-06-27T11:00:53.880Z",
-  "total": 83,
+  "generated_at": "2026-06-27T21:57:05.405Z",
+  "total": 103,
   "items": [
-    {
-      "id": "item_21f8651de3f2baea",
-      "title": "文部科学省ホームページトップはこちら",
-      "url": "https://www.mext.go.jp/",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-06-27T11:00:43.594Z",
-      "summary": "",
-      "starred": false,
-      "category": "admin",
-      "tags": [
-        "行政",
-        "文科省",
-        "制度",
-        "教育ニュース"
-      ],
-      "priority_score": 60
-    },
     {
       "id": "item_bd1951ae70f98dac",
       "title": "サイトマップはこちら",
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-06-27T11:00:43.594Z",
+      "published_at": "2026-06-27T21:56:56.218Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +25,25 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-06-27T11:00:43.594Z",
+      "published_at": "2026-06-27T21:56:56.218Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_21f8651de3f2baea",
+      "title": "文部科学省ホームページトップはこちら",
+      "url": "https://www.mext.go.jp/",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-06-27T21:56:56.217Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -655,6 +655,70 @@
       "priority_score": 50
     },
     {
+      "id": "item_e59bbfec4944ddee",
+      "title": "東京都、STEM分野の職場を見学「女子中高生向けオフィスツアー」第2弾 参加者募集開始",
+      "url": "https://ict-enews.net/2026/06/26seikatubunka/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-06-26T00:04:30.000Z",
+      "summary": "東京都は24日、女子中高生の理工系分野への関心を高めることを目的とした「女子中高生向けオフィスツアー」第2弾の参加者募集を開始した。 同事業は、STEM（科学・技術・工学・数学）分 […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_23aaa3cef633be4b",
+      "title": "埼玉県、夏休み3DAYsオーストラリアにオンライン留学体験の募集開始",
+      "url": "https://ict-enews.net/2026/06/26saitama-2/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-06-26T00:04:11.000Z",
+      "summary": "埼玉県は24日、県内在住または在学の中学生・高校生を対象としたオンライン国際交流プログラムの参加者募集を開始した。 同プログラムは、将来の留学や海外での活躍を目指す中高生を対象に実 […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_b7006076c4556936",
+      "title": "アイガー、大学サバイバル時代 本当に選ばれる大学とは「学費ナビ大賞 2026」ランキング発表",
+      "url": "https://ict-enews.net/2026/06/26field/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-06-26T00:03:46.000Z",
+      "summary": "アイガーは24日、運営する学費検索・比較サイト「学費ナビ」で、「学費ナビ大賞2026」を発表した。 同ランキングは、大学選びにおいて偏差値だけでは見えにくい大学の実力を可視化するこ […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_e0a0938aad81ed07",
+      "title": "小学生を持つ共働き家庭の教育分担、70％が「母親中心」=塾選調べ=",
+      "url": "https://ict-enews.net/2026/06/26delta-x-3/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-06-26T00:03:22.000Z",
+      "summary": "DeltaXが運営する塾選びサービス「塾選」は25日、小学生の子どもを持つ共働きの保護者100人を対象に実施した、「教育における家庭の役割分担に関する実態調査」の結果をまとめ発表し […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
       "id": "item_b4212a5c6a6e2565",
       "title": "【鈴木淳也のPay Attention】「コンビニ」の限界を超える　ローソンの地域・オフィス・ミニスーパー新戦略",
       "url": "https://www.watch.impress.co.jp/docs/series/suzukij/2120198.html",
@@ -667,6 +731,272 @@
       "tags": [
         "テクノロジー",
         "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_17fad754b12d2c59",
+      "title": "元Google米国本社副社長 村上学長の新大学「国際工科専門職大学」 2027年4月開学",
+      "url": "https://ict-enews.net/2026/06/26nkz/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-06-26T00:02:28.000Z",
+      "summary": "日本教育財団は24日、国際工科専門職大学（東京・大阪・名古屋）を2027年4月に開学することを発表した。 元Google米国本社副社長・初代日本法人社長の村上憲郎学長のもと、世界基 […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_644c579eec5cce08",
+      "title": "神奈川大学、文部科学省「AI for Science（SPReAD）」第1回公募で同学から3件が採択",
+      "url": "https://ict-enews.net/2026/06/26kanagawa-u-2/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-06-26T00:02:03.000Z",
+      "summary": "神奈川大学は25日、文部科学省が実施する「AI for Scienceによる科学研究革新プログラムAI for Science萌芽的挑戦研究創出事業（SPReAD）」第1回公募にお […]",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "行政",
+        "文科省"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_0e559740139ab831",
+      "title": "青楓館高等学院、学院長と在校生が「教育AIサミット」に登壇・出展",
+      "url": "https://ict-enews.net/2026/06/26seifukan-gakuin/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-06-26T00:01:35.000Z",
+      "summary": "通信制サポート校・青楓館高等学院は、今月10日～12日に開催されたIT・テクノロジー展示会「Interop Tokyo 2026」内「AI NATIVE EXPO」に、学院長・藤原 […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_dc268c9c4e18cef0",
+      "title": "プログラミング教育 HALLO、NHK学園高等学校のセレクション講座 プログラミング講座」に導入",
+      "url": "https://ict-enews.net/2026/06/26yarukiswitch-5/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-06-26T00:01:12.000Z",
+      "summary": "やる気スイッチグループは24日、AI技術の研究開発を行うPreferred Networksとともに展開する「プログラミング教育 HALLO」が、NHK学園高等学校が実施する登校コ […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_96c78287927a54a1",
+      "title": "MathWorks Japan、無料Webセミナー「MATLAB Copilotではじめる生成AI活用授業」7月29日開催",
+      "url": "https://ict-enews.net/2026/06/26mathworks-2/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-06-26T00:00:54.000Z",
+      "summary": "MathWorks Japanは、大学や高専などの教育関係者を対象に、生成AIを活用した効率的な授業運営と学生の主体的な学びをテーマにしたWebセミナーを7月29日にオンライン開催 […]",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "生成AI",
+        "AI活用"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_a3373f9d728a24cb",
+      "title": "先端教育機構、特別セミナー「次世代セキュリティ基盤の実装」7月9・16日無料開催",
+      "url": "https://ict-enews.net/2026/06/26sentankyo-3/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-06-26T00:00:25.000Z",
+      "summary": "先端教育機構は、7月9・16日に、自治体・省庁関係者などを対象にした特別セミナー「AI時代の新たな脅威から守る～次世代セキュリティ基盤の実装～」を無料開催する。 同セミナーでは、「 […]",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_e114a65ecfada928",
+      "title": "みなとラボ、全国90館以上の図書館が選んだ「海の本」約600冊を公開",
+      "url": "https://ict-enews.net/2026/06/263710lab/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-06-25T23:59:53.000Z",
+      "summary": "3710Lab（みなとラボ）は、日本財団の助成のもと運営するウェブミュージアム「海をつなぐミュージアム MOON（Museum of Ocean Nexus）」にて、常設展「図書館 […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_a2204229fd19e855",
+      "title": "グッドワークス、中高教員向け「東京DXカレッジ」セミナー 8月6日開催",
+      "url": "https://ict-enews.net/2026/06/26good-works/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-06-25T23:59:24.000Z",
+      "summary": "グッドワークスは、中学校・高校の教員および教育委員会関係者様を対象とした特別セミナー「東京DXカレッジ」を 8月6日に開催する。 同セミナーでは、教育現場が直面する「校務DX・生成 […]",
+      "starred": false,
+      "category": "dx",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "校務DX",
+        "GIGA",
+        "行政",
+        "文科省"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_886690c20a720d56",
+      "title": "日本女子大学、女子高校生対象の「理学部サマースクール2026」を8月5日～7日開催",
+      "url": "https://ict-enews.net/2026/06/26unv/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-06-25T23:58:57.000Z",
+      "summary": "日本女子大学は「理学部サマースクール2026」を8月5日～7日の3日間開催する。 同学では、理学部サマースクールを2004年から22年にわたり開催しており、これまでにおよそ1300 […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_4e0b80015b75220f",
+      "title": "山田進太郎D&I財団、中高生女子向け「Girls Meet STEM」夏ツアー第2弾 応募受付開始",
+      "url": "https://ict-enews.net/2026/06/26shinfdn-3/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-06-25T23:58:27.000Z",
+      "summary": "山田進太郎D&I財団は24日、中高生女子向けSTEM（科学・技術・工学・数学）体験プログラム「Girls Meet STEM」2026夏ツアー第2弾の応募受付を開始した。 […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_bd2696cf9e785a4f",
+      "title": "明治大学、生田キャンパスで小中高校生向けイベント「夏休み科学教室」を8月5日開催",
+      "url": "https://ict-enews.net/2026/06/26meiji-2/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-06-25T23:58:08.000Z",
+      "summary": "明治大学理工学部は、小中高校生を対象としたイベント「夏休み科学教室」を8月5日に生田キャンパスで開催する。 主に生田キャンパス周辺地域の親子を対象に、実験・実習・工作を通して自然科 […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_bdffbc05d00ead14",
+      "title": "留学ジャーナル×ココミット、「国内か海外か」中高生向け併願サポートプログラムのオンライン説明会",
+      "url": "https://ict-enews.net/2026/06/26ryugaku-2/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-06-25T23:57:38.000Z",
+      "summary": "留学ジャーナルは、総合型選抜専門塾ココミットと協働した、国内大学の総合型選抜と海外大学進学を同時に準備できる新たな進学サポートプログラムのオンライン説明会を7月4日に開催する 同プ […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_d34dc4f440c927c9",
+      "title": "NIJIN、小中学生を対象に本物の駄菓子屋を舞台にした実践型キャリア教育イベントを夏休みに開催",
+      "url": "https://ict-enews.net/2026/06/26nijin-8/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-06-25T23:57:05.000Z",
+      "summary": "NIJINは、小中学生を対象に、本物の駄菓子屋を舞台にした実践型キャリア教育イベント「駄菓子屋オーナーになろう」を夏休みに開催する。 イベントでは、地域の駄菓子屋を教室として活用し […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_8c80dc17b42ce849",
+      "title": "東京コミュニティスクール、探究する学びをデザインする教育者向け「公開リフレクション」7月開催",
+      "url": "https://ict-enews.net/2026/06/26tokyocs/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-06-25T23:56:35.000Z",
+      "summary": "東京コミュニティスクールは、探究する学びをデザインする教育者のためのイベント 「公開リフレクション」を7月25日に開催する。 東京コミュニティスクールは、学びの多様化を目指し、20 […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_3a0fbdb0d85107e3",
+      "title": "アゴス・ジャパン、「大学留学サマーフェスタ」7・8月にオンライン無料開催",
+      "url": "https://ict-enews.net/2026/06/26agos-2/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-06-25T23:56:17.000Z",
+      "summary": "アゴス・ジャパンは、7月20日と8月11日の2日間にわたり、海外総合大学・リベラルアーツカレッジトップ校の在校生・卒業生を迎えたオンラインイベント「大学留学サマーフェスタ2026」 […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_b97554975bed226d",
+      "title": "SasaeL、AI時間割編成サービス「SasaeL時間割」β版を小中高向けに提供開始",
+      "url": "https://ict-enews.net/2026/06/26sasael/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-06-25T23:55:49.000Z",
+      "summary": "SasaeL（ササエル）は25日、学校の時間割編成業務をAIで支援するAI時間割編成サービス「SasaeL時間割」β版の提供を開始した。 同サービスは、同社の公立小中学校向けクラウ […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
       ],
       "priority_score": 50
     },
