@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-06-29T13:11:51.597Z",
-  "total": 103,
+  "generated_at": "2026-06-29T22:04:58.141Z",
+  "total": 102,
   "items": [
+    {
+      "id": "item_21f8651de3f2baea",
+      "title": "文部科学省ホームページトップはこちら",
+      "url": "https://www.mext.go.jp/",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-06-29T22:04:48.962Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
     {
       "id": "item_bd1951ae70f98dac",
       "title": "サイトマップはこちら",
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-06-29T13:11:42.172Z",
+      "published_at": "2026-06-29T22:04:48.962Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -25,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-06-29T13:11:42.172Z",
+      "published_at": "2026-06-29T22:04:48.962Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -38,22 +56,141 @@
       "priority_score": 60
     },
     {
-      "id": "item_21f8651de3f2baea",
-      "title": "文部科学省ホームページトップはこちら",
-      "url": "https://www.mext.go.jp/",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-06-29T13:11:42.171Z",
-      "summary": "",
+      "id": "item_5d730c156c6d0fe0",
+      "title": "NTTデータとダイキン、AIを活用したデータセンター冷却最適化ソリューションの共同検証を開始",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2120896.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-06-29T22:00:00.000Z",
+      "summary": "株式会社NTTデータとダイキン工業株式会社は、AIを活用してサーバー内部の熱状態を予測するデータセンター向け次世代冷却最適化ソリューションの共同検証を7月より開始する。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_ee4c87b41cdee69d",
+      "title": "住民税はどうやって決まる？ 計算方法と決定通知書の見方を詳しく解説した記事に注目が集まる【アクセスランキング】",
+      "url": "https://internet.watch.impress.co.jp/docs/news/ranking/2120678.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-06-29T21:55:00.000Z",
+      "summary": "前週に閲覧数の多かった記事を、カテゴリーごとに上位5位までレポートします。",
       "starred": false,
       "category": "admin",
       "tags": [
+        "インターネット",
+        "セキュリティ",
         "行政",
-        "文科省",
-        "制度",
-        "教育ニュース"
+        "文科省"
       ],
-      "priority_score": 60
+      "priority_score": 50
+    },
+    {
+      "id": "item_03a3bc81937e1621",
+      "title": "【連載】第8回　大人のための「情報Ⅰ・Ⅱ」再入門：共通テスト過去問で学ぶ「メール不達エラーとDNS」の本質",
+      "url": "https://note.com/mama_oyako_it/n/n32af97ed4743",
+      "source_id": "note_joho1",
+      "source_name": "note（情報科教員）",
+      "published_at": "2026-06-29T21:50:59.000Z",
+      "summary": "こんにちは。どんぐり村長です。 前回は「スマホアプリのUI設計」を題材に、データから最適な初期値を導き出すビジネススキルについて解説しました。 平均値ではなく「中央値」を使うべきシーンなど、実務でもハッとするポイントが多かったのではないでしょうか。 続きをみる",
+      "starred": false,
+      "category": "exam",
+      "tags": [
+        "授業実践",
+        "情報Ⅰ",
+        "教材",
+        "共通テスト",
+        "入試",
+        "ツール"
+      ],
+      "priority_score": 70
+    },
+    {
+      "id": "item_61c65f54701bf185",
+      "title": "ルネサスが2035年の売上高3倍増も視野に、AIで3段階の成長を目指す",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2606/30/news081.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-06-29T21:45:00.000Z",
+      "summary": "ルネサス エレクトロニクスが同社の概況や事業方針などについて説明。足元で半導体市場の拡大をけん引するAIに焦点を当てた事業展開を強化し、AIインフラ、フィジカルAIとSDV、「Intelligence at the Edge」の3段階で優位なポジションを構築し成長を目指す。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_521087a620d5061d",
+      "title": "NTTスマートコネクト、大阪近郊エリアでDCIサービスを2027年から提供",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2120931.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-06-29T21:45:00.000Z",
+      "summary": "NTT西日本のグループ会社であるNTTスマートコネクト株式会社は、大阪近郊エリアにおいて新たなデータセンター間接続（DCI）サービスの提供を2027年1月1日より開始する。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_8bab29c05baab767",
+      "title": "日本の「完璧主義」から脱却し中国ヒューマノイドにどう立ち向かうか",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2606/30/news059.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-06-29T21:30:00.000Z",
+      "summary": "ハードウェアと市場が先行して急拡大する一方で、自律制御を担う基盤モデルの領域にはいまだ乗り越えるべき壁が多い。後編となる本稿では、オープンソース化で社会実装を急ぐ中国プレイヤーの動向を解説。圧倒的なスピードで独走する中国に対し、日本が目指すべき生存戦略を提示する。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_53c80586d2462ef5",
+      "title": "未納料金の支払いを装う「PayPay送金詐欺」が2月の22倍以上に、日常的に使われる支払い手段を悪用する狙いか　トビラシステムズ「特殊詐欺・フィッシング詐欺に関するレポート（2026年5月）」",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2120860.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-06-29T21:30:00.000Z",
+      "summary": "トビラシステムズ株式会社は6月24日、詐欺電話や詐欺SMSに関する独自調査レポート「トビラシステムズ 特殊詐欺・フィッシング詐欺に関するレポート（2026年5月）」を公開した。",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_545c8d67ca9370ed",
+      "title": "NICTら、都市の既設光通信インフラで世界新記録となる450Tbpsの大容量伝送に成功",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2120915.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-06-29T21:00:00.000Z",
+      "summary": "国立研究開発法人情報通信研究機構（NICT）を中心とした国際共同研究グループは、英国ロンドンの都市に敷設されている光ファイバーを用いて、450Tbpsの大容量伝送の実証実験に成功し、既存光ファイバーでの伝送容量の世界記録を更新した。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_e7490e35eb59f0b9",
@@ -1273,44 +1410,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_af7a2b33333accbd",
-      "title": "住民税はどうやって決まる？ 計算方法と決定通知書の見方を詳しく解説【2026年(令和8年)版】",
-      "url": "https://internet.watch.impress.co.jp/docs/special/2119727.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-06-26T02:55:00.000Z",
-      "summary": "所得税は令和7年に大きな税制改正が行われた。その影響で令和8年度の住民税も改正されている。サラリーマンの人は今月（6月）の給与明細と一緒に住民税の決定通知書を受け取るはずだ。個人事業主は住民税明細書と納付用紙（納税通知書）が自治体から郵送され、6月上旬には手元に届いているだろう。",
-      "starred": false,
-      "category": "admin",
-      "tags": [
-        "インターネット",
-        "セキュリティ",
-        "行政",
-        "文科省"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_f50e7a1a7a0920d7",
-      "title": "ソフトウェア開発関連書籍が最大70％OFF、Amazonで「Kindle本 夏の超大セール 第1弾」　「システム設計・データ活用のためのデータモデル入門」など多数ラインアップ",
-      "url": "https://internet.watch.impress.co.jp/docs/shopping/2120222.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-06-26T02:30:00.000Z",
-      "summary": "Amazon.co.jpのKindleストアでは現在、7月13日までの期間限定で「Kindle本 夏の超大セール 第1弾」を開催中だ。5万冊以上のKindle本が70％OFFなどの大幅割引価格で販売されており、コンピュータ・IT関連書籍も多数ラインアップされている。以下、ソフトウェア開発関連の注目書籍をピックアップしている。",
-      "starred": false,
-      "category": "lesson",
-      "tags": [
-        "インターネット",
-        "セキュリティ",
-        "授業実践",
-        "情報Ⅰ",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_701d43058614dd88",
       "title": "Amazon Bedrockのトークン処理量、26年1Qだけで過去累計超え　AWSが目指す、AIのための「信頼できるインフラ」",
       "url": "https://www.itmedia.co.jp/aiplus/article/2606/26/2000000131/",
@@ -1345,22 +1444,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_ca520a2c85c4bc46",
-      "title": "シチズンの上腕式・手首式の血圧計がAmazonで日替わりセールに　上腕式血圧計「CHUN2701」は3580円に",
-      "url": "https://internet.watch.impress.co.jp/docs/shopping/2120220.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-06-26T01:30:00.000Z",
-      "summary": "Amazon.co.jpのタイムセールコーナーでは現在、シチズンの血圧計がタイムセール中だ。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_f8ac02f5f90f1096",
       "title": "【連載】第6回　大人のための「情報Ⅰ・Ⅱ」再入門：共通テスト過去問で学ぶ「2進数と16進法」",
       "url": "https://note.com/mama_oyako_it/n/nee79446d4d89",
@@ -1380,91 +1463,6 @@
         "情報モラル"
       ],
       "priority_score": 70
-    },
-    {
-      "id": "item_1f22a7c665905e0a",
-      "title": "日本の“眠れるデータ”を競争力へ、日本発のプラットフォーム「xIPF」が始動",
-      "url": "https://monoist.itmedia.co.jp/mn/articles/2606/19/news005.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-06-25T23:00:00.000Z",
-      "summary": "欧州を中心に進むデータ共有圏の動向やその日本へのインパクトについて解説してきた本連載だが、第9回は日本独自のデータ連携エコシステムを創出することを目指す「xIPFコンソーシアム」を取り上げる。",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_e76e25a739d623fb",
-      "title": "ITインフラの要件に“大変化”　なぜ「電力」と「冷却」にAI活用が縛られるのか？",
-      "url": "https://www.itmedia.co.jp/enterprise/articles/2606/26/news023.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-06-25T23:00:00.000Z",
-      "summary": "AI時代の到来により、ITインフラの要件に大きな変化が訪れています。データセンターを「どこに置くか」「どうやって冷やすか」が、AI活用の制約になるのはなぜか。新しいITインフラの要件に、IT部門がどのように対応すべきでしょうか。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_59e45f2b1adf4e5b",
-      "title": "エレコム、巻き取り式USB Type-Cケーブル内蔵のモバイルバッテリー「DE-C92-5000」発売",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2120152.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-06-25T23:00:00.000Z",
-      "summary": "エレコム株式会社は、巻き取り式USB Type-Cケーブルを内蔵したモバイルバッテリー「DE-C92-5000」を6月中旬より発売する。本体カラーはブラックとしろちゃん（ホワイト）で、価格はオープン。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_aa8a6c6c75f4abce",
-      "title": "ニトリ、工事不要で設置できる「ポータブルクーラー」に新デザイン　落ち着いた木目調で空間の雰囲気と調和する",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2120093.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-06-25T22:30:00.000Z",
-      "summary": "株式会社ニトリは、工事不要で手軽に使える「木目調ポータブルクーラー（NR-036）」を、全国のニトリ店舗およびニトリネットで発売した。販売価格は3万4900円。カラーはミドルブラウン。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_3dfeb41faf48689c",
-      "title": "【注目記事】本日6月26日10時から「DNS Summer Day 2026」開催、YouTube Liveで配信",
-      "url": "https://internet.watch.impress.co.jp/docs/readitnow/2120205.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-06-25T22:25:00.000Z",
-      "summary": "「今すぐ読みたい注目記事」コーナーでは、過去に掲載した記事の中から、「今読んでほしい記事」を再紹介しています。記事内容は掲載当時のもので、最新の状況とは異なる場合もあります。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
     },
     {
       "id": "item_1937a057bde9a9c9",
@@ -1753,25 +1751,6 @@
       "source_name": "note（情報科教員）",
       "published_at": "2026-06-02T13:45:50.000Z",
       "summary": "みなさん、こんにちは。全15回でお送りしている「情報学概論」も、いよいよ第10回を迎えました。講義もいよいよ後半戦に突入です。 前回の第9回では「情報セキュリティ」をテーマに、サイバー空間に潜む脅威と、それらから身を守るための暗号化技術やファイアウォールなどの防御策について学びました。技術の進歩は私たちの生活を豊かにしてくれますが、同時に新たなリスクも生み出します。常に「自衛」の意識を持つことが大…",
-      "starred": false,
-      "category": "security",
-      "tags": [
-        "授業実践",
-        "情報Ⅰ",
-        "教材",
-        "セキュリティ",
-        "情報モラル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_2fe3eab2ef66326e",
-      "title": "情報学概論　第9回：情報セキュリティ",
-      "url": "https://note.com/quirky_frog4014/n/n2fbb6125baee",
-      "source_id": "note_joho1",
-      "source_name": "note（情報科教員）",
-      "published_at": "2026-06-02T13:36:05.000Z",
-      "summary": "みなさん、こんにちは。全15回でお送りしている「情報学概論」、今回は第9回の講義です。 前回の第8回では「情報通信ネットワーク」というテーマで、私たちが普段当たり前のように使っているインターネットの裏側についてお話ししました。世界中のコンピュータがTCP/IPという共通の言葉（プロトコル）で会話し、データを細かく分けた「パケット」が、IPアドレスを頼りにルータたちのバケツリレーによって目的地まで届…",
       "starred": false,
       "category": "security",
       "tags": [
