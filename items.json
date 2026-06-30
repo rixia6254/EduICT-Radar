@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T11:47:35.369Z",
+  "generated_at": "2026-06-30T22:11:10.827Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-06-30T11:47:23.217Z",
+      "published_at": "2026-06-30T22:11:00.373Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-06-30T11:47:23.217Z",
+      "published_at": "2026-06-30T22:11:00.373Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-06-30T11:47:23.217Z",
+      "published_at": "2026-06-30T22:11:00.373Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,95 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_148245f71a0f6b21",
+      "title": "長時間駆動で堅牢な「MousePro C4」、オフィス業務に適した「MousePro C5」の法人向けノートPC2機種、マウスコンピューターが発売",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2121139.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-06-30T22:00:00.000Z",
+      "summary": "株式会社マウスコンピューターは6月30日、法人向けPCブランド「MousePro」より、14型ノートPC「MousePro C4」の後継モデルと、15.6型ノートPC「MousePro C5」を発売した。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_e44049ce77710b4f",
+      "title": "AIに「公式」と認識される企業サイトになれる？ 「ブランドTLD」にはAIOの期待も　“信頼の証明”としてブランドTLDが担う役割を考える＜前編＞",
+      "url": "https://internet.watch.impress.co.jp/docs/special/2119357.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-06-30T21:55:00.000Z",
+      "summary": "Google AI Overviews（AIによる概要）をはじめとした“AI検索”が情報検索手段の主流になるにつれ、企業サイトはトラフィックの減少に直面してきていますが、問題はそれだけではありません。精巧に作られた偽サイトがAIの回答に引用され、ユーザーを誤導するインシデントが現実に発生しているのです。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "生成AI",
+        "AI活用"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_0e4b0aaaa8b4bb91",
+      "title": "【連載】第9回　大人のための「情報Ⅰ・Ⅱ」再入門：共通テスト過去問で学ぶ「論理演算」",
+      "url": "https://note.com/mama_oyako_it/n/n968bec8ad6ac",
+      "source_id": "note_joho1",
+      "source_name": "note（情報科教員）",
+      "published_at": "2026-06-30T21:50:58.000Z",
+      "summary": "こんにちは。どんぐり村長です。 前回は「メールが届かないエラー」を題材に、インターネットの住所録であるDNSや、メールサーバたちの健気なバケツリレーの仕組みについて解説しました。英語のエラーメッセージが、実はシステムからの親切な道標であるというお話、実務でのトラブルシューティングに役立てていただければ幸いです。 続きをみる",
+      "starred": false,
+      "category": "exam",
+      "tags": [
+        "授業実践",
+        "情報Ⅰ",
+        "教材",
+        "共通テスト",
+        "入試"
+      ],
+      "priority_score": 70
+    },
+    {
+      "id": "item_8185b92932d820fe",
+      "title": "TP-Link、製品知識・提案スキルの向上を目的とした「VIGI Expert認定プログラム」、販売店・代理店向けに開始",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2121204.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-06-30T21:30:00.000Z",
+      "summary": "ティーピーリンクジャパン株式会社（TP-Link）は、ネットワークカメラ・セキュリティソリューションブランド「VIGI」の製品知識および提案スキルの向上を目的とした、販売店・代理店向け認定プログラム「VIGI Expert認定プログラム」を7月から開始した。",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_eed181e837a22edf",
+      "title": "【Pythonで学ぶデータ分析】母平均のベイズ推定と予測サンプルの作成 ～ 規格外製品の廃棄コストを見積もる",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/01/news008.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-06-30T20:00:00.000Z",
+      "summary": "「不良品で幾ら損する？」をベイズ統計で見積もってみましょう。製品のサイズを測ったデータから、平均やばらつきを推定し、さらに「これから作る製品が規格外になる確率」までをPythonを使って予測します。『社会人1年生から学ぶ、やさしいデータ分析』ベイズ統計編の第4回です。",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_603fca5605307a93",
@@ -1177,23 +1266,6 @@
       "priority_score": 60
     },
     {
-      "id": "item_50a9c5a6a687ddf3",
-      "title": "死んだのは「低成長モデル」だけ　HRBrainのCSaOが読み解く「SaaS is Dead」の本質",
-      "url": "https://www.itmedia.co.jp/business/articles/2606/30/news025.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-06-29T22:00:00.000Z",
-      "summary": "Salesforce出身で、創業10年のHRテック・HRBrainのCSaOを務める小山径氏。同氏は「SaaSは死んでいない」と主張する。その理由は？",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_5d730c156c6d0fe0",
       "title": "NTTデータとダイキン、AIを活用したデータセンター冷却最適化ソリューションの共同検証を開始",
       "url": "https://internet.watch.impress.co.jp/docs/news/2120896.html",
@@ -1368,54 +1440,6 @@
       "source_name": "INTERNET Watch",
       "published_at": "2026-06-29T02:00:00.000Z",
       "summary": "本記事では、マウスコンピューターの法人向けブランド「MousePro」の売れ筋PCを紹介しています。なお、順位、価格、構成は随時変動しており、最新情報はリンク先にてご確認ください。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_ed1629deebdc0231",
-      "title": "BOSEの完全ワイヤレスイヤホンがAmazonでセール！　「Ultra Open Earbuds」が2万8800円　高いノイズキャンセリング性能を持つ「QuietComfort Ultra Earbuds（第2世代）」は3万600円",
-      "url": "https://internet.watch.impress.co.jp/docs/shopping/2120647.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-06-29T01:30:00.000Z",
-      "summary": "Amazon.co.jpのBOSEストアページでは、同社の完全ワイヤレスイヤホンをセール価格で販売中だ。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_fa180995fd20b524",
-      "title": "MSI、同社初のWi-Fi 7対応メッシュルーター「Roamii BE Pro/Lite」シリーズを発売",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2120417.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-06-28T22:30:00.000Z",
-      "summary": "エムエスアイコンピュータージャパン株式会社（MSI）は、Wi-Fi 7対応のメッシュルーター「Roamii BE Pro Mesh System」と「Roamii BE Lite Mesh System」を7月3日より発売する。価格は発表されていない。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_eb27a54ccbb2e3c3",
-      "title": "ぷららで提供中の「plala（ドコモ光）」を「OCN インターネット」に統合、NTTドコモが発表　ぷららのメールアドレスはOCNのものに変更",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2120379.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-06-28T22:00:00.000Z",
-      "summary": "株式会社NTTドコモは6月25日、個人向けインターネット接続サービス「ぷらら」で提供している「plala（ドコモ光）」「plala（Sコース）（ドコモ光）」について、「OCN インターネット」に順次サービスを統合すると発表した。",
       "starred": false,
       "category": "tech",
       "tags": [
@@ -1758,25 +1782,6 @@
         "授業実践",
         "情報Ⅰ",
         "教材"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_66cad8854a2c5700",
-      "title": "情報学概論　第10回：問題解決のプロセス",
-      "url": "https://note.com/quirky_frog4014/n/ncfde954d9ce2",
-      "source_id": "note_joho1",
-      "source_name": "note（情報科教員）",
-      "published_at": "2026-06-02T13:45:50.000Z",
-      "summary": "みなさん、こんにちは。全15回でお送りしている「情報学概論」も、いよいよ第10回を迎えました。講義もいよいよ後半戦に突入です。 前回の第9回では「情報セキュリティ」をテーマに、サイバー空間に潜む脅威と、それらから身を守るための暗号化技術やファイアウォールなどの防御策について学びました。技術の進歩は私たちの生活を豊かにしてくれますが、同時に新たなリスクも生み出します。常に「自衛」の意識を持つことが大…",
-      "starred": false,
-      "category": "security",
-      "tags": [
-        "授業実践",
-        "情報Ⅰ",
-        "教材",
-        "セキュリティ",
-        "情報モラル"
       ],
       "priority_score": 50
     }
