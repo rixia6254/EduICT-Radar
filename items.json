@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02T11:38:54.860Z",
+  "generated_at": "2026-07-02T22:00:54.290Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-07-02T11:38:43.591Z",
+      "published_at": "2026-07-02T22:00:45.229Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-07-02T11:38:43.591Z",
+      "published_at": "2026-07-02T22:00:45.229Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-07-02T11:38:43.591Z",
+      "published_at": "2026-07-02T22:00:45.229Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,59 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_152ebcd104d00e0b",
+      "title": "LINEがリリース15周年、AIエージェント「Agent i」を組み込んだ新機能を発表",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2122026.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-07-02T21:30:00.000Z",
+      "summary": "LINEヤフー株式会社は7月2日、「LINE 15th Anniversary Event -Connect the Next-」を開催した。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_2dcb96241fb8e637",
+      "title": "バッファロー、リモート管理サービス「キキNavi」が法人向けルーターのクラウドゼロタッチ自動設定に対応　「VR-U」シリーズを現場で即運用可能に",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2122024.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-07-02T21:00:00.000Z",
+      "summary": "バッファロー株式会社は7月2日、リモート管理サービス「キキNavi」において、法人向けルーター「VR-U」シリーズのアップデートの提供を開始した。内容は「キキNaviクラウドゼロタッチ」対応など。",
+      "starred": false,
+      "category": "dx",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "校務DX",
+        "GIGA"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_e2bdf235f43d1168",
+      "title": "ソフトウェアエンジニアの仕事は「ループを書くこと」になる　内側ループと外側ループ（ハーネス）入門",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/03/news016.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-07-02T20:00:00.000Z",
+      "summary": "AIコーディングにおける「ループ」には、エージェントが回す内側ループと、ハーネスが回す外側ループの2種類がある。両者の違いと外側ループがもたらす課題を、アルミン・ロナッハー氏の記事に沿って初心者向けに解説し、その「記憶」の扱いについての筆者の考えも添える。",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_afb7f50bfa74fae5",
@@ -1399,24 +1452,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_2a6f0de06121e4f7",
-      "title": "キーボード入力時の脳の動きから打った文章を割り出す技術、Metaが発表　手術不要、“埋め込み式”に迫る",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/01/news063.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-07-01T02:05:00.000Z",
-      "summary": "米Metaが、手術を伴わずに脳の活動を文章へ変換する研究「Brain2Qwerty v2」を発表した。頭部に装着する装置で脳の信号を読み取り、人がキーボードへ入力した文章をリアルタイムで解読する。脳の病気で話す力を失った人の意思疎通を支える技術として、学習用のコードも公開した。",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "教育ニュース"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_70fbea81d8b036d2",
       "title": "MousePro 15周年モデルのスリムデスクトップPCが売れてます。Core i5搭載、メモリ16GB標準で181,280円【MousePro 売れ筋ビジネスPCランキング デスクトップ編 2026/7/1版】",
       "url": "https://internet.watch.impress.co.jp/docs/ranking/mousepro/2119792.html",
@@ -1424,38 +1459,6 @@
       "source_name": "INTERNET Watch",
       "published_at": "2026-07-01T02:00:00.000Z",
       "summary": "本記事では、マウスコンピューターの法人向けブランド「MousePro」の売れ筋PCを紹介しています。なお、順位、価格、構成は随時変動しており、最新情報はリンク先にてご確認ください。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_8f7c4487377f2040",
-      "title": "Amazonのペン付き電子書籍リーダー「Kindle Scribe Notebook Design」がセール中　2024年モデル64GB版が3万9980円、カバー＋保護フィルムセットが5万1940円",
-      "url": "https://internet.watch.impress.co.jp/docs/shopping/2121348.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-07-01T01:30:00.000Z",
-      "summary": "Amazon.co.jpのタイムセールコーナーでは、同社の「Kindle Scribe Notebook Design」のセールが行われている。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_18c9659532ed7f03",
-      "title": "GeChic製モバイルモニター4モデルをAmazonプライムデーでセール対象に、テックウインド",
-      "url": "https://internet.watch.impress.co.jp/docs/shopping/2121178.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-07-01T01:00:00.000Z",
-      "summary": "テックウインド株式会社は、「Amazonプライムデー」にて、GeChic製のモバイルモニターをセール対象にする。7月7日の先行セールから実施の見込み。",
       "starred": false,
       "category": "tech",
       "tags": [
