@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-07-04T10:57:12.327Z",
-  "total": 83,
+  "generated_at": "2026-07-04T21:51:38.704Z",
+  "total": 103,
   "items": [
+    {
+      "id": "item_21f8651de3f2baea",
+      "title": "文部科学省ホームページトップはこちら",
+      "url": "https://www.mext.go.jp/",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-07-04T21:51:28.157Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
     {
       "id": "item_bd1951ae70f98dac",
       "title": "サイトマップはこちら",
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-07-04T10:57:02.262Z",
+      "published_at": "2026-07-04T21:51:28.157Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -25,25 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-07-04T10:57:02.262Z",
-      "summary": "",
-      "starred": false,
-      "category": "admin",
-      "tags": [
-        "行政",
-        "文科省",
-        "制度",
-        "教育ニュース"
-      ],
-      "priority_score": 60
-    },
-    {
-      "id": "item_21f8651de3f2baea",
-      "title": "文部科学省ホームページトップはこちら",
-      "url": "https://www.mext.go.jp/",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-07-04T10:57:02.261Z",
+      "published_at": "2026-07-04T21:51:28.157Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -68,6 +68,24 @@
       "tags": [
         "テクノロジー",
         "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_b5e6c386df3d3801",
+      "title": "TAC司法書士講座、「令和8年度 司法書士試験」当日7月5日に「解答速報」「オンライン記述式解説会」を公開",
+      "url": "https://ict-enews.net/2026/07/04tac-15/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-07-04T00:23:15.000Z",
+      "summary": "TAC、は7月5に実施される「令和8年度司法書士試験」の「解答速報」を試験当日にTACのWebサイトで公開する。また、自己採点が難しい記述式試験を即日検証する「オンライン記述式解説 […]",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "教材",
+        "ツール"
       ],
       "priority_score": 50
     },
@@ -230,6 +248,166 @@
       "tags": [
         "テクノロジー",
         "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_c66dbee6e3407596",
+      "title": "大阪工業大学大学院、国際対応オンライン入試システム「TAO（The Admissions Office）」導入",
+      "url": "https://ict-enews.net/2026/07/03tao/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-07-03T07:49:42.000Z",
+      "summary": "TAOは2日、同社が提供する国際対応オンライン入試システム「TAO（The Admissions Office）」が、大阪工業大学大学院に採用されたと発表した。 大阪工業大学大学院 […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_03c4b1240c17f486",
+      "title": "母子モ、母子手帳アプリ「母子モ」が埼玉県美里町で提供開始",
+      "url": "https://ict-enews.net/2026/07/03boshimo-9/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-07-03T07:49:26.000Z",
+      "summary": "母子モは2日、同社が運営する母子手帳アプリ「母子モ」が埼玉県児玉郡美里町で導入され、『mimuco』として提供を開始したと発表した。 美里町では、「こども・若者が心豊かに暮らせる、 […]",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_c8cf13e2a4871152",
+      "title": "東京個別指導学院、首都圏の小学生向け「夏の中学受験講座」をベネッセサイエンス教室が開催",
+      "url": "https://ict-enews.net/2026/07/03kobetsu/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-07-03T07:49:16.000Z",
+      "summary": "ベネッセグループの東京個別指導学院は2日、運営するベネッセサイエンス教室で、 小学4年生・5年生・6年生を対象に、「夏のオプション講座・中学受験講座」を開講すると発表した。 これま […]",
+      "starred": false,
+      "category": "exam",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "共通テスト",
+        "入試"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_9ea1c8d2c9399c34",
+      "title": "アシアル、無料ウェビナー「デジタル学生証で加速する大学DX」8月20日開催",
+      "url": "https://ict-enews.net/2026/07/03asial-2/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-07-03T07:49:05.000Z",
+      "summary": "大学DX推進を支援するアシアルは、「デジタル学生証で加速する大学DX ～ 単なるデジタル化を超える！MyCampusが実現するスマートキャンパス ～」をテーマとした無料ウェビナーを […]",
+      "starred": false,
+      "category": "dx",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "校務DX",
+        "GIGA"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_b45fa1502df7ae00",
+      "title": "JAPET＆CEC、情報教育対応教員研修全国セミナー「Educational Solution Seminar 2026 in 名古屋」24日開催",
+      "url": "https://ict-enews.net/2026/07/03japet%ef%bc%86cec/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-07-03T07:48:53.000Z",
+      "summary": "日本教育情報化振興会（JAPET＆CEC）は、情報教育対応教員研修全国セミナー「Educational Solution Seminar 2026 in 名古屋」を7月24日に開催 […]",
+      "starred": false,
+      "category": "lesson",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "授業実践",
+        "情報Ⅰ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_b4f379c52d0033cc",
+      "title": "ミカサ商事、教育現場での生成 AI 活用に特化した研修サービスを夏・冬2シーズン開催",
+      "url": "https://ict-enews.net/2026/07/03mikasa-2/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-07-03T07:48:43.000Z",
+      "summary": "教育機関向けに Google for Educationの導入サポートを手がけるミカサ商事は2日、Google のサービス「Gemini」、「NotebookLM」の利活用を支援す […]",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "生成AI",
+        "AI活用"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_6d130cb85c8c48c3",
+      "title": "河合塾、AIやデータサイエンスを活用した教育プログラムを開発・提供するzero to oneがグループイン",
+      "url": "https://ict-enews.net/2026/07/03kawaijuku-15/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-07-03T07:48:32.000Z",
+      "summary": "河合塾グループのKEIアドバンスは2日、AIやデータサイエンスを活用した教育プログラムを開発・提供するzero to oneと6月30日に資本業務提携を行い、zero to one […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_0c90a36ba1c7a1e2",
+      "title": "みんがく、「スクールAI」で学校内の生成AI活用を可視化する「利用状況ダッシュボード」リリース",
+      "url": "https://ict-enews.net/2026/07/03mingaku-2/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-07-03T07:48:22.000Z",
+      "summary": "みんがくは2日、教育向け生成AIプラットフォーム「スクールAI」において、学校内の利用状況を可視化できる新機能「利用状況ダッシュボード」の提供を開始した。 本機能では、学校全体や教 […]",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "生成AI",
+        "AI活用",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_ee51b2d38c9d584a",
+      "title": "ケシオン、全国約6000校以上の小中学校へダイレクトに届くポータルサイト「企業教材ライブラリー」公開",
+      "url": "https://ict-enews.net/2026/07/03kesion/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-07-03T07:48:12.000Z",
+      "summary": "ケシオンは2日、企業が教育機関や子どもたち向けに制作した教材を集約し、全国の教員が容易に検索・活用できるWEBプラットフォーム「企業教材ライブラリー」を正式公開した。 自社の知見や […]",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "教材",
+        "ツール"
       ],
       "priority_score": 50
     },
@@ -536,6 +714,170 @@
       "tags": [
         "テクノロジー",
         "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_ddfab5622ef95498",
+      "title": "「ワンキャリア 就活人気企業ランキング【業界別編】（28卒春期速報）」を発表",
+      "url": "https://ict-enews.net/2026/07/03onecareer/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-07-03T00:47:53.000Z",
+      "summary": "就活支援サービス「ワンキャリア」を展開するワンキャリアは1日、「ワンキャリア 就活人気企業ランキング【業界別編】（28卒春期速報）」を発表した。 本ランキングは、就活支援サービス「 […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_4b0e7ce3b74b9878",
+      "title": "産経新聞社×ワークス・ジャパン、「28卒学生が選ぶ就職人気企業ランキング」早期発表",
+      "url": "https://ict-enews.net/2026/07/03worksjapan-2/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-07-03T00:47:30.000Z",
+      "summary": "ワークス・ジャパンは1日、産業経済新聞社と実施した「28卒学生が選ぶ就職人気企業ランキング」の早期の人気企業ランキングを発表した。 2028年3月卒業・修了予定の大学生、大学院生を […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_6e296712a6bddb5a",
+      "title": "埼玉県、受講料無料 オンラインで初歩から学べる 働く人のための「DX推進講座」受講者募集",
+      "url": "https://ict-enews.net/2026/07/03saitama/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-07-03T00:46:53.000Z",
+      "summary": "埼玉県は1日、DXにより業務の効率化などを進めたい中小企業向けに、従業員の方のデジタルスキルを磨く「DX推進講座」をオンライン無料で開講すると発表した。 DX推進講座の主な特徴 ・ […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_f9e4694046a4c459",
+      "title": "富士ソフト、名古屋市が教育メタバース「FAMcampus」活用した不登校児童生徒支援事業を開始",
+      "url": "https://ict-enews.net/2026/07/03fsi-3/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-07-03T00:46:39.000Z",
+      "summary": "富⼠ソフトは1日、同社の教育メタバース「FAMcampus」を活用した不登校支援パッケージによる、名古屋市の不登校児童生徒支援事業が、2026年9月から本格運用を開始すると発表した […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_2585c5a442656957",
+      "title": "ウェブ解析士協会、高校生に無償でデジタル・AI資格講座を提供",
+      "url": "https://ict-enews.net/2026/07/03waca/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-07-03T00:46:20.000Z",
+      "summary": "ウェブ解析士協会（WACA）は1日、同協会が認定する資格「SNSマネージャー」「ウェブ広告マネージャー」「ウェブ解析士」の講座および受験機会を無償で高校生・専門学校生らに提供するこ […]",
+      "starred": false,
+      "category": "exam",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "共通テスト",
+        "入試"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_412038ca634265dd",
+      "title": "おおぞら高校、中四国エリア6キャンパスで警察・行政と連携したSNSなど安全教育を実施",
+      "url": "https://ict-enews.net/2026/07/03ohzora/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-07-03T00:46:07.000Z",
+      "summary": "おおぞら高校とおおぞら高等学院は1日、夏休みを前に、中四国エリア6キャンパス（広島・松山・福山・岡山・倉敷・高松）で、警察署や行政機関と連携した安全教育講話を実施することを発表した […]",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "行政",
+        "文科省"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_4d35441960563ea8",
+      "title": "東北学院大学とNTT東日本、「未来探究科学部 デジタル構想学科」で教育モデルの構築",
+      "url": "https://ict-enews.net/2026/07/03ntt-east-4/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-07-03T00:45:46.000Z",
+      "summary": "東北学院大学とNTT東日本 宮城事業部は1日、2027年度に同大学で設置する「未来探究科学部 デジタル構想学科」における教育高度化を目的として、課題先行・反転型学修を軸とした新たな […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_a13549adbbe78769",
+      "title": "東京大学、社会人を対象とした履修証明プログラム「教育イノベーター養成プログラム」開設",
+      "url": "https://ict-enews.net/2026/07/03u-tokyo/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-07-03T00:45:32.000Z",
+      "summary": "東京大学 大学総合教育研究センターは1日、教育の現場に変革をもたらす人材「教育イノベーター」の養成を目的とした履修証明プログラム「教育イノベーター養成プログラム」を2026年10月 […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_5b7e1c4f10b67b59",
+      "title": "角川ドワンゴ学園、N高グループのオンライン教育を全日制高校へ試験導入",
+      "url": "https://ict-enews.net/2026/07/03nnn-7/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-07-03T00:45:21.000Z",
+      "summary": "角川ドワンゴ学園は1日、角川ドワンゴ学園N高等学校・S高等学校・R高等学校（N高グループ）と嶋田学園飯塚高等学校が、ドワンゴが開発・運営するN高グループ生のためのオリジナル学習シス […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_8863078aa2807ad6",
+      "title": "「第4回 NASEF JAPAN全日本高校eスポーツ選手権」開催決定・エントリー受付開始",
+      "url": "https://ict-enews.net/2026/07/03nasef-4/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-07-03T00:45:04.000Z",
+      "summary": "NASEF JAPAN／ナセフ ジャパン（国際教育eスポーツ連盟ネットワーク日本本部）は1日、高校生のためのeスポーツ大会『第4回 NASEF JAPAN 全日本高校eスポーツ選手 […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
       ],
       "priority_score": 50
     },
