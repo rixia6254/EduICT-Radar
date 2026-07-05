@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T21:51:38.704Z",
+  "generated_at": "2026-07-05T06:43:10.282Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-07-04T21:51:28.157Z",
+      "published_at": "2026-07-05T06:42:59.596Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-07-04T21:51:28.157Z",
+      "published_at": "2026-07-05T06:42:59.596Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-07-04T21:51:28.157Z",
+      "published_at": "2026-07-05T06:42:59.596Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,39 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_4ab9bbf90ad86e38",
+      "title": "マイクロン、AI需要で広島工場増強へ起工式　1.5兆円投資",
+      "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/06/news047.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-07-05T02:00:00.000Z",
+      "summary": "マイクロンメモリ ジャパンは2026年7月、広島工場の生産能力増強に向けた新クリーンルーム建設の起工式を開催した。AI技術の進展に伴うメモリ需要の増加に対応するもので、2028年後半に製造装置の搬入を開始する予定だ。広島工場には今後、この新クリーンルーム建設を含めて1兆5000億円を投じる。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_dfb1ab16374af1cd",
+      "title": "【いつモノコト】メガネ(老眼鏡)とサングラス(度入り)を買った",
+      "url": "https://www.watch.impress.co.jp/docs/series/itsmo/2120575.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-07-05T00:00:00.000Z",
+      "summary": "ずっと気分は若手のつもりでいるけれど、あと1年で生誕から半世紀。寄る年波には勝てず、メガネの度がだんだん合わなくなってきました。数年ごとにレンズを変えるか、フレームごと作り直していますが、いよいよ本格的にPC画面が見にくくなってきたのでデスクワーク用のメガネと、ついでにランニング用のサングラスを購入しました。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_8e6ec63f12eb5bdb",
@@ -1160,22 +1193,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_0c8555854383bc6e",
-      "title": "LINE、トークルームで話してカレンダー登録　「行動」する新エージェント",
-      "url": "https://www.watch.impress.co.jp/docs/news/2121879.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-07-02T08:48:58.000Z",
-      "summary": "LINEヤフーは、LINEのトークルームでAIエージェント「Agent i」を呼び出して、質問の回答やタスク管理を支援する新機能「Agent i in Chat」を発表した。26年内の提供開始を予定している。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_aeda826787086c56",
       "title": "人型ロボットが工場で稼働する様子を6日間生配信、作業成功率99.99％をうたう　中国メーカー",
       "url": "https://www.itmedia.co.jp/aiplus/article/2607/02/2000000153/",
@@ -1383,24 +1400,6 @@
       "tags": [
         "インターネット",
         "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_508986df6247999f",
-      "title": "AIアシスタントで設計検証を迅速化、3D CAD「Creo」最新版を提供開始",
-      "url": "https://monoist.itmedia.co.jp/mn/articles/2607/02/news006.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-07-02T00:00:00.000Z",
-      "summary": "PTCは、オンプレミス版の3D CADソリューション「Creo 13」と、SaaS版の「Creo+ 13.3」の提供開始を発表した。新たにAIアシスタント機能を導入した他、設計、シミュレーション、製造の各領域で機能を強化している。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
       ],
       "priority_score": 50
     },
