@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T12:54:06.890Z",
+  "generated_at": "2026-07-06T22:08:49.403Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-07-06T12:53:57.632Z",
+      "published_at": "2026-07-06T22:08:37.039Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-07-06T12:53:57.632Z",
+      "published_at": "2026-07-06T22:08:37.039Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-07-06T12:53:57.632Z",
+      "published_at": "2026-07-06T22:08:37.039Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,122 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_875917a1f442f382",
+      "title": "エレコム、24種類のビットが付属した充電式のドライバーセット発売の記事に注目が集まる【アクセスランキング】",
+      "url": "https://internet.watch.impress.co.jp/docs/news/ranking/2122511.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-07-06T21:55:00.000Z",
+      "summary": "前週に閲覧数の多かった記事を、カテゴリーごとに上位5位までレポートします。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_341625eccfb1d78b",
+      "title": "アイオーデータ、法人向けNAS「LAN DISK」の価格や保証内容を一部ラインアップで変更",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2122805.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-07-06T21:30:00.000Z",
+      "summary": "株式会社アイオーデータは7月1日、法人向けNAS「LAN DISK」の一部ラインアップにおいて、価格や保証内容を変更するリニューアルを実施すると発表した。発表されたラインアップの出荷予定と価格は以下の通りで、これらのラインアップの標準保証は、すべて3年となる。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_d573c6da9ff41c08",
+      "title": "Scale-up Network（1）NVIDIAが大型化するGPUのため採用した「Scale-up Network」とは何か？【ネット新技術】",
+      "url": "https://internet.watch.impress.co.jp/docs/column/nettech/2115397.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-07-06T21:00:00.000Z",
+      "summary": "今月から何回かに分けて、新しいトレンドとして定着しつつあるScale-up Networkについて説明したいと思う。この連載の中では、2025年10月公開「Silicon Opticsの現状（7）」でNVLinkの現状を紹介したことで、間接的に説明した格好になる。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_47e87be9a4ace861",
+      "title": "AIコーディングの「ループ」4種類を完全入門　Anthropic公式が分かりやすく整理して解説",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/07/news014.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-07-06T20:00:00.000Z",
+      "summary": "Anthropicが、Claude Codeにおける「ループ」を4種類に整理して解説した。AIコーディングで何をAIに任せ、どこで止めるべきかを、初心者にも分かるようにかみ砕き、筆者なりの視点も添えて紹介する。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_d17e65c6c2f31315",
+      "title": "「250万超AIエージェント作成」の裏で同時多発する課題を回し切ったIT部門の運用術",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/03/news007.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-07-06T20:00:00.000Z",
+      "summary": "ソフトバンクは、生成AIサービスを数万人規模で全社展開しましたが、その裏側では従来のSaaS導入とは異なる課題が同時多発的に発生しました。それを支えたのは、切り分け・情報整理・関係者調整・粘り強い説明といったIT部門の基礎力と現場の経験です。この事例は、生成AI時代の企業ITが「整ったものを入れる」から「未整備なものを運用で成立させる」仕事に変化していることを示しています。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_4a265d860656194a",
+      "title": "最新「Fire TV Stick HD」が45%OFF　プライムデーはAmazonデバイスが安い",
+      "url": "https://www.watch.impress.co.jp/docs/news/2122388.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-07-06T15:10:00.000Z",
+      "summary": "Amazonプライム会員を対象にした「Amazonプライムデー」が7月10日～13日にかけて開催されます。7日から実施する先行セールと合わせて7日間の大規模セールです。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_50a6d11f50ec4e21",
+      "title": "日常も海外出張も完璧にこなす!　AIボイスレコーダー「Notta Memo」がType-Cで進化[Sponsored]",
+      "url": "https://www.watch.impress.co.jp/docs/topic/special/2116124.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-07-06T15:00:00.000Z",
+      "summary": "会話の録音から文字起こし、要約などの成果物の出力まで、1台の専用デバイスを通じて全部こなせるAIボイスレコーダー「Notta Memo」に、USB Type-Cケーブルで接続できる「Notta Memo Type-C」が新たに登場しました。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_0915502fc8337abd",
@@ -940,22 +1056,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_ad275b46b1cb0bb0",
-      "title": "カシオ、“液晶アナログ”搭載「A130」に2つのカラバリ",
-      "url": "https://www.watch.impress.co.jp/docs/news/2121951.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-07-05T23:00:00.000Z",
-      "summary": "カシオ計算機は、CASIO CLASSICの新作として、液晶でアナログ時計を再現する「LCアナログ」を備えた「A130」シリーズのカラーバリエーション2機種を7月に発売する。価格は8,800円。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_8ab9572f494959b4",
       "title": "スマホを充電しながらバックアップできるmicroSDカードリーダー、サンワサプライが発売　超小型microSDカードリーダーの新色も",
       "url": "https://internet.watch.impress.co.jp/docs/news/2122299.html",
@@ -1088,22 +1188,6 @@
         "生成AI",
         "AI",
         "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_dfb1ab16374af1cd",
-      "title": "【いつモノコト】メガネ(老眼鏡)とサングラス(度入り)を買った",
-      "url": "https://www.watch.impress.co.jp/docs/series/itsmo/2120575.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-07-05T00:00:00.000Z",
-      "summary": "ずっと気分は若手のつもりでいるけれど、あと1年で生誕から半世紀。寄る年波には勝てず、メガネの度がだんだん合わなくなってきました。数年ごとにレンズを変えるか、フレームごと作り直していますが、いよいよ本格的にPC画面が見にくくなってきたのでデスクワーク用のメガネと、ついでにランニング用のサングラスを購入しました。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
       ],
       "priority_score": 50
     },
@@ -1295,24 +1379,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_a30e314a0eeaa1c0",
-      "title": "Meta、「Claude Codeと組織改編で爆速開発」のはずが「想定より加速せず」　ザッカーバーグ氏、社内集会で発言",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2607/03/2000000155/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-07-03T02:01:17.000Z",
-      "summary": "MetaはAI向けの巨額投資や組織改編でAIエージェント開発の加速を図ったが、ザッカーバーグCEOによれば、それらの取り組みはまだ実を結んでいないようだ。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_35a6e46dfbdee3a3",
       "title": "LenovoのAndroidタブレットがAmazonでセール中　最安2万1300円、12.1インチの大型液晶搭載「Idea Tab Plus」は3万7400円",
       "url": "https://internet.watch.impress.co.jp/docs/shopping/2122075.html",
@@ -1327,23 +1393,6 @@
         "セキュリティ",
         "校務DX",
         "GIGA"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_7a5e546811b4a0b5",
-      "title": "「顧客管理システム作って」日本語で指示するだけでシステムが完成する最新AIとは？",
-      "url": "https://kn.itmedia.co.jp/kn/articles/2607/03/news034.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-07-03T01:00:00.000Z",
-      "summary": "業務システムを開発したくても、費用や人材の確保がネックとなり、なかなか着手できない会社は少なくない。こうした課題に対し、専門知識がなくても開発を進められる手段が広がりつつある。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
       ],
       "priority_score": 50
     },
@@ -1365,54 +1414,6 @@
         "入試"
       ],
       "priority_score": 80
-    },
-    {
-      "id": "item_1a9560dd0859e501",
-      "title": "無印良品、「暮らしに寄り添うオーディオデバイス」ヘッドホンやスピーカー5製品を発売",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2122034.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-07-02T23:00:00.000Z",
-      "summary": "株式会社良品計画は7月15日に、ヘッドホンやコンパクトスピーカーなどのオーディオデバイス5機種を全国の無印良品の店舗およびネットストアで発売する。「暮らしに、いい音。」をコンセプトに、手に届きやすい価格も特徴とする。重低音の強調など過度な演出はせず、自然な音になるように仕上げたという。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_5a4d0ae02a6bce56",
-      "title": "エレコム、USB Type-Aを7ポートまとめて増設できるUSBハブ発売",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2121656.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-07-02T22:30:00.000Z",
-      "summary": "エレコム株式会社は、7つのUSB Type-Aポートを搭載したUSBハブ「U3HC-T070SBK」を6月下旬より発売した。市場想定価格は6480円。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_4ec5951234d692f6",
-      "title": "モニター裏に棚を増設できる、荷重5kgのVESA取り付け式耐収納トレイ、サンワサプライが発売",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2122012.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-07-02T22:00:00.000Z",
-      "summary": "サンワサプライ株式会社は7月2日、VESAマウント用のネジ穴に固定してモニター裏へ棚を増設でき、周辺機器を収納できるトレイ「MR-VESA17」を発売した。市場想定価格は4290円。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
     },
     {
       "id": "item_45bbb5f2ea6d05e3",
