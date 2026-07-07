@@ -1,32 +1,14 @@
 {
-  "generated_at": "2026-07-07T11:57:36.261Z",
+  "generated_at": "2026-07-07T22:06:24.642Z",
   "total": 103,
   "items": [
-    {
-      "id": "item_21f8651de3f2baea",
-      "title": "文部科学省ホームページトップはこちら",
-      "url": "https://www.mext.go.jp/",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-07-07T11:57:25.966Z",
-      "summary": "",
-      "starred": false,
-      "category": "admin",
-      "tags": [
-        "行政",
-        "文科省",
-        "制度",
-        "教育ニュース"
-      ],
-      "priority_score": 60
-    },
     {
       "id": "item_bd1951ae70f98dac",
       "title": "サイトマップはこちら",
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-07-07T11:57:25.966Z",
+      "published_at": "2026-07-07T22:06:14.529Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +25,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-07-07T11:57:25.966Z",
+      "published_at": "2026-07-07T22:06:14.529Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +36,113 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_21f8651de3f2baea",
+      "title": "文部科学省ホームページトップはこちら",
+      "url": "https://www.mext.go.jp/",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-07-07T22:06:14.528Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_a7ae965c09331168",
+      "title": "近年ダウンロードが増加している無償の「国土数値情報」って何？ AIの精度アップに活用できる？【地図と位置情報】",
+      "url": "https://internet.watch.impress.co.jp/docs/column/chizu3/2123012.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-07-07T21:55:00.000Z",
+      "summary": "株式会社MIERUNEが6月4日、位置情報技術をテーマとしたプライベートカンファレンス「MIERUNE MEETUP 2026」を札幌で開催した。その中から、国土交通省の担当者による「国土数値情報のこれまでとこれから」と題した基調講演と、MIERUNEが新たに発表した買い切り型の地図データ「MIERUNE地図タイル」について紹介する。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_89d44d666f7b3b09",
+      "title": "「JC-STAR」とは：安全なIoT製品を選びやすくするため、セキュリティ機能を評価・可視化する制度【今週のキーワード】",
+      "url": "https://internet.watch.impress.co.jp/docs/column/keyword/2120149.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-07-07T21:30:00.000Z",
+      "summary": "JC-STAR（Labeling Scheme based on Japan Cyber-Security Technical Assessment Requirements：セキュリティ要件適合評価及びラベリング制度）は、経済産業省および独立行政法人情報処理推進機構（IPA）が運用する、インターネットとの通信が行える幅広いIoT製品を対象として、共通の基準でセキュリティ機能を評価・可視化する制度…",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "情報モラル",
+        "行政",
+        "文科省"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_5829cc46aa14fb38",
+      "title": "10Gbps×5/8ポート、ファンレスでコンパクト設計のスイッチングハブ2製品、エレコムが発売",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2123077.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-07-07T21:00:00.000Z",
+      "summary": "エレコム株式会社は、全ポートが10Gbpsに対応したファンレスで省スペース設計のスイッチングハブ2製品を、7月上旬に発売する。ラインアップと市場想定価格は、5ポートの「EHC-X05MA-HB」が4万800円、8ポートの「EHC-X08MA-HB」が5万800円。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_5e6334b3cd9a5005",
+      "title": "ソフトバンクの「1人100エージェント」を支える独自AIゲートウェイ「Cloud Proxy」の正体",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/07/news009.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-07-07T20:00:00.000Z",
+      "summary": "生成AIやAIエージェントを全社展開する際、企業はセキュリティやガバナンス、性能といった課題に直面しがちです。ソフトバンクは「全社で1人100エージェント」構想の実現に向けて、AI利用の入り口となる共通基盤「Cloud Proxy」を内製しました。その設計思想や性能強化の取り組み、自動化による迅速なスケールアウト、マルチLLM対応など、Cloud Proxyを支える設計思想と運用の工夫を紹介します…",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_5baa328aac76d882",
+      "title": "「Claude Fable 5」のサブスク提供、延長　12日（太平洋標準時）まで　日本時間では13日午後",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2607/08/2000000167/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-07-07T18:16:14.000Z",
+      "summary": "米Anthropicは7月7日（現地時間）、AIモデル「Claude Fable 5」を有料サブスクリプションから利用できる期間を、7月12日午後11時59分（太平洋標準時）まで延長すると発表した。日本時間では13日午後3時59分までとなる。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_939afc4a45807b31",
@@ -1251,23 +1340,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_57ad46f8b2e51f5c",
-      "title": "KDDI、ISP向けメールシステムへの不正アクセスで続報。1223万件のメールアドレス、762万件のパスワードが漏えい　ビッグローブ、ニフティ、JCOM、ctc、STNet、KDDIウェブコミュニケーションズも続報発表",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2122740.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-07-06T07:28:21.000Z",
-      "summary": "KDDI株式会社は7月6日、ISP事業者向けメールシステムに対する不正アクセスに関する続報を発表した。",
-      "starred": false,
-      "category": "security",
-      "tags": [
-        "インターネット",
-        "セキュリティ",
-        "情報モラル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_63f8134c8d009b08",
       "title": "目が不自由な人の歩行をAIが音声で支援、歩行補助デバイス開発へ",
       "url": "https://monoist.itmedia.co.jp/mn/articles/2607/06/news086.html",
@@ -1319,38 +1391,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_de57845330ac9b32",
-      "title": "冷房の効率化アップ！　アイリスオーヤマのサーキュレーターがAmazonでセール中　20畳対応のDCモーター搭載モデル「AZSF-DC15TEC-W」は8990円",
-      "url": "https://internet.watch.impress.co.jp/docs/shopping/2122498.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-07-06T02:30:00.000Z",
-      "summary": "Amazon.co.jpのアイリスオーヤマストアページでは現在、エアコンの冷却効率を高めるサーキュレーターのタイムセールを実施中だ。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_6e6703caf6c4882b",
-      "title": "撮るには撮ったけど……。スマホで撮影した写真の70％、その後二度と見られないとの調査結果【やじうまWatch】",
-      "url": "https://internet.watch.impress.co.jp/docs/yajiuma/2122538.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-07-06T02:24:06.000Z",
-      "summary": "スマートフォンで撮影した写真の70％はその後二度と見られないことが、海外での調査で判明して話題になっている。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_9df7aaee0f1bef24",
       "title": "FDEとリコーの新コンサルサービス、どこが違う？　AXのパートナー選びを考察",
       "url": "https://www.itmedia.co.jp/enterprise/articles/2607/06/news054.html",
@@ -1358,40 +1398,6 @@
       "source_name": "ITmedia AI+",
       "published_at": "2026-07-06T01:45:00.000Z",
       "summary": "企業はAXに向けてどのようなベンダーをパートナーに選べばよいのか。リコーの新たなAIコンサル会社と最近よく聞く「FDE」との共通点と相違点を明らかにしつつ、考察する。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_720c98b0610769c1",
-      "title": "AIサーバで稼ぐシャープ　2030年度の新規事業売上高の8割強目指す　鴻海と連携",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/06/news060.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-07-06T01:35:00.000Z",
-      "summary": "シャープの河村哲治社長は7月3日、大阪市内で報道陣の取材に応じ、目標とする2030年度の新規事業の年間売上高2000億～3000億円のうち、8割強はAI向けサーバ関連を想定していると明らかにした。親会社の鴻海（ホンハイ）精密工業の調達・製造力を活用し、シャープが国内販売や保守を担う方向で調整を進める。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_66332b4639b5d220",
-      "title": "キオクシア、新型メモリのサンプル出荷開始　岩手の工場の最先端設備活用",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/06/news059.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-07-06T01:22:00.000Z",
-      "summary": "半導体大手キオクシアホールディングスが、大容量で低消費電力の新型メモリのサンプル品の出荷を開始したと発表した。北上工場（岩手県北上市）第2製造棟の最先端設備を活用して生産する。",
       "starred": false,
       "category": "ai",
       "tags": [
