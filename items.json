@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T11:09:36.315Z",
+  "generated_at": "2026-07-08T22:00:13.849Z",
   "total": 83,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-07-08T11:09:26.284Z",
+      "published_at": "2026-07-08T22:00:03.935Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-07-08T11:09:26.284Z",
+      "published_at": "2026-07-08T22:00:03.935Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-07-08T11:09:26.284Z",
+      "published_at": "2026-07-08T22:00:03.935Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,109 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_10e84ea96297f409",
+      "title": "OpenAI、リアルタイム音声モデル「GPT-Live」公開　相づちも割り込みも、より人間らしい会話に",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2607/09/2000000174/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-07-08T21:53:09.000Z",
+      "summary": "OpenAIは、新世代のリアルタイム音声モデル「GPT-Live」を発表した。会話の最中に相手の話を聞きながら同時に話せる全二重方式を採用し、ChatGPTの音声機能を刷新する。深い推論や検索が必要な場合はバックグラウンドで「GPT-5.5」に処理を委ねる仕組みを備え、有料・無料の各プランに順次展開する。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_b5c6d1fda31753f3",
+      "title": "QNAPの「QTS」「QuTS hero」搭載NASが、セキュリティ評価制度「JC-STAR」★1適合ラベルを取得",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2123470.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-07-08T21:30:00.000Z",
+      "summary": "QNAP株式会社は7月8日、「QTS」シリーズと「QuTS hero」シリーズのNASが、IoT製品のセキュリティレベルを評価・可視化する「JC-STAR」の「★1」適合ラベルを取得したと発表した。",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_b667118c99ac629e",
+      "title": "フィジカルAI搭載ロボットがモノポリーを実演、1台のPCにモーション制御も統合",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2607/09/news066.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-07-08T21:15:00.000Z",
+      "summary": "モベンシスは、「第38回 ものづくりワールド［東京］」の構成展である「第1回 フィジカルAI展［東京］」において、PCでリアルタイム制御を実現するソフトモーションコントローラー「WMX3」のROS 2向けパッケージ「WMX for ROS 2」を紹介した。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_d6b16a2cd13ca342",
+      "title": "SDV時代支えるHEREの位置情報プラットフォーム、新たな柱は「二輪」へ",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2607/09/news051.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-07-08T21:00:00.000Z",
+      "summary": "SDVによる変革が進むモビリティ社会において、「位置情報」は人々の移動にどのような価値をもたらすのか。デジタル地図からグローバルなロケーションのプラットフォーマーへと進化を遂げたHERE Technologiesの日本法人トップを務める枝隆志氏に話を聞いた。",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_a4e41adf64f9e0aa",
+      "title": "LivePhotosもそのまま転送！ iPhoneの写真をMacとケーブル接続してバックアップする【自宅Wi-Fiの“わからない”をスッキリ！】",
+      "url": "https://internet.watch.impress.co.jp/docs/column/homewifi/2122629.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-07-08T21:00:00.000Z",
+      "summary": "第275回～第279回では、スマートフォンのデータをまるごとPCへバックアップする手法を実践した。続けて、第280回からは、スマートフォンの写真と動画を、ファイルとしてPCにコピーする方法を実践している。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_4f814b9eaf36ae0d",
+      "title": "アップルやシャオミ、Fitbit　プライムデーはスマートウォッチも安い",
+      "url": "https://www.watch.impress.co.jp/docs/news/2123574.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-07-08T11:30:00.000Z",
+      "summary": "7月10日から13日まで実施されるアマゾン最大規模のセール「Amazonプライムデー」。7日からは先行セールも開始され、多くの商品がセールになっています。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_538f6e4bca84845d",
@@ -564,26 +667,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_ac0e80206b9a088e",
-      "title": "Claude Cowork、モバイルとWebでも利用可能に　PC閉じても作業継続",
-      "url": "https://www.watch.impress.co.jp/docs/news/2123313.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-07-08T01:47:09.000Z",
-      "summary": "Anthropicは7日、AIサービス「Claude」にタスクを委ねて仕事を完了できる「Claude Cowork」をモバイルとWebに展開すると発表した。あわせて、Claudeアプリでは、チャットとCoworkを統合した。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "生成AI",
-        "AI活用",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_c28b792f191e28c7",
       "title": "AKRacingのゲーミング＆オフィスチェアがセール中！　Amazonプライムデー　ゲーミングチェア「Pro-X V2」は4万9130円に。オフィス向けも安い",
       "url": "https://internet.watch.impress.co.jp/docs/shopping/2123285.html",
@@ -947,59 +1030,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_d4f61b19a81c12b3",
-      "title": "三菱UFJ半沢淳一社長「企業の資金ニーズに対応」　個人向け「エムット」でAI活用も",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/07/news149.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-07-07T08:58:00.000Z",
-      "summary": "三菱UFJフィナンシャル・グループ（MUFG）の半沢淳一社長が産経新聞のインタビューに応じ、日銀の利上げで「金利のある世界」が本格化する中、企業の資金需要を取り込むため、事業戦略の提案力を高める考えを示した。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_6856c11f3296676b",
-      "title": "「AIが引用するドメイン」不動の首位は……",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/07/news148.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-07-07T08:32:00.000Z",
-      "summary": "2位には前回5位のnote.comが浮上した。前回2位のWikipedia（ja.wikipedia.org）は3位に後退した。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_4b269a95b126e67d",
-      "title": "【Fable 5に聞いてみた】サブスク終了後の効果的な使い方は？　トークン節約法は？　本人インタビュー",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2607/07/2000000166/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-07-07T08:05:24.000Z",
-      "summary": "注目を集めている米AnthropicのAIモデル「Claude Fable 5」の性能はどれほどなのか。ITmedia AI＋編集部で試した結果を紹介する。今回は「従量課金制移行後にFable 5を効果的に使う方法」について聞いてみた。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_d93df9e9c00d811b",
       "title": "バッファロー製ワイヤレスマウスがAmazonプライムデーでセールに　Bluetooth/2.4GHz無線対応の5ボタンモデル「BSMBB705」は3120円",
       "url": "https://internet.watch.impress.co.jp/docs/shopping/2122957.html",
@@ -1058,38 +1088,6 @@
       "source_name": "INTERNET Watch",
       "published_at": "2026-07-07T02:50:00.000Z",
       "summary": "Amazon.co.jpでは、7月10日からAmazonプライム会員向けのビッグセール「Amazonプライムデー」を開催する。それに先駆けて7日より先行セールを実施している。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_3a7c122281be8a78",
-      "title": "Androidデバイスのバックアップ、これまで容量のカウントから除外されていたデータも含む形に変更へ【やじうまWatch】",
-      "url": "https://internet.watch.impress.co.jp/docs/yajiuma/2122900.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-07-07T02:40:49.000Z",
-      "summary": "Androidデバイスのバックアップにおいて、Googleアカウントの保存容量のカウントルールが変更になることを、海外メディアが伝えている。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_55ea671667610e0f",
-      "title": "iPhone Airの後継モデル、いずれiPhoneのベースモデルを置き換える？ 著名リーカー予想【やじうまWatch】",
-      "url": "https://internet.watch.impress.co.jp/docs/yajiuma/2122899.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-07-07T02:39:18.000Z",
-      "summary": "iPhone Airの後継モデルが将来的にiPhoneのベースモデルに一本化され、名前も「iPhone」を名乗るようになるとの予想を、著名リーカーが投稿している。",
       "starred": false,
       "category": "tech",
       "tags": [
