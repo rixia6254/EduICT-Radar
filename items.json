@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T12:00:43.349Z",
+  "generated_at": "2026-07-10T21:54:15.868Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-07-10T12:00:34.616Z",
+      "published_at": "2026-07-10T21:54:07.392Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-07-10T12:00:34.616Z",
+      "published_at": "2026-07-10T21:54:07.392Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-07-10T12:00:34.616Z",
+      "published_at": "2026-07-10T21:54:07.392Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,25 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_e192045e2fc5cefb",
+      "title": "テスラ車内で「Grok」と会話、日本でも展開へ　ナビ設定やルート確認を音声で",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/10/news157.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-07-10T12:15:00.000Z",
+      "summary": "対話型AI「Grok」を日本のテスラ車で利用できるようになった。Tesla Japanが7月10日、X公式アカウントで発表した。利用には、ソフトウェアバージョン2026.20以降、「プレミアムコネクティビティ」（有料の車内通信プラン）の契約が必要になる。",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_843af8ec87da9740",
@@ -607,7 +626,7 @@
     },
     {
       "id": "item_b994c11bf847e8fd",
-      "title": "「ChatGPT Work」登場　Codexから仕事のためのAIエージェント環境に進化",
+      "title": "「ChatGPTワーク」登場　Codexから仕事のためのAIエージェント環境に進化",
       "url": "https://www.watch.impress.co.jp/docs/news/2124031.html",
       "source_id": "impress_watch",
       "source_name": "Impress Watch",
@@ -1419,24 +1438,6 @@
       "tags": [
         "インターネット",
         "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_543040adb238c395",
-      "title": "NEC、Claudeを活用した「全自動」マーケティングサービス開始　3年で売上100億円目指す",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2607/09/2000000175/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-07-09T06:11:35.000Z",
-      "summary": "NECは、消費者の購買データから商品企画や販促プラン作成の「完全自動化」をうたうサービスの提供を開始した。AnthropicのAI「Claude」などを活用した。3年間で累計100億円の売り上げを目指す。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
       ],
       "priority_score": 50
     },
