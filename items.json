@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-07-11T10:19:48.611Z",
+  "generated_at": "2026-07-11T21:41:25.831Z",
   "total": 103,
   "items": [
+    {
+      "id": "item_21f8651de3f2baea",
+      "title": "文部科学省ホームページトップはこちら",
+      "url": "https://www.mext.go.jp/",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-07-11T21:41:17.250Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
     {
       "id": "item_bd1951ae70f98dac",
       "title": "サイトマップはこちら",
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-07-11T10:19:38.481Z",
+      "published_at": "2026-07-11T21:41:17.250Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -25,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-07-11T10:19:38.481Z",
+      "published_at": "2026-07-11T21:41:17.250Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -38,22 +56,20 @@
       "priority_score": 60
     },
     {
-      "id": "item_21f8651de3f2baea",
-      "title": "文部科学省ホームページトップはこちら",
-      "url": "https://www.mext.go.jp/",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-07-11T10:19:38.480Z",
-      "summary": "",
+      "id": "item_a75fa0a51438b5b4",
+      "title": "Meta、インスタの投稿写真をAI合成できる機能を停止",
+      "url": "https://www.watch.impress.co.jp/docs/news/2124457.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-07-11T11:09:14.000Z",
+      "summary": "Metaは10日、Instagramのアカウントにメンションして、ユーザー投稿に関連した画像を生成できる機能を停止した。7日に提供開始したばかりの機能だが、ユーザーの明確な同意を取らずに機能をONにしたことで批判を浴びていた。",
       "starred": false,
-      "category": "admin",
+      "category": "tech",
       "tags": [
-        "行政",
-        "文科省",
-        "制度",
-        "教育ニュース"
+        "テクノロジー",
+        "デジタル"
       ],
-      "priority_score": 60
+      "priority_score": 50
     },
     {
       "id": "item_fbf79df142aaef3d",
@@ -544,22 +560,6 @@
         "AI",
         "LLM",
         "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_ef26945bfff44db7",
-      "title": "トライアル×西友 合体スーパー、千葉県進出　浦安にオープン",
-      "url": "https://www.watch.impress.co.jp/docs/news/2124099.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-07-10T03:08:45.000Z",
-      "summary": "トライアルホールディングス傘下のSTリテールは、トライアルと西友の強みを融合した新フォーマットの第4号店「トライアル西友 浦安店」を、7月10日にオープンする。千葉県初展開となる。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
       ],
       "priority_score": 50
     },
