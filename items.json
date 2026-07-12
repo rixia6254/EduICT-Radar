@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T10:38:31.308Z",
+  "generated_at": "2026-07-12T21:41:23.270Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-07-12T10:38:20.557Z",
+      "published_at": "2026-07-12T21:41:12.712Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-07-12T10:38:20.557Z",
+      "published_at": "2026-07-12T21:41:12.712Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-07-12T10:38:20.557Z",
+      "published_at": "2026-07-12T21:41:12.712Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,55 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_a34b3e3983677bd7",
+      "title": "【2019年のINTERNET Watch】「7pay」で不正利用被害、“二段階認証”が話題に。「Yahoo! BB ADSL」新規受付終了は1つの時代の終わり",
+      "url": "https://internet.watch.impress.co.jp/docs/special/30th/2124110.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-07-12T21:30:00.000Z",
+      "summary": "2019年（平成31年／令和元年）、5月1日、新天皇が即位され、元号は「平成」から「令和」へ。",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_07a38766f48c085a",
+      "title": "Ubiquiti「UNAS 2」、UniFiのシリーズ製品と簡単に統合管理できる新コンセプトNAS！【イニシャルB】",
+      "url": "https://internet.watch.impress.co.jp/docs/column/shimizu/2121320.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-07-12T21:00:00.000Z",
+      "summary": "「UniFi」ブランドを展開するUbiquitiから、2ベイのコンパクトなNAS「UNAS 2」が発売された。ルーターやスイッチなど、既存のUniFiシリーズと密接に連携できるのが特徴となる。価格も手ごろで、拠点や部門単位のデータ保存先として扱いやすい製品となっている。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_039349a42ae62eba",
+      "title": "HDDは自社で全数検査!!　ストレージ専業メーカー・ニューテックの厳しい検品体制と、それに応えるSeagateが実現する信頼性[Sponsored]",
+      "url": "https://internet.watch.impress.co.jp/docs/topic/special/2114371.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-07-12T21:00:00.000Z",
+      "summary": "株式会社ニューテックは、1982年創業の国産ストレージ専業メーカーだ。企業向けの外部ストレージ装置や、NAS、バックアップシステムなどの開発、製造、販売から保守サポートまでを手掛け、評価、検査、製造、加工まで一貫して対応している。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_33bcb3fc16f1fb67",
@@ -73,7 +122,7 @@
     },
     {
       "id": "item_a75fa0a51438b5b4",
-      "title": "Meta、インスタの投稿写真をAI合成できる機能を停止",
+      "title": "Meta、インスタの投稿写真AI合成機能を批判を受け停止",
       "url": "https://www.watch.impress.co.jp/docs/news/2124457.html",
       "source_id": "impress_watch",
       "source_name": "Impress Watch",
@@ -1367,39 +1416,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_599ef8326c40ff9a",
-      "title": "Ubiquiti、「UniFi Connect」の深刻な脆弱性などについて情報を公開。対象製品のアップデートを　5月発表の脆弱性は米CISAが「悪用された脆弱性」として警告",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2123879.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-07-09T07:45:00.000Z",
-      "summary": "「UniFi」ブランドを展開するUbiquitiは7月2日、同社製品の脆弱性について、計25件のセキュリティアドバイザリ速報（Security Advisory Bulletin 066）を公開した。",
-      "starred": false,
-      "category": "security",
-      "tags": [
-        "インターネット",
-        "セキュリティ",
-        "情報モラル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_db82c85d461b686c",
-      "title": "Amazonプライムデーで「Fire TV」シリーズが安い！　シリーズ最安値のフルHDモデル「Fire TV Stick HD」が3780円から",
-      "url": "https://internet.watch.impress.co.jp/docs/shopping/2123679.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-07-09T07:30:00.000Z",
-      "summary": "Amazon.co.jpでは、年に一度のビッグセール「Amazonプライムデー」の先行セールを実施中。その一環として、同社の「Fire TV」シリーズがプライム会員限定価格で販売されている。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_1479e337655132b8",
       "title": "AI活用、最大のボトルネックは「経営層」か　トップ不使用の企業、85.7％が「方針・体制なし」",
       "url": "https://www.itmedia.co.jp/aiplus/article/2607/09/2000000176/",
@@ -1414,22 +1430,6 @@
         "AI",
         "LLM",
         "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_dd3de95568668507",
-      "title": "老舗サービス「BNRスピードテスト」が全面刷新、VNE別の回線速度レポートなどを掲載",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2123845.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-07-09T06:30:00.000Z",
-      "summary": "株式会社インターコネクトは7月9日、通信速度測定サービス「BNRスピードテスト」を全面刷新したと発表した。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
       ],
       "priority_score": 50
     },
