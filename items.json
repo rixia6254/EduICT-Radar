@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-07-13T06:22:27.740Z",
+  "generated_at": "2026-07-13T12:11:59.887Z",
   "total": 103,
   "items": [
+    {
+      "id": "item_21f8651de3f2baea",
+      "title": "文部科学省ホームページトップはこちら",
+      "url": "https://www.mext.go.jp/",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-07-13T12:11:50.457Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
     {
       "id": "item_bd1951ae70f98dac",
       "title": "サイトマップはこちら",
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-07-13T06:22:16.903Z",
+      "published_at": "2026-07-13T12:11:50.457Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -25,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-07-13T06:22:16.903Z",
+      "published_at": "2026-07-13T12:11:50.457Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -38,22 +56,188 @@
       "priority_score": 60
     },
     {
-      "id": "item_21f8651de3f2baea",
-      "title": "文部科学省ホームページトップはこちら",
-      "url": "https://www.mext.go.jp/",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-07-13T06:22:16.902Z",
-      "summary": "",
+      "id": "item_ba9f1852214ce735",
+      "title": "auじぶん銀行、ATM出金上限を200万円から50万円に　不正出金対策",
+      "url": "https://www.watch.impress.co.jp/docs/news/2124780.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-07-13T11:00:00.000Z",
+      "summary": "auじぶん銀行は、9月13日からATM出金限度額の設定可能範囲を、現在の0～200万円から0～50万円へ変更する。",
       "starred": false,
-      "category": "admin",
+      "category": "tech",
       "tags": [
-        "行政",
-        "文科省",
-        "制度",
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_407941441575b4d8",
+      "title": "ニチレイ、不正アクセスによるシステム障害が発生。入出庫などの業務に影響",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2124795.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-07-13T10:04:39.000Z",
+      "summary": "株式会社ニチレイは7月13日、不正アクセスによるシステム障害が発生したと発表した。",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_5dcd3227f127a0c2",
+      "title": "「TDXラジオ」Teacher’s ［Shift］File.276  筑波大学附属中学校 多田 義男 先生（後編）を公開",
+      "url": "https://ict-enews.net/2026/07/13tdxradio-10/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-07-13T10:00:54.000Z",
+      "summary": "TDXラジオは13日、教育ICTを活用した「新しい学び」と「先生の働き方改革」を応援するTeacher’s ［Shift］ File.275「筑波大学附属中学校 多田 義男 先生（ […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_a8463367c886c1b9",
+      "title": "ビットフライヤーがリニューアル　初心者も分かりやすく",
+      "url": "https://www.watch.impress.co.jp/docs/news/2124770.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-07-13T09:33:36.000Z",
+      "summary": "bitFlyer(ビットフライヤー)は、暗号資産取引サービス「bitFlyer」をリニューアルした。スマートフォンアプリを中心に画面デザインや情報設計、操作導線を見直したもので、「体験のアップデート」と謳っている。",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_ac88c0148ae2ec3d",
+      "title": "ファン待望のUniFiシリーズNASが、いよいよ国内でも発売!! Ubiquity「UNAS 2」ははたして買いなのか？ 動画で解説【清水理史の「イニシャルB」チャンネル】",
+      "url": "https://internet.watch.impress.co.jp/docs/column/shimizumovie/2124679.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-07-13T09:00:00.000Z",
+      "summary": "いよいよUbiquityのUniFiブランドのNAS「UNAS 2」が国内でも発売開始。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_9f1f43f5d3e90fc9",
+      "title": "まもなく終了! Amazonプライムデー　日用品など買い忘れに注意",
+      "url": "https://www.watch.impress.co.jp/docs/news/2124735.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-07-13T08:37:23.000Z",
+      "summary": "アマゾンの大規模セール「Amazon プライムデー」が7月13日をもって終了します。日々の暮らしに欠かせない食料品・日用品から、家電、猛暑対策アイテムなど、多くの製品がセール価格になっていますが、買い逃しはないでしょうか?",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_559dc797f4c12b52",
+      "title": "セブン、テスラ「スーパーチャージャー」導入",
+      "url": "https://www.watch.impress.co.jp/docs/news/2124733.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-07-13T08:10:08.000Z",
+      "summary": "セブン‐イレブン・ジャパンは、Tesla Japanが展開するテスラ製EV用急速充電設備スーパーチャージャーをセブン‐イレブンとして初導入。7月11日からセブン‐イレブン川崎子母口東店(神奈川県川崎市)で運用を開始した。利用料金は充電出力により異なり、1分あたり37～200円。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_5725d8ec43666247",
+      "title": "ローソン店頭で日本円ステーブルコイン決済　8月に実証",
+      "url": "https://www.watch.impress.co.jp/docs/news/2124726.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-07-13T07:54:34.000Z",
+      "summary": "HashPortとKDDI・ローソンは、「ローソン高輪ゲートウェイシティ店」において、日本円ステーブルコインによる店頭決済の技術実証を8月から実施する。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_ec2e8b7a59a6accc",
+      "title": "ソフトバンクと安川電機、GPUクラウド活用のロボット操作実証",
+      "url": "https://www.watch.impress.co.jp/docs/news/2124707.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-07-13T07:30:00.000Z",
+      "summary": "ソフトバンクと安川電機は13日、NVIDIAの協力の下、「AIデータセンター GPUクラウド」を活用した柔軟物体ハンドリングシステムの実証結果を発表した。ロボットの動作データ収集からAI(人工知能)モデルの学習・評価、実機への適用までを一元化し、ワイヤーハーネスを箱へ収納するタスクで安定した動作を確認した。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "生成AI",
+        "AI活用",
+        "校務DX",
+        "GIGA",
         "教育ニュース"
       ],
-      "priority_score": 60
+      "priority_score": 50
+    },
+    {
+      "id": "item_a3bd6f3ee614efab",
+      "title": "帝人、着るだけで保湿できるウエア　スキンケア繊維「Skinaxis」開発",
+      "url": "https://www.watch.impress.co.jp/docs/news/2124717.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-07-13T07:11:50.000Z",
+      "summary": "帝人フロンティアは、スキンケア用の美容繊維「Skinaxis(スキンアクシス)」モイスチャーシリーズを開発した。保湿成分を含有する繊維で、この繊維を使用したナイトウエア、ルームシューズ、ピローカバーを9月に発売する。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_29ebd284f93d7442",
+      "title": "京王、スマートウォッチで乗務員の健康状態可視化　人的エラー撲滅",
+      "url": "https://www.watch.impress.co.jp/docs/news/2124695.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-07-13T06:40:40.000Z",
+      "summary": "京王電鉄は、スマートウォッチを活用したサービス「Nobi for Driver」を導入し、乗務員の健康状態可視化を通じた列車運行におけるヒューマンエラー撲滅を目指す。7月15日から実証実験を行なう。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_5b76c0b27d3583a2",
@@ -749,22 +933,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_7b0548283f076caf",
-      "title": "ダイコク電機、小学生向けロボットプログラミング教室『ロボキューブ』のオーナー募集説明会開催",
-      "url": "https://ict-enews.net/2026/07/13daikoku/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-07-13T01:02:08.000Z",
-      "summary": "ダイコク電機は、同社 東日本支店（東京都台東区で、自社の運営する小学生向けロボットプログラミング教室『ロボキューブ』の教室オーナー募集説明会を8月22日～23日の2日間開催する。 […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 60
-    },
-    {
       "id": "item_4d8126e0d0e293bf",
       "title": "パナソニックの充電池「エネループ」が安い！　Amazonプライムデー　「エネループ」スタンダードタイプの単3形・単4形×4本セットが1920円",
       "url": "https://internet.watch.impress.co.jp/docs/shopping/2124497.html",
@@ -982,104 +1150,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_a75fa0a51438b5b4",
-      "title": "Meta、インスタの投稿写真AI合成機能を批判受け停止",
-      "url": "https://www.watch.impress.co.jp/docs/news/2124457.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-07-11T11:09:14.000Z",
-      "summary": "Metaは10日、Instagramのアカウントにメンションして、ユーザー投稿に関連した画像を生成できる機能を停止した。7日に提供開始したばかりの機能だが、ユーザーの明確な同意を取らずに機能をONにしたことで批判を浴びていた。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_fbf79df142aaef3d",
-      "title": "アップル、OpenAIを提訴　ハードウェア開発で情報を不正入手",
-      "url": "https://www.watch.impress.co.jp/docs/news/2124412.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-07-11T01:51:17.000Z",
-      "summary": "Appleは、元従業員2名とOpenAIらを営業秘密の侵害と契約違反で、カリフォルニア州北部地区連邦地裁に訴訟を提起した。ハードウェア開発を進めるOpenAIがAppleの情報を不正に利用していると訴えている。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "生成AI",
-        "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_66ad345a94ef142e",
-      "title": "G-SHOCK、最新型G-LIDEに五十嵐カノアモデル",
-      "url": "https://www.watch.impress.co.jp/docs/news/2123208.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-07-11T01:40:00.000Z",
-      "summary": "カシオ計算機は、G-SHOCKのサーファー向けモデル「G-LIDE」の新作として、プロサーファー・五十嵐カノア選手のシグネチャーモデル「GBX-H5600KI-5JR」を7月に発売する。心拍計を搭載しBluetooth連携可能な腕時計で、価格は50,600円。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_abb2c2b0b4799bed",
-      "title": "防災保存食、飲料、洗剤、シャンプーなどの日用品をまとめ買い　プライムデー",
-      "url": "https://www.watch.impress.co.jp/docs/news/2124366.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-07-11T01:00:00.000Z",
-      "summary": "Amazonのビッグセール「プライムデー」が7月13日(月)まで開催されます。Amazonプライム会員向けに、食料品や日用品、家電、猛暑対策アイテムまで300万点以上の商品がセール価格になります。先行セールが7日から始まっていますが、セールの本番は10日～13日の4日間です。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_c1bac8a01a6f1faa",
-      "title": "【いつモノコト】「気圧」表示にも対応　変化がグラフでわかるタニタのデジタル温湿度計",
-      "url": "https://www.watch.impress.co.jp/docs/series/itsmo/2122456.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-07-11T00:20:00.000Z",
-      "summary": "気温などの変化をグラフで表示できるタニタのデジタル温湿度計に、新モデル「TT-593」が登場しました。といっても昨日今日の発売ではなく2025年の時点ですでに登場していたとのことで、筆者は従来モデル「TT-580」を長年愛用していながら不覚にも見逃していたわけですが、一体どのような点が変わったのでしょうか。実際に購入して自宅で使い比べてみました。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_38c3ad36d40fd78e",
-      "title": "プライムデー開催!　ところでアマゾンのAI「ルーファス」は頑張ってほしい",
-      "url": "https://www.watch.impress.co.jp/docs/topic/watchplus/2124102.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-07-11T00:00:00.000Z",
-      "summary": "Impress Watchニュースレターに掲載した記事です。ニュースレターは無料で、毎週編集部員が会員向けのコラムなどをお送りしています。登録はこちらから。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_e192045e2fc5cefb",
       "title": "テスラ車内で「Grok」と会話、日本でも展開へ　ナビ設定やルート確認を音声で",
       "url": "https://www.itmedia.co.jp/news/articles/2607/10/news157.html",
@@ -1093,40 +1163,6 @@
         "生成AI",
         "AI",
         "LLM",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_843af8ec87da9740",
-      "title": "アドビCreative Cloud 50%OFFやiPhoneなど　プライムデー人気商品",
-      "url": "https://www.watch.impress.co.jp/docs/news/2124327.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-07-10T11:30:00.000Z",
-      "summary": "Amazonのビッグセール「プライムデー」が7月13日(月)まで開催されます。Amazonプライム会員向けに、食料品や日用品、家電、猛暑対策アイテムまで300万点以上の商品がセール価格になります。先行セールが7日から始まっていますが、セールの本番は10日～13日の4日間です。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_0c50f15639114a78",
-      "title": "池袋にピックルボール専用の大型施設　Sansanがオープン",
-      "url": "https://www.watch.impress.co.jp/docs/news/2124363.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-07-10T10:32:18.000Z",
-      "summary": "東京・池袋に都内初となる大型ピックルボール専用施設「Sansanピックルボールコート池袋」がオープンした。営業AXサービス「Sansan」や名刺アプリ「Eight」を手掛けるSansanが運営する。",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
         "教材",
         "ツール"
       ],
@@ -1355,40 +1391,6 @@
       "source_name": "INTERNET Watch",
       "published_at": "2026-07-10T01:58:20.000Z",
       "summary": "SNSで目にする長文投稿について、Xでは29％、LinkedInではじつに41％がAIで生成されているとの調査結果が話題だ。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_20b29ab899b1a302",
-      "title": "PDA復活の狼煙？ 電子ペーパー採用の2画面クラムシェルデバイス、海外で出資を募集中【やじうまWatch】",
-      "url": "https://internet.watch.impress.co.jp/docs/yajiuma/2124041.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-07-10T01:57:10.000Z",
-      "summary": "昔なつかしいPDAの形状をした電子ペーパー搭載の2画面デバイスが、海外クラウドファンディングで出資を募っている。",
-      "starred": false,
-      "category": "dx",
-      "tags": [
-        "インターネット",
-        "セキュリティ",
-        "校務DX",
-        "GIGA"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_9b774228a2ca77c2",
-      "title": "QNAPのNASキットがAmazonプライムデーで安い！　2ベイNASキット「TS-216G/AZ」は4万7100円",
-      "url": "https://internet.watch.impress.co.jp/docs/shopping/2124020.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-07-10T01:30:00.000Z",
-      "summary": "Amazon.co.jpでは、7月13日までの期間限定でAmazonプライム会員向けのビッグセール「Amazonプライムデー」を開催している。",
       "starred": false,
       "category": "tech",
       "tags": [
