@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-07-14T10:52:05.062Z",
+  "generated_at": "2026-07-14T21:51:04.581Z",
   "total": 103,
   "items": [
+    {
+      "id": "item_21f8651de3f2baea",
+      "title": "文部科学省ホームページトップはこちら",
+      "url": "https://www.mext.go.jp/",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-07-14T21:50:54.321Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
     {
       "id": "item_bd1951ae70f98dac",
       "title": "サイトマップはこちら",
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-07-14T10:51:55.319Z",
+      "published_at": "2026-07-14T21:50:54.321Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -25,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-07-14T10:51:55.319Z",
+      "published_at": "2026-07-14T21:50:54.321Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -38,22 +56,91 @@
       "priority_score": 60
     },
     {
-      "id": "item_21f8651de3f2baea",
-      "title": "文部科学省ホームページトップはこちら",
-      "url": "https://www.mext.go.jp/",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-07-14T10:51:55.318Z",
-      "summary": "",
+      "id": "item_c3ffb1c271265b44",
+      "title": "AIで「便利さ」だけでなく、「豊かさ」も提供できるサービスでありたい～LINEヤフー　進化を続ける「Agent i」で目指す新しい体験",
+      "url": "https://internet.watch.impress.co.jp/docs/special/30thinterview/2121737.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-07-14T21:30:00.000Z",
+      "summary": "「Yahoo! JAPAN」は1996年4月にサービスを開始し、今年で30周年。「LINE」は2011年6月提供開始で、今年15周年を迎えた。2023年10月より「LINEヤフー株式会社」となった同社は、日本における代表的なインターネットサービス事業者として、時代の変化に対応した多くのサービスを手がけてきた。",
       "starred": false,
-      "category": "admin",
+      "category": "tech",
       "tags": [
-        "行政",
-        "文科省",
-        "制度",
-        "教育ニュース"
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_09168ea61f20b188",
+      "title": "富士通がNVIDIA「Rubin」対応の国産AIサーバを今秋製造へ　ソブリン需要に対応",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2607/15/news045.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-07-14T21:15:00.000Z",
+      "summary": "富士通は、ソブリンAIの需要に応える国産ハイエンドAIサーバやオンプレミス向け生成AI基盤を公開した。国内工場での一貫生産が特徴だ。2026年秋にはNVIDIAの最新GPU「Rubin」対応の新モデルの製造開始であると明かした。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_46ecce101294d17b",
+      "title": "「Matter」とは：メーカーを問わずデバイスがつながるスマートホーム（IoT機器）の標準規格【今週のキーワード】",
+      "url": "https://internet.watch.impress.co.jp/docs/column/keyword/2123873.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-07-14T21:00:00.000Z",
+      "summary": "Matter（マター）は、無線通信規格の標準化団体であるConnectivity Standards Alliance（CSA）が策定しているスマートホームの標準規格。さまざまなメーカーのスマートホームデバイスとIoTプラットフォーム間の相互運用性を実現することを目的としている。",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_c15a951b4ab44b5c",
+      "title": "コードなしでもベイズ統計ができる無料の神ツール「JASP」 ～ マウス操作だけでここまでできる",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/15/news002.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-07-14T20:00:00.000Z",
+      "summary": "プログラミングなしでベイズ統計はできる? 無料ツール「JASP」を使えば、マウス操作だけでベイズ推定やベイズ検定が行えます。これまでPythonで書いてきた二項検定やt検定を、JASPで手軽に試す方法を紹介。『社会人1年生から学ぶ、やさしいデータ分析』ベイズ統計編、番外編（第5回）です。",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_28c09c5f27e4faa9",
+      "title": "ファミマ、旗艦店限定のFAMIMA商品を全国展開",
+      "url": "https://www.watch.impress.co.jp/docs/news/2125105.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-07-14T11:33:54.000Z",
+      "summary": "ファミリーマートは14日、旗艦店「FAMIMA PARK AZABUDAI」で先行販売した「FAMIMA」関連商品を、全国のファミリーマート約16,400店で順次発売する。数量限定で、価格は350円～1,998円。一部店舗では取り扱いのない商品がある。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_6ff84a356294ed69",
@@ -1102,22 +1189,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_9f1f43f5d3e90fc9",
-      "title": "まもなく終了! Amazonプライムデー　日用品など買い忘れに注意",
-      "url": "https://www.watch.impress.co.jp/docs/news/2124735.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-07-13T08:37:23.000Z",
-      "summary": "アマゾンの大規模セール「Amazon プライムデー」が7月13日をもって終了します。日々の暮らしに欠かせない食料品・日用品から、家電、猛暑対策アイテムなど、多くの製品がセール価格になっていますが、買い逃しはないでしょうか?",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_c98795a4c6a3d4bc",
       "title": "OpenAIのブラウザ「ChatGPT Atlas」終了へ　公開から1年足らずで",
       "url": "https://www.itmedia.co.jp/news/articles/2607/13/news090.html",
@@ -1347,38 +1418,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_4d8126e0d0e293bf",
-      "title": "パナソニックの充電池「エネループ」が安い！　Amazonプライムデー　「エネループ」スタンダードタイプの単3形・単4形×4本セットが1920円",
-      "url": "https://internet.watch.impress.co.jp/docs/shopping/2124497.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-07-13T01:00:00.000Z",
-      "summary": "Amazonプライム会員向けのビッグセール「Amazonプライムデー」も本日が最終日。パナソニックストアでは、同社の繰り返し使える充電池「エネループ」がプライム会員限定価格で販売中だ。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_d784920bdb8b36b6",
-      "title": "スマートウォッチ「Google Fitbit」がAmazonプライムデーで安い！　Suicaにも対応した「Fitbit Versa 4」は1万9800円",
-      "url": "https://internet.watch.impress.co.jp/docs/shopping/2124495.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-07-13T00:30:00.000Z",
-      "summary": "Amazon.co.jpで開催中の「Amazonプライムデー」も本日が最終日。「Google Fitbit」ストアでは、健康管理に役立つスマートウォッチがプライム会員限定価格で販売中だ。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_146b11779f70fef0",
       "title": "3D CADから組立工程／手順書を作成、設計と製造をつなぐAI活用機能",
       "url": "https://monoist.itmedia.co.jp/mn/articles/2607/13/news010.html",
@@ -1410,45 +1449,6 @@
         "生成AI",
         "AI",
         "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_baa531d1cf297a39",
-      "title": "Anthropic、「Fable 5」の無償アクセスと「Claude Code」利用上限50％増を7月19日まで延長",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2607/13/2000000185/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-07-12T22:25:21.000Z",
-      "summary": "Anthropicは、「Claude Fable 5」を有料プランで追加費用なく使えるキャンペーンと、AIコーディング支援ツール「Claude Code」の週間利用上限を50％引き上げる措置を、いずれも米太平洋時間の7月19日まで延長すると発表した。Fable 5の無償アクセスは7月12日で終了する予定だったが、期限直前に再び1週間延長された形だ。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_e192045e2fc5cefb",
-      "title": "テスラ車内で「Grok」と会話、日本でも展開へ　ナビ設定やルート確認を音声で",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/10/news157.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-07-10T12:15:00.000Z",
-      "summary": "対話型AI「Grok」を日本のテスラ車で利用できるようになった。Tesla Japanが7月10日、X公式アカウントで発表した。利用には、ソフトウェアバージョン2026.20以降、「プレミアムコネクティビティ」（有料の車内通信プラン）の契約が必要になる。",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "教材",
-        "ツール"
       ],
       "priority_score": 50
     },
