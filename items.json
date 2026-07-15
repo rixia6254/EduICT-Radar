@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T10:56:28.658Z",
+  "generated_at": "2026-07-15T21:51:47.829Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-07-15T10:56:18.475Z",
+      "published_at": "2026-07-15T21:51:37.203Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-07-15T10:56:18.475Z",
+      "published_at": "2026-07-15T21:51:37.203Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-07-15T10:56:18.475Z",
+      "published_at": "2026-07-15T21:51:37.203Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,77 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_aa9b660e88b4c087",
+      "title": "国産のゼロトラスト接続サービス「ロリポップ！ゼロトラストリンク byGMOペパボ」提供開始　無料で利用できるプランも提供",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2125467.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-07-15T21:30:00.000Z",
+      "summary": "GMOペパボ株式会社は7月15日、端末同士を暗号化された通信で直接つなぐネットワーク接続サービス「ロリポップ！ゼロトラストリンク byGMOペパボ」の提供を開始した。最大6ユーザーまで利用できるフリープランと、ユーザー数無制限のスタンダードプラン（月額1200円）が提供される。",
+      "starred": false,
+      "category": "dx",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "校務DX",
+        "GIGA",
+        "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_e213a87bdc40b2cf",
+      "title": "トーンカーブやレベル補正も！ Macにバックアップした写真を「写真」アプリで編集する【自宅Wi-Fiの“わからない”をスッキリ！】",
+      "url": "https://internet.watch.impress.co.jp/docs/column/homewifi/2124693.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-07-15T21:00:00.000Z",
+      "summary": "第275回～第279回では、スマートフォンのデータをまるごとPCへバックアップする手法を実践した。続けて、第280回からは、スマートフォンの写真と動画を、ファイルとしてPCにコピーする方法を実践している。",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_22d405960834d3d1",
+      "title": "東京駅直結「トフロム八重洲」9月10日開業　FRONT竣工で街区完成",
+      "url": "https://www.watch.impress.co.jp/docs/news/2125494.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-07-15T11:06:33.000Z",
+      "summary": "東京駅前の大規模複合施設「TOFROM YAESU TOWER(トフロム八重洲タワー)」の開業日が9月10日に決定した。また、「TOFROM YAESU THE FRONT(フロント)」が7月15日に竣工し、トフロム八重洲街区全体が完成した。東京建物は、タワーの商業エリアや竣工したばかりのフロントの一部などを報道向けに公開した。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_ede675c3905e00ad",
+      "title": "「SBI証券Plus」アプリにホーム画面編集など機能追加",
+      "url": "https://www.watch.impress.co.jp/docs/news/2125452.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-07-15T11:00:00.000Z",
+      "summary": "SBI証券は、資産管理アプリ「SBI証券Plus」にホーム画面編集と親子口座切替の機能を追加する。ホーム画面編集機能は7月17日に、親子口座切替機能は24日に追加する。",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_6f8a64f456d6c896",
@@ -1105,40 +1176,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_6ff84a356294ed69",
-      "title": "JR東、駅前広場を“開放”　御茶ノ水・両国駅など",
-      "url": "https://www.watch.impress.co.jp/docs/news/2125091.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-07-14T09:53:11.000Z",
-      "summary": "JR東日本は、駅前広場の活用を促進していく方針を策定し、手続きや運用負担の軽減を図るプラットフォーム「HirakeBA」の事業を開始した。8月3日から関東エリアの駅前広場など8カ所に順次導入し、今後は公園や道路などにも対象を広げていく。2028年度にJR東日本管内で100カ所の開放を目指す。",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_3ea0148b414454dc",
-      "title": "ローソン、「コンビニ車中泊」エリア拡大　「安心感」でリピート",
-      "url": "https://www.watch.impress.co.jp/docs/news/2125088.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-07-14T09:48:01.000Z",
-      "summary": "ローソンは、店舗駐車場を活用した車中泊サービス「コンビニRVパーク」を、7月17日から千葉、埼玉、静岡、愛知の4県計28店舗に拡大する。埼玉、静岡、愛知への導入は今回が初めて。2026年度内には、東京、神奈川、三重、岐阜なども含め、約70店舗規模への拡大を目指す。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_fc28dd4ff11b85d5",
       "title": "セブン-イレブン、テスラの「スーパーチャージャー」導入へ　26年度中に約10店舗",
       "url": "https://www.itmedia.co.jp/news/articles/2607/14/news093.html",
@@ -1412,38 +1449,6 @@
         "インターネット",
         "セキュリティ",
         "情報モラル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_9b0ad3ef5bb2f4e3",
-      "title": "近年ダウンロードが増加している無償の「国土数値情報」って何？ AIの精度アップに活用できる？ 連載「地図と位置情報」の記事に注目が集まる【アクセスランキング】",
-      "url": "https://internet.watch.impress.co.jp/docs/news/ranking/2124522.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-07-13T21:55:00.000Z",
-      "summary": "前週に閲覧数の多かった記事を、カテゴリーごとに上位5位までレポートします。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_4ed148e0a0ff8064",
-      "title": "イッツコム、東急線沿線向け光ファイバー芯線賃貸事業の接続サービスを拡大",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2124765.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-07-13T21:30:00.000Z",
-      "summary": "東急グループで通信事業を提供するイッツ・コミュニケーションズ株式会社は、東急線の鉄道用地やCATV伝送路のダークファイバーを芯線単位で貸し出す「東急線鉄道敷光ファイバー芯線賃貸サービス」において、KDDI株式会社の「Telehouse渋谷」データセンターへの接続サービスを開始した。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
       ],
       "priority_score": 50
     },
