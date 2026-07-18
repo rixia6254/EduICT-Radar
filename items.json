@@ -1,32 +1,14 @@
 {
-  "generated_at": "2026-07-18T10:23:12.169Z",
-  "total": 83,
+  "generated_at": "2026-07-18T21:42:12.562Z",
+  "total": 103,
   "items": [
-    {
-      "id": "item_5a2c7864b68dcd43",
-      "title": "過去の文部科学省ホームページ（※国立国会図書館ホームページへリンク）",
-      "url": "https://warp.ndl.go.jp/waid/3475",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-07-18T10:23:02.449Z",
-      "summary": "",
-      "starred": false,
-      "category": "admin",
-      "tags": [
-        "行政",
-        "文科省",
-        "制度",
-        "教育ニュース"
-      ],
-      "priority_score": 60
-    },
     {
       "id": "item_21f8651de3f2baea",
       "title": "文部科学省ホームページトップはこちら",
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-07-18T10:23:02.448Z",
+      "published_at": "2026-07-18T21:42:03.587Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -44,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-07-18T10:23:02.448Z",
+      "published_at": "2026-07-18T21:42:03.587Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +36,24 @@
         "制度"
       ],
       "priority_score": 50
+    },
+    {
+      "id": "item_5a2c7864b68dcd43",
+      "title": "過去の文部科学省ホームページ（※国立国会図書館ホームページへリンク）",
+      "url": "https://warp.ndl.go.jp/waid/3475",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-07-18T21:42:03.587Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
     },
     {
       "id": "item_ba97e7a1ba22a422",
@@ -104,6 +104,94 @@
       "tags": [
         "テクノロジー",
         "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_4c33d021a6108951",
+      "title": "JAPET&CEC、無料セミナー『次期学習指導要領を見据えて「今」必要な探究的な学びを考える』東京・秋葉原で8月6日開催",
+      "url": "https://ict-enews.net/2026/07/21japetcec-2/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-07-18T01:19:46.000Z",
+      "summary": "日本教育情報化振興会（JAPET&CEC）は、スズキ教育ソフト協賛によるセミナー『次期学習指導要領を見据えて「今」必要な探究的な学びを考える』を東京・秋葉原で8月6日に開催 […]",
+      "starred": false,
+      "category": "lesson",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "授業実践",
+        "情報Ⅰ",
+        "行政",
+        "文科省"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_005d074b324e5884",
+      "title": "LoiLo、「ロイロ授業フェス2026」7月18日開幕　9月まで全国各地で開催",
+      "url": "https://ict-enews.net/2026/07/18loilo-7/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-07-18T01:18:32.000Z",
+      "summary": "LoiLoは、全国の学校や先生コミュニティが主催する教育イベントを支援する「ロイロ授業フェス2026」を、7月18日から9月にかけて全国各地で展開する。 7月17日時点で、14都道 […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_27160ccfc330214d",
+      "title": "体験型いきもの図鑑アプリ「Earth Saver Quest」リリース　18日に鳥取県で記念セレモニー",
+      "url": "https://ict-enews.net/2026/07/18class-earth/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-07-18T01:16:37.000Z",
+      "summary": "CLASS EARTHは17日、batonのグループ会社であるvildasとの共創により、施設を巡りながら、植物を含めたいきものについて学べる体験型いきもの図鑑アプリ「Earth […]",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_df646e6af23abc14",
+      "title": "翔泳社、PDF版書籍対象に「最大70％ポイント還元！ 夏のPDF版電書セール」22日まで",
+      "url": "https://ict-enews.net/2026/07/18shoeisha-2/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-07-18T01:16:18.000Z",
+      "summary": "翔泳社の運営する公式通販サイトSEshopは、7月16日から7月22日まで、PDF版の書籍を対象に「最大70％ポイント還元！ 夏のPDF版電書セール」を開催する。 今回のセールでは […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_135114359c8427a8",
+      "title": "TAC、「受験倍率低下?!今がねらい目の公務員」22日オンラインで無料配信",
+      "url": "https://ict-enews.net/2026/07/18tac-9/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-07-18T01:16:06.000Z",
+      "summary": "資格取得に向けた教育サービスを展開しているTACは、公務員試験を検討している人や進路に悩む人に向けて、無料オンラインイベント「受験倍率低下?!今がねらい目の公務員」を7月22日に開 […]",
+      "starred": false,
+      "category": "exam",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "共通テスト",
+        "入試"
       ],
       "priority_score": 50
     },
@@ -591,6 +679,254 @@
         "GIGA",
         "教材",
         "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_d33ac8d482ad99ee",
+      "title": "スパイラルローキャス、教育現場向け連絡システム「すぐーる」が静岡市立で導入",
+      "url": "https://ict-enews.net/2026/07/17spiral-locas/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-07-16T23:12:58.000Z",
+      "summary": "スパイラルローキャスは16日、同社が提供する教育現場向け連絡システム「すぐーる」が、静岡市教育委員会および静岡市立の小・中学校（114校）における学校・保護者間のコミュニケーション […]",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "行政",
+        "文科省"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_05a612ec5017dce2",
+      "title": "Polimill、「QommonsAI」活用研修を宮崎県串間市で実施",
+      "url": "https://ict-enews.net/2026/07/17polimill-2/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-07-16T23:12:41.000Z",
+      "summary": "Polimillは、宮崎県串間市の職員を対象に、自治体向け生成AI「QommonsAI（コモンズAI）」の活用研修（初級編）を現地およびオンラインにて6月30日に実施した。 各回現 […]",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "生成AI",
+        "AI活用"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_71a31482c4624266",
+      "title": "キズキ共育塾、不登校中学生の保護者に聞く「高校受験への不安」アンケート調査開始",
+      "url": "https://ict-enews.net/2026/07/17kizuki-2/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-07-16T23:12:23.000Z",
+      "summary": "キズキは15日、完全個別指導塾のキズキ共育塾が、不登校ジャーナリストの石井しこう氏と共同で、現在不登校（またはそれに類する状況）にある中学生の保護者を対象とした「高校受験を控えた現 […]",
+      "starred": false,
+      "category": "exam",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "共通テスト",
+        "入試"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_5d6261f7c6d79f39",
+      "title": "京都芸術大学、通信教育部で「夏のオンライン体験授業」18日～24日開催",
+      "url": "https://ict-enews.net/2026/07/17kyoto-art-3/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-07-16T23:12:01.000Z",
+      "summary": "京都芸術大学の通信教育部は、7月18日から7月24日まで「夏のオンライン体験授業」を開催する。 近年、リスキリング（学び直し）への関心や「人生100年時代」の到来を背景に、働きなが […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_d5899ab4d0ef0a9e",
+      "title": "NEDOとJST、「大学発ベンチャー表彰2026」最終ノミネート企業6社を選定",
+      "url": "https://ict-enews.net/2026/07/17nedo/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-07-16T23:11:33.000Z",
+      "summary": "NEDOは15日、国立研究開発法人科学技術振興機構（JST）と、大学などの研究開発成果を活用して起業したベンチャーのうち、今後の活躍が期待される優れた大学発ベンチャーと、その成長に […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_3b152f3a97c03b67",
+      "title": "monoDuki、文部科学省「DXハイスクール取組事例」に市来農芸高校のプロジェクトが掲載",
+      "url": "https://ict-enews.net/2026/07/17monoduki/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-07-16T23:11:16.000Z",
+      "summary": "monoDukiは15日、文部科学省「DXハイスクール取組事例」に、同社が伴走支援する鹿児島県立市来農芸高等学校のスマート農業人材育成プロジェクトが掲載されたことを発表した。 同事 […]",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "行政",
+        "文科省"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_c1e87e0a3bef4df9",
+      "title": "マイクロファン、教育用マイコン基板「TRYGEAR」と拡張モジュール「FUNX」のエコシステム整備記念セール",
+      "url": "https://ict-enews.net/2026/07/17microfan/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-07-16T23:10:54.000Z",
+      "summary": "マイクロファンは、教育用マイコン基板「TRYGEAR」と拡張モジュール「FUNX」によるエコシステム整備を記念し、7月18日から2割引きの「始動記念セール」を実施する。 ピープルメ […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_0621ea94940a803f",
+      "title": "日本3D教育協会、「海洋研究3Dスーパーサイエンスプロジェクト」5期生が研究発表会実施",
+      "url": "https://ict-enews.net/2026/07/17kaiyo-3d/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-07-16T23:10:29.000Z",
+      "summary": "日本3D教育協会は16日、「海洋研究3Dスーパーサイエンスプロジェクト」 5期生の研究発表会を、東京ポートシティ竹芝で6月27日に実施したと発表した。 本プロジェクトは、 次世代へ […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_d14692292b1f722d",
+      "title": "Aura、「ローラス STEAM Fair 2026」で「AI×Fashion STEAM Revolution」実施",
+      "url": "https://ict-enews.net/2026/07/17aurakidscreative/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-07-16T23:10:10.000Z",
+      "summary": "Auraは、6月13日・14日にローラス インターナショナル スクール オブ サイエンスが開催した「ローラス STEAM Fair 2026」にて、創造教育プログラム「AI×Fas […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_8da450517bc18a0d",
+      "title": "秀和システム新社、『Visual C++ ＆ Visual Studio2026パーフェクトマスター［.NET完全対応］』発刊",
+      "url": "https://ict-enews.net/2026/07/17shuwasystem/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-07-16T23:09:47.000Z",
+      "summary": "秀和システム新社は、新刊『Visual C++ ＆ Visual Studio2026パーフェクトマスター［.NET完全対応］』を7月27日に発刊する。 Visual C++は、無 […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_19b25ff646d92a11",
+      "title": "浜松市、「第5回高校生数学コンテスト in Hamamatsu」・「数学サマーキャンプ」開催",
+      "url": "https://ict-enews.net/2026/07/17city-hamamatsu/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-07-16T23:08:57.000Z",
+      "summary": "浜松市は15日、全国の高校生を対象とした「第5回高校生数学コンテスト in Hamamatsu」及び過去の本コンテスト決勝出場者を対象とした「数学サマーキャンプ」の開催にあたり、参 […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_47fec86278d318f0",
+      "title": "newmo、「Girls Meet STEM」で「自動運転タクシーの開発現場へ！」8月開催",
+      "url": "https://ict-enews.net/2026/07/17newmo/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-07-16T23:08:40.000Z",
+      "summary": "newmoは16日、山田進太郎D&I財団が運営する、中高生女子向けSTEM（理系）領域体験ツアープログラム「Girls Meet STEM」に参画すると発表した。 その第1 […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_47ec468f4af7a0ff",
+      "title": "学研スタディエ、小中学生対象オンライン講座「グローバル教養が身につく 世界遺産講座」8月無料体験会",
+      "url": "https://ict-enews.net/2026/07/17gakken-30/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-07-16T23:08:22.000Z",
+      "summary": "学研ホールディングスのグループ会社、学研スタディエは16日、小中学生を対象としたオンライン講座「グローバル教養が身につく 世界遺産講座」の8月無料トライアル（体験会）を開催すると発 […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_385b82f74944a25b",
+      "title": "ケイシン、小学6年生対象「中学進学準備コース【中1ギャップ対策講座】 プレ講座」25日・29日開催",
+      "url": "https://ict-enews.net/2026/07/17juku-keishinkan/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-07-16T23:07:59.000Z",
+      "summary": "中四国地方を中心に学習塾を展開し、地元の教育現場を知り尽くしたケイシン（啓真館）は、明修塾とともに、全国の小学6年生（小学5年生もOK）とその保護者を対象としたオンライン特別授業「 […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_8a704ca654e440f5",
+      "title": "明星大学、科学の楽しさを体験できる特別イベント「たまもり科学探検隊 2026」開催",
+      "url": "https://ict-enews.net/2026/07/17meisei-u-2/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-07-16T23:07:38.000Z",
+      "summary": "明星大学とイオンモール多摩平の森は協働で、科学の楽しさを体験できる特別イベント「たまもり科学探検隊 2026」を8月1日・2日に開催する。 本イベントでは、「科学をさわって、記して […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
       ],
       "priority_score": 50
     },
