@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T21:42:12.562Z",
+  "generated_at": "2026-07-19T05:56:32.628Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-07-18T21:42:03.587Z",
+      "published_at": "2026-07-19T05:56:21.745Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-07-18T21:42:03.587Z",
+      "published_at": "2026-07-19T05:56:21.745Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-07-18T21:42:03.587Z",
+      "published_at": "2026-07-19T05:56:21.745Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,24 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_5d1df510bc442359",
+      "title": "「スマホで動く」270億パラメーターLLM「Bonsai 27B」登場",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2607/17/2000000202/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-07-18T23:40:43.000Z",
+      "summary": "27BクラスのモデルをiPhoneで実行可能な容量に収めたとしている。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_ba97e7a1ba22a422",
@@ -607,24 +625,6 @@
       "tags": [
         "インターネット",
         "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_5d1df510bc442359",
-      "title": "「スマホで動く」270億パラメーターLLM「Bonsai 27B」登場",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2607/17/2000000202/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-07-17T01:59:41.000Z",
-      "summary": "27BクラスのモデルをiPhoneで実行可能な容量に収めたとしている。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
       ],
       "priority_score": 50
     },
