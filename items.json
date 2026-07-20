@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T11:50:59.482Z",
+  "generated_at": "2026-07-20T21:55:37.625Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-07-20T11:50:50.334Z",
+      "published_at": "2026-07-20T21:55:27.592Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-07-20T11:50:50.334Z",
+      "published_at": "2026-07-20T21:55:27.592Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-07-20T11:50:50.334Z",
+      "published_at": "2026-07-20T21:55:27.592Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,92 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_35bfa3939dc0a3c0",
+      "title": "Adobe、次世代カメラアプリ「Project Indigo」　AIでボケ変更やイラスト化",
+      "url": "https://www.watch.impress.co.jp/docs/news/2126354.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-07-20T21:30:00.000Z",
+      "summary": "米Adobeは、同社がテスト公開しているカメラアプリ「Project Indigo」に、AIを活用した新機能「AI Playground」を追加した。",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_0af12246964485ea",
+      "title": "【2020年のINTERNET Watch】コロナ禍突入で社会が一変。テレワークを導入する企業が急増",
+      "url": "https://internet.watch.impress.co.jp/docs/special/30th/2073955.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-07-20T21:30:00.000Z",
+      "summary": "2020年（令和2年）は、新型コロナウイルス感染症（COVID-19）が世界的に大流行し、人々の生活スタイルが大きく変化する1年となった。3月には2020年夏に開催が予定されていた東京オリンピックの延期が決定し、4月には「緊急事態宣言」が発出され、感染拡大を防ぐために外出自粛が呼びかけられた。",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_f2243820ffb5f8bb",
+      "title": "佐川急便、「スマートクラブ」で約7万人の個人情報漏えい。サイバー攻撃ではなくシステム不具合が原因",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2126372.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-07-20T21:15:00.000Z",
+      "summary": "佐川急便株式会社は7月19日、同社の会員制サービス「スマートクラブ」でシステム不具合が発生し、配達予定通知メールの一部で本来とは異なる利用者の氏名やメールアドレス、お問い合せ送り状No.が表示されたと発表した。なお、原因はシステムの不具合で、不正アクセスやサイバー攻撃ではないという。",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "情報モラル",
+        "行政",
+        "文科省"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_1df159c0563ce967",
+      "title": "初めて契約した完全従量課金制シェアオフィス「ZXY」で、気になるネットワークを調べた【イニシャルB】",
+      "url": "https://internet.watch.impress.co.jp/docs/column/shimizu/2123447.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-07-20T21:00:00.000Z",
+      "summary": "フリーになって、そろそろ30年。ずっと自宅で作業してきたのだが、今回、初めてシェアオフィスを契約した。最寄りの駅に拠点がある「ZXY」（ジザイ）だ。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_b9be5ae6ec9cca31",
+      "title": "「TDXラジオ」Teacher’s ［Shift］File.277  成城学園初等学校 秋山 貴俊 先生（前編）を公開",
+      "url": "https://ict-enews.net/2026/07/20tdxradio-11/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-07-20T10:00:46.000Z",
+      "summary": "TDXラジオは20日、教育ICTを活用した「新しい学び」と「先生の働き方改革」を応援するTeacher’s ［Shift］ File.277「成城学園初等学校 秋山 貴俊 先生（前 […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_2a051e7f86293660",
@@ -550,22 +636,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_2fecc4308b138393",
-      "title": "2.8兆パラメータのAI「Kimi K3」　一部性能でFable 5超え",
-      "url": "https://www.watch.impress.co.jp/docs/news/2126048.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-07-17T04:15:07.000Z",
-      "summary": "Moonshot AIは、2.8兆パラメータのAIモデル「Kimi K3」を発表した。ネイティブなマルチモーダル機能と100万トークンのコンテキストウィンドウを備え、同社は世界初の3兆パラメータ級オープンモデルとしている。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_5c3421e26f4db076",
       "title": "「AIエージェントの約半数が\"戦力外\"になる」　なぜ企業は使いこなせない？",
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/17/news053.html",
@@ -927,22 +997,6 @@
       "source_name": "ICT教育ニュース",
       "published_at": "2026-07-16T23:07:59.000Z",
       "summary": "中四国地方を中心に学習塾を展開し、地元の教育現場を知り尽くしたケイシン（啓真館）は、明修塾とともに、全国の小学6年生（小学5年生もOK）とその保護者を対象としたオンライン特別授業「 […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_8a704ca654e440f5",
-      "title": "明星大学、科学の楽しさを体験できる特別イベント「たまもり科学探検隊 2026」開催",
-      "url": "https://ict-enews.net/2026/07/17meisei-u-2/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-07-16T23:07:38.000Z",
-      "summary": "明星大学とイオンモール多摩平の森は協働で、科学の楽しさを体験できる特別イベント「たまもり科学探検隊 2026」を8月1日・2日に開催する。 本イベントでは、「科学をさわって、記して […]",
       "starred": false,
       "category": "edu_news",
       "tags": [
@@ -1381,24 +1435,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_6ae592d658532b4a",
-      "title": "スマホのUSBポートを拡張して「充電」と「データ伝送」を同時に実現できるUSBハブ、バッファローが発売",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2125474.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-07-16T00:45:00.000Z",
-      "summary": "株式会社バッファローは、スマートフォンやタブレットのUSB Type-C端子を充電用とデータ転送用の2ポートに増設できるUSBハブ「BSHM2U100C1P」を8月上旬に発売する。Amazonでは1980円で予約販売を開始している。",
-      "starred": false,
-      "category": "dx",
-      "tags": [
-        "インターネット",
-        "セキュリティ",
-        "校務DX",
-        "GIGA"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_9b35da7dce492911",
       "title": "NVIDIAが「Jetson Thor」に新モジュール追加、高騰するメモリの使用量削減技術も",
       "url": "https://monoist.itmedia.co.jp/mn/articles/2607/16/news052.html",
@@ -1412,38 +1448,6 @@
         "生成AI",
         "AI",
         "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_cb8939aea009bc0e",
-      "title": "最大14000Paの吸引力を持ちながら軽量コンパクトな卓上クリーナー、サンワサプライが発売",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2125429.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-07-15T23:00:00.000Z",
-      "summary": "サンワサプライ株式会社は7月14日、デスクや車内の気になるゴミを手軽に掃除できるコードレスハンディクリーナー「200-CDVC001」を発売した。直販サイト「サンワダイレクト」での販売価格は4780円。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_9785252693e016ef",
-      "title": "住民税が高い自治体／安い自治体はどこ？ 地域差はいくら？【2026年版 最新ランキング 更新しました！】",
-      "url": "https://internet.watch.impress.co.jp/docs/update/2124755.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-07-15T21:55:00.000Z",
-      "summary": "勘違いしている人がいる住民税の地域差。正しい情報を伝えるため2022年から掲載している住民税ランキングの記事。今年も徹底的に調べて正確な情報をお届けしたい。今回は水道料金の自治体による差も調べてみた。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
       ],
       "priority_score": 50
     },
