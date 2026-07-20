@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-07-19T21:43:21.191Z",
+  "generated_at": "2026-07-20T06:20:08.935Z",
   "total": 103,
   "items": [
+    {
+      "id": "item_21f8651de3f2baea",
+      "title": "文部科学省ホームページトップはこちら",
+      "url": "https://www.mext.go.jp/",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-07-20T06:19:58.700Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
     {
       "id": "item_bd1951ae70f98dac",
       "title": "サイトマップはこちら",
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-07-19T21:43:12.212Z",
+      "published_at": "2026-07-20T06:19:58.700Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -25,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-07-19T21:43:12.212Z",
+      "published_at": "2026-07-20T06:19:58.700Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -38,22 +56,57 @@
       "priority_score": 60
     },
     {
-      "id": "item_21f8651de3f2baea",
-      "title": "文部科学省ホームページトップはこちら",
-      "url": "https://www.mext.go.jp/",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-07-19T21:43:12.211Z",
-      "summary": "",
+      "id": "item_2a051e7f86293660",
+      "title": "Hugging FaceにAI主導のサイバー攻撃　防御もAIで対抗するも、商用モデルは解析拒否で「GLM」採用",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/20/news010.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-07-20T01:08:00.000Z",
+      "summary": "Hugging Faceは、自律型AIエージェントによる本番インフラへの侵入を検知、対処したと発表した。一部の内部データセットと複数の資格情報への不正アクセスを確認した。ログ解析には当初商用AIを使ったが、安全ガードレールに阻まれたため、最終的にオープンウェイトモデル「GLM 5.2」を自社インフラで実行して解析した。",
       "starred": false,
-      "category": "admin",
+      "category": "security",
       "tags": [
-        "行政",
-        "文科省",
-        "制度",
-        "教育ニュース"
+        "生成AI",
+        "AI",
+        "LLM",
+        "セキュリティ",
+        "情報モラル"
       ],
-      "priority_score": 60
+      "priority_score": 50
+    },
+    {
+      "id": "item_45a807db397680ed",
+      "title": "【レビュー】Geminiで生まれ変わった新Google Homeスピーカー 「買い」だけれど発展途上",
+      "url": "https://www.watch.impress.co.jp/docs/review/review/2126335.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-07-20T00:20:00.000Z",
+      "summary": "Googleのスマートスピーカー最新モデル「Google Home スピーカー」(16,800円)が6月末に発売されました。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "生成AI",
+        "AI活用"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_658f87e18a512e4b",
+      "title": "G-SHOCK、ひまわり色の限定モデル 「MOTHER3」20周年コラボ",
+      "url": "https://www.watch.impress.co.jp/docs/news/2125989.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-07-19T23:20:00.000Z",
+      "summary": "ほぼ日は、ゲーム「MOTHER3」発売20周年を記念した「G-SHOCK」とのコラボレーションモデル「DW-5600MOT26-9JR」を発売する。価格は19,800円。オンラインの「MOTHERのおみせ」で抽選販売の申込みを受付ける。期間は7月17日11時～30日11時。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_5d1df510bc442359",
@@ -513,22 +566,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_27d8d8f659e15e89",
-      "title": "ローソン、ゴーストレストランを香川・徳島・島根・鳥取で開始",
-      "url": "https://www.watch.impress.co.jp/docs/news/2126043.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-07-17T04:11:36.000Z",
-      "summary": "ローソンは、デリバリー専用に開発した商品を店内厨房で調理して提供する宅配サービス「ゴーストレストラン」を、7月16日から香川県の10店舗、徳島県の7店舗、島根県の3店舗、鳥取県の6店舗で導入する。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_5c3421e26f4db076",
       "title": "「AIエージェントの約半数が\"戦力外\"になる」　なぜ企業は使いこなせない？",
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/17/news053.html",
@@ -542,22 +579,6 @@
         "生成AI",
         "AI",
         "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_48d923251c2b1439",
-      "title": "ソニー、aiboに新型試作機　将来の機能検討で東大・UCバークレーと協力",
-      "url": "https://www.watch.impress.co.jp/docs/news/2126022.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-07-17T03:35:36.000Z",
-      "summary": "ソニーは、エンタテインメントロボット「aibo(アイボ)」の将来的な機能やサービスの可能性を広げる一環として、国内外の2つの大学研究室との研究協力を行なう。また、7月21日から23日まで、米国カリフォルニア州で開催される「SIGGRAPH 2026」に出展し、aiboの研究開発用途向けの試作機を展示する。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
       ],
       "priority_score": 50
     },
@@ -1407,26 +1428,6 @@
       "tags": [
         "インターネット",
         "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_72596566b3eb1a3e",
-      "title": "OpenAI、初のハードウェア「Codex Micro」を230ドルで発売　Apple提訴の渦中にある端末とは別物",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/16/news055.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-07-15T22:26:00.000Z",
-      "summary": "OpenAIは、コーディング支援AI「Codex」向けの専用キーパッド「Codex Micro」を発売した。キーボードメーカーのWork Louderと共同開発した同社初のハードウェア製品で、価格は230ドル。なお、Appleによる営業秘密不正取得訴訟の渦中にある、開発中のAIデバイスとは別物だ。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用",
-        "校務DX",
-        "GIGA"
       ],
       "priority_score": 50
     },
