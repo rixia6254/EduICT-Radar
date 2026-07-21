@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-21T11:12:28.768Z",
-  "total": 103,
+  "generated_at": "2026-07-21T21:58:30.819Z",
+  "total": 83,
   "items": [
     {
       "id": "item_21f8651de3f2baea",
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-07-21T11:12:18.105Z",
+      "published_at": "2026-07-21T21:58:18.665Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-07-21T11:12:18.105Z",
+      "published_at": "2026-07-21T21:58:18.665Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-07-21T11:12:18.105Z",
+      "published_at": "2026-07-21T21:58:18.665Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -52,6 +52,95 @@
         "文科省",
         "制度",
         "教育ニュース"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_f0e8400cd2cb7230",
+      "title": "DTSとグランセキュノロジー、法人向けセキュリティサービス高度化のためASRM「Mitokude」を軸に協業　7月23日開催の「保険EXPO 2026」に出展",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2126700.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-07-21T21:30:00.000Z",
+      "summary": "株式会社DTSとグランセキュノロジー株式会社は7月21日、セキュリティサービスの高度化と、ASRM（Attack Surface + Risk Management）領域の拡充に向けた協業を発表した。",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_f0f2e7afc3ca4852",
+      "title": "AIガジェットがあふれ、淘汰される時代に、AIスマートノートのiFLYTEK「AINOTE 2」はなぜ生き残れているのか？[Sponsored]",
+      "url": "https://internet.watch.impress.co.jp/docs/topic/special/2123530.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-07-21T21:00:00.000Z",
+      "summary": "AIを冠したガジェットには、警戒から入ることにしている。というのも、この2年ほどで音声で操る端末や身につけるAIデバイスがいくつも現れ、その多くが役割を見つけられないまま静かに退場していったからだ。",
+      "starred": false,
+      "category": "dx",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "校務DX",
+        "GIGA"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_77dfd2d61debc9c3",
+      "title": "AIトークン消費「24倍」の衝撃　本番運用に向けて絶対に“やってはいけない”コストの捉え方",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/22/news005.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-07-21T20:00:00.000Z",
+      "summary": "AIの試験導入から本番運用への移行が進む中、多くの企業がコストと統制の壁に直面している。将来的なトークン消費の急増を見据え、組織が今見直すべき視点とは何か。実運用を持続させるための「3つの条件」を解説します。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_bde6b1fea2206b37",
+      "title": "Microsoftとミストラル、欧州AIインフラ拡大で戦略提携　数十億ドルの投資",
+      "url": "https://www.watch.impress.co.jp/docs/news/2126729.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-07-21T15:23:39.000Z",
+      "summary": "MicrosoftとフランスのAIスタートアップMistral(ミストラル)は21日、欧州におけるAI演算能力の拡大で戦略的提携を発表した。Microsoftは、Mistralの欧州における演算能力の一部を活用するほか、MistralのフロンティアモデルをAIプラットフォーム全体に導入。Microsoftの顧客に、クラウドからオフライン環境に至るまで柔軟な導入オプションを提供する。",
+      "starred": false,
+      "category": "dx",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "校務DX",
+        "GIGA",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_4bfc3651fdce007e",
+      "title": "プログラミング初学者がつまずく“リアルな落とし穴”！",
+      "url": "https://note.com/tsukerat_games/n/n900a9faf6775",
+      "source_id": "note_joho1",
+      "source_name": "note（情報科教員）",
+      "published_at": "2026-07-21T15:18:36.000Z",
+      "summary": "こんにちは「つけらっとゲームス」プログラム担当のとちです。 学生の皆さんはそろそろ楽しい夏休みですね！ あ、夏休み前の定期試験はいかがでした？ 結果次第で長期休暇が憂鬱な時間になるかも…でも安心してください。 続きをみる",
+      "starred": false,
+      "category": "lesson",
+      "tags": [
+        "授業実践",
+        "情報Ⅰ",
+        "教材"
       ],
       "priority_score": 60
     },
@@ -528,344 +617,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_5f5db564235bf55d",
-      "title": "子どもが未来に描いていたのは”便利さ”より”やさしさ”だった！ = NTT ドコモ調べ=",
-      "url": "https://ict-enews.net/2026/07/21docomo-4/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-07-21T01:38:08.000Z",
-      "summary": "NTT ドコモは17日、創作絵画コンクール「ドコモ未来ミュージアム」の第 25 回開催にあたり、小学生の子どもとその保護者 300 組を対象に「親と子の描く未来観ギャップ実態調査」 […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_ce3ff44872b103fa",
-      "title": "SNSで情報収集を行う就活生の55％が「SNSの情報を信じて後悔した経験あり」=ネオキャリア（キャリアトラス）調べ=",
-      "url": "https://ict-enews.net/2026/07/21neo-career/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-07-21T01:37:54.000Z",
-      "summary": "オキャリアは16日、キャリアの選択肢を広げるワーク×ライフジャーナル「キャリアトラス」が、2027年3月卒業予定で内定を保有し、就職活動の情報収集にSNSを活用していた2027年卒 […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_82d3fb545a2239c1",
-      "title": "アステリア、熊本県がノーコードのモバイルアプリ作成ツール「Platio」を導入",
-      "url": "https://ict-enews.net/2026/07/21asteria/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-07-21T01:37:36.000Z",
-      "summary": "アステリアは16日、熊本県農林水産部森林局がノーコードのモバイルアプリ作成ツール「Platio（プラティオ）」を導入し、職員がノーコードで作成したアプリにより報告業務の工数半減を実 […]",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "教育ニュース",
-        "ICT",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_bed53a6f64f193cf",
-      "title": "ASTRAX、宇宙船「ユニティ」を模擬した教育訓練シミュレーターを星の杜中高に移設",
-      "url": "https://ict-enews.net/2026/07/21astrax/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-07-21T01:37:12.000Z",
-      "summary": "宇宙ベンチャー企業ASTRAX（アストラックス）は16日、ASTRAX民間宇宙事業創造研究開発教育訓練センター（ASTRAX宇宙センター）に設置してある民間宇宙船教育訓練シミュレー […]",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "教育ニュース",
-        "ICT",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_19fb279b70a59ed1",
-      "title": "鳳凰高等学校、XR・AIを活用した鹿児島での探究活動と地域文化継承の実践を福岡で発信",
-      "url": "https://ict-enews.net/2026/07/21hooh/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-07-21T01:37:01.000Z",
-      "summary": "希望が丘学園 鳳凰高等学校（鹿児島県南さつま市）は17日、7月8日にアクロス福岡で開催された「XR Kaigi Hub 福岡 2026」に、鹿児島のXRコミュニティ「XR Meet […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_bf9d1c2bef00611a",
-      "title": "三谷産業、金沢市内の中学2年生に「先端技術体験学習」を実施",
-      "url": "https://ict-enews.net/2026/07/21mitani/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-07-21T01:36:50.000Z",
-      "summary": "三谷産業は17日、金沢市教育委員会に協力し、7月10日から16日までの週末を除く5日間、中学2年生を対象にした「先端技術体験学習」を実施したと発表した。 金沢市内の中学校14校の2 […]",
-      "starred": false,
-      "category": "admin",
-      "tags": [
-        "教育ニュース",
-        "ICT",
-        "行政",
-        "文科省"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_c2ffcf161b5993d1",
-      "title": "ZEN大学、スターバックスと産学連携で初の外部パートナーとの奨学金制度設立",
-      "url": "https://ict-enews.net/2026/07/21zen/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-07-21T01:36:28.000Z",
-      "summary": "ZEN大学は16日、スターバックス コーヒー ジャパンとの産学連携により、同社の従業員（パートナー）を対象とした新たな奨学金プログラムを設立したと発表した。 ZEN大学における本プ […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_01fdaf3eec647486",
-      "title": "DAMBO、渋谷区「探究・シブヤ未来科」で上原小学校5年生の探究学習を伴走",
-      "url": "https://ict-enews.net/2026/07/21dambo/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-07-21T01:36:16.000Z",
-      "summary": "DAMBOは16日、渋谷区が推進する「探究・シブヤ未来科」で、 渋谷区立上原小学校5年生の探究学習プロジェクトを担当したと発表した。 本プロジェクトでは、約70名の子どもたちが自ら […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_c75047646d3b8c50",
-      "title": "日本数学検定協会、「第34回 実用数学技能検定『数検』」グランプリ決定",
-      "url": "https://ict-enews.net/2026/07/21su-gaku-2/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-07-21T01:36:07.000Z",
-      "summary": "日本数学検定協会は16日、2025年度に数検を受検し優秀な成績を収めた個人・団体に贈る、第34回実用数学技能検定「数検」グランプリの各受賞者・受賞団体を決定したことを発表した。 今 […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_7e1370bf6eee6911",
-      "title": "久留米工業大学、小学生の親子対象体験型イベント「子ども科学教室」を開催",
-      "url": "https://ict-enews.net/2026/07/21kurume-it/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-07-21T01:35:41.000Z",
-      "summary": "久留米工業大学は、小学生の親子を対象とした体験型イベント「子ども科学教室」を同学キャンパスで8月1日に開催する。 このイベントは、次世代を担う子どもたちが科学やものづくりへの興味・ […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_fd1ac41ba6699b03",
-      "title": "ヒューマンアカデミージュニア、特別講座「すいこみ怪獣ボトルン！」加盟教室の一部で開催",
-      "url": "https://ict-enews.net/2026/07/21athuman-4/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-07-21T01:35:28.000Z",
-      "summary": "ヒューマンアカデミーの児童教育事業「ヒューマンアカデミージュニア」は15日、小学館集英社プロダクション（ShoPro）と共同で、小学生向け「特別講座」用の教材および講師用手引書を制 […]",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "教育ニュース",
-        "ICT",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_8c74843c8af2063b",
-      "title": "AMG、夏休みは「歌ってみた」動画を作る リリックムービー制作体験 8月2日開催",
-      "url": "https://ict-enews.net/2026/07/21amg/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-07-21T01:35:12.000Z",
-      "summary": "吉田学園のアミューズメントメディア総合学院（AMG）は、VTuberや動画制作に興味のある人を対象にした体験型イベント「これであなたもVTuber『歌みた』動画メーカー♪ CGムー […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_82a5c6a166009981",
-      "title": "全国大学生協連、無料オンライン「保護者のための大学生活入門セミナー」26日開催",
-      "url": "https://ict-enews.net/2026/07/21univcoop/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-07-21T01:35:02.000Z",
-      "summary": "全国大学生活協同組合連合会は、大学進学を控える高校生の保護者を対象に「保護者のための大学生活入門セミナー」を7月26日にオンラインで開催する。 同セミナーでは、7月31日に公表予定 […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_de57983089f05296",
-      "title": "京王電鉄、小学生向け「夏休み自由研究お助けイベント～君も5000系博士になろう！～」31日開催",
-      "url": "https://ict-enews.net/2026/07/21keio/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-07-21T01:34:52.000Z",
-      "summary": "京王電鉄は、小学校4年生～6年生を対象に「夏休み自由研究お助けイベント～君も5000系博士になろう！～」を7月31日に開催する。 同企画は、夏休み期間中の自由研究で題材が見つからず […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_198cc333cc0b5743",
-      "title": "福島ドローンスクール、ドローンユーザー向け交流イベント「第15回 空撮の会」リステル猪苗代で開催",
-      "url": "https://ict-enews.net/2026/07/21spacexone/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-07-21T01:34:43.000Z",
-      "summary": "スペースワンが運営する福島ドローンスクールは、リステル猪苗代でドローンユーザー向け交流イベント「第15回 空撮の会」を8月8日に開催、参加者の募集を開始した。 「空撮の会」は、ドロ […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_3edd457a1e90cc55",
-      "title": "セブン銀行、おこづかいを通じた親子向け教育サービス「money ring」提供開始",
-      "url": "https://ict-enews.net/2026/07/21sevenbank/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-07-21T01:34:28.000Z",
-      "summary": "セブン銀行は16日、おこづかい帳アプリ（money ringアプリ）とVisaプリペイドカード（money ringカード）を組合わせた親子向け教育サービス「money ring」 […]",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "教育ニュース",
-        "ICT",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_59effae4910e1130",
-      "title": "ネオス、こどもの“好き”が広がる体験アプリ「キノリー」で「きかんしゃトーマス」グッズプレゼント",
-      "url": "https://ict-enews.net/2026/07/21neoscorp/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-07-21T01:34:16.000Z",
-      "summary": "テクミラホールディングスの子会社であるネオスは17日、こどもの“好き”が広がる体験アプリ「キノリー」をApp StoreおよびGoogle Playで提供すると発表した。今回、日頃 […]",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "教育ニュース",
-        "ICT",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_60754459d85f6b7b",
-      "title": "Nanka、AI代読・代筆支援アプリ「もじソナ」で夏休み応援キャンペーン",
-      "url": "https://ict-enews.net/2026/07/21nanka/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-07-21T01:34:05.000Z",
-      "summary": "読み書きに拠らない多様な学び方を実現するAI代読・代筆支援アプリ「もじソナ」を提供するNankaは17日、今夏の教育現場の環境を受け、夏休みを過ごす小中学生の継続的な学習支援と、学 […]",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "教育ニュース",
-        "ICT",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_55142652cf121a8e",
-      "title": "Gurobi 、AIが数理最適化の活用を支援する新プラットフォーム「Gurobi Intelligence Hub」発表",
-      "url": "https://ict-enews.net/2026/07/21gurobi/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-07-21T01:33:55.000Z",
-      "summary": "数理最適化およびDecision Intelligence TechnologyのリーダーであるGurobi Optimization, LLC（米国オレゴン州）は16日、AIを活 […]",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "教育ニュース",
-        "ICT",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_680dcca0c9f7f40e",
-      "title": "LINEヤフー、特別寄稿「夏休みに増える子どものネットトラブルに家庭でどう備える？」公開",
-      "url": "https://ict-enews.net/2026/07/21lycorp/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-07-21T01:33:44.000Z",
-      "summary": "LINEヤフーは16日、子どもの情報モラル・情報活用について、教育関係者や保護者とともに考える情報発信コンテンツ「まなびのコラム」で、夏休み前の特別寄稿「夏休みに増える子どものネッ […]",
-      "starred": false,
-      "category": "security",
-      "tags": [
-        "教育ニュース",
-        "ICT",
-        "セキュリティ",
-        "情報モラル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_ae31c163c2899454",
       "title": "ナカミチサウンドのBluetoothスピーカーがAmazonで安い！　バッテリー搭載かつランタン一体型の「Soundbox Glow」は1万3320円",
       "url": "https://internet.watch.impress.co.jp/docs/shopping/2126389.html",
@@ -1235,22 +986,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_0937748f5149c0a9",
-      "title": "iCloud+やApple Musicなど値上げ　Apple Oneは1350円に",
-      "url": "https://www.watch.impress.co.jp/docs/news/2126292.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-07-18T02:55:16.000Z",
-      "summary": "アップルは18日、「Apple One」と「Apple Music」、「iCloud+」、「Apple TV」を価格改定し、いずれも値上げした。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_e65a7dcdd5eba223",
       "title": "アサヒグループHD、新たに取引先の役員や従業員などの個人情報約37.8万件を「漏えいのおそれがある個人情報」として発表",
       "url": "https://internet.watch.impress.co.jp/docs/news/2126189.html",
@@ -1354,38 +1089,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_d858e712c64f4689",
-      "title": "ユーザーをEdgeに誘導するためのMicrosoftの手法を国別に比較したレポートが公開中【やじうまWatch】",
-      "url": "https://internet.watch.impress.co.jp/docs/yajiuma/2125980.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-07-17T02:33:56.000Z",
-      "summary": "MicrosoftがユーザーをEdgeに誘導するために行っている手法の数々について、国別の違いについてまとめたレポートが公開中だ。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_20f243ffd2798fc1",
-      "title": "Googleマップでは許可されているが……Appleマップ、特定業種の広告出稿をブロックか【やじうまWatch】",
-      "url": "https://internet.watch.impress.co.jp/docs/yajiuma/2125983.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-07-17T02:33:42.000Z",
-      "summary": "Appleマップに導入予定の広告で、Googleマップでは許可されているある業種の広告出稿が一律禁止されていることが明らかになり話題になっている。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_212aa8c0d02d6000",
       "title": "Google、「NotebookLM」を「Gemini Notebook」に改称　Geminiエコシステムへの統合を強化",
       "url": "https://www.itmedia.co.jp/news/articles/2607/17/news062.html",
@@ -1444,25 +1147,6 @@
         "GIGA"
       ],
       "priority_score": 70
-    },
-    {
-      "id": "item_d62cddd9d115d77c",
-      "title": "Google検索の「AIモード」、検索結果からそのままアプリで作業可能に　CanvaやYouTube Musicなど",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/17/news061.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-07-16T21:51:00.000Z",
-      "summary": "Googleは、検索の「AIモード」で外部アプリと直接連携できる機能の提供を開始した。まずは米国で順次展開し、Canva、YouTube Music、Instacartに対応する。検索結果から離れずにデザイン作成やカート追加などのタスクを完了できる。「Personal Intelligence」と組み合わせ、パーソナライズされた回答を提示する。",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
     },
     {
       "id": "item_fd1b91aad97b07fc",
@@ -1798,25 +1482,6 @@
       "source_name": "note（情報科教員）",
       "published_at": "2026-06-15T00:16:18.000Z",
       "summary": "こんにちは。どんぐり村長です。 連載企画として、2025年度から大学入学共通テストに新教科として導入された「情報」について解説します。 続きをみる",
-      "starred": false,
-      "category": "exam",
-      "tags": [
-        "授業実践",
-        "情報Ⅰ",
-        "教材",
-        "共通テスト",
-        "入試"
-      ],
-      "priority_score": 70
-    },
-    {
-      "id": "item_894ebd8439542c66",
-      "title": "2026年度　大学入学共通テスト「情報Ⅰ」第１問　問３への疑問？？",
-      "url": "https://note.com/magic_eel5366/n/n97ea2bd5fd5c",
-      "source_id": "note_joho1",
-      "source_name": "note（情報科教員）",
-      "published_at": "2026-06-13T11:08:17.000Z",
-      "summary": "情報デザイン？ 続きをみる",
       "starred": false,
       "category": "exam",
       "tags": [
