@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T11:13:20.632Z",
+  "generated_at": "2026-07-22T21:59:21.112Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-07-22T11:13:10.658Z",
+      "published_at": "2026-07-22T21:59:12.027Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -25,7 +25,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-07-22T11:13:10.658Z",
+      "published_at": "2026-07-22T21:59:12.027Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-07-22T11:13:10.657Z",
+      "published_at": "2026-07-22T21:59:12.026Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,106 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_c0474773bbbc8363",
+      "title": "USB 40Gbpsと最大100WのUSB PDに対応、映像・データ・充電の3役を実現した約13cmの短尺Type-Cケーブル、エレコムが発売",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2127052.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-07-22T21:30:00.000Z",
+      "summary": "エレコム株式会社は7月22日、映像伝送・データの転送・充電を1本で実現したUSB 40Gbps対応のUSB Type-Cケーブル「MPA-CCEC4GF01」を発売した。市場想定価格は1090円。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_5567aaededff81fb",
+      "title": "Macにバックアップした「写真」アプリのデータを外付けストレージに移動する【自宅Wi-Fiの“わからない”をスッキリ！】",
+      "url": "https://internet.watch.impress.co.jp/docs/column/homewifi/2126540.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-07-22T21:00:00.000Z",
+      "summary": "スマートフォンのバックアップについて実践しているが、今回は、iPhoneからMacの「写真」アプリにバックアップしたデータを、さらにバックアップするべく外付けストレージに移動する方法を実践する。",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_1432a44b8d45744b",
+      "title": "AI時代、開発チームの人材は“5つの型”に分かれる　Claude Code開発責任者の見立て",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/23/news015.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-07-22T20:00:00.000Z",
+      "summary": "Claude Code開発責任者のボリス・チャーニー氏が、自身のチームで働く人は「5つの型」に分けられると指摘した。AIで職種の垣根が崩れ始めた今、肩書きではなく働き方で人を捉える新時代の発想を、初心者にも分かるように読み解く。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_1c63048eda2bc04b",
+      "title": "サムスンGalaxyに新スマートグラス　Android XR採用",
+      "url": "https://www.watch.impress.co.jp/docs/news/2127084.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-07-22T14:29:00.000Z",
+      "summary": "サムスン電子は22日、英国・ロンドンで開催した「Galaxy Unpacked」において、Galaxyブランドのスマートグラス(インテリジェントアイウェア)を発表した。移動中や仕事中、コミュニケーション中で、画面を見ることなく、AIをより身近に活用できる新しい体験の実現を目指す。今秋に発売予定。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_8a8b2396216eb0a1",
+      "title": "サムスン、Galaxy Watch9/Ultra2　体調不良の予兆を可視化",
+      "url": "https://www.watch.impress.co.jp/docs/news/2126805.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-07-22T13:00:00.000Z",
+      "summary": "サムスン電子は、スマートウォッチ「Galaxy Watch9」と「Galaxy Watch Ultra2」を、8月7日に国内で発売する。予約は7月23日9時～8月6日。両モデルとも、日々の健康データを測定するだけでなく、利用者の状態に応じた情報や行動の提案を行なう機能を強化した。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_4d36e1cc9bc27770",
+      "title": "サムスン、「Galaxy Z Fold8」など折りたたみ3機種　最上位モデルは29.6万円から",
+      "url": "https://www.watch.impress.co.jp/docs/news/2125732.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-07-22T13:00:00.000Z",
+      "summary": "サムスン電子ジャパンは、折りたたみスマートフォン「Galaxy Z Fold8 Ultra」「Galaxy Z Fold8」「Galaxy Z Flip8」のSIMフリーモデルを8月7日に発売する。予約期間は7月23日9時～8月6日。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_f554abb94d542dc0",
@@ -950,22 +1050,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_3984b7a5248b08e8",
-      "title": "土屋鞄 objcts.io、上質な光沢感のナイロンデイパック・ホーボー",
-      "url": "https://www.watch.impress.co.jp/docs/news/2126227.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-07-21T23:00:00.000Z",
-      "summary": "土屋鞄製造所のレザープロダクトブランド・objcts.ioは、イタリア・リモンタ社製のナイロンを使用した「エッセンシャル ナイロンホーボー」「エッセンシャル ナイロンデイパック」を7月29日に発売する。価格は38,500円から50,600円。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_29481d529fe373a1",
       "title": "NURO 光、ソニー銀行の口座開設で現金1万円がもらえるキャンペーン、料金支払いに使うとソニー製品も当たる",
       "url": "https://internet.watch.impress.co.jp/docs/news/2126643.html",
@@ -1179,26 +1263,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_bde6b1fea2206b37",
-      "title": "Microsoftとミストラル、欧州AIインフラ拡大で戦略提携　数十億ドルの投資",
-      "url": "https://www.watch.impress.co.jp/docs/news/2126729.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-07-21T15:23:39.000Z",
-      "summary": "MicrosoftとフランスのAIスタートアップMistral(ミストラル)は21日、欧州におけるAI演算能力の拡大で戦略的提携を発表した。Microsoftは、Mistralの欧州における演算能力の一部を活用するほか、MistralのフロンティアモデルをAIプラットフォーム全体に導入。Microsoftの顧客に、クラウドからオフライン環境に至るまで柔軟な導入オプションを提供する。",
-      "starred": false,
-      "category": "dx",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "校務DX",
-        "GIGA",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_4bfc3651fdce007e",
       "title": "プログラミング初学者がつまずく“リアルな落とし穴”！",
       "url": "https://note.com/tsukerat_games/n/n900a9faf6775",
@@ -1236,22 +1300,6 @@
         "行政"
       ],
       "priority_score": 80
-    },
-    {
-      "id": "item_0ea0caf2027d15f4",
-      "title": "東京メトロ、クレカ・QR“専用”改札機　銀座と上野で関東初",
-      "url": "https://www.watch.impress.co.jp/docs/news/2126689.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-07-21T11:00:00.000Z",
-      "summary": "東京メトロと高見沢サイバネティックスは、銀座線の銀座駅と上野駅の一部改札口において、クレジットカード等のタッチ決済およびQRコード乗車の専用改札機を期間限定で設置する。設置期間は銀座駅が7月22日～11月頃および12月頃～27年2月頃、上野駅が7月31日～27年2月頃。専用改札機の設置は関東の鉄道事業者で初めてとなる。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
     },
     {
       "id": "item_161326d4ef1679d6",
@@ -1430,23 +1478,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_04a478337b129c9e",
-      "title": "「国産AIスタック」を持たないカナダ、ソブリンAIをどう構築するのか",
-      "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/21/news054.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-07-21T02:00:00.000Z",
-      "summary": "カナダには、AI分野をリードするための人材と研究基盤が備わっている。ただし、国内で自律的なコンピューティング、データセンター、エッジAIインフラを構築するには、戦略的パートナーと連携しつつ、迅速に動き出さなければならない。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_ae31c163c2899454",
       "title": "ナカミチサウンドのBluetoothスピーカーがAmazonで安い！　バッテリー搭載かつランタン一体型の「Soundbox Glow」は1万3320円",
       "url": "https://internet.watch.impress.co.jp/docs/shopping/2126389.html",
@@ -1454,43 +1485,6 @@
       "source_name": "INTERNET Watch",
       "published_at": "2026-07-21T01:30:00.000Z",
       "summary": "Amazon.co.jpのNakamichi（ナカミチサウンド）ストアページでは現在、オーディオメーカーとして知られる同社のBluetoothスピーカーがセール価格で販売中だ。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_badce2733c02fc64",
-      "title": "IPA、DX・AI活用のセキュリティリスクに備える「東北サイバーセキュリティシンポジウム2026」を仙台で11月に開催",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2126191.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-07-20T23:30:00.000Z",
-      "summary": "独立行政法人情報処理推進機構（IPA）は、宮城県仙台市で「東北サイバーセキュリティシンポジウム2026」を開催する。会場は仙台国際ホテルで、開催期間は11月25日・26日。聴講参加者の募集は8月頃を目途に行うとしている。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "インターネット",
-        "セキュリティ",
-        "生成AI",
-        "AI活用",
-        "情報モラル",
-        "行政",
-        "文科省"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_3753b939a20e6f93",
-      "title": "ニトリ、工事不要で使えるポータブルクーラーに14畳対応のハイパワーモデルを追加",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2126136.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-07-20T23:00:00.000Z",
-      "summary": "株式会社ニトリは、工事不要で使えるポータブルクーラーのハイパワーモデル「ポータブルクーラー（NR-350-OL）」を、一部のニトリ店舗およびニトリネットにて発売した。販売価格は4万9980円。",
       "starred": false,
       "category": "tech",
       "tags": [
