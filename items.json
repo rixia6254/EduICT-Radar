@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-07-23T11:15:35.505Z",
-  "total": 83,
+  "generated_at": "2026-07-23T21:59:01.174Z",
+  "total": 103,
   "items": [
+    {
+      "id": "item_21f8651de3f2baea",
+      "title": "文部科学省ホームページトップはこちら",
+      "url": "https://www.mext.go.jp/",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-07-23T21:58:49.960Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
     {
       "id": "item_bd1951ae70f98dac",
       "title": "サイトマップはこちら",
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-07-23T11:15:25.071Z",
+      "published_at": "2026-07-23T21:58:49.960Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -25,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-07-23T11:15:25.071Z",
+      "published_at": "2026-07-23T21:58:49.960Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -38,22 +56,74 @@
       "priority_score": 60
     },
     {
-      "id": "item_21f8651de3f2baea",
-      "title": "文部科学省ホームページトップはこちら",
-      "url": "https://www.mext.go.jp/",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-07-23T11:15:25.070Z",
-      "summary": "",
+      "id": "item_17855019bf46040f",
+      "title": "「生成AIで仕事が楽に」のはずが……IT現場を蝕む“AI疲れ・AIうつ”の正体",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/24/news017.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-07-23T21:30:00.000Z",
+      "summary": "耳にする機会が増えた「AI疲れ」「AI鬱（うつ）」。本稿では、“疲れの正体”を整理し、個人が何を考え、どう変わればよいのかという判断軸を整理します。",
       "starred": false,
-      "category": "admin",
+      "category": "ai",
       "tags": [
-        "行政",
-        "文科省",
-        "制度",
-        "教育ニュース"
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_c5076495dabc3904",
+      "title": "SCS評価制度を控え、6割以上の企業で取得・提示の取り組み進む。ソリトン「サプライチェーンセキュリティ実態調査2026」公開",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2127266.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-07-23T21:30:00.000Z",
+      "summary": "株式会社ソリトンシステムズは、同社が実施した「サプライチェーンセキュリティ実態調査2026」の結果をまとめたホワイトペーパーを公開した。",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_bf043293edabacb5",
+      "title": "三井不動産がデータセンターに6000億円超投資、物流の枠超え「産業デベロッパー」へ",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2607/24/news046.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-07-23T21:15:00.000Z",
+      "summary": "三井不動産は事業説明会で「産業デベロッパー」への領域拡大を発表した。従来の物流拠点供給にとどまらず、研究開発施設や自動運転対応を進める。データセンター事業には累計6000億円超を投じ、稼働済みの3棟に加え7棟を開発中だ。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_f995bdd45caa06f0",
+      "title": "Synology、同社製カメラを一元管理できるクラウドサービス「Surveillance365」提供開始",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2127256.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-07-23T21:00:00.000Z",
+      "summary": "Synologyは7月23日、同社製ネットワークカメラを一元管理できるVSaaS（Video Surveillance as a Service）ソリューションとして、「Surveillance365」の提供を開始した。対応する同社製カメラと組み合わせることで、スタンダードプランを無料で利用できる。",
+      "starred": false,
+      "category": "dx",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "校務DX",
+        "GIGA"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_f491c5371ad7964c",
@@ -467,6 +537,346 @@
         "AI",
         "LLM",
         "AI活用",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_e64544b4a5d119bc",
+      "title": "学校の教科書やプリントを、そのまま暗記問題に ─ 子どものテスト勉強から生まれた「AI暗記シート」",
+      "url": "https://ict-enews.net/zoomin/23kiko-aia/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-07-23T01:53:22.000Z",
+      "summary": "【寄稿】 飯野 昌紀（Toybird Labs・個人開発者） 私自身、3人の子どもを育てている親で、一番上の子は現在、中学2年生です。 中学生になると、定期テストの科目数も学習範囲 […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_237258089a7af62f",
+      "title": "「児童・生徒に対して、自分のことを反面教師にしてもらいたいと思ったことがある」教員の39% =ジブラルタ生命調べ=",
+      "url": "https://ict-enews.net/2026/07/23gib-life/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-07-23T01:50:23.000Z",
+      "summary": "ジブラルタ生命保険は21日、ネットエイジアの協力のもと、20～69歳の教員（小学校・中学校・高等学校・特別支援学校）2000名（男性1000名 女性1000名）を対象に実施した、「 […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_25521e3a47ee7934",
+      "title": "COMPASS、学習eポータル＋AI型教材「キュビナ」が宮城県利府町の全町立小中学校に導入",
+      "url": "https://ict-enews.net/2026/07/23compass-5/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-07-23T01:50:04.000Z",
+      "summary": "COMPASSは22日、提供する学習eポータル＋AI型教材「キュビナ」が、宮城県利府町の全町立小中学校における指導の一環として導入され、2026年度から利用が開始されたことを発表し […]",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_a2c41983f978486a",
+      "title": "Polimill、「QommonsAI」活用研修を北海道旭川市で実施",
+      "url": "https://ict-enews.net/2026/07/23polimill-3/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-07-23T01:49:42.000Z",
+      "summary": "Polimillは21日、北海道旭川市の職員を対象に、自治体向け生成AI「QommonsAI（コモンズAI）」の活用研修（初級編）を7月6日に実施したと発表した。 同研修は、旭川市 […]",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "生成AI",
+        "AI活用"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_55600c5b0cb75458",
+      "title": "教育ネット、金沢市立中学校2年生の「先端技術体験学習」に協力企業として参加",
+      "url": "https://ict-enews.net/2026/07/23edu-net-7/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-07-23T01:49:28.000Z",
+      "summary": "教育ネットは21日、三谷産業が金沢市教育委員会から協力依頼を受け実施運営した「先端技術体験学習」に協力企業として参加したことを発表した。 金沢市教育委員会は2025年度より市立小中 […]",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "行政",
+        "文科省"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_571d4a6d747d2270",
+      "title": "Polimill、自治体向け生成AI「QommonsAI」の活用研修を岐阜県岐南町で実施",
+      "url": "https://ict-enews.net/2026/07/23polimill-2/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-07-23T01:49:16.000Z",
+      "summary": "Polimillは22日、岐阜県岐南町の職員を対象に、自治体向け生成AI「QommonsAI（コモンズAI）」の活用研修（初級編）を実施したと発表した。現地約40名に加え、公開研修 […]",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "生成AI",
+        "AI活用"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_a2f9f9ac9780fdc9",
+      "title": "みんがく、東海大学菅生高校中等部中心に「スクールAI」活用した教育実践支援を開始",
+      "url": "https://ict-enews.net/2026/07/23mingaku-2/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-07-23T01:49:05.000Z",
+      "summary": "みんがくは21日、東海大学菅生高等学校中等部を中心に、教育向け生成AIプラットフォーム「スクールAI」を活用した教育実践支援を開始したことを発表した。 なお、菅生学園初等学校におい […]",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "生成AI",
+        "AI活用",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_95b36bea599b2648",
+      "title": "大阪電気通信大学、全学部の1年生対象に「第1回大阪電気通信大学タイピング王決定戦」開催",
+      "url": "https://ict-enews.net/2026/07/23osakac-2/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-07-23T01:48:47.000Z",
+      "summary": "大阪電気通信大学は21日、今春入学した全学部の主に1年生を対象に、PC操作の基礎力を養う「第1回大阪電気通信大学タイピング王決定戦」を7月上旬に開催しましたと発表した。 近年、スマ […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_471661f933dfe454",
+      "title": "武蔵野大学、データサイエンス学部2年生の滑川 裕里瑛さんが情報処理学会主催のシンポで優秀賞を受賞",
+      "url": "https://ict-enews.net/2026/07/23musashino-u-2/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-07-23T01:48:36.000Z",
+      "summary": "武蔵野大学は21日、同学データサイエンス学部データサイエンス学科2年生の滑川 裕里瑛さんが、情報処理学会主催の「マルチメディア、分散、協調とモバイル（DICOMO2026）シンポジ […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_373d42593e58ce67",
+      "title": "オンラインITスクール「ITeens Lab」、「Udemy」で動画教材「Roblox Studio 入門講座」販売開始",
+      "url": "https://ict-enews.net/2026/07/23iteenslab/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-07-23T01:48:25.000Z",
+      "summary": "ITeens Labは21日、小学生・中学生・高校生向けオンラインITスクール「ITeens Lab」がオンライン学習プラットフォーム「Udemy」にて、初心者向け動画教材「Rob […]",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_0828a38184261b59",
+      "title": "「中高生 Ruby プログラミングコンテスト 2026」の作品募集を開始",
+      "url": "https://ict-enews.net/2026/07/23ruby-procon/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-07-23T01:48:11.000Z",
+      "summary": "中高生 Ruby プログラミングコンテスト実行委員会は22日、「中高生 Ruby プログラミングコンテスト 2026」を開催すると発表した。 「Ruby(ルビー)」とは、まつもとゆ […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_e220199c49a37668",
+      "title": "エクシード、「TechHigher メタバースライブラリ」で「Roblox中級コース」新設",
+      "url": "https://ict-enews.net/2026/07/23techhigher/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-07-23T01:47:58.000Z",
+      "summary": "エクシードは21日、全国の加盟教室向けに提供するデジタル人材育成サービス「TechHigher メタバースライブラリ」で、新たに「Roblox中級コース」を新設したことを発表した。 […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_5da24339e961f837",
+      "title": "日本数学検定協会、29日・30日開催 こども霞が関見学デーに「さんすう体感プログラム」のブース出展",
+      "url": "https://ict-enews.net/2026/07/23su-gaku-2/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-07-23T01:47:38.000Z",
+      "summary": "算数・数学の実用的な技能を測る、実用数学技能検定「数検」（数学検定・算数検定）を実施・運営している日本数学検定協会は、7月29日と30日に文部科学省をはじめ29府省庁などで開催され […]",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "行政",
+        "文科省"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_731d1172c78d7fd3",
+      "title": "TAC司法書士講座、「法律知識ゼロから2年で司法書士へ！挫折をゼロにする学習戦略」25日開催",
+      "url": "https://ict-enews.net/2026/07/23tac-12/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-07-23T01:47:27.000Z",
+      "summary": "TAC司法書士講座は、これから司法書士を目指す初学者に向けた無料オンラインセミナー「法律知識ゼロから2年で司法書士へ！挫折をゼロにする学習戦略」を、7月25日にZoomライブ配信で […]",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "行政",
+        "文科省"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_64cbc094b5dddc27",
+      "title": "東洋英和女学院大学、高校生の探究活動を後押しする2つの夏季プログラムを開催",
+      "url": "https://ict-enews.net/2026/07/23toyoeiwa/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-07-23T01:47:15.000Z",
+      "summary": "東洋英和女学院大学は21日、この夏、女子高校生を中心とした探究活動支援として「わたしクエスタ2026」と「夏の探究学習ワークショップ」を開催する。 わたしクエスタは、大学教員や専門 […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_e471c6a075da7587",
+      "title": "京都橘大学、小学生対象に「たちばなサイエンスデー2026 開催」25日開催",
+      "url": "https://ict-enews.net/2026/07/23tachibana-u-4/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-07-23T01:47:04.000Z",
+      "summary": "京都橘大学は、小学生（1～6年生）を対象にした「たちばなサイエンスデー2026」を同学キャンパスで、7月25日に開催する。 毎年小学生や保護者に人気のイベントで、今回で6度目の開催 […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_e545341401fc3866",
+      "title": "電気通信大学、女子中高生向けイベント「匠ガールプロジェクト2026」8月開催",
+      "url": "https://ict-enews.net/2026/07/23uec/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-07-23T01:46:49.000Z",
+      "summary": "電気通信大学は、匠ガールプロジェクト2026「夏休みは電通大でラボ体験 Session2」を、8月21日に開催する。 匠ガールプロジェクト2026「夏休みは電通大でラボ体験 Ses […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_8f535379aef33f42",
+      "title": "GMO、産学連携でAIの先端研究開発を行う「人間中心のAIコンソーシアム」を設立",
+      "url": "https://ict-enews.net/2026/07/23gmo-4/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-07-23T01:46:40.000Z",
+      "summary": "GMOインターネットグループのGMOペパボは21日、スマートガバナンス、博報堂DYホールディングスAIの先端研究や技術開発を行う組織であるHuman-Centered AI Ins […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_2cc56bd73e2fcfc4",
+      "title": "塾検索サービス「塾選」、「2026 夏の学習応援 図書カードプレゼントキャンペーン」をXで実施",
+      "url": "https://ict-enews.net/2026/07/23delta-x-5/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-07-23T01:46:24.000Z",
+      "summary": "DeltaXは21日、塾検索サービス「塾選」が、夏休み期間の学習を応援する「2026 夏の学習応援 図書カードプレゼントキャンペーン」をX公式アカウントにて実施すると発表した。 夏 […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_56ddc3b03f1fe307",
+      "title": "okke、テスト演習ツール「Dr.okke」のオンライン学習塾「キリンジ学習塾」導入事例を公開",
+      "url": "https://ict-enews.net/2026/07/23okke/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-07-23T01:46:12.000Z",
+      "summary": "okkeは21日、テスト演習ツール「Dr.okke」の導入事例として、オンライン学習塾「キリンジ学習塾」の活用事例を公開した。 生徒の理解度の可視化や学習効率の向上につながった取り […]",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "教育ニュース",
+        "ICT",
         "教材",
         "ツール"
       ],
@@ -1012,24 +1422,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_a83b91d8b5bbf70e",
-      "title": "OpenAI会長、米国フロンティアモデルの優位性を強調　「オープンモデルは必ずしも安くない」",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2607/22/2000000211/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-07-21T23:00:00.000Z",
-      "summary": "OpenAIのブレット・テイラー会長がCNBCのインタビューで、中国発オープンウェイトモデルの台頭に「必ずしも実行コストが安いわけではない」と反論。トークン効率と推論効率で米フロンティアモデルの優位を強調した。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_29481d529fe373a1",
       "title": "NURO 光、ソニー銀行の口座開設で現金1万円がもらえるキャンペーン、料金支払いに使うとソニー製品も当たる",
       "url": "https://internet.watch.impress.co.jp/docs/news/2126643.html",
@@ -1065,26 +1457,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_a10b1d57027a69ed",
-      "title": "Hugging Face侵害のAIエージェントはOpenAIのモデル──社内のサイバー能力評価中に「GPT-5.6 Sol」などが暴走し本番DBに侵入",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/22/news056.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-07-21T22:45:00.000Z",
-      "summary": "OpenAIは、Hugging Faceで発生したサイバーインシデントの原因が自社のAIモデルだったと発表した。社内評価中に安全機能を抑制した「GPT-5.6 Sol」などが隔離環境を突破し、ゼロデイ脆弱性を悪用して外部に侵入したという。OpenAIはインフラ管理の厳格化や防御支援などの再発防止策を挙げている。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用",
-        "セキュリティ",
-        "情報モラル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_8a6bc678507b5686",
       "title": "プラネックス、PCIe接続の10Gbps対応LANアダプター6製品。RJ-45またはSFP+接続に対応　1/2/4ポートモデルをラインアップ",
       "url": "https://internet.watch.impress.co.jp/docs/news/2126686.html",
@@ -1097,41 +1469,6 @@
       "tags": [
         "インターネット",
         "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_614c0276bd2a6a98",
-      "title": "全国初、警察庁推奨アプリを活用した特殊詐欺被害防止の協定。宮崎県警・NTTタウンページ・トビラシステムズ",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2126684.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-07-21T22:00:00.000Z",
-      "summary": "宮崎県警察本部、NTTタウンページ株式会社、トビラシステムズ株式会社は7月21日、特殊詐欺をはじめとする各種犯罪の被害防止および防犯意識の向上を目的とした「犯罪の起きにくい社会づくりに関する協定」を締結した。「警察庁推奨アプリ」を軸とした官民連携協定として全国初の取り組みとなる。",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "インターネット",
-        "セキュリティ",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_f0e8400cd2cb7230",
-      "title": "DTSとグランセキュノロジー、法人向けセキュリティサービス高度化のためASRM「Mitokude」を軸に協業　7月23日開催の「保険EXPO 2026」に出展",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2126700.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-07-21T21:30:00.000Z",
-      "summary": "株式会社DTSとグランセキュノロジー株式会社は7月21日、セキュリティサービスの高度化と、ASRM（Attack Surface + Risk Management）領域の拡充に向けた協業を発表した。",
-      "starred": false,
-      "category": "security",
-      "tags": [
-        "インターネット",
-        "セキュリティ",
-        "情報モラル"
       ],
       "priority_score": 50
     },
