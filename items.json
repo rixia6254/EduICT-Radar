@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T05:52:21.548Z",
+  "generated_at": "2026-07-24T11:06:12.318Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-07-24T05:52:11.196Z",
+      "published_at": "2026-07-24T11:06:03.586Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-07-24T05:52:11.196Z",
+      "published_at": "2026-07-24T11:06:03.586Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-07-24T05:52:11.196Z",
+      "published_at": "2026-07-24T11:06:03.586Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,133 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_d662e7a9c896911c",
+      "title": "スーパーに並んだ「ごちゃごちゃ生成AIポップ」が物議　“看板王”こと、きぬた歯科院長「これはアリ」",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/24/news094.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-07-24T10:20:00.000Z",
+      "summary": "スーパーの青果売り場に並ぶ、生成AIで作ったとみられる派手な商品ポップがXで物議を醸している。吸血鬼や戦国武将を描いたデザインに「見づらい」との声が相次ぐ中、看板広告で知られるきぬた歯科のきぬた泰和院長は「これはアリ」と評価。その理由とは。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_65f3741242f65903",
+      "title": "近畿大、入試にAIの利用認める　情報学部の総合型選抜で",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2607/24/2000000221/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-07-24T08:45:19.000Z",
+      "summary": "近畿大学は、2027年度の情報学部の総合型選抜入学試験で、生成AIの利用を認めると発表した。提出する自己PR動画やプレゼンテーション資料などでのAIの利用方針を明示した。",
+      "starred": false,
+      "category": "exam",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "共通テスト",
+        "入試",
+        "AI活用"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_74da702e78be6bdd",
+      "title": "大阪「りんくうプレジャータウンSEACLE」10月末に営業終了",
+      "url": "https://www.watch.impress.co.jp/docs/news/2127750.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-07-24T08:34:32.000Z",
+      "summary": "大阪府泉佐野市の商業施設「りんくうプレジャータウンSEACLE(シークル)」が、10月31日をもって営業終了する。約19年の歴史に幕を下ろすこととなる。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_0304b78566787202",
+      "title": "AIにもサプライチェーン管理が必要？　中国AI「Kimi K3」を巡る批判でAIの調達リスクが浮き彫りに",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/24/news054.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-07-24T08:30:00.000Z",
+      "summary": "中国の最新AIモデルを巡り、米政府高官が、Anthropicの「Claude Fable 5」をモデルの学習に利用した“不正蒸留”が行われていたと指摘した。AIモデルの調達や導入を巡るサプライチェーンリスクが浮き彫りとなっている。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用",
+        "教育ニュース"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_f342a307e688ca9f",
+      "title": "Microsoft、Excelなどで自社AI活用拡大　GPT-5.6の品質を低コストで",
+      "url": "https://www.watch.impress.co.jp/docs/news/2127683.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-07-24T06:48:42.000Z",
+      "summary": "Microsoftは23日(米国時間)、AIモデル群「MAI」について、GitHub CopilotとExcelでの活用成果を公表した。GitHub Copilotでは同規模の他モデルより少ないトークン数で高い性能を示し、Excelでは一般的なタスクでGPT-5.6と同等の品質を、より低コストで実現したという。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "生成AI",
+        "AI活用"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_e23690aea86918c6",
+      "title": "東京アプリの1.1万ポイント、PayPayとWAON POINTの交換に対応",
+      "url": "https://www.watch.impress.co.jp/docs/news/2127687.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-07-24T06:43:41.000Z",
+      "summary": "東京都は、「東京アプリ」(東京公式アプリ)で本人確認を済ませた都民を対象に、1人あたり11,000円相当のポイントを付与する「東京アプリ生活応援事業」の対象交換ポイントに、PayPayポイントとWAON POINTを追加する。7月27日10時からPayPayポイント、WAON POINTへの交換が可能となる。",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_159e25d58f54e4cd",
+      "title": "メルカリ、「AI活用の最前線」明かす動画公開　「なぜCTOがCHRO兼CAIOになったのか」など13本",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2607/24/2000000220/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-07-24T06:23:26.000Z",
+      "summary": "メルカリは、自社のAI活用について紹介する動画を公開した。7月8日に開催したイベント「Mercari AI Career Fes 2026」で実施したセッションのアーカイブ動画、全13本を公式YouTubeチャンネルで視聴できる。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_a856969bdeca50cb",
@@ -157,6 +284,26 @@
         "デジタル"
       ],
       "priority_score": 50
+    },
+    {
+      "id": "item_50181f0d5609fcb2",
+      "title": "「2日かかる攻撃が25分に」生成AIで“爆速化”するサイバー攻撃、パロアルトの識者が警鐘",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/24/news070.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-07-24T03:28:00.000Z",
+      "summary": "パロアルトネットワークスの染谷征良氏（チーフサイバーセキュリティストラテジスト）は、生成AIの普及で変化するサイバー攻撃の動向と企業に求められるセキュリティ対策を、ソフトバンクの年次イベント「SoftBank World 2026」の講演で紹介した。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 60
     },
     {
       "id": "item_b8aaa2231c868c63",
@@ -1120,46 +1267,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_35281c231013fe43",
-      "title": "OpenAIの未公開モデルがHugging Faceを攻撃・侵入　「前例のない事故」",
-      "url": "https://www.watch.impress.co.jp/docs/news/2127268.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-07-23T05:55:49.000Z",
-      "summary": "OpenAIは21日(米国時間)、自社のAIモデルがAIプラットフォームHugging Faceの本番インフラに侵入するセキュリティインシデントが発生したと発表した。Hugging Faceが16日(米国時間)に公開した事案について、OpenAIの社内テスト中に引き起こされたものと説明。両社はインシデント対応で連携している。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "生成AI",
-        "AI活用",
-        "セキュリティ",
-        "情報モラル",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_423fbea5a5e66e1d",
-      "title": "LINEヤフー、「ミニアプリ」拡大に向け中小企業DX支援の新組織",
-      "url": "https://www.watch.impress.co.jp/docs/news/2127259.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-07-23T05:18:05.000Z",
-      "summary": "LINEヤフーは、日本企業の99.7%を占める中小企業の事業成長と地域経済の活性化を目指す「カスタマーグロースコンソーシアム」を発足した。",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_2fa1961ac2c1ef00",
       "title": "Markdownファイルが、AI時代の負債に？　Googleが提案する「ナレッジ標準化」の一手",
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/23/news055.html",
@@ -1173,22 +1280,6 @@
         "生成AI",
         "AI",
         "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_748d0a3cfc051adc",
-      "title": "秋葉原に木造9階建ビル「KiGi AKIHABARA」",
-      "url": "https://www.watch.impress.co.jp/docs/news/2127195.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-07-23T04:00:00.000Z",
-      "summary": "サンケイビルは、同社初となる木造中高層オフィスビル「KiGi AKIHABARA」を開業する。所在地は東京都千代田区東神田二丁目で、アクセスは東京メトロ日比谷線 秋葉原駅・都営新宿線 岩本町駅・JR浅草橋駅から徒歩6分など。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
       ],
       "priority_score": 50
     },
@@ -1302,24 +1393,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_b46709f1ed6ec404",
-      "title": "「AI使うなら値引きできる？」の“暴論”に、日立はどう立ち向かう？　レガシー刷新でのAI活用の現在地",
-      "url": "https://www.itmedia.co.jp/enterprise/articles/2607/15/news001.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-07-22T23:00:00.000Z",
-      "summary": "生成AIはレガシーシステム刷新の現場で具体的にどのように使われているのか。ユーザー企業自身がAIを使いこなす時代にベンダーが担う役割とは。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 60
-    },
-    {
       "id": "item_b07837493a093435",
       "title": "Yahoo!ニュース、30周年記念で特設サイト開設。ヤフトピ、ヤフコメなど機能や体験の変化を振り返り",
       "url": "https://internet.watch.impress.co.jp/docs/news/2127050.html",
@@ -1364,79 +1437,6 @@
       "tags": [
         "インターネット",
         "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_17d40b1f0b4f3e06",
-      "title": "NVIDIAフアンCEOが語る“日本復活”のシナリオ　10年続く半導体バブルと「原発活用」の勝算",
-      "url": "https://www.itmedia.co.jp/business/articles/2607/23/news041.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-07-22T22:00:00.000Z",
-      "summary": "米NVIDIAのジェンスン・フアンCEOが来日し、日本経済の復活を宣言した。国内のAIインフラ構築へ数十億ドル規模の投資を発表。フアン氏は「何兆ものAIがAIを使う時代」の到来によって半導体需要は人口に制約されないと指摘。データセンターの電力不足に対して「原発活用」を日本の強みとして提言した。「材料科学で世界一」とする日本企業への信頼や、任天堂・岩田聡氏との秘話など、日本復活へのビジョンを熱く語っ…",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_4b35f385f3381c68",
-      "title": "「天才デザイナー依存」の限界　AIで“平均点”しか出せない組織を変える「ノウハウ共有術」",
-      "url": "https://www.itmedia.co.jp/business/articles/2607/23/news029.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-07-22T22:00:00.000Z",
-      "summary": "生成AIの普及で“平均点デザイン”が量産され、プロダクトの同質化が進む。優秀な個人にノウハウが閉じる属人化も課題だ。デザインツール大手FigmaのCDOは、プロンプトやAIとの対話プロセスを含めた全体をチームで共有すべきだと訴える。1つのキャンバス上でデザイン、コード、AIをつなぐFigmaの戦略から、天才頼みを脱し“平均点”を飛び越える組織づくりを考える。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 60
-    },
-    {
-      "id": "item_5005b24b3e83742f",
-      "title": "AMDとAnthropicが戦略的提携　「Helios」を最大2GW導入、最大50億ドルの出資も",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/23/news063.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-07-22T21:55:00.000Z",
-      "summary": "AMDは、Anthropicとの戦略的提携を発表した。AnthropicはAMDの「Helios」および「Instinct MI450」シリーズを最大2GW規模で導入し、2027年上半期から順次展開する。AMDは最大50億ドルの株式投資を行うほか、Claudeを活用したGPU環境の最適化やROCm開発での協業も推進する。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_1432a44b8d45744b",
-      "title": "AI時代、開発チームの人材は“5つの型”に分かれる　Claude Code開発責任者の見立て",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/23/news015.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-07-22T20:00:00.000Z",
-      "summary": "Claude Code開発責任者のボリス・チャーニー氏が、自身のチームで働く人は「5つの型」に分けられると指摘した。AIで職種の垣根が崩れ始めた今、肩書きではなく働き方で人を捉える新時代の発想を、初心者にも分かるように読み解く。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
       ],
       "priority_score": 50
     },
