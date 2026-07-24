@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T11:06:12.318Z",
+  "generated_at": "2026-07-24T21:57:55.341Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-07-24T11:06:03.586Z",
+      "published_at": "2026-07-24T21:57:45.004Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-07-24T11:06:03.586Z",
+      "published_at": "2026-07-24T21:57:45.004Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-07-24T11:06:03.586Z",
+      "published_at": "2026-07-24T21:57:45.004Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,22 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_a488576b84b719ad",
+      "title": "米国にはオープンなAIモデルが必要　MSやNVIDIAらが拙速な規制に反対声明",
+      "url": "https://www.watch.impress.co.jp/docs/news/2127828.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-07-24T15:55:30.000Z",
+      "summary": "NVIDIAやMicrosoft、Meta、IBM、Hugging Faceなどの米国を中心としたテック企業が、誰もがダウンロードして利用できる「オープンウェイトモデル」の重要性を認め、拙速な規制を回避するよう求める声明を発表した。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_d662e7a9c896911c",
@@ -1247,22 +1263,6 @@
         "生成AI",
         "AI活用",
         "情報モラル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_f24cbc9243ff20c2",
-      "title": "Pixel WatchとGalaxy Watch、Suica定期券やグリーン券に対応",
-      "url": "https://www.watch.impress.co.jp/docs/news/2127282.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-07-23T06:00:21.000Z",
-      "summary": "JR東日本は、Google Pixel WatchとSamsung Galaxy Watchの「Suica」で、定期券やSuicaグリーン券、おトクなきっぷに対応する。8月中旬以降順次対応予定としている。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
       ],
       "priority_score": 50
     },
