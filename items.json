@@ -1,32 +1,14 @@
 {
-  "generated_at": "2026-07-25T21:45:38.655Z",
+  "generated_at": "2026-07-26T06:08:08.988Z",
   "total": 103,
   "items": [
-    {
-      "id": "item_21f8651de3f2baea",
-      "title": "文部科学省ホームページトップはこちら",
-      "url": "https://www.mext.go.jp/",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-07-25T21:45:28.451Z",
-      "summary": "",
-      "starred": false,
-      "category": "admin",
-      "tags": [
-        "行政",
-        "文科省",
-        "制度",
-        "教育ニュース"
-      ],
-      "priority_score": 60
-    },
     {
       "id": "item_bd1951ae70f98dac",
       "title": "サイトマップはこちら",
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-07-25T21:45:28.451Z",
+      "published_at": "2026-07-26T06:07:58.664Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +25,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-07-25T21:45:28.451Z",
+      "published_at": "2026-07-26T06:07:58.664Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +36,76 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_21f8651de3f2baea",
+      "title": "文部科学省ホームページトップはこちら",
+      "url": "https://www.mext.go.jp/",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-07-26T06:07:58.663Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_25b54defee884397",
+      "title": "【いつモノコト】デスクに欲しい情報を集約　SwitchBot電子ペーパー端末の”そこにある”魅力",
+      "url": "https://www.watch.impress.co.jp/docs/series/itsmo/2127783.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-07-26T00:30:00.000Z",
+      "summary": "デスクで作業をしていると、今の時間や気温、今日の天気をふと知りたくなる場面があります。スマホを見ればわかるのですが、そのたびに手に取って画面を開くのは地味に面倒です。筆者はこの小さな手間を減らしたくて、机の上でパッと確認できる情報端末を探していました。",
+      "starred": false,
+      "category": "dx",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "校務DX",
+        "GIGA"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_c9f679bfcec338de",
+      "title": "スマホの値上げが止まらない　フォルダブル時代に期待したい「売り方」競争",
+      "url": "https://www.watch.impress.co.jp/docs/topic/watchplus/2127477.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-07-26T00:00:00.000Z",
+      "summary": "Impress Watchニュースレターに掲載した記事です。ニュースレターは無料で、毎週編集部員が会員向けのコラムなどをお送りしています。登録はこちらから。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_1d001d750adacdd3",
+      "title": "MicrosoftやNVIDIAなど、AIのオープンウェイト規制に反対する書簡を公開――Anthropicは署名せず",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/26/news014.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-07-25T21:51:00.000Z",
+      "summary": "MicrosoftやNVIDIA、Metaなど30社以上の米国の企業や団体が、オープンウェイトAIモデルへの過度な規制回避を求める共同書簡を公開した。オープンモデルをAIエコシステムの基盤と位置付け、開発や評価におけるメリットとイノベーション促進を強調。中国企業の急速な台頭や技術流出を懸念する政権の規制動向に対し牽制を図る。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_cba0e2cb28f53d1b",
@@ -1241,22 +1293,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_f491c5371ad7964c",
-      "title": "過去最高額の還元「夏のOlive」　三井住友銀",
-      "url": "https://www.watch.impress.co.jp/docs/news/2127383.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-07-23T11:00:00.000Z",
-      "summary": "三井住友銀行は、個人向け総合金融サービス「Olive」で、過去最高額の還元となるキャンペーン「夏のOlive」を開始した。クレジットモードでの高額決済や紹介プログラムの利用などを対象に、Vポイントなどを進呈する。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_36d550d985a55306",
       "title": "「スパイダーロボ」登場　がれきを走破、モノに「触って判断」も　災害現場で活用へ　国内ベンチャー",
       "url": "https://www.itmedia.co.jp/aiplus/article/2607/23/2000000217/",
@@ -1270,22 +1306,6 @@
         "生成AI",
         "AI",
         "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_8d19d163299b8786",
-      "title": "ソフトバンクの空飛ぶ基地局「HAPS」 8月に日本で飛行試験",
-      "url": "https://www.watch.impress.co.jp/docs/news/2127402.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-07-23T10:04:36.000Z",
-      "summary": "ソフトバンクは、“空飛ぶ基地局”として開発を進めている「HAPS」の試験サービスを8月中旬以降に日本国内で実施する。災害時の運用を想定したもので、日数は7日～10日間を予定。場所は東北や四国、九州など複数の候補があり、気象条件などで実施場所を決定する。今回の試験サービスは「プレ商用サービス」と位置付けており、2027年に商用サービスの開始を予定している。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
       ],
       "priority_score": 50
     },
@@ -1390,26 +1410,6 @@
       "tags": [
         "インターネット",
         "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_37700f32030926b7",
-      "title": "Macアプリ版「Claude Code」がiOSシミュレータと連携　「Computer Use」なしでアプリ操作",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2607/23/2000000216/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-07-23T01:56:04.000Z",
-      "summary": "",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用",
-        "教材",
-        "ツール"
       ],
       "priority_score": 50
     },
