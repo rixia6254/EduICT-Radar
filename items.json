@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T10:47:17.390Z",
+  "generated_at": "2026-07-26T21:52:18.557Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-07-26T10:47:07.130Z",
+      "published_at": "2026-07-26T21:52:08.097Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-07-26T10:47:07.130Z",
+      "published_at": "2026-07-26T21:52:08.097Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-07-26T10:47:07.130Z",
+      "published_at": "2026-07-26T21:52:08.097Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,61 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_c958b33684e5c987",
+      "title": "【2021年のINTERNET Watch】コロナ対策やテレワークも定着、デジタル庁発足で官民のデジタルインフラ構築も進む",
+      "url": "https://internet.watch.impress.co.jp/docs/special/30th/2078450.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-07-26T21:30:00.000Z",
+      "summary": "2021年（令和3年）は、前年から引き続き、新型コロナウイルス感染症（COVID-19）の影響を大きく受けた1年となった。外出の自粛も引き続き呼びかけられ、「おうち時間」を楽しむためのコンテンツが話題になったほか、自宅で業務を行うテレワークも定着してきた。",
+      "starred": false,
+      "category": "dx",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "校務DX",
+        "GIGA",
+        "情報モラル",
+        "行政",
+        "文科省"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_4d9cd13a1a9de97c",
+      "title": "【本日7月27日 20時配信】「JC-STAR★1」付きのWi-Fiルーターってなにが違う？　NEC Aterm 7200D8BEで検証して見えたその違いをライブで解説【清水理史の「イニシャルB」チャンネル】",
+      "url": "https://internet.watch.impress.co.jp/docs/column/shimizumovie/2127809.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-07-26T21:00:00.000Z",
+      "summary": "最近よく聞く「JC-STAR」。IoT機器のセキュリティに関するラベリング制度のことで、家庭用Wi-Fiルーターだと「JC-STAR★1に適合」といった製品をよく見るけど、はたしてその中身はどんなものなのか？",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_21c53917fbad0d76",
+      "title": "発売後にIoTセキュリティ基準“JC-STAR”に適合したNEC「Aterm 7200D8BE」の対応状況をチェック。別型番も適合？　実際の対策状況は？【イニシャルB】",
+      "url": "https://internet.watch.impress.co.jp/docs/column/shimizu/2126670.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-07-26T21:00:00.000Z",
+      "summary": "Wi-FiルーターやNASなど、すでに幅広い機器が対応を公表し、IoT機器の身近な安全性基準として定着しつつある「JC-STAR（★1）」。その対応状況を実機で、実際に試してみよう、というのが今回の企画の趣旨だ。",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_25b54defee884397",
@@ -1421,54 +1476,6 @@
       "source_name": "INTERNET Watch",
       "published_at": "2026-07-23T01:30:00.000Z",
       "summary": "Amazon.co.jpのBougeRVストアページでは現在、同社製の冷凍冷蔵庫がセール価格で販売されている。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_b07837493a093435",
-      "title": "Yahoo!ニュース、30周年記念で特設サイト開設。ヤフトピ、ヤフコメなど機能や体験の変化を振り返り",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2127050.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-07-22T23:00:00.000Z",
-      "summary": "LINEヤフー株式会社は、ニュース配信サービス「Yahoo!ニュース」が2026年7月22日にサービス開始30周年を迎えたことを記念し、特設サイトを公開した。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_2fb7740a495276e4",
-      "title": "ニフティ、「＠nifty光 10ギガ」向けにWi-Fi 7対応ハイエンドルーター「WXR18000BE10P」の分割購入を提供　アンテナが「カニのハサミ」に見えるとして、カニなどが当たるキャンペーンも実施",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2127055.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-07-22T22:30:00.000Z",
-      "summary": "ニフティ株式会社は7月22日、光回線サービス「＠nifty光 10ギガ」において、バッファローのWi-Fi 7対応ルーター「WXR18000BE10P」の分割購入提供を開始した。支払いは月額1200円で、支払回数は48回。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_3b6f8bc12cbfadfc",
-      "title": "TP-Link、Bluetooth 6.0対応の小型USBアダプター「UB6A」発売",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2126942.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-07-22T22:30:00.000Z",
-      "summary": "ティーピーリンクジャパン株式会社（TP-Link）は、Bluetooth 6.0に対応した小型USBアダプター「UB6A」を、7月30日にAmazon限定で販売する。市場想定価格は1700円。",
       "starred": false,
       "category": "tech",
       "tags": [
