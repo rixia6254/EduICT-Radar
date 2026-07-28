@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T11:23:50.861Z",
+  "generated_at": "2026-07-28T21:56:11.511Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-07-28T11:23:36.208Z",
+      "published_at": "2026-07-28T21:56:01.200Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-07-28T11:23:36.208Z",
+      "published_at": "2026-07-28T21:56:01.200Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-07-28T11:23:36.208Z",
+      "published_at": "2026-07-28T21:56:01.200Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,46 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_5c500a4d084d2d28",
+      "title": "【Pythonで学ぶデータ分析】母平均に差があるかどうかをベイズt検定で調べる ～ 運動部と非運動部の体力差はあるのか？",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/29/news007.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-07-28T20:00:00.000Z",
+      "summary": "運動部と非運動部の生徒の体力テストを例に、母平均に差があるかどうかをベイズ統計により検定します。古典的なt検定のp値に代わるものとしてベイズ因子を利用します。『社会人1年生から学ぶやさしいデータ分析』ベイズ統計編の第6回です。",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "教材",
+        "ツール",
+        "教育ニュース"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_cc0436175808c03c",
+      "title": "これから始めるAIコーディング・AI開発　「Cursor」「Dify」超入門",
+      "url": "https://kn.itmedia.co.jp/kn/articles/2607/28/news093.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-07-28T11:00:00.000Z",
+      "summary": "生成AIにより、プログラミングの専門知識がなくてもコード作成やアプリ開発を手軽にできるようになった。本ブックレットでは、「Dify」「Cursor」といったツールにより、非エンジニアでも気軽にプログラミングに挑戦するためのアイデアをまとめた。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 70
     },
     {
       "id": "item_95de12de44bda4b4",
@@ -1334,26 +1374,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_8d965f56a9bd59dd",
-      "title": "法人被害45億円、元警視庁が解説「会話もできるAI詐欺」の手口と対策",
-      "url": "https://kn.itmedia.co.jp/kn/articles/2607/27/news029.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-07-26T22:00:00.000Z",
-      "summary": "生成AIによる音声合成の進化で、経営者や上司の声が数秒で複製される時代が訪れた。元警視庁職員やAI音声開発企業のCEOなど3人の専門家が、実演で脅威を体感させながら、最新のボイスフィッシングの手口と、組織が今すぐ取るべき備えを示した。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用",
-        "セキュリティ",
-        "情報モラル"
-      ],
-      "priority_score": 60
-    },
-    {
       "id": "item_ed8c3d5da8d476a1",
       "title": "営業秘密侵害が過去最多に。社内不正の4割を占める「情報持ち出し」について、デジタルデータソリューションに聞く",
       "url": "https://internet.watch.impress.co.jp/docs/special/2127602.html",
@@ -1421,24 +1441,6 @@
         "インターネット",
         "セキュリティ",
         "情報モラル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_1d001d750adacdd3",
-      "title": "MicrosoftやNVIDIAなど、AIのオープンウェイト規制に反対する書簡を公開――Anthropicは署名せず",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/26/news014.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-07-25T21:51:00.000Z",
-      "summary": "MicrosoftやNVIDIA、Metaなど30社以上の米国の企業や団体が、オープンウェイトAIモデルへの過度な規制回避を求める共同書簡を公開した。オープンモデルをAIエコシステムの基盤と位置付け、開発や評価におけるメリットとイノベーション促進を強調。中国企業の急速な台頭や技術流出を懸念する政権の規制動向に対し牽制を図る。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
       ],
       "priority_score": 50
     },
