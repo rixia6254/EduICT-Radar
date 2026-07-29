@@ -1,32 +1,14 @@
 {
-  "generated_at": "2026-07-29T05:54:54.964Z",
+  "generated_at": "2026-07-29T11:29:59.625Z",
   "total": 103,
   "items": [
-    {
-      "id": "item_21f8651de3f2baea",
-      "title": "文部科学省ホームページトップはこちら",
-      "url": "https://www.mext.go.jp/",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-07-29T05:54:44.152Z",
-      "summary": "",
-      "starred": false,
-      "category": "admin",
-      "tags": [
-        "行政",
-        "文科省",
-        "制度",
-        "教育ニュース"
-      ],
-      "priority_score": 60
-    },
     {
       "id": "item_bd1951ae70f98dac",
       "title": "サイトマップはこちら",
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-07-29T05:54:44.152Z",
+      "published_at": "2026-07-29T11:29:49.236Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +25,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-07-29T05:54:44.152Z",
+      "published_at": "2026-07-29T11:29:49.236Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +36,202 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_21f8651de3f2baea",
+      "title": "文部科学省ホームページトップはこちら",
+      "url": "https://www.mext.go.jp/",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-07-29T11:29:49.235Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_e29b99278f969cd0",
+      "title": "アマゾン、Prime Videoに操作できる動画広告",
+      "url": "https://www.watch.impress.co.jp/docs/news/2129017.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-07-29T11:00:00.000Z",
+      "summary": "Amazon Adsは8月3日より、日本のPrime Videoで「インタラクティブ動画広告」を提供開始する。広告表示中にリモコンを操作し、広告に表示された商品をAmazonのカートへ追加したり、詳細情報の通知を受け取ったりできる。",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "行政",
+        "文科省"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_163f759e5a431300",
+      "title": "PFN、自衛隊の作戦立案AIを開発へ",
+      "url": "https://www.watch.impress.co.jp/docs/news/2129000.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-07-29T09:29:17.000Z",
+      "summary": "Preferred Networks(PFN)は、防衛装備庁の新世代装備研究所が実施する「生成AI等を用いた作戦環境情報分析支援実現に関する実証」を受託し、自衛隊の作戦計画立案を支援するシステムの開発と検証を実施する。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "生成AI",
+        "AI活用"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_6e32701a36e71167",
+      "title": "PayPay、アプリから寄付が可能に　令和8年熊本地震にも対応",
+      "url": "https://www.watch.impress.co.jp/docs/news/2128989.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-07-29T09:14:18.000Z",
+      "summary": "PayPayは、PayPayアプリから寄付ができるサービスを開始した。PayPayアプリ内で支援したいプロジェクトや寄付先を選び、1円(ポイント)から寄付ができる。一部、「令和8年熊本地震」に関する寄付も受付している。",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_52b91355fbbbb531",
+      "title": "HP製PCに「Rakuten AI」標準搭載　ハイブリッドAI実用化へ",
+      "url": "https://www.watch.impress.co.jp/docs/news/2128949.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-07-29T08:29:56.000Z",
+      "summary": "日本HPと楽天グループは29日、日本国内のHP製PC向けにAIエージェントアプリ「Rakuten AI for Desktop」を提供開始した。法人向けは同日から提供し、個人向けは2026年10月以降を予定する。対象はゲーミングPC、シンクライアント、一部のワークステーションを除くWindows PCで、プリバンドルした状態で順次販売する。",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_6c5b8b5e4ff8af38",
+      "title": "ChatGPT WorkとCodexの5時間制限「明日から再開」　GPT-5.6 Solの“トークン消費問題”を改善",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2607/29/2000000273/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-07-29T07:29:39.000Z",
+      "summary": "米OpenAI幹部のティボ・ソティオ氏は、デスクトップPC向けAIサービス「ChatGPT Work」とAIコーディングツール「Codex」について「明日から5時間ごとの利用制限枠を再開する」と発表した。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_37f64bc62e7aeee1",
+      "title": "築地駅直結の20階建て複合施設　駅前広場も新設",
+      "url": "https://www.watch.impress.co.jp/docs/news/2128925.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-07-29T07:23:06.000Z",
+      "summary": "日鉄興和不動産とNTT都市開発は、東京メトロ日比谷線 築地駅に隣接する区域の再開発事業について、東京都知事から権利変換計画の認可、国土交通大臣から民間都市再生事業計画の認定を受けたと発表した。地上20階・地下2階、高さ約110mの複合施設開発を、2030年11月竣工の計画で推進する。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_39265380317b5c3f",
+      "title": "Gemini Spark、Proプランで利用可能に　24時間働く「AIパートナー」",
+      "url": "https://www.watch.impress.co.jp/docs/news/2128877.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-07-29T06:59:49.000Z",
+      "summary": "Googleは、パーソナルAIエージェント「Gemini Spark」が近日中に日本のGoogle AI Proプラン(月額2,900円)契約者も利用可能になると発表した。29日にアジアパシフィック地域での展開について説明するとともに、英語のほか日本語にも対応し、Geminiが情報収集やデータ整理、日々のやり取り、スケジュール調整、旅行の手配などを、24時間体制で自動実行することを紹介した。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "生成AI",
+        "AI活用"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_f58f9a57ba1ba5b1",
+      "title": "総務省、令和8年熊本地震に関する通信インフラなどの被害状況を公開　災害用無料Wi-Fi「00000JAPAN」、災害用伝言板が稼働中",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2128920.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-07-29T06:45:30.000Z",
+      "summary": "総務省は、7月28日に発生し最大震度7を観測した「令和8年熊本地震」に関する通信インフラなどの被害状況を公開している。",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "行政",
+        "文科省"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_fec4d79503140215",
+      "title": "PFN「国産AI」で自衛隊を支援へ　防衛の作戦立案に利用　防衛装備庁の実証実験を受託",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2607/29/2000000272/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-07-29T06:38:33.000Z",
+      "summary": "Preferred Networksは、生成AIで自衛隊を支援するシステムを開発すると発表した。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_195bad37ad5b3d6b",
+      "title": "生命保険契約照会システムで、一部情報が外部から閲覧可能な状態に。生命保険協会が発表",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2128915.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-07-29T06:34:18.000Z",
+      "summary": "一般社団法人生命保険協会は7月29日、同協会が運営する生命保険契約照会システムで、利用者の一部情報が外部から特定の操作により閲覧可能な状態になっていたことを確認したとして、情報を発表した。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_9bf72116b35801ac",
@@ -78,7 +256,7 @@
       "source_id": "note_joho1",
       "source_name": "note（情報科教員）",
       "published_at": "2026-07-29T05:35:18.000Z",
-      "summary": "2026年7月29日（水）、名古屋国際工科専門職大学の学生と市邨高校の生徒が、防災体験イベント「つくって！走らせて！レスキューロボ大作戦！」の初日を実施しました。会場は、株式会社名鉄スマイルプラスが運営するTELACO藤が丘校です。当日の様子を報告します。 続きをみる",
+      "summary": "2026年7月29日（水）、名古屋国際工科専門職大学の学生と市邨高校の生徒が、防災体験イベント「つくって！走らせて！レスキューロボ大作戦！」の初日を実施しました。会場は、株式会社名鉄スマイルプラスが運営するTELACO藤が丘校です。当日の様子を報告します。 《PDFでの簡易版報告書はこちら》 続きをみる",
       "starred": false,
       "category": "edu_news",
       "tags": [
@@ -165,7 +343,7 @@
     },
     {
       "id": "item_51e63992ef36a6ea",
-      "title": "ソニーFGとコクヨ、「コンディショニングチェア」開発　“状態”をつくる",
+      "title": "コクヨとソニーFG、「コンディショニングチェア」開発　“状態”をつくる",
       "url": "https://www.watch.impress.co.jp/docs/news/2128820.html",
       "source_id": "impress_watch",
       "source_name": "Impress Watch",
@@ -1056,38 +1234,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_f5cc9146c30926ce",
-      "title": "東京ベイ 浜松町～竹芝エリアでナイトクルーズ　JR東・東急・野村らが連携",
-      "url": "https://www.watch.impress.co.jp/docs/news/2128608.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-07-28T09:16:05.000Z",
-      "summary": "東急不動産、JR東日本、野村不動産、世界貿易センタービルディングの4社は、浜松町駅周辺エリアの浜松町芝大門・竹芝・芝浦の3地区における夜間の回遊・滞在促進を目的に、「SHIBA TOKYO BAY NIGHT CRUISE」を8月28日から9月25日までの毎週金曜日に実施する。ウォーターフロントを巡る約60～70分間のクルーズで、料金は4,500円、もしくは8,000円。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_7cfdb5a5d2165c1f",
-      "title": "Uber One、サブスク料金値上げ　メンバー特典拡充",
-      "url": "https://www.watch.impress.co.jp/docs/news/2128620.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-07-28T09:05:22.000Z",
-      "summary": "Uber Japanは28日、サブスクリプションプログラム「Uber One」の特典を拡充し、料金を改定する。新規メンバーには同日から、既存メンバーには8月12日から順次適用する。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_1076042b5544b45d",
       "title": "Claude、一部チャットがGoogle検索で“丸見え”に　過去には「ChatGPT」でも　漏えいの原因は？",
       "url": "https://www.itmedia.co.jp/business/articles/2607/28/news089.html",
@@ -1104,38 +1250,6 @@
         "AI活用"
       ],
       "priority_score": 60
-    },
-    {
-      "id": "item_1441cef740dd9cd2",
-      "title": "衛星インターネット「Amazon Leo」モバイル通信を28年配備へ",
-      "url": "https://www.watch.impress.co.jp/docs/news/2128600.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-07-28T08:32:03.000Z",
-      "summary": "Amazonは27日(米国時間)、低軌道衛星の通信ネットワーク「Amazon Leo」において、スマートフォンなどから直接利用できる新たな衛星通信網として、最大5,105機の衛星打上げ計画をFCC(米連邦通信委員会)に申請した。4月に締結したGlobalstarの買収・合併契約により実現するもので、2028年から衛星の配備が開始される予定。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_9f776d68899fc1a7",
-      "title": "X Money、米国でスタート　金利は最大6%、送金無料",
-      "url": "https://www.watch.impress.co.jp/docs/news/2128565.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-07-28T08:01:20.000Z",
-      "summary": "Xは27日(米国時間)、金融サービス「X Money」を米国のPremium、Premium+契約者向けに展開開始した。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
     },
     {
       "id": "item_5660a2bc280d7e65",
@@ -1169,40 +1283,6 @@
         "AI",
         "LLM",
         "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_638c692c3a625c5e",
-      "title": "TikTok、世界初の地域発信プロジェクトを京都・大津で　「成瀬は天下を取りにいく」連動",
-      "url": "https://www.watch.impress.co.jp/docs/news/2128572.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-07-28T07:46:55.000Z",
-      "summary": "TikTokは、地域の魅力を発信するプロジェクト「TikTok GO Local」をグローバルで初めて展開する。第1弾として、京都市と大津市を対象とした「TikTok GO Local in 京都 & 大津」を実施する。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_e1d4a3edeb1d8ff3",
-      "title": "tenki.jpアプリ、有料プラン値上げ　広告少なく、UX改善",
-      "url": "https://www.watch.impress.co.jp/docs/news/2128529.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-07-28T07:17:43.000Z",
-      "summary": "日本気象協会とALiNKインターネットは、共同で運営する天気予報専門メディア「tenki.jp」において、アプリの利便性向上を目的とした段階的なユーザー体験(UX)アップデートを開始し、その第1弾を公開した。また、有料プランを月額260円に値上げする。",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "教材",
-        "ツール"
       ],
       "priority_score": 50
     },
@@ -1367,28 +1447,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_1700471d33e7befc",
-      "title": "なぜ、Microsoft 365 Copilotは「会社の仕事を理解する」のがうまいのか？",
-      "url": "https://kn.itmedia.co.jp/kn/articles/2607/28/news030.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-07-27T22:00:00.000Z",
-      "summary": "生成AIは「答える」から「仕事を進める」ツールへと進化している。では、業務で本当に頼れるAIと、単なる生成ツールの違いはどこにあるのか。鍵を握るのは、企業固有の文脈を理解する力だ。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用",
-        "校務DX",
-        "GIGA",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 60
-    },
-    {
       "id": "item_72f2253d99b32dc9",
       "title": "ニトリ、工事不要で使えるポータブルクーラーに14畳対応のハイパワーモデル追加の記事に注目が集まる【アクセスランキング】",
       "url": "https://internet.watch.impress.co.jp/docs/news/ranking/2127996.html",
@@ -1401,58 +1459,6 @@
       "tags": [
         "インターネット",
         "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_cf0022f9e46dbead",
-      "title": "AIエージェントが車載アプリを動的に生成、イーソルがAIDVに向けた実験場を披露",
-      "url": "https://monoist.itmedia.co.jp/mn/articles/2607/28/news056.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-07-27T21:45:00.000Z",
-      "summary": "イーソルは、ユーザーイベント「eSOL Technology Forum 2026」において、AIエージェントと人／車両が対話するための実験場となる仮想環境「eSOL AI Mobility Sandbox」を披露した。",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_3f61b4b4d411bff8",
-      "title": "エレコム、半固体電池など安全性の高いモバイルバッテリー購入者を対象にPayPayポイントを付与するキャンペーン",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2128233.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-07-27T21:30:00.000Z",
-      "summary": "エレコム株式会社は7月27日、半固体リチウムイオン電池をはじめとする発熱・発火のリスクを抑えた次世代モバイルバッテリーの購入者を対象に、PayPayポイントを付与するキャンペーンを開始した。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_61290f2460ab4b66",
-      "title": "サイバー攻撃グループの名前から国家や動機を分かりやすく。Googleが新命名規則を展開　「APT44」は「SANDWORM RELIC」に",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2128210.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-07-27T21:00:00.000Z",
-      "summary": "Google Threat Intelligence Group（GTIG）は7月25日、サイバー攻撃グループ（脅威アクター）の新たな命名規則の展開を開始した。",
-      "starred": false,
-      "category": "security",
-      "tags": [
-        "インターネット",
-        "セキュリティ",
-        "情報モラル"
       ],
       "priority_score": 50
     },
