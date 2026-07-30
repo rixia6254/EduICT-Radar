@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T11:14:13.249Z",
+  "generated_at": "2026-07-30T22:00:03.853Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-07-30T11:14:02.889Z",
+      "published_at": "2026-07-30T21:59:53.676Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -25,7 +25,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-07-30T11:14:02.889Z",
+      "published_at": "2026-07-30T21:59:53.676Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-07-30T11:14:02.888Z",
+      "published_at": "2026-07-30T21:59:53.675Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,22 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_1283ee137542b1c8",
+      "title": "壁掛け・卓上設置に対応した19インチラック、サンワサプライが発売",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2129294.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-07-30T21:00:00.000Z",
+      "summary": "サンワサプライ株式会社は7月23日、壁掛けと卓上設置のどちらにも対応した19インチラックを発売した。4Uの「CP-SVNAW4ULGY」が市場想定価格10万4500円、6Uの「CP-SVNAW6ULGY」が同11万5500円。ネットワーク機器などを省スペースで収納できるとしている。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_be0f4b2cad6c8b6f",
@@ -1267,24 +1283,6 @@
         "GIGA",
         "行政",
         "文科省"
-      ],
-      "priority_score": 60
-    },
-    {
-      "id": "item_d7b21850b38297ca",
-      "title": "ChatGPT、有名作家の文体を模倣するリクエストを拒否するよう仕様変更。単なる免責事項との指摘も【やじうまWatch】",
-      "url": "https://internet.watch.impress.co.jp/docs/yajiuma/2128785.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-07-29T02:41:35.000Z",
-      "summary": "ChatGPTから、有名作家の文体を模倣するリクエストを拒否するようになったことが明らかになった。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "インターネット",
-        "セキュリティ",
-        "生成AI",
-        "AI活用"
       ],
       "priority_score": 60
     },
