@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T10:44:07.954Z",
+  "generated_at": "2026-08-01T21:46:47.604Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-08-01T10:43:58.407Z",
+      "published_at": "2026-08-01T21:46:37.219Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-08-01T10:43:58.407Z",
+      "published_at": "2026-08-01T21:46:37.219Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-08-01T10:43:58.407Z",
+      "published_at": "2026-08-01T21:46:37.219Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,22 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_c66cb396ac195be8",
+      "title": "Google EarthのNano Banana画像生成、フェイク対策のため開始1日で停止",
+      "url": "https://www.watch.impress.co.jp/docs/news/2129842.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-08-01T10:53:10.000Z",
+      "summary": "Googleは31日(米国時間)、Web版の「Google Earth」において30日に提供開始したばかりの画像生成機能を停止した。再開に向けて、より強力なガードレールを導入するなどの対策を進める。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_4dfbab73d4e055d9",
@@ -1248,22 +1264,6 @@
       "tags": [
         "インターネット",
         "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_374faedc324c633b",
-      "title": "新幹線定期券、EXで座席指定可能に　9月から",
-      "url": "https://www.watch.impress.co.jp/docs/news/2129341.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-07-30T09:59:59.000Z",
-      "summary": "JR東海とJR西日本は、ネット予約&チケットレス乗車サービスであるEXサービス「エクスプレス予約」「スマートEX」において、新幹線定期券「FREX(通勤用)」と「FREXパル(通学用)」向け商品「フレックス専用EX座席指定券」を9月15日に発売する。EXサービス上で、東海道・山陽新幹線の普通車指定席やグリーン車を予約できる。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
       ],
       "priority_score": 50
     },
