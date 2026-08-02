@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-08-01T21:46:47.604Z",
-  "total": 103,
+  "generated_at": "2026-08-02T06:05:26.108Z",
+  "total": 83,
   "items": [
+    {
+      "id": "item_5a2c7864b68dcd43",
+      "title": "過去の文部科学省ホームページ（※国立国会図書館ホームページへリンク）",
+      "url": "https://warp.ndl.go.jp/waid/3475",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-08-02T06:05:15.544Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
     {
       "id": "item_21f8651de3f2baea",
       "title": "文部科学省ホームページトップはこちら",
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-08-01T21:46:37.219Z",
+      "published_at": "2026-08-02T06:05:15.543Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +44,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-08-01T21:46:37.219Z",
+      "published_at": "2026-08-02T06:05:15.543Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -38,22 +56,62 @@
       "priority_score": 50
     },
     {
-      "id": "item_5a2c7864b68dcd43",
-      "title": "過去の文部科学省ホームページ（※国立国会図書館ホームページへリンク）",
-      "url": "https://warp.ndl.go.jp/waid/3475",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-08-01T21:46:37.219Z",
-      "summary": "",
+      "id": "item_7a3760875babb20e",
+      "title": "Google、パーソナルAI「Gemini Spark」を日本でも利用可能に　Chrome統合は米国から",
+      "url": "https://www.itmedia.co.jp/news/article/2608/02/2000000347/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-08-02T01:12:35.000Z",
+      "summary": "Googleは、パーソナルAIエージェント「Gemini Spark」の提供対象を日本を含む160カ国以上に拡大した。PC停止時やスマホのロック時もGoogleのクラウド基盤上で動作し、トリガーに応じてタスクを処理する。さらに、ログイン情報や保存されたパスワードを活用してWeb上の各種手続きを代行するChrome統合機能も発表された。",
       "starred": false,
-      "category": "admin",
+      "category": "ai",
       "tags": [
-        "行政",
-        "文科省",
-        "制度",
-        "教育ニュース"
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用",
+        "校務DX",
+        "GIGA",
+        "セキュリティ",
+        "情報モラル"
       ],
-      "priority_score": 60
+      "priority_score": 50
+    },
+    {
+      "id": "item_b8b7cadf68fe8181",
+      "title": "「AI導入しても評価されない問題」は解決できるのか",
+      "url": "https://www.watch.impress.co.jp/docs/topic/watchplus/2129414.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-08-02T00:00:00.000Z",
+      "summary": "Impress Watchニュースレターに掲載した記事です。ニュースレターは無料で、毎週編集部員が会員向けのコラムなどをお送りしています。登録はこちらから。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_c10d08072c877b6c",
+      "title": "OpenAI、アクティブユーザー10億人超に　導入企業は200万社超",
+      "url": "https://www.itmedia.co.jp/news/article/2608/02/2000000346/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-08-01T22:21:26.000Z",
+      "summary": "OpenAIは、アクティブユーザーが10億人、導入企業が200万社を突破したと公表した。推論の保持やコンテキスト管理の改善、本番ソフトウェアの最適化によりコスト削減やトークン生成効率の向上を実現。「GPT-5.6」の一部モデルの値下げはこれらの成果を顧客に還元したものであり、再投資の循環を強調した。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_c66cb396ac195be8",
@@ -68,40 +126,6 @@
       "tags": [
         "テクノロジー",
         "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_4dfbab73d4e055d9",
-      "title": "Neatframe、文科省「N-E.X.T.ハイスクール構想」を支援　説明ウェビナー4日開催",
-      "url": "https://ict-enews.net/2026/08/01neatframe/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-08-01T04:41:14.000Z",
-      "summary": "Neatframe（Neat）は7月31日、近畿日本ツーリストと共同で、高校教育改革（N-E.X.T.ハイスクール構想）の計画作りの課題解決の支援を行うと発表し、遠隔インフラ構築と […]",
-      "starred": false,
-      "category": "admin",
-      "tags": [
-        "教育ニュース",
-        "ICT",
-        "行政",
-        "文科省"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_609ae3061b91d043",
-      "title": "朝日新聞社、「バーチャル高校野球」で組み合わせ抽選会と全48試合の無料ライブ配信実施",
-      "url": "https://ict-enews.net/2026/08/01asahi-4/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-08-01T03:03:20.000Z",
-      "summary": "朝日新聞社と朝日放送テレビ、LINEヤフーは共同で、LINEヤフーが運営するスポーツ総合サイト「スポーツナビ」内で展開する「バーチャル高校野球」で、第108回全国高校野球選手権大会 […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
       ],
       "priority_score": 50
     },
@@ -152,22 +176,6 @@
         "デジタル",
         "教材",
         "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_c4381b9a583c524c",
-      "title": "ICT教育ニュースの新広告サービス バナー広告・記事広告をクリック数で課金",
-      "url": "https://ict-enews.net/2026/08/icten-ad/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-07-31T15:00:45.000Z",
-      "summary": "ICT教育ニュースの新しいアフィリエイト広告メニュー バナー広告・記事広告をクリック数で課金 リーズナブルで納得の新サービス ＊テスト運用中です。内容変更の可能性があります。 《T […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
       ],
       "priority_score": 50
     },
@@ -810,294 +818,6 @@
       "priority_score": 60
     },
     {
-      "id": "item_a07058a18df9549c",
-      "title": "Polimill、自治体向け生成AI「QommonsAI」の活用研修を北海道むかわ町で実施",
-      "url": "https://ict-enews.net/2026/07/31polimill-3/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-07-30T23:45:21.000Z",
-      "summary": "Polimillは、北海道むかわ町の職員を対象に、自治体向け生成AI「QommonsAI（コモンズAI）」の活用研修（初級編）を7月23日に実施した。 同研修は、本庁と総合支所をオ […]",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "教育ニュース",
-        "ICT",
-        "生成AI",
-        "AI活用"
-      ],
-      "priority_score": 60
-    },
-    {
-      "id": "item_867125483f66e9b6",
-      "title": "自己破産で子どもの進学を不安視した親は54.0%、実際に受験先を変更したのは21.0% =cielo azul 調べ=",
-      "url": "https://ict-enews.net/2026/07/31cieloazul/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-07-30T23:44:53.000Z",
-      "summary": "債務整理に関する情報整理サービスを提供するcielo azulが運営する『債務整理相談ナビ』は30日、自己破産の経験者100人を対象に「自己破産が子どもに与える影響」に関する調査を […]",
-      "starred": false,
-      "category": "exam",
-      "tags": [
-        "教育ニュース",
-        "ICT",
-        "共通テスト",
-        "入試"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_977da361a424e8aa",
-      "title": "青山学院大学、青山キャンパスに「統計データサイエンス学環」2027年4月開設予定",
-      "url": "https://ict-enews.net/2026/07/31aoyama/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-07-30T23:44:33.000Z",
-      "summary": "青山学院大学は29日、青山キャンパスに新設する「統計データサイエンス学環」について、文部科学省への設置届出が受理されたことを受け、2027年4月の開設に向けて準備を進めていると発表 […]",
-      "starred": false,
-      "category": "admin",
-      "tags": [
-        "教育ニュース",
-        "ICT",
-        "行政",
-        "文科省"
-      ],
-      "priority_score": 70
-    },
-    {
-      "id": "item_2e64595531e97f8a",
-      "title": "追手門学院、「AI時代、“通信”がボトルネックになる!?　社会を支える光ファイバ研究の最前線」掲載",
-      "url": "https://ict-enews.net/2026/07/31otemon-3/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-07-30T23:44:14.000Z",
-      "summary": "追手門学院は29日、運営する追手門学院大学の特設サイト「OTEMON VIEW」に「AI時代、“通信”がボトルネックになる!? 社会を支える光ファイバ研究の最前線」と題した記事を掲 […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_013140eb7974ac11",
-      "title": "SAK University、学校体験イベント「Discovery Days」申込者2000名突破",
-      "url": "https://ict-enews.net/2026/07/31sie-2/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-07-30T23:43:55.000Z",
-      "summary": "エスアイイーは29日、英国国立エセックス大学公認の国際教育提携校 SAK University 東京イノベーションキャンパス（SAK University）が、募集開始から約10カ […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_6abc82c327aee465",
-      "title": "PHONE APPLI、山口県立萩商工で「情報モラル社会におけるSNSと生成AIの付き合い方」開催",
-      "url": "https://ict-enews.net/2026/07/31phoneappli/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-07-30T23:43:41.000Z",
-      "summary": "PHONE APPLI30日は、山口県立萩商工高等学校（山口県萩市）の全学年の生徒を対象に、情報モラル講座「情報モラル社会におけるSNSと生成AIの付き合い方」を7月14日に開催し […]",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "教育ニュース",
-        "ICT",
-        "生成AI",
-        "AI活用",
-        "セキュリティ",
-        "情報モラル"
-      ],
-      "priority_score": 60
-    },
-    {
-      "id": "item_3dba20621ddcc236",
-      "title": "デジタルポケット、放課後等デイサービス向けデジタル創作教材「ビスケットチャレンジ」提供開始",
-      "url": "https://ict-enews.net/2026/07/31viscuit/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-07-30T23:43:22.000Z",
-      "summary": "絵だけでプログラミングできるビジュアルプログラミング⾔語「ビスケット」を開発するデジタルポケットは30日、放課後等デイサービス向けのデジタル創作教材「ビスケットチャレンジ」の提供を […]",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "教育ニュース",
-        "ICT",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 60
-    },
-    {
-      "id": "item_a5df18827da19ebd",
-      "title": "マイクロファン、教育用マイコン基板「TRYGEAR」用ホルダーを発売",
-      "url": "https://ict-enews.net/2026/07/31peoplemedia/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-07-30T23:43:09.000Z",
-      "summary": "ピープルメディア マイクロファン事業部は30日、教育用マイコン基板「TRYGEAR（トライギア）」シリーズのホルダーとして、「TRYGEARホルダー RCSERVO」の販売を開始し […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_e0d1c58968f98088",
-      "title": "秀和システム新社、『おうちでカンタン！おもしろ実験ブック 天気の科学』8月12日刊行",
-      "url": "https://ict-enews.net/2026/07/31shuwasystem/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-07-30T23:42:52.000Z",
-      "summary": "秀和システム新社は、新刊『おうちでカンタン！おもしろ実験ブック 天気の科学』を8月12日発刊する。 本書は、天気にまつわる実験を通じて「試す・考える・理解する」の3ステップで科学を […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_422c91717b32da13",
-      "title": "アイード、生成AIを活用した英語授業の実践を共有・議論する「英語授業ラボ」8月22日開催",
-      "url": "https://ict-enews.net/2026/07/31aied/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-07-30T23:42:29.000Z",
-      "summary": "英語教育分野でテクノロジーを活用したソリューションを展開するアイードは、長崎県立長崎北高等学校の上村洸貴教諭とともに、生成AIを活用した英語授業の実践を共有・議論するオンラインイベ […]",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "教育ニュース",
-        "ICT",
-        "生成AI",
-        "AI活用"
-      ],
-      "priority_score": 60
-    },
-    {
-      "id": "item_5fb7774c75ef4453",
-      "title": "エデュテクノロジー、「生徒の成長を後押しする『探究学習と評価のリアル』」8月開催",
-      "url": "https://ict-enews.net/2026/07/31edutechnology/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-07-30T23:42:12.000Z",
-      "summary": "エデュテクノロジーは、夏休み特別無料ウェビナー「生徒の成長を後押しする『探究学習と評価のリアル』～生徒と先生の意識の変化～」を8月12日に開催する。 同イベントでは、三重県立昴学園 […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_c9baadfcb302ee10",
-      "title": "マインドシェア、第6回学生プレゼン大会 全国15都道府県・25校が出場決定",
-      "url": "https://ict-enews.net/2026/07/31mindshare/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-07-30T23:41:52.000Z",
-      "summary": "マインドシェアは、第6回学生プレゼン大会を8月3日～6日に開催する。 同社では、「教育機関の取り組みに対する認知・理解の促進」と「知見の深化」を目的に、「教育情報共有会」を開催して […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_72b19201bc6f346b",
-      "title": "Neatframe、「N-E.X.T.ハイスクール構想」計画具体化へのアプローチ 8月4日開催",
-      "url": "https://ict-enews.net/2026/07/31neat-japan/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-07-30T23:41:30.000Z",
-      "summary": "Neatframe（Neat）は、近畿日本ツーリストと共同で、高校教育改革（N-E.X.T.ハイスクール構想）の計画作りの課題解決の支援を行うと発表し、遠隔インフラ構築と、カリキュ […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_c7da9ed8f4834467",
-      "title": "TAC、「受験倍率低下?!今がねらい目の公務員」8月7日オンラインで無料配信",
-      "url": "https://ict-enews.net/2026/07/31tac-4/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-07-30T23:41:09.000Z",
-      "summary": "資格取得に向けた教育サービスを展開しているTACは29日、公務員試験を検討している人や進路に悩む人に向けて、無料オンラインイベント「受験倍率低下?!今がねらい目の公務員」を8月7日 […]",
-      "starred": false,
-      "category": "exam",
-      "tags": [
-        "教育ニュース",
-        "ICT",
-        "共通テスト",
-        "入試"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_a48d46cb919c00a2",
-      "title": "Jackery、夏休みに親子で楽しく学べる脱出ゲーム型防災イベント8月22日開催",
-      "url": "https://ict-enews.net/2026/07/31jackery/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-07-30T23:40:52.000Z",
-      "summary": "ポータブル電源・ソーラーパネルの世界的リーディングカンパニーJackery（ジャクリ）の日本法人であるJackery Japanは、親子で楽しみながら災害時の行動や電気の大切さを学 […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_797d2c4741f2b062",
-      "title": "日本英語コーチング協会、「JELCAシンポジウム2026―国際外交とコミュニケーション力（仮）」8月開催",
-      "url": "https://ict-enews.net/2026/07/31jelca/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-07-30T23:40:17.000Z",
-      "summary": "日本英語コーチング協会（JELCA）は、「JELCAシンポジウム2026」を8月26日に開催する。 英語教育事業者を中心に、協会加盟を問わず多くの企業・団体が出席した昨年に続き、6 […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_58e8cd109d925ac1",
-      "title": "Stardy、「令和8年熊本地震」を受け「徹底基礎講座【数学】」「徹底基礎講座【中学数学】」から1講座を無償提供",
-      "url": "https://ict-enews.net/2026/07/31stardy/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-07-30T23:39:55.000Z",
-      "summary": "Stardyが運営するオンライン予備校「河野塾」は30日、「令和8年熊本地震」を受け、熊本県に住む人を対象に、学習機会の確保を目的とした支援を実施すると発表した。 本支援では、徹底 […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_70d0ecc59588e587",
       "title": "【小寺信良のくらしDX】夏冬の断熱に窓の二重化　その絶大な効果を「LIXIL」で体験した",
       "url": "https://www.watch.impress.co.jp/docs/series/kodera/2128370.html",
@@ -1236,22 +956,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_be0f4b2cad6c8b6f",
-      "title": "アシックスの新宿フラッグシップ店を見てきた　自分だけの1着を作れる",
-      "url": "https://www.watch.impress.co.jp/docs/news/2129348.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-07-30T10:20:30.000Z",
-      "summary": "アシックスジャパンは、東京・新宿にフラッグシップストア「ASICS FLAGSHIP SHINJUKU(アシックスフラッグシップ新宿)」を、7月31日にオープンする。30日に内覧会を実施した。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_3c3f0be0b76c9a09",
       "title": "カセットテープの音声をPCに保存できる「USB Type-C搭載カセットプレイヤー」、ナカバヤシが発売",
       "url": "https://internet.watch.impress.co.jp/docs/news/2129357.html",
@@ -1349,41 +1053,6 @@
       "tags": [
         "インターネット",
         "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_9263843fd88d469f",
-      "title": "Excel作業を自動化する「Copilot in Excel」がスキルに対応　何ができる？",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/30/news049.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-07-30T04:00:00.000Z",
-      "summary": "Microsoftは「Copilot in Excel」の財務部門向け機能を強化した。Microsoftの財務部門が実運用で利用・評価し、財務業務で求められる信頼性を重視して開発された。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_ad5f118cc75487be",
-      "title": "「データ品質に問題あり」から「予測精度95％」へ　Umiosは販売計画をどう自動化した？",
-      "url": "https://www.itmedia.co.jp/enterprise/articles/2607/31/news023.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-07-30T03:40:00.000Z",
-      "summary": "Umios（旧マルハニチロ）は、年間約4200時間を費やしていた販売計画作成を自動化した。全国の支社で入力の運用ルールがバラバラといった「データの品質」問題をどう解消し、予測精度95％を実現したのか。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
       ],
       "priority_score": 50
     },
