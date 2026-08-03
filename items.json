@@ -1,31 +1,14 @@
 {
-  "generated_at": "2026-08-03T12:31:11.267Z",
-  "total": 83,
+  "generated_at": "2026-08-03T22:00:16.845Z",
+  "total": 103,
   "items": [
-    {
-      "id": "item_bd1951ae70f98dac",
-      "title": "サイトマップはこちら",
-      "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-08-03T12:31:00.289Z",
-      "summary": "",
-      "starred": false,
-      "category": "admin",
-      "tags": [
-        "行政",
-        "文科省",
-        "制度"
-      ],
-      "priority_score": 50
-    },
     {
       "id": "item_5a2c7864b68dcd43",
       "title": "過去の文部科学省ホームページ（※国立国会図書館ホームページへリンク）",
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-08-03T12:31:00.289Z",
+      "published_at": "2026-08-03T22:00:06.515Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +26,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-08-03T12:31:00.288Z",
+      "published_at": "2026-08-03T22:00:06.514Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +37,58 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_bd1951ae70f98dac",
+      "title": "サイトマップはこちら",
+      "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-08-03T22:00:06.514Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_80c37f9dfbe214cb",
+      "title": "Anthropic、「Claude」のサイバー攻撃能力テスト中に3件の不正アクセスが発生したと発表",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2130096.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-08-03T21:30:00.000Z",
+      "summary": "Anthropicは7月30日、AIモデル「Claude」のサイバーセキュリティ能力のテスト中に、モデルがテスト環境からインターネットに接続し、3つの組織のシステムに不正アクセスする事案が発生したとして、情報を公開した。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "生成AI",
+        "AI活用",
+        "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_9cfda86ecaa08ebe",
+      "title": "Scale-up Network（2）NVLinkが抱えるCache Coherencyの問題と、それを捨てたUALinkのアプローチ【ネット新技術】",
+      "url": "https://internet.watch.impress.co.jp/docs/column/nettech/2126157.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-08-03T21:00:00.000Z",
+      "summary": "さて、前回に引き続き、NVLinkの話である。前回はVolta同士、およびVoltaとPOWER9の間でCache Coherencyが提供されたという話を紹介した。ただ、Volta V100は6MBのL2 Cacheを搭載する。この全量に対して完全なCache Coherentを提供するためには、L2の各エントリがどこのメモリを参照しているかを完全に把握する必要がある。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_89097b1a3486fba1",
@@ -329,7 +364,7 @@
     },
     {
       "id": "item_1b0dbf807d54302d",
-      "title": "「ドコモの銀行」本日スタート　ドコモショップが銀行に",
+      "title": "「ドコモの銀行」スタート　ドコモショップが銀行に",
       "url": "https://www.watch.impress.co.jp/docs/news/2129970.html",
       "source_id": "impress_watch",
       "source_name": "Impress Watch",
@@ -557,6 +592,358 @@
         "AI活用",
         "セキュリティ",
         "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_7e1f53239b7f29be",
+      "title": "Polimill、QommonsAI活用研修を北海道豊頃町で実施",
+      "url": "https://ict-enews.net/2026/08/03polimill-3/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-08-02T23:49:55.000Z",
+      "summary": "生成AIの社会実装を牽引するPolimillは7月31日、北海道豊頃町の職員を対象に、自治体向け生成AI「QommonsAI（コモンズAI）」の活用研修（初級編）を現地にて実施した […]",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "生成AI",
+        "AI活用"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_678c45ffac38b5d8",
+      "title": "教員の約7割が生徒の「プロンプト設計力」による学びの深まりを実感 =アルサーガパートナーズ調べ=",
+      "url": "https://ict-enews.net/2026/08/03arsaga/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-08-02T23:49:39.000Z",
+      "summary": "アルサーガパートナーズは7月30日、全国の教育業界で働く教職員328名を対象に実施した、教育現場における生成AIの現状と組織課題に関する調査結果を公開した。 それによると、生徒の生 […]",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "生成AI",
+        "AI活用"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_56c03f58c02871a8",
+      "title": "マイナビ、「マイナビ2027年卒 内定者意識調査」の結果を発表",
+      "url": "https://ict-enews.net/2026/08/03mynavi-2/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-08-02T23:49:20.000Z",
+      "summary": "マイナビは7月31日、2027 年卒業予定の全国の大学生、大学院生を対象に実施した、「マイナビ2027年卒 内定者意識調査」の結果を発表した。 内々定を保有する学生に内々定社数を聞 […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_6a07998cd84ba78e",
+      "title": "アドビ、日本のクリエイティブAI利用者は64%、人間の判断をより重視する傾向が明らかに",
+      "url": "https://ict-enews.net/2026/08/03adobe-5/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-08-02T23:49:06.000Z",
+      "summary": "アドビは7月30日、米国、英国、フランス、ドイツ、韓国、日本、インド、オーストラリアの SNS クリエイター1万6000人以上を対象に実施した調査結果をまとめた「2026年版 クリ […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_cbc2901f41d8fea8",
+      "title": "IPA、新試験制度「プロフェッショナルデジタルスキル試験」のシラバス案を一部公表",
+      "url": "https://ict-enews.net/2026/08/03ipa-3/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-08-02T23:48:49.000Z",
+      "summary": "情報処理推進機構（IPA）は7月31日、2027年度から開始予定の新試験制度について、新設予定の「プロフェッショナルデジタルスキル試験（仮称）」の「マネジメント領域」と「システム領 […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_32701f0dfc7a0bce",
+      "title": "エージェント、福井県立科学技術高等学校でDXハイスクール事業を開始",
+      "url": "https://ict-enews.net/2026/08/03agent-network-2/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-08-02T23:48:31.000Z",
+      "summary": "エージェントは7月31日、福井県立科学技術高等学校において、文部科学省が推進する「高等学校DX加速化推進事業（DXハイスクール）」の一環として、生成AIを活用したDX人材育成プログ […]",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "生成AI",
+        "AI活用",
+        "校務DX",
+        "GIGA",
+        "行政",
+        "文科省"
+      ],
+      "priority_score": 70
+    },
+    {
+      "id": "item_30d862530de52baa",
+      "title": "日本金融教育支援機構、専修大学との共催で中高生向け金融教育ワークショップ開催",
+      "url": "https://ict-enews.net/2026/08/03faincation/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-08-02T23:48:16.000Z",
+      "summary": "日本金融教育支援機構は、専修大学との共催で、中高生向け金融教育ワークショップ「第4回FESコンテストへの道 in 東京都千代田区」を8月18日に開催する。 昨年度、同機構は東京都千 […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_ba21cad380d80f25",
+      "title": "デジタルハリウッド大学、「現実科学研究所」を開設　産官学連携の実験場が始動",
+      "url": "https://ict-enews.net/2026/08/03dhw-14/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-08-02T23:48:00.000Z",
+      "summary": "デジタルコンテンツと企画・コミュニケーションを学ぶデジタルコミュニケーション学部（4年制大学）と、理論と実務を架橋し新たなビジネスを生み出すデジタルコンテンツ研究科（専門職大学院） […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_8b87fad29e154e56",
+      "title": "learningBOX、たつの市立龍野東中学校特別支援学級でICTを活用した体験授業を実施",
+      "url": "https://ict-enews.net/2026/08/03learningbox-3/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-08-02T23:47:38.000Z",
+      "summary": "learningBOXは7月31日、たつの市立龍野東中学校の特別支援学級で、ICTを活用した体験授業を実施したと発表した。 授業では、eラーニングシステム「learningBOX」 […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_0200cd185405f607",
+      "title": "TERRAISE、岩倉高校が2027年度新設する普通科「キャリアデザインコース」でカリキュラムパートナー連携",
+      "url": "https://ict-enews.net/2026/08/03terraise/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-08-02T23:47:19.000Z",
+      "summary": "TERRAISEは7月30日、岩倉高等学校が2027年度より新設する普通科「キャリアデザインコース」にて、生成AIおよびアントレプレナーシップ教育の包括的なカリキュラムパートナーと […]",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "生成AI",
+        "AI活用"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_997f28a064e318c0",
+      "title": "ヒューマンアカデミー、子どもの創造性と探究心を育む新講座「アート教室」全国展開",
+      "url": "https://ict-enews.net/2026/08/03athuman-6/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-08-02T23:47:01.000Z",
+      "summary": "ヒューマンアカデミーが運営する児童教育事業「ヒューマンアカデミージュニア」は7月31日、2026年4月から一部教室で先行開講していた、子どもの創造性と探究心を育む新講座「アート教室 […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_1bd8959ceaa6a79a",
+      "title": "Progate、生成AIを演習で学ぶ『生成AI入門』コースを提供開始",
+      "url": "https://ict-enews.net/2026/08/03progate/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-08-02T23:46:44.000Z",
+      "summary": "Progateは7月30日、オンライン学習サービス「Progate（プロゲート）」で、生成AIの活用スキルを演習形式で学べる『生成AI入門』コースの提供を開始したと発表した。 プロ […]",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "生成AI",
+        "AI活用"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_88b3b1e2a79bb1d4",
+      "title": "KDDIとエリクソン、生成AIを活用した小学生向け「遠隔AIクリエイター教室」 9月開催",
+      "url": "https://ict-enews.net/2026/08/03kddi-8/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-08-02T23:46:27.000Z",
+      "summary": "KDDIとエリクソン・ジャパンは、仙台市教育委員会の後援のもと、2026年9月5日・6日の2日間、小学3年生から6年生までを対象に、生成AIをテーマにした「遠隔AIクリエイター教室 […]",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "生成AI",
+        "AI活用",
+        "行政",
+        "文科省"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_31d2797cbee278f8",
+      "title": "ミエタ、東京都主催の機運醸成イベント「ここから始まる、挑戦への第一歩」中高生の参加者募集中",
+      "url": "https://ict-enews.net/2026/08/03mietaplus-2/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-08-02T23:46:10.000Z",
+      "summary": "ミエタは、東京都主催で同社が運営する、機運醸成イベント「ここから始まる、挑戦への第一歩」が8月4日に開催されることを発表した。 現在、中学生・高校生の参加者を募集している。 「社会 […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_f9e79f8e4b8bacbc",
+      "title": "情報教育対応教員研修全国セミナー「Educational Solution Seminar 2026 in 秋葉原」開",
+      "url": "https://ict-enews.net/2026/08/03fujielectric/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-08-02T23:45:55.000Z",
+      "summary": "富士電機ITソリューションは、特別協賛している情報教育対応教員研修全国セミナー「Educational Solution Seminar 2026 in 秋葉原」が8月21日に開催 […]",
+      "starred": false,
+      "category": "lesson",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "授業実践",
+        "情報Ⅰ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_822e00a96af36cb0",
+      "title": "河合塾仙台校、夏の特別セミナー第2弾「医学科入試ガイダンス／大学別セミナー／大学入試必勝法／学習ガイダンス」",
+      "url": "https://ict-enews.net/2026/08/03kawai-juku-2/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-08-02T23:45:41.000Z",
+      "summary": "河合塾仙台校は、受験生や保護者を対象とした夏休みの特別セミナー第2弾として、8月15日に「医学科入試ガイダンス」を、16日に「大学別セミナー」、22日に「大学入試必勝法」、22日・ […]",
+      "starred": false,
+      "category": "exam",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "共通テスト",
+        "入試"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_af8ef492c069beac",
+      "title": "コドモン、「園長先生カンファレンス2026」10月20日～22日開催",
+      "url": "https://ict-enews.net/2026/08/03codmon-13/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-08-02T23:45:26.000Z",
+      "summary": "コドモンは、園長・施設長が集い「保育のいまとこれから」をともに考えるイベント「園長先生カンファレンス2026」を、10月20日～22日までの3日間開催する。 本年12月に施行を控え […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_b4aad5be192af371",
+      "title": "MSI、Wi-Fi 7 対応 USB Wi-Fi アダプター「BE6500 WiFi 7 USB Adapter」発売",
+      "url": "https://ict-enews.net/2026/08/03msi-2/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-08-02T23:44:57.000Z",
+      "summary": "エムエスアイコンピュータージャパン（MSI）は7月31日、Wi-Fi 7 に対応した USB 接続タイプの無線 LAN アダプターである「BE6500 WiFi 7 USB Ada […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_4aaf5526ac48927a",
+      "title": "Sky、文科省の実証事業参画事例「学校でのセキュアなAI環境の構築と利活用の定着を支援」公開",
+      "url": "https://ict-enews.net/2026/08/03sky-6/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-08-02T23:44:40.000Z",
+      "summary": "Sky は7月30日、SI事業の一環として提供する「生成AIソリューション」の事例として、文部科学省の「次世代の校務デジタル化推進実証事業」に参画した事例を新たに公開した。 Sky […]",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "生成AI",
+        "AI活用",
+        "校務DX",
+        "GIGA",
+        "行政",
+        "文科省"
+      ],
+      "priority_score": 70
+    },
+    {
+      "id": "item_46bc89391e6e4aec",
+      "title": "日本ビーコム、タイピング練習と生成 AI 活用を融合した学習教材「AI タイピング」開発",
+      "url": "https://ict-enews.net/2026/08/03typing-gate/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-08-02T23:44:22.000Z",
+      "summary": "日本ビーコムは1日、タイピング練習と生成 AI のプロンプト学習を融合した新しい学習教材「AI タイピング」を開発したと発表した。 タイピングを学びながら、AIへ意図を正しく伝える […]",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "生成AI",
+        "AI活用",
+        "教材",
+        "ツール"
       ],
       "priority_score": 50
     },
@@ -1044,38 +1431,6 @@
         "インターネット",
         "セキュリティ",
         "情報モラル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_0a3c1f58dda7f72e",
-      "title": "BLUETTI製のポータブル電源が、Amazon暮らし応援サマーSALEで特売　100Whの日本限定モデル「AORA 100 mini」は5万6899円",
-      "url": "https://internet.watch.impress.co.jp/docs/shopping/2129422.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-07-31T02:30:00.000Z",
-      "summary": "Amazon.co.jpでは現在、「暮らし応援サマーSALE」を開催中だ。その一環として、BLUETTIストアページでは同社のリン酸鉄リチウムイオン電池を採用したポータブル電源がセール中だ。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_b3b3a2ac7ce2c3f4",
-      "title": "ロシアの「.ru」ドメイン、日本からの利用が9月1日から実質困難に？ ユーザー混乱【やじうまWatch】",
-      "url": "https://internet.watch.impress.co.jp/docs/yajiuma/2129451.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-07-31T02:03:09.000Z",
-      "summary": "ロシアのccTLD「.ru」の利用に本人確認が必要となることが発表され、同ドメインを利用してサイトなどを運営している日本のユーザーに激震が走っている。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
       ],
       "priority_score": 50
     },
