@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-08-04T11:29:48.847Z",
+  "generated_at": "2026-08-04T22:05:09.210Z",
   "total": 103,
   "items": [
+    {
+      "id": "item_21f8651de3f2baea",
+      "title": "文部科学省ホームページトップはこちら",
+      "url": "https://www.mext.go.jp/",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-08-04T22:04:57.638Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
     {
       "id": "item_bd1951ae70f98dac",
       "title": "サイトマップはこちら",
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-08-04T11:29:38.068Z",
+      "published_at": "2026-08-04T22:04:57.638Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -25,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-08-04T11:29:38.068Z",
+      "published_at": "2026-08-04T22:04:57.638Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -38,22 +56,87 @@
       "priority_score": 60
     },
     {
-      "id": "item_21f8651de3f2baea",
-      "title": "文部科学省ホームページトップはこちら",
-      "url": "https://www.mext.go.jp/",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-08-04T11:29:38.067Z",
-      "summary": "",
+      "id": "item_4b6fa8ec6ba34633",
+      "title": "位置情報って何？ 位置情報は誰のもの？ AIとの融合でどう進化する？　位置情報の歴史を振り返り、位置情報がつくる未来ビジネスを展望する",
+      "url": "https://internet.watch.impress.co.jp/docs/special/2127054.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-08-04T21:55:00.000Z",
+      "summary": "2014年刊の書籍『位置情報ビッグデータ』を全面改訂し、位置情報の技術・サービス・製品・制度の最新動向、業界をリードするキーパーソンへのインタビューなど、「位置情報ビジネス」の未来についてさまざまな視点からアプローチした書籍『位置情報がつくる未来ビジネス AIと人流データ時代のデジタル社会基盤』（著者：中島円・片岡義明、発行：インプレス NextPublishing）。同書より一部を抜粋・再編集し…",
       "starred": false,
-      "category": "admin",
+      "category": "tech",
       "tags": [
-        "行政",
-        "文科省",
-        "制度",
-        "教育ニュース"
+        "インターネット",
+        "セキュリティ"
       ],
-      "priority_score": 60
+      "priority_score": 50
+    },
+    {
+      "id": "item_368d4d24f49403b1",
+      "title": "総務省、学生や若手社会人向けのサイバーセキュリティ競技会「全国型CTFコンテスト」を10月に開催、参加受付中　ワークショップ形式で基本から学べる",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2130405.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-08-04T21:30:00.000Z",
+      "summary": "総務省は、学生や若手社会人のサイバーセキュリティへの関心を高めることを目的として、10月3日に全国9会場およびオンラインで「全国型CTFコンテスト」を開催する。参加費は無料で、9月25日まで参加申し込みを受け付けている。",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "情報モラル",
+        "行政",
+        "文科省"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_2c260429c67392b5",
+      "title": "デスクトップ版「弥生」の最新バージョン、10月16日に発売。無償でアップデートを提供する早期購入キャンペーンも",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2130187.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-08-04T21:05:00.000Z",
+      "summary": "弥生株式会社は、業務ソフト「弥生シリーズ」デスクトップ版の最新バージョンとなる「弥生 27 シリーズ」を10月16日に発売する。これに先立ち、現行バージョンである「弥生 26 シリーズ」の新規ユーザーを対象に、最新バージョンをオンラインアップデートでいち早く無償提供する「早期購入キャンペーン」を実施する。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_27bd989923ce7711",
+      "title": "第39回：AIに相談したあれこれの内容、自分がいなくなった後、家族などに絶対見られないようにするには？【天国へのプロトコル】",
+      "url": "https://internet.watch.impress.co.jp/docs/column/tengoku/2129827.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-08-04T21:00:00.000Z",
+      "summary": "AIに相談した内容が、死後に明るみになったらどうしよう？――AIサービスの急速な普及に伴い、そうした不安を抱える人も増えているようです。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_b17bd2454e5c78c9",
+      "title": "水を飲まずにビールを飲むと倒れる「ふらつくビアグラスbyよなよなエール」",
+      "url": "https://www.watch.impress.co.jp/docs/news/2130539.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-08-04T15:00:00.000Z",
+      "summary": "「よなよなエール」などのクラフトビールを製造・販売するヤッホーブルーイングは、ビールだけ飲むと倒れるグラス「ふらつくビアグラス by よなよなエール」を開発した。8月5日から公式通販サイト「よなよなの里」で予約販売を開始する。販売価格は13,750円。一部の飲食店でも使用される。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_7f6374e5b37fbb7c",
@@ -962,22 +1045,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_10ea1dae61462c0f",
-      "title": "日本郵便、「デジタルアドレス」に建物入口の登録機能",
-      "url": "https://www.watch.impress.co.jp/docs/news/2130169.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-08-03T23:00:00.000Z",
-      "summary": "日本郵便とジオテクノロジーズは、法人・個人事業主向けサービス「ビジネスデジタルアドレス」に、建物などの入口の緯度経度を登録・編集できる機能を追加した。7月30日から提供しており、登録した情報はAPIを通じて取得できる。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_7a245ccaaa73b99e",
       "title": "「LINE GAME」で発生した内部識別子の外部送信について、総務省がLINEヤフーに行政指導",
       "url": "https://internet.watch.impress.co.jp/docs/news/2130148.html",
@@ -1209,56 +1276,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_fe9192eb28630582",
-      "title": "講談社、フィッシング被害でメールアカウントの連絡先情報最大3812件が漏えい",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2130139.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-08-03T08:45:19.000Z",
-      "summary": "株式会社講談社は8月3日、社用メールアカウントへの不正アクセスにより、個人情報が漏えいしたと発表した。",
-      "starred": false,
-      "category": "security",
-      "tags": [
-        "インターネット",
-        "セキュリティ",
-        "情報モラル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_93cba5803eaefb28",
-      "title": "BASE子会社EストアーのEC構築・支援サービス「ショップサーブ」に不正アクセス、最大約885万件の店舗および購入者の情報が漏えい",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2130104.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-08-03T07:13:37.000Z",
-      "summary": "BASE株式会社と株式会社Eストアーは8月1日、EストアーのECサイト構築・運営支援サービス「ショップサーブ」のサーバーに外部からの不正アクセスを受け、購入者情報が外部に漏えいしたことを確認したと発表した。",
-      "starred": false,
-      "category": "security",
-      "tags": [
-        "インターネット",
-        "セキュリティ",
-        "情報モラル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_6d7e4e3583fd38b7",
-      "title": "WD（Western Digital）の内蔵SSD各種がAmazon暮らし応援サマーSALEに登場！　M.2 2280で1TBの「WD Black SN7100」は3万3780円に",
-      "url": "https://internet.watch.impress.co.jp/docs/shopping/2129878.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-08-03T03:30:00.000Z",
-      "summary": "Amazon.co.jpでは現在、「暮らし応援サマーSALE」を開催中だ。その一環として、WD（Western Digital）ストアページでは同ブランドの内蔵用SSDがタイムセール中となっている。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_fd44f6703bf535a4",
       "title": "「Qwen3.8-Max」登場、オープン化は「来週」　一部「Fable 5」「GPT-5.6 Sol」超えの性能うたう",
       "url": "https://www.itmedia.co.jp/aiplus/article/2608/03/2000000353/",
@@ -1289,22 +1306,6 @@
         "生成AI",
         "AI",
         "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_c313a37662713852",
-      "title": "TP-LinkのWi-Fi 7ルーターが安い！　Amazon暮らし応援サマーSALE　デュアルバンド対応「Archer BE220」が9265円など",
-      "url": "https://internet.watch.impress.co.jp/docs/shopping/2129880.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-08-03T02:30:00.000Z",
-      "summary": "Amazon.co.jpでは現在、「暮らし応援サマーSALE」を開催中だ。その一環として、TP-Linkストアページでは同社のWi-Fiルーター各種がセールとなっている。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
       ],
       "priority_score": 50
     },
