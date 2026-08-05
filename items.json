@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-08-05T05:48:06.470Z",
+  "generated_at": "2026-08-05T11:25:10.870Z",
   "total": 103,
   "items": [
+    {
+      "id": "item_5a2c7864b68dcd43",
+      "title": "過去の文部科学省ホームページ（※国立国会図書館ホームページへリンク）",
+      "url": "https://warp.ndl.go.jp/waid/3475",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-08-05T11:24:59.677Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
     {
       "id": "item_21f8651de3f2baea",
       "title": "文部科学省ホームページトップはこちら",
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-08-05T05:47:56.824Z",
+      "published_at": "2026-08-05T11:24:59.676Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +44,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-08-05T05:47:56.824Z",
+      "published_at": "2026-08-05T11:24:59.676Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -38,22 +56,135 @@
       "priority_score": 50
     },
     {
-      "id": "item_5a2c7864b68dcd43",
-      "title": "過去の文部科学省ホームページ（※国立国会図書館ホームページへリンク）",
-      "url": "https://warp.ndl.go.jp/waid/3475",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-08-05T05:47:56.824Z",
-      "summary": "",
+      "id": "item_ba9a8eb78f9343de",
+      "title": "新大阪の新幹線ホームに「カップ氷」自販機　移動時も冷たいドリンク",
+      "url": "https://www.watch.impress.co.jp/docs/news/2130888.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-08-05T11:00:00.000Z",
+      "summary": "JR東海リテイリング・プラスは、JR新大阪駅 東海道新幹線ホーム上に「カップ氷」を購入できる自販機を8月7日に設置する。",
       "starred": false,
-      "category": "admin",
+      "category": "tech",
       "tags": [
-        "行政",
-        "文科省",
-        "制度",
-        "教育ニュース"
+        "テクノロジー",
+        "デジタル"
       ],
-      "priority_score": 60
+      "priority_score": 50
+    },
+    {
+      "id": "item_e5cd59c4e7997e65",
+      "title": "「準国産」うたう人型ロボ登場　本体価格は500万円から　目指すは「純国産」",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2608/05/2000000401/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-08-05T09:47:10.000Z",
+      "summary": "AIサービスなどを開発するZEALSは、「準国産」をうたう人型ロボット「D1」を発表した。本体価格は500万円（税別）から。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_ef37aae7c1322a25",
+      "title": "PUDOなど受取ロッカーを「デジタルアドレス」で使いやすく　11月から実証",
+      "url": "https://www.watch.impress.co.jp/docs/news/2130864.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-08-05T09:35:53.000Z",
+      "summary": "GMOメイクショップ、日本郵便、JPデジタル、Packcity Japanの4社は、再配達の削減や物流負荷の低減を目的として、「デジタルアドレス」を活用しさまざまな荷物の受け取り方法を提供する実証事業を11月から開始する。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_aa7e954101b632f0",
+      "title": "共同通信に不正アクセス。職員・加盟社・取引先などの情報6000件が漏えいした可能性",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2130852.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-08-05T08:55:00.000Z",
+      "summary": "一般社団法人共同通信社は8月5日、同社が利用する電子メールなどの業務環境において、不正アクセスによる情報漏えいの可能性が判明したと発表した。",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_621bb99ec34847d1",
+      "title": "魔法瓶の技術を高架下データセンターに活用　タイガー",
+      "url": "https://www.watch.impress.co.jp/docs/news/2130824.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-08-05T08:30:51.000Z",
+      "summary": "タイガー魔法瓶は、東急グループ4社が6月から実施している都市型データセンターの実証実験に、「ステンレス密封真空断熱パネル TIVIP」を供給した。魔法瓶の技術を活かした断熱建材に関する技術サポートを行ない、データセンター内の温度安定性や冷却効率に協力する。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_16edb571352ee899",
+      "title": "AIで\"存在しない脆弱性\"を量産？　「SQLite」の偽CVEが判明　米企業が検証",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2608/05/2000000397/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-08-05T06:56:40.000Z",
+      "summary": "SQLiteの脆弱性を主張するCVEは実在しなかったと米JFrogが検証結果を公開。AI生成とみられる偽情報がNVDなどに大量登録されていた。同一アカウントが投稿した55件中54件が捏造で、CVE登録プロセスの穴を指摘した。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_fb97e9c6eff46e4c",
+      "title": "焼き立てパンを売る「タリーズ 新宿サザンテラス店」に行った　7日オープン",
+      "url": "https://www.watch.impress.co.jp/docs/news/2130771.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-08-05T06:37:22.000Z",
+      "summary": "タリーズコーヒージャパンは、店舗で焼き上げたパンを提供する「PRIME FIVE TULLY'S COFFEE 新宿サザンテラス店」を8月7日にオープンする。開業に先立ち実施された内覧会において、インストアベーカリーにチャレンジする狙いを説明した。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_27695f76e4519a19",
+      "title": "SpaceXとNVIDIA、宇宙データセンターに向け衛星用AI計算基盤を開発",
+      "url": "https://www.watch.impress.co.jp/docs/news/2130764.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-08-05T06:24:44.000Z",
+      "summary": "SpaceXは、開発中の宇宙データセンター衛星「Starmind AI1」について、NVIDIAと共同で衛星搭載用のAI計算基盤を設計すると発表した。計算基盤には、NVIDIAの次世代ラックスケールAIスーパーコンピューター「Vera Rubin NVL72」が採用される。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_713df27edb4e7317",
@@ -898,7 +1029,7 @@
     },
     {
       "id": "item_e49bac3769b733ac",
-      "title": "【8/5まで】AIを活用した開発について大調査【Amazonギフトカードが当たる】",
+      "title": "【終了しました】AIを活用した開発について大調査【Amazonギフトカードが当たる】",
       "url": "https://www.itmedia.co.jp/enterprise/articles/2608/05/news037.html",
       "source_id": "itmedia_ai",
       "source_name": "ITmedia AI+",
@@ -1035,24 +1166,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_f94ddba086d38f77",
-      "title": "Android版「楽天ペイ」アプリ、Edyチャージ機能など追加",
-      "url": "https://www.watch.impress.co.jp/docs/news/2130517.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-08-04T09:25:21.000Z",
-      "summary": "楽天ペイメントは、Android版「楽天ペイ」アプリ内の「楽天Edy」タブにおいて、「楽天Edyカード」へのチャージ機能などが順次利用可能になると発表した。",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_202146a5316c0d07",
       "title": "中部電力、社内システムへの不正アクセスでメールおよび連絡先情報が漏えいの可能性",
       "url": "https://internet.watch.impress.co.jp/docs/news/2130524.html",
@@ -1066,72 +1179,6 @@
         "インターネット",
         "セキュリティ",
         "情報モラル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_5e6134a67092548d",
-      "title": "日清、茨城県つくばみらい市に「カップヌードル特化型工場」",
-      "url": "https://www.watch.impress.co.jp/docs/news/2130500.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-08-04T09:00:00.000Z",
-      "summary": "日清食品は、茨城県つくばみらい市に「カップヌードル特化型工場」を建設する。2027年5月に着工し、2029年度中の稼働開始を予定している。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_6c067d8e0698fa79",
-      "title": "「アップルは間違えている」　OpenAIが開発者引き抜き訴訟に反論",
-      "url": "https://www.watch.impress.co.jp/docs/news/2130474.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-08-04T08:30:00.000Z",
-      "summary": "OpenAIは4日(米国時間)、OpenAIがAppleの情報を不正に利用しているとして、Appleが7月に提起した訴訟について、「彼らの対応が誤っていた」とする声明を発表した。Appleは2月にOpenAIにこの問題について連絡したとしているが、弁護士が誤った人物にメールしていたなどの問題があるとする。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "生成AI",
-        "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_9b06f6b732c2d9fc",
-      "title": "スタバ、新幹線ホームに出店拡大　27年に名古屋と京都",
-      "url": "https://www.watch.impress.co.jp/docs/news/2130477.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-08-04T08:12:16.000Z",
-      "summary": "スターバックス コーヒー ジャパンは、2027年にJR名古屋駅とJR京都駅の新幹線ホーム上に店舗をオープンする。また、リニューアルしたJR新横浜駅の新幹線ホーム上の店舗はオンラインの「スターバックス カード」のコード決済が利用できるようになった。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_5dd85fcb4f84a4ea",
-      "title": "新鎌ヶ谷駅前に商業施設「ekubo京成」　9月10日オープン",
-      "url": "https://www.watch.impress.co.jp/docs/news/2130472.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-08-04T08:04:39.000Z",
-      "summary": "京成電鉄は、京成・北総鉄道・東武鉄道の3社4路線が乗り入れる新鎌ヶ谷駅前で開発を推進している商業施設の名称を「ekubo京成 新鎌ケ谷」に決定し、9月10日にオープンする。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
       ],
       "priority_score": 50
     },
@@ -1255,22 +1302,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_1c17d46f183f671e",
-      "title": "Amazon、一部ユーザーのカスタマーレビュー表示件数を制限中。AIからのアクセスと誤認か【やじうまWatch】",
-      "url": "https://internet.watch.impress.co.jp/docs/yajiuma/2130265.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-08-04T02:22:15.000Z",
-      "summary": "Amazonが一部のユーザーをAIと誤認し、カスタマーレビューの表示件数を最大8件に制限していることが分かり波紋を呼んでいる。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_fe077a23cf528052",
       "title": "塩野義製薬、生成AIの正答率を50→90％に　膨大な機密データをどう最適化した？",
       "url": "https://kn.itmedia.co.jp/kn/articles/2608/04/news033.html",
@@ -1378,44 +1409,6 @@
         "LLM"
       ],
       "priority_score": 50
-    },
-    {
-      "id": "item_a3bf7fc72fce69d9",
-      "title": "「大きな投資計画が次々に。久しぶりだ」――強く豊かな日本投資枠、経済成長かなうか？　片山大臣が語る狙い",
-      "url": "https://www.itmedia.co.jp/business/articles/2608/04/news024.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-08-03T22:00:00.000Z",
-      "summary": "政府は、2027年度予算の概算要求において、成長投資枠は「予算の上限額を設けない」とした。その狙いと意気込みを片山さつき財務大臣が語った。",
-      "starred": false,
-      "category": "admin",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "行政",
-        "文科省"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_dba68b28cf83ab3a",
-      "title": "実在女性の中学時代の体操着姿からAIわいせつ画像作成・投稿か　男逮捕、高校生書類送検",
-      "url": "https://www.itmedia.co.jp/news/article/2608/03/2000000365/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-08-03T11:08:29.000Z",
-      "summary": "女性の写真を生成AIで加工したわいせつ画像をSNSに投稿したとして、警視庁などは、名誉毀損（きそん）と児童買春・ポルノ禁止法違反（公然陳列）の疑いで、兵庫県姫路市の会社員、井元健太容疑者（32）を逮捕した。また、画像の加工を依頼したとして、鹿児島県垂水市の高校3年の男子生徒（17）も同容疑で書類送検した。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用",
-        "教育ニュース"
-      ],
-      "priority_score": 60
     },
     {
       "id": "item_5eca5e2652b78c5a",
