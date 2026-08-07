@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T10:05:04.586Z",
+  "generated_at": "2026-08-07T21:31:02.258Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-08-07T10:04:53.589Z",
+      "published_at": "2026-08-07T21:30:52.193Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -25,7 +25,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-08-07T10:04:53.589Z",
+      "published_at": "2026-08-07T21:30:52.193Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-08-07T10:04:53.588Z",
+      "published_at": "2026-08-07T21:30:52.192Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,162 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_941bf591b5ec4021",
+      "title": "「声の無断利用」が権利侵害に――法務省が見解を明示　「AIカバー」も対象",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2608/07/2000000452/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-08-07T12:19:15.000Z",
+      "summary": "法務省は、生成AIの普及によって声優などの声が無断利用されている問題を巡り、声も既存の権利で法的に保護できるとの見解を明示した。本人の声を模したAI音声によるカバー音源なども権利侵害の可能性があるという。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_a6a58a48e3cf51d6",
+      "title": "スターバックス、横浜に“文化財カフェ”8月10日オープン",
+      "url": "https://www.watch.impress.co.jp/docs/news/2131707.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-08-07T11:30:00.000Z",
+      "summary": "スターバックス コーヒー ジャパンは、横浜の海を望む登録有形文化財の洋館に「スターバックス コーヒー 横浜海の公園店」をオープンする。営業は8月10日から。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_21568fad93b318ae",
+      "title": "Fable 5、生物学の安全対策を緩和　健康・教育など日常利用が可能に",
+      "url": "https://www.watch.impress.co.jp/docs/news/2131700.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-08-07T10:51:02.000Z",
+      "summary": "Anthropicは7日(米国時間)、最上位のAIモデル「Claude Fable 5」の生物学分野における安全対策を更新し、誤検知を大幅に削減した。これにより、Fable 5ユーザーは、生物学関連の質問をした際にシステムがOpus 5など性能の劣るモデルに切り替わる「フォールバック」がこれまでより遥かに少なくなる。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "生成AI",
+        "AI活用",
+        "教育ニュース"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_5bab787f7d931464",
+      "title": "LINEに誘導されるSNS詐欺、対策の鍵は「通報」",
+      "url": "https://www.watch.impress.co.jp/docs/news/2131709.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-08-07T10:42:21.000Z",
+      "summary": "LINEヤフーは7日、SNSを悪用した各種詐欺被害の動向と、「LINE」アプリで実施している不正対策について説明する報道関係者向け勉強会を実施した。",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_d36ecc5b5c19ee54",
+      "title": "シャープ、通期純利益見通し170億円下方修正　円安など影響　AIサーバは9月に参入",
+      "url": "https://www.itmedia.co.jp/news/article/2608/07/2000000455/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-08-07T10:34:01.000Z",
+      "summary": "シャープは7日、2027年3月期の連結純利益が前期比47.3％減の250億円になる見通しだと発表した。期初予想から170億円下方修正した。樹脂・燃料の価格上昇や円安が収益を圧迫する。営業利益は190億円引き下げて300億円。売上高は1兆7700億円に据え置いた。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_ba2b2c1392444265",
+      "title": "「就活に生成AI利用」ほぼ全員に　面接で内容追及され困惑も",
+      "url": "https://www.itmedia.co.jp/news/article/2608/07/2000000456/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-08-07T10:16:08.000Z",
+      "summary": "2027年春に卒業予定の大学生らを対象に行ったアンケートで、就職活動で生成AIを「利用していない」とした割合は3％にとどまり、ほぼ全ての学生が就活で何らかの形で生成AIを活用している実態が、人事分野の調査研究機関HR総研（東京都千代田区）などの調査で分かった。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_1ccf149be356d66d",
+      "title": "JR西、特急指定席のサブスク　10500円",
+      "url": "https://www.watch.impress.co.jp/docs/news/2131704.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-08-07T10:10:52.000Z",
+      "summary": "JR西日本は、定額で対象区間の特急列車普通車指定席を30日間何度でも利用できるサブスクリプションサービス「SUWALOCAサブスクパス」を発売する。発売期間は8月17日～11月17日で、価格は10,500円。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_d8b3a8f0c02783c4",
+      "title": "「声」の権利明記　生成AIで無断利用、法務省が民事責任の解釈指針を公表",
+      "url": "https://www.itmedia.co.jp/news/article/2608/07/2000000454/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-08-07T10:08:04.000Z",
+      "summary": "著名人の肖像などが生成AIで無断利用されている問題を巡り、法務省は声優らの「声」も法的保護の対象になると明記した解釈指針を公式サイトで公表した。肖像や氏名の無断利用については最高裁判例があるが、声については違法性の線引きが曖昧だった。権利侵害に当たる具体的な事例も盛り込み、生成AIサービスの提供事業者や利用者にも注意を促す。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_5a2fb4439817475f",
+      "title": "Lime、京都市で本格展開　三井のリパークとも連携",
+      "url": "https://www.watch.impress.co.jp/docs/news/2131703.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-08-07T10:00:00.000Z",
+      "summary": "電動モビリティシェアサービスを展開するLimeは、日本でのサービス開始から2周年を迎えるにあたり、京都市内において電動アシスト自転車「LimeBike」の本格提供を開始する。市内で車両を大規模に展開するとともに、貸し出し・返却できるポート網も順次拡充していく。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_081394e66c6ea263",
@@ -1150,26 +1306,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_4538742b9c6f28c1",
-      "title": "YAMAP、周辺のクマ情報を登山者へ通知「クマ目撃アラート」",
-      "url": "https://www.watch.impress.co.jp/docs/news/2131267.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-08-06T09:30:08.000Z",
-      "summary": "ヤマップは6日、登山アプリ「YAMAP」で、周辺のクマ目撃情報を近隣の登山者へ通知する新機能「クマ目撃アラート」を提供開始した。対象はYAMAPを「活動中(登山中)」にしている利用者で、投稿地点から半径500m以内にいる人へプッシュ通知を送る。",
-      "starred": false,
-      "category": "admin",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "教材",
-        "ツール",
-        "行政",
-        "文科省"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_d42c2038a8bc7b29",
       "title": "タイガー、魔法瓶の技術を応用した断熱材をデータセンターに提供、東急グループの実証実験で　「ステンレス密封真空断熱パネル TIVIP」",
       "url": "https://internet.watch.impress.co.jp/docs/news/2131252.html",
@@ -1182,38 +1318,6 @@
       "tags": [
         "インターネット",
         "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_9f9a0898c6c890a4",
-      "title": "軽井沢で自動運転バスの実証　“交通空白時間帯”解消目指す",
-      "url": "https://www.watch.impress.co.jp/docs/news/2131251.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-08-06T08:57:24.000Z",
-      "summary": "長野県の軽井沢町とJR東日本、西武ホールディングスは、軽井沢駅などで自動運転バスの実証運行を実施する。期間は9月6日～12月15日で、50日間。乗車には事前予約が必要で、乗車料金は無料。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_3116d4686f21a8b4",
-      "title": "東京メトロ、銀座線・丸ノ内線を大増発　計212本",
-      "url": "https://www.watch.impress.co.jp/docs/news/2131246.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-08-06T08:39:27.000Z",
-      "summary": "東京メトロは6日、銀座線と丸ノ内線で計212本の列車を増発すると発表した。9月19日に実施するダイヤ改正によるもので、日中時間帯の運転間隔は銀座線が3分間隔、丸ノ内線の池袋駅～中野坂上駅間が4分間隔に短縮される。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
       ],
       "priority_score": 50
     },
@@ -1233,38 +1337,6 @@
         "LLM",
         "AI活用",
         "教育ニュース"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_11b5668407cd10ad",
-      "title": "ハンズ50周年　“東急ハンズ”ロゴ復活やAI「てて丸」",
-      "url": "https://www.watch.impress.co.jp/docs/news/2131220.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-08-06T08:00:20.000Z",
-      "summary": "ハンズは創業50周年を迎えるにあたり、「50周年創業祭」を8月7日から開催する。「東急ハンズ」時代の旧ロゴと現在のロゴをデザインした限定トートバッグなどの販売やセールを行なうほか、ハンズ独自のAI接客サービス「てて丸」を開始する。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_b85eea193aa5fd0a",
-      "title": "iPhoneはあと払いで買う　ペイディ「Apple専用プラン」480万利用の4割がZ世代",
-      "url": "https://www.watch.impress.co.jp/docs/news/2131196.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-08-06T07:14:09.000Z",
-      "summary": "ペイディが提供する「ペイディあと払いプランApple専用」が21年6月の提供開始から5周年を迎えた。26年7月時点で、専用プランを通じて購入されたApple製品は670万点以上。注文回数は480万回に達する。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
       ],
       "priority_score": 50
     },
@@ -1355,25 +1427,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_74b19e69547787b9",
-      "title": "リクルート、新卒エンジニア向け研修資料を無料公開　“AI時代の生き残り方”など紹介する13本",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2608/06/2000000418/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-08-06T04:28:32.000Z",
-      "summary": "リクルートは、2026年度の新卒エンジニア向けの研修資料を公開した。エンジニアとして生き残るためのAIの活用法や、AIによるソフトウェア開発の考え方の変化など、業務やキャリア形成に必要な知見を幅広く紹介している。",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_a8ddf9678f2527c8",
       "title": "ウェブアクセシビリティ評価ツール「miChecker」に脆弱性、総務省が対策済みバージョンへの更新を呼び掛け",
       "url": "https://internet.watch.impress.co.jp/docs/news/2131080.html",
@@ -1408,66 +1461,6 @@
         "セキュリティ"
       ],
       "priority_score": 50
-    },
-    {
-      "id": "item_619e6e543ac34cf2",
-      "title": "MythosとGPT-5.6 Solが性能テスト中に暴走　OSSメンテナーに圧力、有害コード実行図る　英政府機関",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2608/06/2000000411/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-08-06T02:06:26.000Z",
-      "summary": "英政府機関AISIによるAIモデルのサイバー能力評価中に、AnthropicのMythos 5やOpenAIのGPT-5.6 Solが実在の人や組織を標的に暴走。偽アカウントを作り、OSSメンテナーに悪意あるコードの承認を迫っていた。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用",
-        "セキュリティ",
-        "情報モラル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_f9847d0cff588e18",
-      "title": "Meta、コーディングエージェント「Muse Code」リリース　「Claude Code」や「Codex」に対抗",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2608/06/2000000410/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-08-06T01:31:17.000Z",
-      "summary": "Metaは、ターミナル上で動作するコーディングエージェント「Muse Code」のベータ版と、新モデル「Muse Spark 1.2」を発表した。非同期バックグラウンドエージェントの常駐により遅延を抑え、複雑な開発タスクをサポートする。自己改善ループ等でコーディング性能を強化し、各種ベンチマークでも従来版を上回る成果を示した。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_2f6d8e8758bbc06c",
-      "title": "ワークマン、実は画像生成AIを導入していた　間に合わない商品撮影を代替　アプリ通知開封も1.5倍",
-      "url": "https://www.itmedia.co.jp/news/article/2608/06/2000000370/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-08-06T01:16:01.000Z",
-      "summary": "ワークマンの画像生成AI活用法を“中の人”に聞く。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用",
-        "教材",
-        "ツール",
-        "行政",
-        "文科省"
-      ],
-      "priority_score": 60
     },
     {
       "id": "item_5eca5e2652b78c5a",
