@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-08-07T21:31:02.258Z",
+  "generated_at": "2026-08-08T04:11:53.195Z",
   "total": 103,
   "items": [
+    {
+      "id": "item_21f8651de3f2baea",
+      "title": "文部科学省ホームページトップはこちら",
+      "url": "https://www.mext.go.jp/",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-08-08T04:11:42.756Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
     {
       "id": "item_bd1951ae70f98dac",
       "title": "サイトマップはこちら",
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-08-07T21:30:52.193Z",
+      "published_at": "2026-08-08T04:11:42.756Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -25,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-08-07T21:30:52.193Z",
+      "published_at": "2026-08-08T04:11:42.756Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -38,22 +56,147 @@
       "priority_score": 60
     },
     {
-      "id": "item_21f8651de3f2baea",
-      "title": "文部科学省ホームページトップはこちら",
-      "url": "https://www.mext.go.jp/",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-08-07T21:30:52.192Z",
-      "summary": "",
+      "id": "item_c9677fb37a47c190",
+      "title": "OpenAI次世代モデル「Astra」の開発を一時制限　高いサイバー能力に懸念",
+      "url": "https://www.watch.impress.co.jp/docs/news/2131759.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-08-08T04:04:18.000Z",
+      "summary": "OpenAIは7日(米国時間)、次世代モデル「Astra」について、社内評価で高い進歩を示す一方で、サイバー攻撃能力が社内の安全ガイドラインで最上位の「Critical(クリティカル)」になる可能性が否定できないと公表し、一部開発を停止。社内においても隔離されたテスト環境以外での利用を一時停止した。",
       "starred": false,
-      "category": "admin",
+      "category": "ai",
       "tags": [
-        "行政",
-        "文科省",
-        "制度",
+        "テクノロジー",
+        "デジタル",
+        "生成AI",
+        "AI活用",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_32317871e4772644",
+      "title": "G-SHOCK、ゴールド×ブラウンの「MASTER OF G」3モデル",
+      "url": "https://www.watch.impress.co.jp/docs/news/2130825.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-08-08T01:00:00.000Z",
+      "summary": "カシオ計算機は、「G-SHOCK」の新作として、ゴールドやブラウンが特徴のカラーバリエーションモデル3機種を8月7日に発売する。価格は49,500円～63,800円。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_245d70d22661427e",
+      "title": "iPhoneで夏の花火をきれいに撮ろう 誰でもできる撮影のコツ【2026年版】",
+      "url": "https://www.watch.impress.co.jp/docs/topic/2131230.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-08-08T00:30:00.000Z",
+      "summary": "今年もいよいよ夏本番、全国各地で花火大会が盛り上がる季節がやってきました。夜空を鮮やかに彩る大輪の花火を見上げると、思わずスマートフォンを向けたくなりますよね。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_f940d8627d24b811",
+      "title": "お盆休み前半は8日に下り渋滞ピーク　中央道で最大45km",
+      "url": "https://www.watch.impress.co.jp/docs/topic/2131504.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-08-08T00:00:00.000Z",
+      "summary": "今年のお盆休みを前に、NEXCO東日本など高速道路各社は、高速道路で予測される渋滞について発表しています。対象となる期間は8月7日(金)～16日(日)です。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_26012f95307a6f82",
+      "title": "LINEMO、追加料金なしで「Starlink Direct」利用可能に",
+      "url": "https://www.watch.impress.co.jp/docs/news/2131710.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-08-07T23:30:00.000Z",
+      "summary": "ソフトバンクは、オンライン専用ブランド「LINEMO」の「LINEMOベストプラン」と「LINEMOベストプランV」のサービスを拡充する。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_47850b472b9a6f0f",
+      "title": "Anthropic、「Fable 5」の生物学の制限を緩和　誤検知によるフォールバックを約85％削減",
+      "url": "https://www.itmedia.co.jp/news/article/2608/08/2000000460/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-08-07T22:57:07.000Z",
+      "summary": "Anthropicは、AIモデル「Claude Fable 5」の生物学分野における過度な保護機能を緩和したと発表した。安全性を重視するあまり発生していた無害な質問への誤検知や下位モデルへのフォールバックを大幅に削減。専門的な二重用途研究への制限は維持しつつ、一般的な健康・教育用途での利便性を向上させた。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用",
         "教育ニュース"
       ],
-      "priority_score": 60
+      "priority_score": 50
+    },
+    {
+      "id": "item_7e303e60e666501f",
+      "title": "OpenAI、次期モデル「Astra」の一部開発を停止　「Critical」級サイバー能力の可能性否定できず",
+      "url": "https://www.itmedia.co.jp/news/article/2608/08/2000000459/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-08-07T22:11:46.000Z",
+      "summary": "OpenAIは、次期主力モデル「Astra」のサイバー能力が自社の安全指針における最上位「Critical」に達している可能性を発表した。要件を満たさない一部活動を停止し、リアルタイム監視や思考過程の評価など管理を強化する。能力を抑制するのではなく、政府機関や外部組織と協力して検証と安全策の提供を進める方針だ。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_1151b33570c12ab0",
+      "title": "【教育接続補論｜第3回】大学共通テストからみるＲＩＶ－ＴＨＥＴＡ｜国語から英語・情報Ⅰ・探究活動へ広げる補助線｜26-48",
+      "url": "https://note.com/rievallab/n/n9f5b6dca2b67",
+      "source_id": "note_joho1",
+      "source_name": "note（情報科教員）",
+      "published_at": "2026-08-07T22:00:00.000Z",
+      "summary": "RI Eval Lab｜方式名『複素構造評価』 / Complex Structure Evaluation 国語で見た「根拠・意味づけ・見取り・向き・表現」の補助線を、英語・情報Ⅰ・探究活動へ広げ、どこまで接続できるかを確認する。 続きをみる",
+      "starred": false,
+      "category": "exam",
+      "tags": [
+        "授業実践",
+        "情報Ⅰ",
+        "教材",
+        "共通テスト",
+        "入試",
+        "教育ニュース"
+      ],
+      "priority_score": 70
     },
     {
       "id": "item_941bf591b5ec4021",
@@ -626,22 +769,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_42c4b33aa277fe37",
-      "title": "【from Impress】実家じまいや認知症対策……相続の「疑問」を家族で話し合おう!",
-      "url": "https://www.watch.impress.co.jp/docs/pa/impress/2130854.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-08-07T00:00:00.000Z",
-      "summary": "相続は、家族など身近な人が亡くなったときに行なう手続きです。団塊世代が後期高齢者となり、相続が身近になってきたという人も多いでしょう。さらに、物価高や不動産価格の上昇といったインフレも相続に大きく影響します。「物価高」「負動産」「認知症」など、気になるワードから、相続の素朴な疑問についてお答えしていきます。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_8edfa1f3b02e011d",
       "title": "富⼠ソフト、教育メタバース「FAMcampus」を活用した不登校支援が大府市で4年目の運用開始",
       "url": "https://ict-enews.net/2026/08/07fsi/",
@@ -730,22 +857,6 @@
         "AI活用"
       ],
       "priority_score": 60
-    },
-    {
-      "id": "item_5101e601558868c3",
-      "title": "デザインも機能も多彩なサンダル　コロンビア・KEEN・Teva・HOKA・OOFOS",
-      "url": "https://www.watch.impress.co.jp/docs/topic/2130016.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-08-06T23:20:00.000Z",
-      "summary": "夏のレジャーから普段履きまで幅広く使えるサンダル。最近は各メーカーからさまざまなタイプの商品が発売されているので、自分のスタイルに合った商品を選びたいところです。そこで今回はアウトドアメーカーのシューズを豊富に取り揃えるエルブレス新宿店 マネージャーの佐々木真一さんに、選びのポイントやおすすめの商品を聞いてきました。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
     },
     {
       "id": "item_24b8f1650e5f3bc3",
@@ -1006,26 +1117,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_515222566803fb83",
-      "title": "オープンソースAIワークスペース「Cloudflare OS」が公開",
-      "url": "https://www.watch.impress.co.jp/docs/news/2131290.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-08-06T23:00:00.000Z",
-      "summary": "Cloudflare(クラウドフレア)は4日、Cloudflareのネットワーク上で稼働するオープンソースAIワークスペース「Cloudflare OS」を発表した。GitHub上でオープンソースソフトウェアとして公開されている。",
-      "starred": false,
-      "category": "dx",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "校務DX",
-        "GIGA",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_6e4b930b0373214f",
       "title": "子どものスマホ・SNS、「家族で話し合ってルール作り」と言われても、正直難しくないですか？　「16歳になった瞬間にSNSデビューする方が怖い」という上沼紫野弁護士にヒントを聞く",
       "url": "https://internet.watch.impress.co.jp/docs/interview/2128173.html",
@@ -1197,26 +1288,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_e0f20beac27ae86a",
-      "title": "ChatGPTでアドビ製ツールが横断利用可能に　70以上の機能を統合",
-      "url": "https://www.watch.impress.co.jp/docs/news/2131300.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-08-06T13:00:00.000Z",
-      "summary": "アドビは6日、70以上のアドビ製ツールを1つに統合した「ChatGPT 向けアドビプラグイン」を提供開始した。Adobe Express、Photoshop、Firefly、Premiere、Acrobatなどの機能を、ChatGPT WorkとCodexを横断して利用できる。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "生成AI",
-        "AI活用",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 60
-    },
-    {
       "id": "item_66702c2ffc07ab38",
       "title": "アプリが遅い原因をAIがトレースログから分析してくれる「Windows Performance Analyzer MCP」　Microsoftがプレビュー公開",
       "url": "https://www.itmedia.co.jp/news/article/2608/06/2000000434/",
@@ -1249,22 +1320,6 @@
         "生成AI",
         "AI",
         "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_97edd33335b6e15d",
-      "title": "ドコモ、15歳以下スマホデビュープラン刷新　「親子割」も",
-      "url": "https://www.watch.impress.co.jp/docs/news/2131321.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-08-06T10:38:56.000Z",
-      "summary": "NTTドコモは、5歳以上15歳以下のユーザー向け料金プラン「ドコモ スマホデビュープラン U15」と「ドコモ 親子割」を8月7日から提供開始する。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
       ],
       "priority_score": 50
     },
@@ -1373,40 +1428,6 @@
       "tags": [
         "インターネット",
         "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_cc012b117ad894eb",
-      "title": "中国DeepSeek、近日中に「大幅値上げ」か　API料金ページに追記",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2608/06/2000000423/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-08-06T06:01:18.000Z",
-      "summary": "中国のDeepSeekは、同社が提供するAPIの料金ページに「近日中に大幅な値上げが見込まれる」と記載した。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_b1d30e5e301b5df2",
-      "title": "NVIDIA、自動運転向けオープンモデルを商用利用可に　新モデルは「卓越した性能」うたう",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2608/06/2000000420/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-08-06T04:56:48.000Z",
-      "summary": "NVIDIAが自動運転向けAIモデル「Alpamayo」ファミリーを商用利用可能なオープンライセンスで提供開始。新モデル「Alpamayo 2 Super」は推論ベンチマークで首位になるなど卓越した性能をうたう。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
       ],
       "priority_score": 50
     },
@@ -1809,23 +1830,6 @@
         "情報モラル"
       ],
       "priority_score": 70
-    },
-    {
-      "id": "item_86d5cb5273340a3d",
-      "title": "職業訓練　WEBマーケで登録商標とか扱ったかな？　Seachikenとツナと鮪",
-      "url": "https://note.com/lavachequirit/n/nd0af54f0ca04",
-      "source_id": "note_joho1",
-      "source_name": "note（情報科教員）",
-      "published_at": "2026-06-23T23:03:25.000Z",
-      "summary": "職業訓練 Formation professionnelle 第127日目 le 127e jour 鮪（まぐろ） Tuna Seachiken（商標登録） の、語彙の使い分け？ 続きをみる",
-      "starred": false,
-      "category": "lesson",
-      "tags": [
-        "授業実践",
-        "情報Ⅰ",
-        "教材"
-      ],
-      "priority_score": 50
     }
   ],
   "clips": []
