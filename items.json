@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T04:11:53.195Z",
+  "generated_at": "2026-08-08T09:44:28.120Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-08-08T04:11:42.756Z",
+      "published_at": "2026-08-08T09:44:18.997Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-08-08T04:11:42.756Z",
+      "published_at": "2026-08-08T09:44:18.997Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-08-08T04:11:42.756Z",
+      "published_at": "2026-08-08T09:44:18.997Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,22 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_c3bc0a307d72fd32",
+      "title": "X、収益化プログラムを一新　「オリジナル投稿」が基準に",
+      "url": "https://www.watch.impress.co.jp/docs/news/2131768.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-08-08T08:00:00.000Z",
+      "summary": "Xは、収益還元プログラムを刷新し、9月8日から新しい「オリジナルコンテンツ報酬」(Original Content Rewards Program)を開始する。従来の「収益化プログラム」(Revenue Sharing)に変わり、Xでの「オリジナル」な投稿を増やす狙いがある。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_c9677fb37a47c190",
@@ -72,6 +88,24 @@
         "AI活用",
         "セキュリティ",
         "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_46d5178736a9f369",
+      "title": "Google Chromeの新機能「Skills」　AIプロンプトの“毎回手打ち”を不要に",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/08/news011.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-08-08T04:00:00.000Z",
+      "summary": "GoogleはChrome向けのAI新機能「Skills in Chrome」を発表した。AIプロンプトを保存してワンクリックで再利用可能にするという。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
       ],
       "priority_score": 50
     },
@@ -180,7 +214,7 @@
     },
     {
       "id": "item_1151b33570c12ab0",
-      "title": "【教育接続補論｜第3回】大学共通テストからみるＲＩＶ－ＴＨＥＴＡ｜国語から英語・情報Ⅰ・探究活動へ広げる補助線｜26-48",
+      "title": "【教育接続補論｜第3回】大学入学共通テストからみるＲＩＶ－ＴＨＥＴＡ｜国語から英語・情報Ⅰ・探究活動へ広げる補助線｜26-48",
       "url": "https://note.com/rievallab/n/n9f5b6dca2b67",
       "source_id": "note_joho1",
       "source_name": "note（情報科教員）",
@@ -731,24 +765,6 @@
         "セキュリティ"
       ],
       "priority_score": 50
-    },
-    {
-      "id": "item_44833eab4c9497fc",
-      "title": "【アンケート】8割がGemini利用、ChatGPTは68%　AI利用調査",
-      "url": "https://www.watch.impress.co.jp/docs/common/enquete/2130880.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-08-07T01:00:00.000Z",
-      "summary": "7月末から実施した「AIサービスの利用状況について」のアンケートでは、639件の回答が寄せられました。多くの皆様にご協力いただき、ありがとうございました。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "生成AI",
-        "AI活用"
-      ],
-      "priority_score": 60
     },
     {
       "id": "item_a264b74aee66aac1",
@@ -1392,26 +1408,6 @@
         "LLM",
         "AI活用",
         "教育ニュース"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_b071774a25ef918c",
-      "title": "「1人1AI」のアプローチは破綻する――チームでAI共有時のセキュリティ問題を解決するベストプラクティス",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/07/news022.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-08-06T07:00:00.000Z",
-      "summary": "Anthropicは、「Claude Tag」における「エージェントアイデンティティー」アクセスモデルの仕組みと、チームのワークスペースでこれを構成する際のベストプラクティスを解説したブログ記事を公開した。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用",
-        "セキュリティ",
-        "情報モラル"
       ],
       "priority_score": 50
     },
