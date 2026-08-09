@@ -1,31 +1,14 @@
 {
-  "generated_at": "2026-08-08T21:22:16.367Z",
-  "total": 83,
+  "generated_at": "2026-08-09T04:19:04.579Z",
+  "total": 103,
   "items": [
-    {
-      "id": "item_bd1951ae70f98dac",
-      "title": "サイトマップはこちら",
-      "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-08-08T21:22:05.740Z",
-      "summary": "",
-      "starred": false,
-      "category": "admin",
-      "tags": [
-        "行政",
-        "文科省",
-        "制度"
-      ],
-      "priority_score": 50
-    },
     {
       "id": "item_5a2c7864b68dcd43",
       "title": "過去の文部科学省ホームページ（※国立国会図書館ホームページへリンク）",
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-08-08T21:22:05.740Z",
+      "published_at": "2026-08-09T04:18:55.170Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +26,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-08-08T21:22:05.739Z",
+      "published_at": "2026-08-09T04:18:55.169Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +37,103 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_bd1951ae70f98dac",
+      "title": "サイトマップはこちら",
+      "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-08-09T04:18:55.169Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_6fc7143b90fc8fc7",
+      "title": "高校の「情報Ⅰ」が大学入試科目に。小学生のうちからできる準備とは？",
+      "url": "https://note.com/iteen_media/n/nc49afb8d4395",
+      "source_id": "note_joho1",
+      "source_name": "note（情報科教員）",
+      "published_at": "2026-08-09T03:23:30.000Z",
+      "summary": "「情報Ⅰ」が大学入試に関係するって本当？ 続きをみる",
+      "starred": false,
+      "category": "exam",
+      "tags": [
+        "授業実践",
+        "情報Ⅰ",
+        "教材",
+        "共通テスト",
+        "入試",
+        "教育ニュース"
+      ],
+      "priority_score": 70
+    },
+    {
+      "id": "item_5293eea3ed130670",
+      "title": "「Claude Code」、AIが権限確認を代行する「auto mode」がデフォルトに　8月14日から",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2608/09/2000000465/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-08-09T03:12:07.000Z",
+      "summary": "Anthropicは、AIコーディングツール「Claude Code」で、コマンド実行前の権限確認を自動化する「auto mode」をデフォルト化すると発表した。危険なコマンドを分類器が自動でブロックする仕組みで、人間による確認の形骸化を防ぐ。実験では人間の拒否率を大きく上回る検出精度を示し、作業効率の向上も確認されている。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_1672afe1d741ea6b",
+      "title": "「Claude Code」にセッション同士がメッセージを送り合う機能　macOSとLinuxに",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2608/09/2000000466/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-08-09T03:11:16.000Z",
+      "summary": "AnthropicはAIコーディングツール「Claude Code」に、起動中の複数セッション間でメッセージを相互送信できる新機能を追加した。作業の変更や移行プロセスの進捗などをClaudeが自律的に連携する。セキュリティに配慮し共有はテキストのみに制限され、ローカル間通信では外部サーバを経由しない仕様だ。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用",
+        "セキュリティ",
+        "情報モラル",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_1f34ac092441b263",
+      "title": "Hugging Face侵害、AIエージェントは社内に“秘密の掲示板”を作っていた──OpenAIがBlack Hatで詳細説明",
+      "url": "https://www.itmedia.co.jp/news/article/2608/09/2000000463/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-08-08T22:16:59.000Z",
+      "summary": "OpenAIは、7月に発覚したHugging Face侵害インシデントの詳細を「Black Hat USA 2026」で説明した。評価中のAIエージェントたちが社内のパッケージ管理システムを“掲示板”として使い、脆弱性やスクリプトを共有して協調していたという。掲示板は一度消去されたが、2日後に別の手段で再構築されていた。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_a12d4b072c9d0d41",
@@ -785,6 +865,354 @@
       "priority_score": 50
     },
     {
+      "id": "item_8edfa1f3b02e011d",
+      "title": "富⼠ソフト、教育メタバース「FAMcampus」を活用した不登校支援が大府市で4年目の運用開始",
+      "url": "https://ict-enews.net/2026/08/07fsi/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-08-06T23:21:28.000Z",
+      "summary": "富士ソフトは5日、教育メタバース「FAMcampus（ファムキャンパス）」を活用した不登校支援パッケージによる、愛知県大府市の長期欠席児童生徒支援事業が、4年目の運用を開始したこと […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_5db9db0b7d11bfa0",
+      "title": "スタディポケット、岡山県内3校で学校向け生成AIクラウド「スタディポケット」継続運用",
+      "url": "https://ict-enews.net/2026/08/07studypocket-3/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-08-06T23:21:06.000Z",
+      "summary": "スタディポケットは6日、岡山県教育委員会が主導する「生成AIを活用した学びのサイクル実証事業業務」のもと岡山県内3校を対象に、学校向け生成AIクラウド「スタディポケット」が継続して […]",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "生成AI",
+        "AI活用",
+        "校務DX",
+        "GIGA",
+        "行政",
+        "文科省"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_a6967cb3fe7e62cb",
+      "title": "AI 型ドリル搭載教材「ラインズeライブラリアドバンス」、鹿児島県霧島市の全小中学校に一斉導入",
+      "url": "https://ict-enews.net/2026/08/07education/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-08-06T23:20:46.000Z",
+      "summary": "ラインズは6日、AI 型ドリル搭載の学習支援サービス「ラインズeライブラリアドバンス」で、鹿児島県霧島市立の全小中学校 43 校（児童生徒合計約1万人）を対象に、2026 年 4 […]",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_40c8b79220d5a7dd",
+      "title": "児童虐待対応を支援するAiCAN、新たに導入自治体が拡大 全国23自治体・65拠点に",
+      "url": "https://ict-enews.net/2026/08/07aican-inc/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-08-06T23:20:23.000Z",
+      "summary": "AiCANは6日、「AiCANサービス」が2026年7月から新たに導入され、導入自治体は全国で合計23自治体・65拠点に拡大したことを発表した。 AiCANは、「すべての子どもたち […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_9433ce5081ba4f11",
+      "title": "Polimill、自治体向け生成AI「QommonsAI」の活用研修を北海道新冠町で実施",
+      "url": "https://ict-enews.net/2026/08/07polimill/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-08-06T23:20:07.000Z",
+      "summary": "Polimillは7日、北海道新冠町の職員を対象に、自治体向け生成AI「QommonsAI（コモンズAI）」の活用研修（初級編）を7月14日実施したと発表した。 午前約20名・午後 […]",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "生成AI",
+        "AI活用"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_24b8f1650e5f3bc3",
+      "title": "今の子どもの夏休み、親世代と何が違う？保護者の73.5％が変化を実感=朝日新聞社調べ=",
+      "url": "https://ict-enews.net/2026/08/07asahi-4/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-08-06T23:16:35.000Z",
+      "summary": "朝日新聞社と大塚製薬のバランス栄養食「カロリーメイト」は6日、共同で全国の小学4～6年生の保護者600人と子ども540人を対象に、「令和の夏休みと子どもの成長・食生活に関する親子調 […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_51d6e6c4adff403a",
+      "title": "自由研究へのAI活用は少数派-それでも「AIは小学生から学ばせたい」8割超 =塾選ジャーナル調べ=",
+      "url": "https://ict-enews.net/2026/08/07delta-x-2/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-08-06T23:16:02.000Z",
+      "summary": "DeltaXが運営する塾選びサービス「塾選」は6日、「自由研究へのAI活用」について調査し、その結果を発表した。 夏休みの自由研究は、子どもが自分で調べ、観察や実験を通して考えを深 […]",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "生成AI",
+        "AI活用"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_db109fec7af045e5",
+      "title": "子どもを難関大学に進学させたい保護者調査 予備校選びの不安第1位は「学費が高くないか」=横浜予備校調べ=",
+      "url": "https://ict-enews.net/2026/08/07yokohama-yobikou/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-08-06T23:15:20.000Z",
+      "summary": "医学部・難関大学を目指す受験生へ、プロ講師による少人数指導と充実した学習環境を提供している横浜予備校は6日、子どもを難関大学・医学部に進学させたいと思っている30代以上の保護者31 […]",
+      "starred": false,
+      "category": "exam",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "共通テスト",
+        "入試"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_fac0c2f391779b2b",
+      "title": "高専機構と日本公庫、連携して学生・教職員によるスタートアップ創出を支援",
+      "url": "https://ict-enews.net/2026/08/07kosen-k-4/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-08-06T23:14:58.000Z",
+      "summary": "国立高等専門学校機構は5日、日本政策金融公庫とともに、全国51校の国立の高等専門学校に在籍する学生及び教職員によるスタートアップ創出を、体系的かつ継続的に支援することを目的とした連 […]",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "行政",
+        "文科省"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_aa18527299449848",
+      "title": "Sky、教員役と児童生徒役に分かれて操作を体験できる「授業研究モード」解説セミナー20日開催",
+      "url": "https://ict-enews.net/2026/08/07sky-5/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-08-06T23:13:59.000Z",
+      "summary": "Skyは、児童生徒1人1台の学習活動端末支援Webシステム「SKYMENU Cloud」の基本的な使い方や教科指導、オンライン学習における活用例の紹介など、毎月テーマを設けてオンラ […]",
+      "starred": false,
+      "category": "lesson",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "授業実践",
+        "情報Ⅰ",
+        "校務DX",
+        "GIGA"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_ebb7f2f8a065c099",
+      "title": "つくば市、科学体験プログラム「つくばまるごとLAB」を全4回の日程で開催",
+      "url": "https://ict-enews.net/2026/08/07city-tsukuba/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-08-06T23:13:41.000Z",
+      "summary": "つくば市は、科学体験プログラム「つくばまるごとLAB」を、8月から2027年2月にかけて全4回の日程で開催することを発表した。 第1回となる「はじめてのラボ」は8月29日にイーアス […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_37027cf82aaa9b75",
+      "title": "オープンバッジ・ネットワーク、「生涯学習センター拡大ワーキンググループ」27日開催",
+      "url": "https://ict-enews.net/2026/08/07openbadge-3/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-08-06T23:13:25.000Z",
+      "summary": "オープンバッジ・ネットワークは、全国の生涯学習関係者を対象に「生涯学習センター拡大ワーキンググループ」を8月27日に開催する。 オープンバッジは、学びの成果やスキルを証明できる、国 […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_f3efb417c0fe51e9",
+      "title": "檸檬会、「オルタナティブ教育の視点から考える、子どもの育ちとこれからの学校」9月5日開催",
+      "url": "https://ict-enews.net/2026/08/07lemonkai/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-08-06T23:13:08.000Z",
+      "summary": "檸檬会は、無料オンラインセミナー「オルタナティブ教育の視点から考える、子どもの育ちとこれからの学校」を9月5日に開催する。 「代わりの」「新しい選択肢」を意味するオルタナティブ教育 […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_92255168fd523da8",
+      "title": "東京都市大学、小中学生のための「科学体験教室」9月6日開催",
+      "url": "https://ict-enews.net/2026/08/07tcu-2/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-08-06T23:12:55.000Z",
+      "summary": "東京都市大学は、世田谷キャンパス（東京都世田谷区）で「大学で楽しもう!! 小学生・中学生のための『科学体験教室』」を9月6日に開催する。 「真夏に溶けない不思議な雪！～水が雪に!? […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_36f93553ef0fbce4",
+      "title": "クリサク、暗記・学習計画アプリ「赤シート勉強計画 – 暗記ノート」提供開始",
+      "url": "https://ict-enews.net/2026/08/07kurisaku/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-08-06T23:12:31.000Z",
+      "summary": "クリサクは6日、高校生の定期テスト勉強を想定したiPhone向けの暗記・学習計画アプリ「赤シート勉強計画 – 暗記ノート」を、App Storeで提供開始したと発表した […]",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_59a46d6e06e0dfb8",
+      "title": "ギブリー、新卒採用における性格・基礎能力・AIスキルを評価する適性検査を提供開始",
+      "url": "https://ict-enews.net/2026/08/07givery/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-08-06T23:11:54.000Z",
+      "summary": "デジタル人材の採用・育成・定着支援およびスキルインテリジェンスプラットフォーム「Track（トラック）」を展開するギブリーは6日、生成AIで候補者の実力が見えにくくなった新卒採用向 […]",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "生成AI",
+        "AI活用",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_0be8aaa4b8c56cb6",
+      "title": "ToraPlan、科研費用の研究計画書作成・添削サービス「ToraPlan」が英語対応を開始",
+      "url": "https://ict-enews.net/2026/08/07toraplan/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-08-06T23:11:37.000Z",
+      "summary": "ToraPlanは6日、同社が提供する研究計画書の AI 作成・添削サービス「ToraPlan」で英語版の研究計画書の作成・添削機能をリリースしたと発表した。 ⽂部科学省の調査によ […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_f405c3daec240231",
+      "title": "エデュテクノロジー、学習評価講座「第7回 学習の改善につなげるフィードバック」販売開始",
+      "url": "https://ict-enews.net/2026/08/07edutechnology/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-08-06T23:11:19.000Z",
+      "summary": "エデュテクノロジーは5日、オンラインスクール「エデュテクノロジー ラーニングセンター(ELC)」で、学習評価講座の最終回となる『第7回 学習の改善につなげるフィードバック』を販売開 […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_731514523713d8c4",
+      "title": "ジンジブキャリア、高校の進路指導教員向け「専門学校 要覧」デジタルへリニューアル",
+      "url": "https://ict-enews.net/2026/08/07jinjib-career/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-08-06T23:11:00.000Z",
+      "summary": "高校生への進路情報事業を行う「ジンジブキャリア」は6日、高校の進路指導教員向けに毎年発行する専門学校の情報誌「関東地区専修学校各種学校 要覧」をデジタル化し、「デジタル要覧」の提供 […]",
+      "starred": false,
+      "category": "dx",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "校務DX",
+        "GIGA"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_c06031d4a36e261d",
+      "title": "学校・企業の「つながらない」「遅い」を解決する ネットワーク障害診断サービスを一般販売開始",
+      "url": "https://ict-enews.net/2026/08/07matrixcom/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-08-06T23:10:41.000Z",
+      "summary": "マトリックスコミュニケーションズは6日、現在、先行販売中のデベルアップジャパンが提供する通信パケット解析型ネットワーク障害診断サービス「Sonarman(ソナーマン)」の一般販売を […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
       "id": "item_6e4b930b0373214f",
       "title": "子どものスマホ・SNS、「家族で話し合ってルール作り」と言われても、正直難しくないですか？　「16歳になった瞬間にSNSデビューする方が怖い」という上沼紫野弁護士にヒントを聞く",
       "url": "https://internet.watch.impress.co.jp/docs/interview/2128173.html",
@@ -992,43 +1420,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_7b311532cf1dd70d",
-      "title": "ソフトバンクG、投資利益1.8兆円を支えた「OpenAIではない“あの半導体メーカー”」の正体",
-      "url": "https://www.itmedia.co.jp/business/articles/2608/06/news084.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-08-06T10:30:00.000Z",
-      "summary": "ソフトバンクGは、第1四半期の投資利益が1兆8594億円だったと発表した。投資利益を押し上げたのは、OpenAIでもArmでもない。歴史的な経営難に陥っていた“あの半導体メーカー”だった。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_2e82ff53f5a378d0",
-      "title": "Googleのジェフ・ディーン氏、独立してAI実験を大規模自動化する新会社Discovery Loop設立",
-      "url": "https://www.itmedia.co.jp/news/article/2608/06/2000000408/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-08-06T10:20:03.000Z",
-      "summary": "Googleのチーフサイエンティスト、ジェフ・ディーン氏が退社し、新会社「Discovery Loop」を設立すると発表した。サンジェイ・ゲマワット氏らと共同創業する公益法人で、フロンティアAIモデルと計算基盤を活用して実験や検証などの研究プロセス全体を自動化することを目指す。Googleは初期出資者およびクラウドパートナーとして協力する。",
-      "starred": false,
-      "category": "dx",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "校務DX",
-        "GIGA"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_d42c2038a8bc7b29",
       "title": "タイガー、魔法瓶の技術を応用した断熱材をデータセンターに提供、東急グループの実証実験で　「ステンレス密封真空断熱パネル TIVIP」",
       "url": "https://internet.watch.impress.co.jp/docs/news/2131252.html",
@@ -1041,25 +1432,6 @@
       "tags": [
         "インターネット",
         "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_4718052c258e373d",
-      "title": "書店に「3000冊の発注」、AI企業が古書を買いあさる？　Anthropicも数百万冊をスキャン・破棄　実態明らかに",
-      "url": "https://www.itmedia.co.jp/business/articles/2608/06/news060.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-08-06T08:30:00.000Z",
-      "summary": "オランダの古書店に、3000冊の注文が入った。届け先は、中国のAI企業。AI学習用データにするとみられる。Anthropicも数百万冊をスキャンした後、破棄している。その実態が明らかになった。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用",
-        "教育ニュース"
       ],
       "priority_score": 50
     },
@@ -1445,27 +1817,6 @@
       "source_name": "note（情報科教員）",
       "published_at": "2026-06-25T23:02:04.000Z",
       "summary": "こんにちは。どんぐり村長です。 前回は情報セキュリティの3大要件「CIA」について、オフィスの身近な落とし穴を交えて解説しました。高いシステムを入れることだけが対策ではない、という本質が伝わっていれば嬉しいです。 続きをみる",
-      "starred": false,
-      "category": "exam",
-      "tags": [
-        "授業実践",
-        "情報Ⅰ",
-        "教材",
-        "共通テスト",
-        "入試",
-        "セキュリティ",
-        "情報モラル"
-      ],
-      "priority_score": 70
-    },
-    {
-      "id": "item_1937a057bde9a9c9",
-      "title": "【連載】第5回　大人のための「情報Ⅰ・Ⅱ」再入門：共通テスト過去問で学ぶ「情報セキュリティ」の本質",
-      "url": "https://note.com/mama_oyako_it/n/n7a02f2269a66",
-      "source_id": "note_joho1",
-      "source_name": "note（情報科教員）",
-      "published_at": "2026-06-24T21:27:27.000Z",
-      "summary": "こんにちは。どんぐり村長です。 前回は「メモリとストレージ」の違いを、オフィスの「作業机」と「本棚」に例えて解説しました。 スマホを買うときに「安さ」だけで選ばず、主記憶装置（メモリ）の容量に目を光らせるという実践的な視点、ぜひ日々のデジタルライフに役立ててくださいね。 続きをみる",
       "starred": false,
       "category": "exam",
       "tags": [
