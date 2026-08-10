@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T10:23:06.010Z",
+  "generated_at": "2026-08-10T21:33:53.977Z",
   "total": 83,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-08-10T10:22:56.455Z",
+      "published_at": "2026-08-10T21:33:43.807Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-08-10T10:22:56.454Z",
+      "published_at": "2026-08-10T21:33:43.806Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -44,7 +44,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-08-10T10:22:56.454Z",
+      "published_at": "2026-08-10T21:33:43.806Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -52,6 +52,56 @@
         "行政",
         "文科省",
         "制度"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_5e394d7f40de4b1e",
+      "title": "AIエージェントの「Skills」「MCP」などをまとめる標準規格登場　CodexやVS Codeなど対応、Claudeは未対応",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2608/10/2000000487/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-08-10T14:11:18.000Z",
+      "summary": "VercelがAIエージェント拡張のオープン標準「Agent Plugins」を発表。「Agent Skills」やMCPサーバ設定を共通形式にし、クライアント間で使い回せるようにする。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_11a5f2fe13023730",
+      "title": "Metaは「パーソナル超知能」を目指す　米国主導とオープンモデル推進を強調",
+      "url": "https://www.watch.impress.co.jp/docs/news/2132123.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-08-10T11:53:09.000Z",
+      "summary": "Metaのマーク・ザッカーバーグCEOは10日(米国時間)、「超知能(superintelligence)」に関する方針について声明を発表した。AIによる超知能を少数の機関に集中させるのではなく、個人に幅広く届ける「パーソナル超知能」を目指すべきと主張している。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_3acf3c51506bf548",
+      "title": "イオン津店跡地に「そよら津桜橋」9月11日オープン",
+      "url": "https://www.watch.impress.co.jp/docs/news/2132096.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-08-10T11:00:00.000Z",
+      "summary": "イオンリテールは、旧「イオン津ショッピングセンター」(三重県津市/2024年休業)跡地に「そよら津桜橋」を9月11日にオープンする。「そよら」としては、県内2店舗目の出店になる。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
       ],
       "priority_score": 50
     },
@@ -120,24 +170,6 @@
         "デジタル",
         "教材",
         "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_5e394d7f40de4b1e",
-      "title": "AIエージェントの「Skills」などが標準規格化　CodexやVS Codeなど対応、Claudeは未対応",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2608/10/2000000487/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-08-10T06:29:14.000Z",
-      "summary": "VercelがAIエージェント拡張のオープン標準「Agent Plugins」を発表。「Agent Skills」やMCPサーバ設定を共通形式にし、クライアント間で使い回せるようにする。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
       ],
       "priority_score": 50
     },
@@ -959,43 +991,6 @@
       "tags": [
         "テクノロジー",
         "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_21568fad93b318ae",
-      "title": "Fable 5、生物学の安全対策を緩和　健康・教育など日常利用が可能に",
-      "url": "https://www.watch.impress.co.jp/docs/news/2131700.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-08-07T10:51:02.000Z",
-      "summary": "Anthropicは7日(米国時間)、最上位のAIモデル「Claude Fable 5」の生物学分野における安全対策を更新し、誤検知を大幅に削減した。これにより、Fable 5ユーザーは、生物学関連の質問をした際にシステムがOpus 5など性能の劣るモデルに切り替わる「フォールバック」がこれまでより遥かに少なくなる。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "生成AI",
-        "AI活用",
-        "教育ニュース"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_5bab787f7d931464",
-      "title": "LINEに誘導されるSNS詐欺、対策の鍵は「通報」",
-      "url": "https://www.watch.impress.co.jp/docs/news/2131709.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-08-07T10:42:21.000Z",
-      "summary": "LINEヤフーは7日、SNSを悪用した各種詐欺被害の動向と、「LINE」アプリで実施している不正対策について説明する報道関係者向け勉強会を実施した。",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "教材",
-        "ツール"
       ],
       "priority_score": 50
     },
