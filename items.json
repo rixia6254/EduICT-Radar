@@ -1,32 +1,14 @@
 {
-  "generated_at": "2026-08-11T04:21:43.372Z",
-  "total": 83,
+  "generated_at": "2026-08-11T10:04:12.503Z",
+  "total": 102,
   "items": [
-    {
-      "id": "item_21f8651de3f2baea",
-      "title": "文部科学省ホームページトップはこちら",
-      "url": "https://www.mext.go.jp/",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-08-11T04:21:32.872Z",
-      "summary": "",
-      "starred": false,
-      "category": "admin",
-      "tags": [
-        "行政",
-        "文科省",
-        "制度",
-        "教育ニュース"
-      ],
-      "priority_score": 60
-    },
     {
       "id": "item_bd1951ae70f98dac",
       "title": "サイトマップはこちら",
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-08-11T04:21:32.872Z",
+      "published_at": "2026-08-11T10:04:02.750Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +25,25 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-08-11T04:21:32.872Z",
+      "published_at": "2026-08-11T10:04:02.750Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_21f8651de3f2baea",
+      "title": "文部科学省ホームページトップはこちら",
+      "url": "https://www.mext.go.jp/",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-08-11T10:04:02.749Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -93,7 +93,7 @@
     },
     {
       "id": "item_59575ce7417dab36",
-      "title": "「海外旅行保険はクレカでOK」時代は終わった?　「利用付帯」は旅行前に注意を",
+      "title": "「海外旅行保険はクレカでOK」は終わった?　「利用付帯」は旅行前に注意を",
       "url": "https://www.watch.impress.co.jp/docs/topic/2131822.html",
       "source_id": "impress_watch",
       "source_name": "Impress Watch",
@@ -120,6 +120,22 @@
       "tags": [
         "テクノロジー",
         "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_99c4330e5a45f03e",
+      "title": "「TDXラジオ」Teacher’s ［Shift］File.280  板橋区立志村第一小学校 田村 久仁子 先生（後編）",
+      "url": "https://ict-enews.net/movie/10tdxradio-4/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-08-10T23:00:22.000Z",
+      "summary": "TDXラジオは10日、教育ICTを活用した「新しい学び」と「先生の働き方改革」を応援するTeacher’s ［Shift］ File.280「板橋区立志村第一小学校 田村 久仁子 […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
       ],
       "priority_score": 50
     },
@@ -570,6 +586,308 @@
       "tags": [
         "インターネット",
         "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_e7504bfebfa442ba",
+      "title": "岡山県教委、岡山県立高等学校・中等教育学校の校長職（任期付職員）を募集",
+      "url": "https://ict-enews.net/2026/08/10okayama-2/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-08-10T01:23:03.000Z",
+      "summary": "岡山県教育委員会は7日、民間企業等で培ったリーダーシップを教育現場に活かし、子どもたちの未来と学校の新時代を切り拓く力を持つ人々を対象に、「令和9年度岡山県立高等学校・中等教育学校 […]",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "行政",
+        "文科省"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_a296bda3c148577a",
+      "title": "ジンジブキャリア、進路相談会で現役高校生に聞いた「なりたい職業」2026",
+      "url": "https://ict-enews.net/2026/08/10jinjib-career/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-08-10T01:22:50.000Z",
+      "summary": "高校生への進路情報事業を行う「ジンジブキャリア」は7日、主催する「進路相談会」に参加した高校生を対象に、2026年5月7日〜7月1日の期間で「なりたい職業」「働きたい業界」に関する […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_522a8791394d9d17",
+      "title": "未就学児の習い事率が6割超、費用は8年で年間5万円増加 =ビデオリサーチ調べ=",
+      "url": "https://ict-enews.net/2026/08/10videor/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-08-10T01:22:36.000Z",
+      "summary": "ビデオリサーチは7日、3～12歳の子どものマーケティングデータ「Kids/ex（キッズ エクス）」をもとに、未就学児および小学生の「習い事」に関する調査結果を公開した。 調査結果で […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_be5c34afcf4f5861",
+      "title": "日本語教師の資格取得、学習方法は「通信講座」31.2% =「ママキャン資格部」調べ=",
+      "url": "https://ict-enews.net/2026/08/10snstechnologies/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-08-10T01:22:19.000Z",
+      "summary": "SNSテクノロジーズが運営するメディア「ママキャン資格部」は7日、日本語教師（登録日本語教員）の資格取得に向けて学習した経験のある138名を対象に、制度の認知度・学習方法・費用・学 […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_00a675b467d9cc49",
+      "title": "下関市とコドモン、「保育・子育て支援のDXに関する連携協定」締結",
+      "url": "https://ict-enews.net/2026/08/10codmon-13/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-08-10T01:21:53.000Z",
+      "summary": "山口県下関市とコドモンは7日、「保育・子育て支援のDXに関する連携協定」を7月29日に締結したと発表した。 本協定では、保育者が継続的に学べる環境づくりと自治体・施設間の情報共有の […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_14850e425d489d09",
+      "title": "みんがく、栃木県矢板市の全小・中学校に「スクールAI」を導入",
+      "url": "https://ict-enews.net/2026/08/10mingaku-4/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-08-10T01:21:36.000Z",
+      "summary": "みんがくは6日、栃木県矢板市教育委員会にて、教育機関向け生成AI活用プラットフォーム「スクールAI」が採用されたことを発表した。 矢板市教育委員会では、児童生徒がAIを適切に活用し […]",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "生成AI",
+        "AI活用",
+        "教材",
+        "ツール",
+        "行政",
+        "文科省"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_c724816338b90e3e",
+      "title": "オトナル、こども家庭庁初のポッドキャスト番組『こども家庭庁のなかのひと』制作支援",
+      "url": "https://ict-enews.net/2026/08/10otonal/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-08-10T01:21:23.000Z",
+      "summary": "オトナルは7日、こども家庭庁初のポッドキャスト番組『こども家庭庁のなかのひと』の企画・制作・配信を支援したと発表した。 本番組は、「すべてのこども・若者に素敵な居場所を！」を合言葉 […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_3fa30745653bc636",
+      "title": "Polimill、北海道洞爺湖町で自治体向け生成AI「QommonsAI」の活用研修（初級編）実施",
+      "url": "https://ict-enews.net/2026/08/10polimill-2/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-08-10T01:21:01.000Z",
+      "summary": "Polimillは7日、北海道洞爺湖町の職員を対象に、自治体向け生成AI「QommonsAI（コモンズAI）」の活用研修（初級編）を7月15日に実施したと発表した。 午前は管理職向 […]",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "生成AI",
+        "AI活用"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_ce5a1250a31168fe",
+      "title": "創価大学、なぜ不登校は急増し続けるのか？ 特設サイト「問いの編集室」に最新記事公開",
+      "url": "https://ict-enews.net/2026/08/10soka/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-08-10T01:20:37.000Z",
+      "summary": "創価大学は6日、同学の特設サイト『問いの編集室』に、最新記事「なぜ不登校は急増し続けるのか？大人が見直すべき「学習観」と子どもの自己受容感を育む「言葉かけ」とは」（教育学部：戸田大 […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_4aa1933425ccfbdf",
+      "title": "東京書籍×ロイロノート、教科書準拠の学習ポートフォリオ素材「ロイログ」紹介イベント26日開催",
+      "url": "https://ict-enews.net/2026/08/10loilo-8/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-08-10T01:20:07.000Z",
+      "summary": "LoiLoは、東京書籍と共同でオンラインイベント「ロイログ 実践紹介イベント」を8月26日に開催する。東京書籍の教科書に準拠した学習ポートフォリオ素材「ロイログ」の追加公開にあわせ […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_e21445c096e2863f",
+      "title": "ホリエモンAI学校、無料ウェビナー「AIエージェントによる業務自動化」18日開催",
+      "url": "https://ict-enews.net/2026/08/10horiemon-3/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-08-10T01:19:49.000Z",
+      "summary": "ホリエモンAI学校は、ホリエモンAI学校福岡校が、Claudeをはじめとする生成AIを活用した無料ウェビナー「AIエージェントによる業務自動化」を8月18日に開催すると発表した。 […]",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "生成AI",
+        "AI活用"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_55d5646a93586b9b",
+      "title": "TAC、公務員試験「初回講義オンラインオリエンテーション（無料体験入学）」14日開催",
+      "url": "https://ict-enews.net/2026/08/10tac-10/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-08-10T01:19:23.000Z",
+      "summary": "TACは、公務員試験を検討している人へ「初回講義オンラインオリエンテーション（無料体験入学）」を8月13日に開催する。 オンラインオリエンテーション（無料体験入学）は、申込み前に無 […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_dac050015d497f77",
+      "title": "河合塾×アゴス・ジャパン、東大新学部「UTokyo College of Design」入試攻略セミナー 9月開催",
+      "url": "https://ict-enews.net/2026/08/10kawai-juku/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-08-10T01:19:13.000Z",
+      "summary": "河合塾と河合塾グループのアゴス・ジャパンは、中学生・高校生とその保護者を対象に、9月に東京大学に新設される「UTokyo College of Design」の概要から入試対策まで […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_6d2f849076d5c7b4",
+      "title": "MK企画、常設型子ども向け大学講義スクール「PILO KIDS」9月開校",
+      "url": "https://ict-enews.net/2026/08/10pilokids/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-08-10T01:19:03.000Z",
+      "summary": "MK企画は、子ども向けに一流の大学教授・研究者の講義を継続的に提供するスクール「PILO KIDS（ピロ キッズ）」を9月から開校することを発表した。 これに先立ち8月22日に、世 […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_e4c74cb0b1465ccd",
+      "title": "ネイティブキャンプ、「STEM女子未来会議2026」に協賛　グローバルな挑戦を支援",
+      "url": "https://ict-enews.net/2026/08/10nativecamp-10/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-08-10T01:18:53.000Z",
+      "summary": "ネイティブキャンプは6日、理工系女性コミュニティ Wom-tech -ワムテック-が主催する「STEM女子未来会議2026」に協賛することを発表した。 同協賛では、イベントの参加者 […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_866ef26e681c177a",
+      "title": "学習塾「明倫ゼミナール」、ミネルバ大学現役生が登壇する中高生・保護者向けオンラインセミナー",
+      "url": "https://ict-enews.net/2026/08/10ckc-2/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-08-10T01:18:43.000Z",
+      "summary": "CKCネットワークが運営する学習塾「明倫ゼミナール」は、最難関大学と言われるミネルバ大学に在籍する同塾卒業生の岸田憲明氏を招いた、特別オンラインセミナーを8月23日に開催すると発表 […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_b3e5bb58d4a113d7",
+      "title": "コードタクト、児童生徒向けの新たな対話型AI機能「TUNE（β版）」リリース",
+      "url": "https://ict-enews.net/2026/08/10codetakt/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-08-10T01:18:33.000Z",
+      "summary": "授業支援クラウド「スクールタクト」を提供するコードタクトは7日、児童生徒向けの新たな対話型AI機能「TUNE（β版）」をリリースした。 TUNEは、教師と児童生徒が授業の中で自然に […]",
+      "starred": false,
+      "category": "dx",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "校務DX",
+        "GIGA"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_b39836e7810764c5",
+      "title": "学研スタディエ、中学2年生を対象のオンライン授業「中2トップ校合格講座」9月開講",
+      "url": "https://ict-enews.net/2026/08/10gakken-29/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-08-10T01:18:08.000Z",
+      "summary": "学研ホールディングスのグループ会社学研スタディエは、運営する「進学塾サインワン」および「サインワン個別スクール」で、中学2年生を対象としたオンライン授業「中2トップ校合格講座」を9 […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
       ],
       "priority_score": 50
     },
