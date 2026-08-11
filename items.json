@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-08-11T10:04:12.503Z",
+  "generated_at": "2026-08-11T21:37:29.230Z",
   "total": 102,
   "items": [
+    {
+      "id": "item_21f8651de3f2baea",
+      "title": "文部科学省ホームページトップはこちら",
+      "url": "https://www.mext.go.jp/",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-08-11T21:37:19.315Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
     {
       "id": "item_bd1951ae70f98dac",
       "title": "サイトマップはこちら",
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-08-11T10:04:02.750Z",
+      "published_at": "2026-08-11T21:37:19.315Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -25,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-08-11T10:04:02.750Z",
+      "published_at": "2026-08-11T21:37:19.315Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -38,22 +56,73 @@
       "priority_score": 60
     },
     {
-      "id": "item_21f8651de3f2baea",
-      "title": "文部科学省ホームページトップはこちら",
-      "url": "https://www.mext.go.jp/",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-08-11T10:04:02.749Z",
-      "summary": "",
+      "id": "item_ba344f36b3c5c821",
+      "title": "「収益をうたうアプリ」「無料で動画が見られるデバイス」など、“こっそり悪用”例のチェックリストを警察庁が公開　詐欺インフラとして悪用される「レジデンシャルプロキシ」に注意を",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2132098.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-08-11T21:30:00.000Z",
+      "summary": "警察庁は8月10日、レジデンシャルプロキシの危険性を呼び掛ける「サイバー警察局便り」を公開し、公式Xアカウントなどでも投稿した。",
       "starred": false,
-      "category": "admin",
+      "category": "security",
       "tags": [
-        "行政",
-        "文科省",
-        "制度",
+        "インターネット",
+        "セキュリティ",
+        "情報モラル",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_6d894c38316bbd58",
+      "title": "プラネックス、1000BASE-T対応の産業用アンマネージドスイッチとパワーサプライ発売",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2131950.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-08-11T21:00:00.000Z",
+      "summary": "プラネックスコミュニケーションズ株式会社は、1000BASE-T対応の産業用アンマネージドスイッチ4製品と、産業用パワーサプライの計5製品を8月中旬より発売する。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_45cf8e6d85542589",
+      "title": "ソニーとTSMC、熊本にスマホ向け次世代センサー新拠点　29年量産へ",
+      "url": "https://www.watch.impress.co.jp/docs/news/2132147.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-08-11T11:12:46.000Z",
+      "summary": "ソニーグループと台湾TSMCは11日、熊本県における次世代のスマートフォン向けイメージセンサー生産拠点の開発・製造拠点の設立で合意した。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_a238ecfd05f797c2",
+      "title": "全高情研2026に参加して考えたこと諸々メモ📝",
+      "url": "https://note.com/takeshi_fujioka/n/n35500301a2a2",
+      "source_id": "note_joho1",
+      "source_name": "note（情報科教員）",
+      "published_at": "2026-08-11T10:11:13.000Z",
+      "summary": "はじめに 2026年8月7・8日に開催された第19回全高情研・神奈川大会に参加してきました。全高情研（＝全国高等学校情報教育研究会）は、高校の情報科に関わる先生方や研究者が集まるコミュニティで、毎年8月の上旬に全国大会が実施されています。（通称、情報科の「夏フェス」） 続きをみる",
+      "starred": false,
+      "category": "lesson",
+      "tags": [
+        "授業実践",
+        "情報Ⅰ",
+        "教材",
         "教育ニュース"
       ],
-      "priority_score": 60
+      "priority_score": 50
     },
     {
       "id": "item_247b0b7608017665",
@@ -1311,22 +1380,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_245d70d22661427e",
-      "title": "iPhoneで夏の花火をきれいに撮ろう 誰でもできる撮影のコツ【2026年版】",
-      "url": "https://www.watch.impress.co.jp/docs/topic/2131230.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-08-08T00:30:00.000Z",
-      "summary": "今年もいよいよ夏本番、全国各地で花火大会が盛り上がる季節がやってきました。夜空を鮮やかに彩る大輪の花火を見上げると、思わずスマートフォンを向けたくなりますよね。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_1151b33570c12ab0",
       "title": "【教育接続補論｜第3回】大学入学共通テストからみるＲＩＶ－ＴＨＥＴＡ｜国語から英語・情報Ⅰ・探究活動へ広げる補助線｜26-48",
       "url": "https://note.com/rievallab/n/n9f5b6dca2b67",
@@ -1431,39 +1484,6 @@
       "tags": [
         "インターネット",
         "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_f6cb8fba38d2a98e",
-      "title": "Facebookの偽コメントは1000件287ドル、YouTubeの偽チャンネル登録は1000人78ドル…人気を捏造するための価格リストが公開中【やじうまWatch】",
-      "url": "https://internet.watch.impress.co.jp/docs/yajiuma/2131440.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-08-07T03:05:43.000Z",
-      "summary": "ソーシャルメディアにおける偽の視聴回数や偽のコメントなど、人気を捏造するための価格を集めたリストが公開中だ。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_ab1fded6ac492aa4",
-      "title": "国内の銀行・信金386行のうち、なりすましメールを遮断できる状態だったのは26.7％にとどまる～GMOブランドセキュリティ調査",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2131394.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-08-07T02:44:33.000Z",
-      "summary": "日本国内の銀行・信用金庫386行のドメインを対象に、なりすましメール対策技術の導入・運用状況について調査した結果を、GMOブランドセキュリティ株式会社が8月7日に発表した。なりすましメールを実際に遮断できる状態にある金融機関は26.7％にとどまるという。",
-      "starred": false,
-      "category": "security",
-      "tags": [
-        "インターネット",
-        "セキュリティ",
-        "情報モラル"
       ],
       "priority_score": 50
     },
@@ -1772,27 +1792,6 @@
         "教育ニュース"
       ],
       "priority_score": 60
-    },
-    {
-      "id": "item_f8ac02f5f90f1096",
-      "title": "【連載】第6回　大人のための「情報Ⅰ・Ⅱ」再入門：共通テスト過去問で学ぶ「2進数と16進法」",
-      "url": "https://note.com/mama_oyako_it/n/nee79446d4d89",
-      "source_id": "note_joho1",
-      "source_name": "note（情報科教員）",
-      "published_at": "2026-06-25T23:02:04.000Z",
-      "summary": "こんにちは。どんぐり村長です。 前回は情報セキュリティの3大要件「CIA」について、オフィスの身近な落とし穴を交えて解説しました。高いシステムを入れることだけが対策ではない、という本質が伝わっていれば嬉しいです。 続きをみる",
-      "starred": false,
-      "category": "exam",
-      "tags": [
-        "授業実践",
-        "情報Ⅰ",
-        "教材",
-        "共通テスト",
-        "入試",
-        "セキュリティ",
-        "情報モラル"
-      ],
-      "priority_score": 70
     }
   ],
   "clips": []
