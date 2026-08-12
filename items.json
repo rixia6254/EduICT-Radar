@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T04:48:59.672Z",
+  "generated_at": "2026-08-12T10:12:58.995Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-08-12T04:48:49.390Z",
+      "published_at": "2026-08-12T10:12:48.268Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-08-12T04:48:49.390Z",
+      "published_at": "2026-08-12T10:12:48.268Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-08-12T04:48:49.390Z",
+      "published_at": "2026-08-12T10:12:48.268Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -52,6 +52,203 @@
         "文科省",
         "制度",
         "教育ニュース"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_79ab3dc6cf74bc3b",
+      "title": "RIZAPグループで2件の不正アクセス、「APORITOオンラインストア」会員の個人情報・カード情報流出の可能性　新星堂、HAPiNS、JEANS MATEなどにも影響",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2132403.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-08-12T09:56:32.000Z",
+      "summary": "RIZAPグループは8月10日、2件の不正アクセスについて情報を公開した。いずれも詳細な被害状況や原因は調査中だとしている。",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_5224c1a5b40dfad6",
+      "title": "GeminiアプリのMAUが10億人を突破　Googleで14番目の大台到達製品に",
+      "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000500/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-08-12T08:43:59.000Z",
+      "summary": "GoogleのGeminiアプリの月間アクティブユーザー数（MAU）が10億人を突破した。Google検索やWorkspaceなどの組み込み機能を除いたアプリ単体の数字で、同社として14番目の10億ユーザー到達製品となる。競合のChatGPTに続く大台達成で、iOSユーザー数や音声利用の比率なども公開された。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_b55c5496357b7a53",
+      "title": "楽天モバイル、10月以降もKDDIのローミング一部継続を強調",
+      "url": "https://www.watch.impress.co.jp/docs/news/2132370.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-08-12T08:30:11.000Z",
+      "summary": "楽天モバイルは12日、10月以降も一部エリアにおいてはKDDIのローミングを継続する方向で協議を続けていると発表した。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_7979f28d80154fdc",
+      "title": "ドコモ、店舗での本人確認にマイナカード等のICチップを活用",
+      "url": "https://www.watch.impress.co.jp/docs/news/2132338.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-08-12T07:38:58.000Z",
+      "summary": "NTTドコモは、全国のドコモショップとドコモ取扱店における携帯電話の手続き時の本人確認の一部について、マイナンバーカードや運転免許証などの本人確認書類に搭載された「ICチップ」を活用する本人確認方式を、8月20日から順次導入する。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_34e03dc616671b88",
+      "title": "不正アクセスでサービス全面停止していた「ドットマネー」が再開。GMOタウンWiFiが事業を引き継ぐかたちで",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2132330.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-08-12T07:36:30.000Z",
+      "summary": "ポイント交換プラットフォーム「ドットマネー」は8月12日、サービス再開を発表した。",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "情報モラル",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_302459b8ae345001",
+      "title": "国産GPS「みちびき7号機」打上げ成功　当面は6機体制で運用",
+      "url": "https://www.watch.impress.co.jp/docs/news/2132304.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-08-12T06:48:43.000Z",
+      "summary": "JAXAは11日、準天頂衛星システム「みちびき7号機」の打上げに成功した。H3ロケット9号機に搭載されたみちびき7号機は、打上げから約29分4秒後にロケットから切り離され、所定の軌道に投入されている。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_885d7f2387d6e7a9",
+      "title": "SpaceXAI、AIエージェント「Grok Bot」発表　クラウド環境で常時稼働、GrokやCursorの有料ユーザー向けに",
+      "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000506/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-08-12T06:33:57.000Z",
+      "summary": "米SpaceXAIは8月11日（現地時間）、常時稼働型のAIエージェント「Grok Bot」（β版）を発表した。チャットでタスクを渡すとBotがアプリやWebサイトを操作して作業を進め、役割の異なる複数のBotを並列で働かせることもできる。",
+      "starred": false,
+      "category": "dx",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "校務DX",
+        "GIGA",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_9df80de43c6794e0",
+      "title": "中国発AIエージェント「Manus」、Metaから独立へ　中国政府が買収に反発、一部ユーザーデータは削除に",
+      "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000508/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-08-12T06:09:00.000Z",
+      "summary": "AIエージェント「Manus」を提供するManusは8月11日（現地時間）、独立企業としての運営をまもなく再開すると発表した。米Metaからの分離に伴い、一部ユーザーのデータを23日から削除するとして、事前のバックアップを呼び掛けている。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_ae45e187789ca046",
+      "title": "24時間働く“AI同僚”「Grok Bot」公開　業務アプリにログインして操作、「仕事を任せられる」",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2608/12/2000000505/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-08-12T05:47:36.000Z",
+      "summary": "Botが業務アプリにサインインして人間の操作と同じ手順で画面を動かし、仕事を最後まで仕上げるという。",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_7f8f0e745a1e29ca",
+      "title": "【注目記事】深海底まで擬似探検できて実に楽しい。海上保安庁、マインクラフト用「海底地形ワールドデータ」無償公開",
+      "url": "https://internet.watch.impress.co.jp/docs/readitnow/2131914.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-08-12T05:02:00.000Z",
+      "summary": "「今すぐ読みたい注目記事」コーナーでは、過去に掲載した記事の中から、「今読んでほしい記事」を再紹介しています。記事内容は掲載当時のもので、最新の状況とは異なる場合もあります。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_6b69237d990c4f9c",
+      "title": "ChatGPTデスクトップアプリにLinux版　「お待たせ。MacBookはキャンセルしていいよ」",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2608/12/2000000504/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-08-12T04:53:41.000Z",
+      "summary": "プレビュー版だが「待ちきれずにMacBookを注文してしまったなら、キャンセルしていい。それくらい出来がいい」という。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用",
+        "教材",
+        "ツール"
       ],
       "priority_score": 60
     },
@@ -547,26 +744,6 @@
         "デジタル"
       ],
       "priority_score": 50
-    },
-    {
-      "id": "item_5224c1a5b40dfad6",
-      "title": "GeminiアプリのMAUが10億人を突破　Googleで14番目の大台到達製品に",
-      "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000500/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-08-12T00:21:15.000Z",
-      "summary": "GoogleのGeminiアプリの月間アクティブユーザー数（MAU）が10億人を突破した。Google検索やWorkspaceなどの組み込み機能を除いたアプリ単体の数字で、同社として14番目の10億ユーザー到達製品となる。競合のChatGPTに続く大台達成で、iOSユーザー数や音声利用の比率なども公開された。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 60
     },
     {
       "id": "item_6228e3d2e42d9721",
@@ -1102,26 +1279,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_40fbdd8962f405e1",
-      "title": "避難所でAI使ってサービス開発「イマココナビ」　ニッチな生活情報も被災者主導で共有",
-      "url": "https://www.itmedia.co.jp/news/article/2608/10/2000000481/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-08-10T03:52:46.000Z",
-      "summary": "熊本地震の発生直後、人工知能（AI）を活用し、被災者どうしが生活情報をリアルタイムで共有するサイトが生まれ、好評を呼んでいる。子供が遊べる公園、爬虫類のペットフードの売り場―。行政では担えないニッチな内容を共有できることも強みで、すでに16万人以上がサイトに足を運んだ。「情報」が欠かせぬ一つのライフラインとなる中、被災者主導で悩みや提案を共有できるこの仕組みは、災害時の新たなモデルケースといえる。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用",
-        "行政",
-        "文科省"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_8ce689158e016ef7",
       "title": "Metaによるメンタルヘルス被害を「工場の公害」で説明、米ニューメキシコ州が5億6700万ドルの支払い命令",
       "url": "https://internet.watch.impress.co.jp/docs/news/2131937.html",
@@ -1170,23 +1327,6 @@
         "デジタル",
         "校務DX",
         "GIGA"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_52511c8021f92186",
-      "title": "「VIVANT」シーズン2ではAIが活躍？　個人的に気になったこと",
-      "url": "https://monoist.itmedia.co.jp/mn/articles/2608/10/news037.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-08-10T03:00:00.000Z",
-      "summary": "あくまでフィクションなのは重々承知しています。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
       ],
       "priority_score": 50
     },
@@ -1243,24 +1383,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_cc07f50b41d2ac7f",
-      "title": "テレ朝「映像全編AI生成」のCMを制作　「今後もAIを活用した制作に挑戦」",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2608/10/2000000475/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-08-10T02:19:10.000Z",
-      "summary": "テレビ朝日が同局初の「映像全編AI生成」CMを制作。サントリー「GREEN DA・KA・RA」との30秒作品で、4月発足の「AIクリエイティブスタジオ」が制作。今後も生成AIを活用したCM制作に挑戦するという。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 60
-    },
-    {
       "id": "item_3bc752cd8e6b3389",
       "title": "Amazonデバイスのサマーセール開催中！　「Kindle Colorsoft」が3万1980円　電子書籍リーダー「Kindle」が安い。モノクロ版の「Kindle Paperwhite」は2万2980円",
       "url": "https://internet.watch.impress.co.jp/docs/shopping/2131830.html",
@@ -1293,54 +1415,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_db9df563d18e9cbf",
-      "title": "大胆なセブン提携の裏で進むPayPayの地道な経営改善",
-      "url": "https://www.watch.impress.co.jp/docs/topic/watchplus/2131338.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-08-10T00:00:00.000Z",
-      "summary": "Impress Watchニュースレターに掲載した記事です。ニュースレターは無料で、毎週編集部員が会員向けのコラムなどをお送りしています。登録はこちらから。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_4da2bae3c4a56b5d",
-      "title": "名駅ヨドバシの誕生　名古屋駅再開発の行方と「期間限定」の理由",
-      "url": "https://www.watch.impress.co.jp/docs/topic/2131499.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-08-09T23:20:00.000Z",
-      "summary": "リニア中央新幹線にともなう再開発が進む名古屋駅(名駅/メイエキ)エリアで、今年2月に閉店したばかりの名鉄百貨店本店に、ヨドバシカメラが期間限定で出店する。開業時期(2026年夏頃)以外の詳細はほぼ明らかになっていないものの、本館のうち5フロアを使用するという新店舗は、ライバルであるビックカメラをはじめとした家電量販各社にとって、かなりの脅威となりそうだ。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_4f1a6fd135fe81b6",
-      "title": "東京都、八重洲駐車場を地下シェルターに整備　ミサイルから避難",
-      "url": "https://www.watch.impress.co.jp/docs/news/2131801.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-08-09T23:00:00.000Z",
-      "summary": "東京都は、ミサイルから安全に避難できるシェルター施設として、東京都八重洲駐車場を整備する。2026年度から調査を開始し、必要な改修工事を行なう。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_751f8e22f344f841",
       "title": "バッファロー、半固体電解質で発火・発煙リスクの低いモバイルバッテリー「BMPBSA10000」シリーズの店頭販売を9月上旬に開始",
       "url": "https://internet.watch.impress.co.jp/docs/news/2131284.html",
@@ -1353,23 +1427,6 @@
       "tags": [
         "インターネット",
         "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_791ec04e63a5699b",
-      "title": "Salesforce「サポート部門9000→5000人」は人員削減ではない　AI時代に生き残る“配置転換”",
-      "url": "https://www.itmedia.co.jp/business/articles/2608/10/news028.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-08-09T22:45:00.000Z",
-      "summary": "米SalesforceがAI導入に伴いサポート人員を「9000人から5000人規模へ再配置」した。この動向は、AI時代のキャリア変革を象徴している。同社日本法人では、全社員に毎年更新の「AI免許」取得を義務付け、現場でAIを即興実装する新職種「FDE」を生み出すなど、人材育成と評価構造の再定義を推進。解雇や単純削減ではない「人とAIが共存する組織」の作り方を、同社の田中遼太COOに聞いた。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
       ],
       "priority_score": 50
     },
@@ -1388,58 +1445,6 @@
         "セキュリティ",
         "校務DX",
         "GIGA"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_07be4c2960c1eb4b",
-      "title": "ベトナムで日本の映画・アニメなどを無断配信していた「Phim Nè」の運営者3人を刑事立件",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2131570.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-08-09T22:00:00.000Z",
-      "summary": "ベトナム・ハノイ市公安経済警察部は8月1日、日本の映画・アニメ・ドラマなどを無断で配信していた海賊版サイト「Phim Nè」（phimne.live）の運営者であるドンナイ省在住のベトナム人男性1人、および海賊版アプリ「Phim Nè」（phimne.app）の運営者であるダナン市在住のベトナム人男性2人について、著作権および著作隣接権を侵害する罪により刑事立件した。一般社団法人コンテンツ海外流通…",
-      "starred": false,
-      "category": "security",
-      "tags": [
-        "インターネット",
-        "セキュリティ",
-        "情報モラル",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_c5f953494deb1155",
-      "title": "【2023年のINTERNET Watch】「Wi-Fi 7」解禁や「IOWN 1.0」始動で通信が進化、コロナ禍の行動制限も大幅に緩和へ",
-      "url": "https://internet.watch.impress.co.jp/docs/special/30th/2131097.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-08-09T21:30:00.000Z",
-      "summary": "2023年（令和5年）は、新型コロナウイルス感染症（COVID-19）の感染症法上の位置づけが「5類」へと移行されたことに伴い、約3年間続いた行動制限や水際対策が大幅に緩和された。マスクの着用も個人の判断に委ねられるようになるなど、社会経済活動や日常生活をコロナ禍前のものに戻していく大きな転換点となった。",
-      "starred": false,
-      "category": "security",
-      "tags": [
-        "インターネット",
-        "セキュリティ",
-        "情報モラル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_079e3e478d8eed6d",
-      "title": "【本日8月10日 20時配信】2026年夏 最新版！　清水理史が本気でオススメしたいWi-Fiルーターはどれか？　ライブで解説【清水理史の「イニシャルB」チャンネル】",
-      "url": "https://internet.watch.impress.co.jp/docs/column/shimizumovie/2131609.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-08-09T21:00:00.000Z",
-      "summary": "ストレージにメモリにPCにと、あらゆるものが価格上昇傾向にあるなか、Wi-Fiルーターの価格にも異変あり!!",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
       ],
       "priority_score": 50
     },
