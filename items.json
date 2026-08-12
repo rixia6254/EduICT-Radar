@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T10:12:58.995Z",
+  "generated_at": "2026-08-12T21:36:48.891Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-08-12T10:12:48.268Z",
+      "published_at": "2026-08-12T21:36:38.916Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-08-12T10:12:48.268Z",
+      "published_at": "2026-08-12T21:36:38.916Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-08-12T10:12:48.268Z",
+      "published_at": "2026-08-12T21:36:38.916Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -52,6 +52,218 @@
         "文科省",
         "制度",
         "教育ニュース"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_893969fc553b8615",
+      "title": "工具不要のクランプ式、集中空間を作るフェルト製デスクトップパネル、サンワサプライが発売",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2132294.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-08-12T21:30:00.000Z",
+      "summary": "サンワサプライ株式会社は8月5日、周囲の視線を気にせず、集中しやすいワークスペースを作るフェルト製デスクトップパネル「100-DPT0」を発売した。高さ30/40/50cmの3種類があり、直販サイト「サンワダイレクト」での販売価格は8980円、9980円、1万800円。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_ab399fb002120c52",
+      "title": "【注目記事】特殊詐欺電話から家族を守る、無料の「警察庁推奨アプリ」をインストールしておこう",
+      "url": "https://internet.watch.impress.co.jp/docs/readitnow/2132211.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-08-12T21:00:00.000Z",
+      "summary": "「今すぐ読みたい注目記事」コーナーでは、過去に掲載した記事の中から、「今読んでほしい記事」を再紹介しています。記事内容は掲載当時のもので、最新の状況とは異なる場合もあります。",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_1ffbd02facf4c3b3",
+      "title": "メルカリが明かす「Claude Code全社展開」「シャドーAI対策」を支える仕組み",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/04/news002.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-08-12T20:00:00.000Z",
+      "summary": "「AIを使わない選択自体がビジネスリスク」と断言するメルカリ。同社は2026年5月、「Claude Code」「Claude Cowork」の全社展開に踏み切った。だが、ローカルファイルの操作やOSコマンドまで実行できる強力なツールの配布は、ガバナンスの課題も伴う。全社のAI活用を支える同社の「仕組み」に迫る。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_172e94eb6f8d0624",
+      "title": "［Python］Polars公式が「全部書き換えるな」と言う理由　pandasからの移行、3戦略",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/13/news008.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-08-12T20:00:00.000Z",
+      "summary": "Polars公式が、pandasからPolarsへの移行戦略を3つに整理した記事を公開した。区間ごとに移す手順を整理しつつ、AIに任せれば片付くのかという疑問についても筆者の見解を述べる。",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_5b8b4271b1fdf2c4",
+      "title": "Google、折りたたみスマホ「Pixel 11 Pro Fold」発表　10％軽く、1mm薄くしつつ耐久性強化",
+      "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000517/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-08-12T14:10:09.000Z",
+      "summary": "米Googleは8月12日、折りたたみスマートフォン「Pixel 11 Pro Fold」を国内発表した。前モデルより約10％軽く約1mm薄いが、新しいヒンジとセラミックガラスの採用で3倍の強度を実現したという。Googleストアでの価格は256GBモデルが27万9900円。8月20日に発売する。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_9a6ae1ac49889027",
+      "title": "Googleから紛失防止タグ「Pixel Tag」　UWB対応で5010円",
+      "url": "https://www.watch.impress.co.jp/docs/news/2132430.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-08-12T14:10:01.000Z",
+      "summary": "Googleは12日、同社初となる紛失防止タグ(トラッカータグ)「Google Pixel Tag」を発表した。11月に発売予定で、価格は単品が5,010 円、4つセットが 16,940円。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_42e1c9e73ba8e4fe",
+      "title": "グーグル「Pixel Watch 5」登場　GPS精度2倍で健康管理も強化　62800円から",
+      "url": "https://www.watch.impress.co.jp/docs/news/2132375.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-08-12T14:05:00.000Z",
+      "summary": "Googleは、新型スマートウォッチ「Google Pixel Watch 5」を20日に発売する。価格は41mmが62,800円(Bluetooth)/79,800円(LTE)、45mmが67,800円(Bluetooth)/84,800円(LTE)。バンドのカラーはCanyon(キャニオン)、Fog(フォグ)、Olive(オリーブ)、新しいPyrite(パイライト)の4色を用意する。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_163b99ce47131b81",
+      "title": "Google新スマホ「Pixel 11シリーズ」正式発表　「Gemini Intelligence」向けに設計　カメラも強化",
+      "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000516/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-08-12T14:03:56.000Z",
+      "summary": "米Googleは8月12日、「Pixel 11」「Pixel 11 Pro」「Pixel 11 Pro XL」を発表した。新チップ「Google Tensor G6」を搭載し、カメラを刷新。Proには通知を光で知らせる「HiLight」を加えた。中核のAI機能「Gemini Intelligence」が目玉としている。8月20日に発予定。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用",
+        "行政",
+        "文科省"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_30b467ebf2c50132",
+      "title": "薄型軽量化し耐久性3倍向上「Pixel 11 Pro Fold」　27.9万円から",
+      "url": "https://www.watch.impress.co.jp/docs/news/2132276.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-08-12T14:01:00.000Z",
+      "summary": "Googleは、折りたたみスマートフォン「Google Pixel 11 Pro Fold」を8月20日に発売する。予約受付は8月12日に開始。価格は256GBが279,900円、512GBが299,900円で、いずれもメモリは16GBで、カラーはOliveとObsidianの2色。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_07eeb2014829a0eb",
+      "title": "グーグル「Pixel 11 Pro」登場　決定機を逃さない新カメラやGemini新機能",
+      "url": "https://www.watch.impress.co.jp/docs/news/2132115.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-08-12T14:00:00.000Z",
+      "summary": "Googleは、新フラッグシップスマートフォン「Pixel 11」シリーズを8月20日から発売する。「Pixel 11」と「Pixel 11 Pro」、「Pixel 11 Pro XL」の3モデルと折りたたみ型(フォルダブル)の「Pixel 11 Pro Fold」の4モデルを展開する。価格は136,800円～。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "生成AI",
+        "AI活用"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_3a59026a65747406",
+      "title": "自分の代わりに働く常時稼働のAI同僚「Grok Bot」　Cursor契約者など",
+      "url": "https://www.watch.impress.co.jp/docs/news/2132397.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-08-12T10:14:34.000Z",
+      "summary": "SpaceXAIは11日(米国時間)、24時間365日稼働するエージェントサービス「Grok Bot」の早期β版を提供開始した。Grokの上位プラン「SuperGrok Heavy」やコーディングエージェント「Cursor」の有料プラン契約者向けに提供し、WindowsやMacなどのデスクトップ版とiOSに対応する。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_5224c1a5b40dfad6",
+      "title": "GeminiアプリのMAUが10億人を突破　Googleで14番目の大台到達製品に",
+      "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000500/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-08-12T09:59:59.000Z",
+      "summary": "GoogleのGeminiアプリの月間アクティブユーザー数（MAU）が10億人を突破した。Google検索やWorkspaceなどの組み込み機能を除いたアプリ単体の数字で、同社として14番目の10億ユーザー到達製品となる。競合のChatGPTに続く大台達成で、iOSユーザー数や音声利用の比率なども公開された。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用",
+        "教材",
+        "ツール"
       ],
       "priority_score": 60
     },
@@ -71,26 +283,6 @@
         "情報モラル"
       ],
       "priority_score": 50
-    },
-    {
-      "id": "item_5224c1a5b40dfad6",
-      "title": "GeminiアプリのMAUが10億人を突破　Googleで14番目の大台到達製品に",
-      "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000500/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-08-12T08:43:59.000Z",
-      "summary": "GoogleのGeminiアプリの月間アクティブユーザー数（MAU）が10億人を突破した。Google検索やWorkspaceなどの組み込み機能を除いたアプリ単体の数字で、同社として14番目の10億ユーザー到達製品となる。競合のChatGPTに続く大台達成で、iOSユーザー数や音声利用の比率なども公開された。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 60
     },
     {
       "id": "item_b55c5496357b7a53",
@@ -1075,24 +1267,6 @@
       "priority_score": 60
     },
     {
-      "id": "item_5e394d7f40de4b1e",
-      "title": "AIエージェントの「Skills」「MCP」などをまとめる標準規格登場　CodexやVS Codeなど対応、Claudeは未対応",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2608/10/2000000487/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-08-10T14:11:18.000Z",
-      "summary": "VercelがAIエージェント拡張のオープン標準「Agent Plugins」を発表。「Agent Skills」やMCPサーバ設定を共通形式にし、クライアント間で使い回せるようにする。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_11a5f2fe13023730",
       "title": "Metaは「パーソナル超知能」を目指す　米国主導とオープンモデル推進を強調",
       "url": "https://www.watch.impress.co.jp/docs/news/2132123.html",
@@ -1175,110 +1349,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_8490c0ebf2f17008",
-      "title": "PayPay、7500万ユーザーを突破　年間決済回数は88.8億回",
-      "url": "https://www.watch.impress.co.jp/docs/news/2132012.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-08-10T07:18:13.000Z",
-      "summary": "PayPayは、登録ユーザーが7,500万人を突破したと発表した。日本の人口の2人に1人以上、日本のスマホユーザーの約4人に3人が利用するサービスとなったほか、本人確認済みユーザーも4,300万人を超えて、安全安心な金融プラットフォームとして強化していく。",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_b0c75c04a2493493",
-      "title": "NEC、部門長から社員まで「全員AI」の新組織",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2608/10/2000000484/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-08-10T05:29:28.000Z",
-      "summary": "AIマネージャーが都度AI社員を生成して役割を任命する。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_265c489c4cea0bed",
-      "title": "VAIO、内蔵カメラで血管や心拍情報を測定できる世界初PC",
-      "url": "https://www.watch.impress.co.jp/docs/news/2131974.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-08-10T05:27:25.000Z",
-      "summary": "VAIOは、「血管情報」「心拍情報」の両方を内蔵カメラで測定できるアプリケーション「VAIO ウェルネスケア」の先行プレビュー版を、8月10日より個人向けVAIO SX14-R(VJS4R2シリーズ)の標準機能として提供開始した。利用は無料。これにより、VAIO SX14-Rは、同機能を搭載する世界初のPCとなる。",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_425d6fa37a243bca",
-      "title": "車がぶつかっても折れない「曲がるゲートバー」　JR西など",
-      "url": "https://www.watch.impress.co.jp/docs/news/2131955.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-08-10T04:43:40.000Z",
-      "summary": "三菱地所パークスとJR西日本は、車両が接触しても折れずに曲がる駐車場向けゲートバー「(仮称)折れずに“曲がる”新ゲートバー」を展開する。鉄道分野で培った安全技術を駐車場に応用したもので、接触時の破損リスク低減を図る。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_c56973fc6a4352c8",
-      "title": "“脱モノ売り”のリコー　同社が説く「営業AXの勘所」とは",
-      "url": "https://www.itmedia.co.jp/enterprise/articles/2608/10/news066.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-08-10T04:40:00.000Z",
-      "summary": "営業AXは、どう進めれば成果が出るのか。営業力で定評のあるリコージャパンの、“脱モノ売り”を図り、“課題解決型”への転換から勘所を探る。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_a73186e27b1a99cb",
-      "title": "「Apex人材が少ない」　Salesforce導入企業の約9割で「属人化」が課題に",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/10/news043.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-08-10T04:00:00.000Z",
-      "summary": "コパードは、Salesforceの開発・運用におけるAI活用実態調査の結果を発表した。約9割が業務の属人化に課題意識を持つ中、8割強が「業務をAIで平準化できる」と期待している。一方で、AI活用層は「検証体制の不在」という新たな壁に直面していることも明らかになった。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_8ce689158e016ef7",
       "title": "Metaによるメンタルヘルス被害を「工場の公害」で説明、米ニューメキシコ州が5億6700万ドルの支払い命令",
       "url": "https://internet.watch.impress.co.jp/docs/news/2131937.html",
@@ -1291,42 +1361,6 @@
       "tags": [
         "インターネット",
         "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_ed64440affab9276",
-      "title": "Grokの画像生成「Imagine Image 2.0」　元画像を保ちながら部分編集",
-      "url": "https://www.watch.impress.co.jp/docs/news/2131920.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-08-10T03:37:47.000Z",
-      "summary": "xAIは、画像生成・編集モデル「Imagine Image 2.0」の一般提供を開始した。Grok.comの「Imagine」で新たなQuality Modeとして利用できるほか、iOS/Androidアプリにも対応する。API対応も予定されている。",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_4a51d7a0d25733b7",
-      "title": "新宿御苑で“クレカチケットレス入園”　8月12日から",
-      "url": "https://www.watch.impress.co.jp/docs/news/2131902.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-08-10T03:22:19.000Z",
-      "summary": "環境省は、新宿御苑において、入園ゲートにクレジットカードのタッチ決済端末を設置し、“クレカチケットレス入園”の実証実験を行なう。開始は8月12日からで、期間は2026年度中を予定する。",
-      "starred": false,
-      "category": "dx",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "校務DX",
-        "GIGA"
       ],
       "priority_score": 50
     },
@@ -1411,40 +1445,6 @@
       "tags": [
         "インターネット",
         "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_751f8e22f344f841",
-      "title": "バッファロー、半固体電解質で発火・発煙リスクの低いモバイルバッテリー「BMPBSA10000」シリーズの店頭販売を9月上旬に開始",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2131284.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-08-09T23:00:00.000Z",
-      "summary": "株式会社バッファローは、半固体電解質を採用した半固体モバイルバッテリー「BMPBSA10000」シリーズを、全国の家電量販店などで2026年9月上旬より順次発売する。市場想定価格は5990円で、本体カラーはメタリックブラックとシルキーホワイト。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_e5138099f2fdb7b3",
-      "title": "Lightning/USB Type-C両対応のiPhone用USBメモリ、サンディスク「SANDISK Phone Drive for iPhone」発売",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2131551.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-08-09T22:30:00.000Z",
-      "summary": "サンディスクは8月7日、LightningとUSB Type-Cプラグを備えたiPhone/iPad用USBフラッシュメモリ「SANDISK Phone Drive for iPhone」の国内販売を開始した。容量は128GBと256GB。",
-      "starred": false,
-      "category": "dx",
-      "tags": [
-        "インターネット",
-        "セキュリティ",
-        "校務DX",
-        "GIGA"
       ],
       "priority_score": 50
     },
