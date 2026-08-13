@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-08-13T10:14:15.479Z",
+  "generated_at": "2026-08-13T21:36:47.318Z",
   "total": 102,
   "items": [
+    {
+      "id": "item_21f8651de3f2baea",
+      "title": "文部科学省ホームページトップはこちら",
+      "url": "https://www.mext.go.jp/",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-08-13T21:36:37.224Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
     {
       "id": "item_bd1951ae70f98dac",
       "title": "サイトマップはこちら",
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-08-13T10:14:05.032Z",
+      "published_at": "2026-08-13T21:36:37.224Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -25,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-08-13T10:14:05.032Z",
+      "published_at": "2026-08-13T21:36:37.224Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -38,22 +56,79 @@
       "priority_score": 60
     },
     {
-      "id": "item_21f8651de3f2baea",
-      "title": "文部科学省ホームページトップはこちら",
-      "url": "https://www.mext.go.jp/",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-08-13T10:14:05.031Z",
-      "summary": "",
+      "id": "item_f7aaee933ec92e23",
+      "title": "「ConoHa VPS byGMO」、Claudeのコネクタ提供。国内クラウド事業者初　生成AIから自然言語でVPSを操作可能に",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2132546.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-08-13T21:30:00.000Z",
+      "summary": "GMOインターネット株式会社は8月12日、VPSサービス「ConoHa VPS byGMO」におけるAnthropicの生成AIサービス「Claude」のコネクタの提供を開始した。あわせて、同サービスがAnthropicのClaudeコネクタディレクトリ（Claude Connectors Directory）に掲載されたと発表した。同社によれば、VPSを提供する国内クラウド事業者のコネクタが同デ…",
       "starred": false,
-      "category": "admin",
+      "category": "ai",
       "tags": [
-        "行政",
-        "文科省",
-        "制度",
-        "教育ニュース"
+        "インターネット",
+        "セキュリティ",
+        "生成AI",
+        "AI活用",
+        "校務DX",
+        "GIGA"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_85a49f16ea6e0031",
+      "title": "生成AI利用者を狙うネット詐欺が相次ぐ。偽アプリや「無料」の誘いから身を守るために【自衛の基本を再確認しておこう！】",
+      "url": "https://internet.watch.impress.co.jp/docs/column/dlis/2132299.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-08-13T21:00:00.000Z",
+      "summary": "「ChatGPT」「Gemini」「Claude」といった生成AIを日常的に使う人が増えました。文章の下書きや調べ物、旅行の計画、健康や薬の相談まで、スマホに話しかけるだけで答えが返ってきます。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "生成AI",
+        "AI活用",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 70
+    },
+    {
+      "id": "item_fc71c2c2d3bfaaa9",
+      "title": "中国DeepSeek、API料金を「最大12倍」に値上げ　ピーク時価格も導入　8月17日から",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2608/13/2000000533/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-08-13T14:12:24.000Z",
+      "summary": "中国DeepSeekは8月13日（日本時間、以下同）、AIモデルのAPI料金を値上げすると発表した。通常より2倍高いピーク時価格も導入する。新たな料金体系は17日午前1時から適用する。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_798743c6b1f452e9",
+      "title": "Google、「Gemini」開発遅延で焦りか　共同創業者ブリン氏が“全力投球”促す",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2608/13/2000000529/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-08-13T13:16:13.000Z",
+      "summary": "Google共同創業者ブリン氏が、AI部門の従業員に「Gemini」へ全力を注ぐよう促していたという。旗艦モデルは競合への後れで公開が2カ月延期。「再帰的自己改善」への資源配分も進めている。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_cedd6aeab08bc36d",
@@ -136,24 +211,6 @@
       "tags": [
         "テクノロジー",
         "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_798743c6b1f452e9",
-      "title": "Google、「Gemini」開発遅延で焦りか　共同創業者ブリン氏が“全力投球”促す",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2608/13/2000000529/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-08-13T06:14:13.000Z",
-      "summary": "Google共同創業者ブリン氏が、AI部門の従業員に「Gemini」へ全力を注ぐよう促していたという。旗艦モデルは競合への後れで公開が2カ月延期。「再帰的自己改善」への資源配分も進めている。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
       ],
       "priority_score": 50
     },
@@ -1355,58 +1412,6 @@
         "デジタル",
         "生成AI",
         "AI活用",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_d7c8523ea280f5fa",
-      "title": "「AI生成コンテンツ、実は嫌いではない」　だが「客の半分が去る」本当の理由",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/12/news040.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-08-11T23:00:00.000Z",
-      "summary": "TWOSTONE＆SonsがBtoBの比較検討・発注担当者を対象とした意識調査結果を発表した。約9割がコンテンツに「AIっぽさ」を感じた経験があり、その後問い合わせや資料請求を取りやめたと回答する割合も示された。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_b896c3bcfe6b96b9",
-      "title": "USB充電式電動ドライバーって便利なの？ どんな製品が発売されている？　工具のほうの「ドライバー」記事まとめ",
-      "url": "https://internet.watch.impress.co.jp/docs/index/2131936.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-08-11T22:00:00.000Z",
-      "summary": "※各記事の内容は、それぞれ掲載当時のものです。モデルチェンジした製品や、すでに販売を終了した製品の情報が含まれている可能性もあることに留意してください。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_ba344f36b3c5c821",
-      "title": "「収益をうたうアプリ」「無料で動画が見られるデバイス」など、“こっそり悪用”例のチェックリストを警察庁が公開　詐欺インフラとして悪用される「レジデンシャルプロキシ」に注意を",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2132098.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-08-11T21:30:00.000Z",
-      "summary": "警察庁は8月10日、レジデンシャルプロキシの危険性を呼び掛ける「サイバー警察局便り」を公開し、公式Xアカウントなどでも投稿した。",
-      "starred": false,
-      "category": "security",
-      "tags": [
-        "インターネット",
-        "セキュリティ",
-        "情報モラル",
         "教材",
         "ツール"
       ],
