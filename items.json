@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T04:49:42.540Z",
-  "total": 102,
+  "generated_at": "2026-08-14T10:10:33.632Z",
+  "total": 83,
   "items": [
     {
       "id": "item_bd1951ae70f98dac",
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-08-14T04:49:32.437Z",
+      "published_at": "2026-08-14T10:10:24.933Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -25,7 +25,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-08-14T04:49:32.437Z",
+      "published_at": "2026-08-14T10:10:24.933Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-08-14T04:49:32.436Z",
+      "published_at": "2026-08-14T10:10:24.932Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -52,6 +52,132 @@
         "文科省",
         "制度",
         "教育ニュース"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_c0fe8bfc342b4e4d",
+      "title": "日本百名山、春の時期の来訪者数が2年前に比べ18％減。熊の出没が集中した東北では34％減　～スマホの人流ビッグデータをもとにunerryが分析",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2132879.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-08-14T09:52:38.000Z",
+      "summary": "日本百名山の春の時期における来訪者数は、2年前に比べて18％減少していることが、人流ビッグデータの分析から分かったという。熊の出没動向との因果関係を直接的に示すものではないとしているが、東北エリアでの落ち込みが特に大きく、34％減少していた。株式会社unerryが、山の日の8月11日に調査結果を発表した。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_2eb10b6373c6e1a5",
+      "title": "ChatGPT、Macの操作を記憶する「Computer History」",
+      "url": "https://www.watch.impress.co.jp/docs/news/2132844.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-08-14T08:30:14.000Z",
+      "summary": "OpenAIは14日、macOS版ChatGPTデスクトップアプリで「Computer History」を提供開始した。対象はChatGPT Pro(16,800円/月)とBusiness、Enterpriseのユーザー。Proでは利用者が機能をオンにでき、BusinessとEnterpriseでは管理者によるアクセス許可後に各ユーザーが有効化する。利用にはChatGPTのメモリ機能も必要となる。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "生成AI",
+        "AI活用",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_7f90c2dfeaca03a8",
+      "title": "GPT-5.6 Solの「超高速モード」ついに実装　「品質損なわず14倍高速」うたう",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2608/14/2000000545/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-08-14T07:32:48.000Z",
+      "summary": "CerebrasとOpenAIは「GPT-5.6 Sol」の高速版「Ultrafastモード」を発表。毎秒最大750トークンを出力し、「品質を損なわず最大14倍高速」とうたう。OpenAIのAPIで限定プレビューを開始した。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_396be5f51ce8ce78",
+      "title": "NearMe「時間貸切」サービス　大阪や北海道などへ拡大",
+      "url": "https://www.watch.impress.co.jp/docs/news/2132778.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-08-14T07:31:59.000Z",
+      "summary": "NearMeは14日、大型車両を時間単位で貸し切れる「時間貸切」サービスの運行エリアを拡大した。これまでの関東エリアに加え、大阪・京都、北海道、東海、沖縄の各エリアで運行を開始する。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_6028fa8416a9a42d",
+      "title": "ChatGPTがPC操作を自動で記録、コンテキストとして利用可能に　Mac版デスクトップアプリで提供",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2608/14/2000000548/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-08-14T07:30:18.000Z",
+      "summary": "OpenAIが「ChatGPT」「Codex」の新機能「Computer History」を発表。アプリやWebサイトの操作履歴を記録し、記憶とタイムラインとしてチャットで利用できる。Mac版デスクトップアプリで提供する。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_2e13c30bea1ef1f8",
+      "title": "ニチレイ、7月発生のサイバー攻撃により従業員の情報が漏えいした可能性を発表",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2132801.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-08-14T05:48:13.000Z",
+      "summary": "株式会社ニチレイは8月14日、7月にサイバー攻撃を受けたサーバーの一部に保存されていた従業員の情報が漏えいした可能性があるとして、情報を発表した。",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_455aecd0903e6cee",
+      "title": "【注目記事】着信番号に「＋」が付いていたら要注意！ 身に覚えのない国際電話がかかってきたら詐欺の可能性“大” ほか 連載「読めば身に付くネットリテラシー」の必読回 10本",
+      "url": "https://internet.watch.impress.co.jp/docs/readitnow/2132783.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-08-14T05:41:14.000Z",
+      "summary": "2024年9月にスタートした本誌連載「読めば身に付くネットリテラシー」では、巧妙化するネット詐欺の手口や、SNSアカウント乗っ取りなどの被害事例、生成AIを悪用したサイバー攻撃の動向などをNPO法人DLIS（デジタルリテラシー向上機構）が分かりやすく解説している。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "生成AI",
+        "AI活用",
+        "情報モラル"
       ],
       "priority_score": 60
     },
@@ -201,244 +327,6 @@
       "tags": [
         "インターネット",
         "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_1da182928b23ff99",
-      "title": "東京都北区、親子で学ぶ「レイのブログ」体験会開催",
-      "url": "https://ict-enews.net/2026/08/14kita/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-08-14T01:01:32.000Z",
-      "summary": "東京都北区は10日、7月25日に赤羽文化センターで、親子で学ぶ「レイのブログ」体験会を開催したと発表した。 これは、ゲーム形式のアクティビティを通じて、正しい情報の見極め方や誤情報 […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_655d82d2e2c6b36d",
-      "title": "CA Tech Kids、「Tech Kids Grand Prix 2026」連動企画で無料のプログラミング出張授業を実施",
-      "url": "https://ict-enews.net/2026/08/14ca-tech-kids-3/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-08-14T01:01:19.000Z",
-      "summary": "CA Tech Kidsは12日、テレビ朝日と共同開催する小学生のためのプログラミングコンテスト「Tech Kids Grand Prix 2026」Supported by Cy […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 60
-    },
-    {
-      "id": "item_af8b8f984415ebff",
-      "title": "SNAPLACE、高校化学の反応350件超をゲームで覚えるパズル『Structura 元素合成』配信開始",
-      "url": "https://ict-enews.net/2026/08/14snaplace/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-08-14T01:01:02.000Z",
-      "summary": "SNAPLACEは12日、高校化学の無機・有機・高分子の反応を落ちものパズルで覚えるスマートフォンアプリ『Structura 元素合成』を、Google Play（Android） […]",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "教育ニュース",
-        "ICT",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_5d63e14c18f33921",
-      "title": "CNN、教育・人材育成プログラム「CNN Academy」8月24日～28日上智大学で開催",
-      "url": "https://ict-enews.net/2026/08/14cnn/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-08-14T01:00:42.000Z",
-      "summary": "CNNは10日、グローバルで展開し高い評価を得ている教育・人材育成プログラム「CNN Academy」を、日本で初めて開催すると発表した。 CNNは、ニュースルームで培ってきた知見 […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_358c500ea23cd3bc",
-      "title": "TAC、中小企業診断士合格者と講師のトークセッションを17日無料オンライン配信",
-      "url": "https://ict-enews.net/2026/08/14tac-12/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-08-14T01:00:32.000Z",
-      "summary": "TACは、昨年度の中小企業診断士合格者と講師のトークセッションを8月17日20:00から、無料オンライン配信する。 本セミナーでは、TACの「1・2次ストレート本科生」として教室講 […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_eb613cc6b4c1f9d6",
-      "title": "TAC、無料オンラインセミナー「今が狙い目。社労士資格とその魅力とは。」15日開催",
-      "url": "https://ict-enews.net/2026/08/14tac-11/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-08-14T01:00:17.000Z",
-      "summary": "TACは、無料オンラインセミナー「今が狙い目。社労士資格とその魅力とは。」を8月15日に開催する。 同ウェビナーでは、資格取得を機に人生を大きく好転させたリアルな体験談を大公開。独 […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_d5fb91d993fd31f6",
-      "title": "CIN GROUP、自治体・教育委員会担当者向け「部活動地域展開支援セミナー」9月開催",
-      "url": "https://ict-enews.net/2026/08/14cin-group/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-08-14T01:00:05.000Z",
-      "summary": "CIN GROUPは、FCEと共催で、自治体・教育委員会担当者が対象の「部活動地域展開支援セミナー」を9月2日と8日の2日間にわたり開催する。 安全管理、指導者の資格、保険、会計な […]",
-      "starred": false,
-      "category": "admin",
-      "tags": [
-        "教育ニュース",
-        "ICT",
-        "行政",
-        "文科省"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_73750ab65c19eeb9",
-      "title": "EduJapa!、教師のためのEdTech体験会 「Snorkl ～手書き×AI採点で、考える力を引き出す授業へ～」30日開催",
-      "url": "https://ict-enews.net/2026/08/14edujapa/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-08-14T00:59:55.000Z",
-      "summary": "EduJapa!は、教師のためのEdTech体験会「第25回：Snorkl (スノークル) ～手書き×AI採点で、考える力を引き出す授業へ～」を8月30日に開催する。 「Snork […]",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "教育ニュース",
-        "ICT",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_03e9e274f329fcea",
-      "title": "サイコム、AI・LLM 開発、RAG、データサイエンス向けWS「Lepton Twin GPU Edition」販売開始",
-      "url": "https://ict-enews.net/2026/08/14sycom/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-08-14T00:59:34.000Z",
-      "summary": "サイコムは13日、AI や LLM 開発、RAG、ディープラーニング、画像生成、データサイエンスなど、大容量VRAM と高い並列演算性能が求められる用途に最適なワークステーションの […]",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "教育ニュース",
-        "ICT",
-        "生成AI",
-        "AI活用"
-      ],
-      "priority_score": 60
-    },
-    {
-      "id": "item_7f578dcd34272d24",
-      "title": "NoSchool、「授業の見える化」の取り組みで音声AIが2000回の授業で利用",
-      "url": "https://ict-enews.net/2026/08/14noschool-2/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-08-14T00:59:21.000Z",
-      "summary": "NoSchoolは12日、音声AI×教育として、「授業の見える化」約2000回の授業と教師・保護者調査から見えた、記録・共有の可能性と現場定着への課題を報告した。 オンライン家庭教 […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_1d4cc2038aa8d038",
-      "title": "スモールブリッジ、オンライン韓国語教室「K-アカデミー」でテキストプレゼントキャンペーン",
-      "url": "https://ict-enews.net/2026/08/14small-bridge-6/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-08-14T00:59:11.000Z",
-      "summary": "スモールブリッジは12日、同社が運営するオンライン韓国語教室「K-アカデミー」が、8月、9月限定で「法人韓国語研修新規申込みでテキストプレゼント」キャンペーンを実施すると発表した。 […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_f82f709d71df5a60",
-      "title": "教育機関向けテスト演習ツール「Dr.okke」、累計テスト受験数30万回突破",
-      "url": "https://ict-enews.net/2026/08/14okke/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-08-14T00:59:02.000Z",
-      "summary": "okkeは12日、教育機関向けテスト演習ツール「Dr.okke」が、2022年のサービス提供開始以来、累計テスト受験数が30万件を突破したことを発表した。 「Dr.okke」は、学 […]",
-      "starred": false,
-      "category": "exam",
-      "tags": [
-        "教育ニュース",
-        "ICT",
-        "共通テスト",
-        "入試",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_761f42dd37dbf92c",
-      "title": "コミクス、製造業向け伴走型の「生成AI活用支援パック」の提供開始",
-      "url": "https://ict-enews.net/2026/08/14comix/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-08-14T00:58:52.000Z",
-      "summary": "コミクスは12日、製造業向けに、各社の業務実態に合わせて設計する伴走型の「生成AI活用支援パック」の提供を開始し、あわせて無料相談・課題診断の受付を開始した。 製造業が該当する生産 […]",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "教育ニュース",
-        "ICT",
-        "生成AI",
-        "AI活用"
-      ],
-      "priority_score": 60
-    },
-    {
-      "id": "item_f2db80d362d0023b",
-      "title": "エクサウィザーズ、テクノプロとAX推進人材育成のための戦略的提携を締結",
-      "url": "https://ict-enews.net/2026/08/14exawizards/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-08-14T00:58:41.000Z",
-      "summary": "エクサウィザーズは12日、テクノプロ・ホールディングスと、AX（AIトランスフォーメーション）の推進を担う人材の育成のための戦略的提携に向けた基本合意書を締結したことを発表した。 […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
       ],
       "priority_score": 50
     },
@@ -929,22 +817,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_007be7f7a42b3bb5",
-      "title": "●絵も文もAIが作ったペラペラ漫画● 【ちゃのまのAIプロト】 ｜第1話「宿題代行は大失敗！？」",
-      "url": "https://ict-enews.net/movie/13chanomaai/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-08-13T01:54:25.000Z",
-      "summary": "【ちゃのまのAIプロト】の本編がいよいよ始まります。第1話は、「宿題代行は大失敗！？」。 「AIに宿題をやらせたら、ラクできるんじゃね？」 中学生のハルキが思いついた禁断の裏技。最 […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_51f3fbfd3ecedcf7",
       "title": "Grok 4.6公開　長時間実行やビジュアル強化など「GPT-5.6 Solと並ぶ」",
       "url": "https://www.watch.impress.co.jp/docs/news/2132471.html",
@@ -974,74 +846,6 @@
         "インターネット",
         "セキュリティ",
         "情報モラル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_6912e90c4eb1c66f",
-      "title": "推薦入学、「もっと早く知っていれば、別の進路も検討した」大学生の64.8％ =碧推薦学院調べ=",
-      "url": "https://ict-enews.net/2026/08/13aoisuisen/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-08-13T01:10:00.000Z",
-      "summary": "水曜日は11日、総合型選抜・学校推薦型選抜の専門塾「碧推薦学院」が、総合型選抜または学校推薦型選抜を検討・出願した経験を持つ大学生301名を対象に実施した「高校時代の推薦入試に関す […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_d8106c8abc99590d",
-      "title": "6割のFP試験学習者がAIを理解促進や疑問解消に活用 =資格スクール「FPキャンプ」調べ=",
-      "url": "https://ict-enews.net/2026/08/13quare-works/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-08-13T01:09:47.000Z",
-      "summary": "スクエアワークスは10日、サブスク型オンラインFP（ファイナンシャル・プランニング）資格スクール「FPキャンプ」の受講生に対して実施した「FP学習における生成AIの活用」に関するア […]",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "教育ニュース",
-        "ICT",
-        "生成AI",
-        "AI活用"
-      ],
-      "priority_score": 60
-    },
-    {
-      "id": "item_0005ebff9b984fbb",
-      "title": "Polimill、自治体向け生成AI「QommonsAI」の活用研修（中級編）を海道当別町で実施",
-      "url": "https://ict-enews.net/2026/08/13polimill-2/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-08-13T01:09:33.000Z",
-      "summary": "Polimillは12日、北海道当別町の職員を対象に、自治体向け生成AI「QommonsAI（コモンズAI）」の活用研修（中級編）を現地で7月24日に実施したと発表した。 午前35 […]",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "教育ニュース",
-        "ICT",
-        "生成AI",
-        "AI活用"
-      ],
-      "priority_score": 60
-    },
-    {
-      "id": "item_a2476ef30325a5dd",
-      "title": "全国大学実務教育協会、「大学指導補助者教育研修プログラム」第2期受講者の募集開始",
-      "url": "https://ict-enews.net/2026/08/13jaucb/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-08-13T01:09:17.000Z",
-      "summary": "全国大学実務教育協会は10日、大学における指導補助者を対象とした「大学指導補助者教育研修プログラム」の2026年度第2期受講者募集を開始した。 同プログラムは、令和4年の大学設置基 […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
       ],
       "priority_score": 50
     },
@@ -1154,22 +958,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_e25fb6ac424c8f69",
-      "title": "立ち座りの負担を軽減する回転式の高座椅子、サンワサプライが発売",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2132257.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-08-12T22:30:00.000Z",
-      "summary": "サンワサプライ株式会社は8月5日、立ち座りの負担を抑えながら心地よい姿勢を保てる回転式の高座椅子「150-SNCH72」を発売した。カラーはベージュ、ブラウンの2種類。直販サイト「サンワダイレクト」での販売価格は1万7800円。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_69f7645bfe6a386b",
       "title": "結局、AIで仕事はラクになった？　データで読む「効率化＝成果」の勘違い",
       "url": "https://kn.itmedia.co.jp/kn/articles/2608/13/news024.html",
@@ -1188,22 +976,6 @@
       "priority_score": 60
     },
     {
-      "id": "item_afbc8fa8831405b1",
-      "title": "こんなデザインのもあるのか……見た目から探す Wi-Fiルーター今年の新製品 ニュース記事まとめ（2026H1）",
-      "url": "https://internet.watch.impress.co.jp/docs/index/2132095.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-08-12T22:00:00.000Z",
-      "summary": "※今年上半期（2026年1月～6月）に掲載したWi-Fiルーター新製品のニュース記事（13本）をリストアップしました。写真をタップ／クリックすることで、それぞれ詳細記事を閲覧できます。なお、各記事の内容は、それぞれ掲載当時のものです。価格や販売状況など、現在とは異なる可能性もあることに留意してください。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_29010748e7d5a64a",
       "title": "SpaceXAI、「Grok 4.6」を発表　総合指標で「GPT-5.6 Sol Max」に並ぶと謳う",
       "url": "https://www.itmedia.co.jp/news/article/2608/13/2000000520/",
@@ -1217,22 +989,6 @@
         "生成AI",
         "AI",
         "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_893969fc553b8615",
-      "title": "工具不要のクランプ式、集中空間を作るフェルト製デスクトップパネル、サンワサプライが発売",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2132294.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-08-12T21:30:00.000Z",
-      "summary": "サンワサプライ株式会社は8月5日、周囲の視線を気にせず、集中しやすいワークスペースを作るフェルト製デスクトップパネル「100-DPT0」を発売した。高さ30/40/50cmの3種類があり、直販サイト「サンワダイレクト」での販売価格は8980円、9980円、1万800円。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
       ],
       "priority_score": 50
     },
@@ -1276,23 +1032,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_5b8b4271b1fdf2c4",
-      "title": "Google、折りたたみスマホ「Pixel 11 Pro Fold」発表　10％軽く、1mm薄くしつつ耐久性強化",
-      "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000517/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-08-12T14:10:09.000Z",
-      "summary": "米Googleは8月12日、折りたたみスマートフォン「Pixel 11 Pro Fold」を国内発表した。前モデルより約10％軽く約1mm薄いが、新しいヒンジとセラミックガラスの採用で3倍の強度を実現したという。Googleストアでの価格は256GBモデルが27万9900円。8月20日に発売する。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_9a6ae1ac49889027",
       "title": "Googleから紛失防止タグ「Pixel Tag」　UWB対応で5010円",
       "url": "https://www.watch.impress.co.jp/docs/news/2132430.html",
@@ -1321,26 +1060,6 @@
       "tags": [
         "テクノロジー",
         "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_163b99ce47131b81",
-      "title": "Google新スマホ「Pixel 11シリーズ」正式発表　「Gemini Intelligence」向けに設計　カメラも強化",
-      "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000516/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-08-12T14:03:56.000Z",
-      "summary": "米Googleは8月12日、「Pixel 11」「Pixel 11 Pro」「Pixel 11 Pro XL」を発表した。新チップ「Google Tensor G6」を搭載し、カメラを刷新。Proには通知を光で知らせる「HiLight」を加えた。中核のAI機能「Gemini Intelligence」が目玉としている。8月20日に発予定。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用",
-        "行政",
-        "文科省"
       ],
       "priority_score": 50
     },
@@ -1386,38 +1105,6 @@
       "source_name": "Impress Watch",
       "published_at": "2026-08-12T10:14:34.000Z",
       "summary": "SpaceXAIは11日(米国時間)、24時間365日稼働するエージェントサービス「Grok Bot」の早期β版を提供開始した。Grokの上位プラン「SuperGrok Heavy」やコーディングエージェント「Cursor」の有料プラン契約者向けに提供し、WindowsやMacなどのデスクトップ版とiOSに対応する。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_b55c5496357b7a53",
-      "title": "楽天モバイル、10月以降もKDDIのローミング一部継続を強調",
-      "url": "https://www.watch.impress.co.jp/docs/news/2132370.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-08-12T08:30:11.000Z",
-      "summary": "楽天モバイルは12日、10月以降も一部エリアにおいてはKDDIのローミングを継続する方向で協議を続けていると発表した。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_7979f28d80154fdc",
-      "title": "ドコモ、店舗での本人確認にマイナカード等のICチップを活用",
-      "url": "https://www.watch.impress.co.jp/docs/news/2132338.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-08-12T07:38:58.000Z",
-      "summary": "NTTドコモは、全国のドコモショップとドコモ取扱店における携帯電話の手続き時の本人確認の一部について、マイナンバーカードや運転免許証などの本人確認書類に搭載された「ICチップ」を活用する本人確認方式を、8月20日から順次導入する。",
       "starred": false,
       "category": "tech",
       "tags": [
