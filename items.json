@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T03:50:20.742Z",
+  "generated_at": "2026-08-16T09:32:46.882Z",
   "total": 102,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-08-16T03:50:09.994Z",
+      "published_at": "2026-08-16T09:32:37.476Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-08-16T03:50:09.994Z",
+      "published_at": "2026-08-16T09:32:37.476Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-08-16T03:50:09.994Z",
+      "published_at": "2026-08-16T09:32:37.476Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -52,6 +52,25 @@
         "文科省",
         "制度",
         "教育ニュース"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_890330e6e2ccea1d",
+      "title": "武蔵野大学　2026年度　一般選抜A日程　2/4 文理",
+      "url": "https://note.com/infosaito/n/nf4c49521f887",
+      "source_id": "note_joho1",
+      "source_name": "note（情報科教員）",
+      "published_at": "2026-08-16T04:34:16.000Z",
+      "summary": "大学公開の問題はこちら。 https://www.musashino-u.ac.jp/admission/pdf/4f14803dbc9c60df24dc383d8a58dafc.pdf 流石、武蔵野大学さん。歯ごたえのある問題です。 情報Ⅰに自信があるぜ～という方はぜひともチャレンジをしてみてください。 白飛びの仕組みやマイナンバーのチェックデジットの仕組みなど情報技術の仕組みを知るのに面白い問…",
+      "starred": false,
+      "category": "exam",
+      "tags": [
+        "授業実践",
+        "情報Ⅰ",
+        "教材",
+        "共通テスト",
+        "入試"
       ],
       "priority_score": 60
     },
@@ -1775,25 +1794,6 @@
         "教材"
       ],
       "priority_score": 50
-    },
-    {
-      "id": "item_0e4b0aaaa8b4bb91",
-      "title": "【連載】第9回　大人のための「情報Ⅰ・Ⅱ」再入門：共通テスト過去問で学ぶ「論理演算」",
-      "url": "https://note.com/mama_oyako_it/n/n968bec8ad6ac",
-      "source_id": "note_joho1",
-      "source_name": "note（情報科教員）",
-      "published_at": "2026-06-30T21:50:58.000Z",
-      "summary": "こんにちは。どんぐり村長です。 前回は「メールが届かないエラー」を題材に、インターネットの住所録であるDNSや、メールサーバたちの健気なバケツリレーの仕組みについて解説しました。英語のエラーメッセージが、実はシステムからの親切な道標であるというお話、実務でのトラブルシューティングに役立てていただければ幸いです。 続きをみる",
-      "starred": false,
-      "category": "exam",
-      "tags": [
-        "授業実践",
-        "情報Ⅰ",
-        "教材",
-        "共通テスト",
-        "入試"
-      ],
-      "priority_score": 70
     }
   ],
   "clips": []
