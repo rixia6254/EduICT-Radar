@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T09:49:38.503Z",
+  "generated_at": "2026-08-17T21:18:02.038Z",
   "total": 102,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-08-17T09:49:27.198Z",
+      "published_at": "2026-08-17T21:17:50.867Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-08-17T09:49:27.198Z",
+      "published_at": "2026-08-17T21:17:50.867Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-08-17T09:49:27.198Z",
+      "published_at": "2026-08-17T21:17:50.867Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,71 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_e7edcc190ea9912b",
+      "title": "サプライチェーンに重大な脅威をもたらす脆弱性はわずか。一方で、サプライチェーンはランサムウェアの主要な攻撃経路に【海の向こうの“セキュリティ”】",
+      "url": "https://internet.watch.impress.co.jp/docs/column/security/2130065.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-08-17T21:00:00.000Z",
+      "summary": "今回は米国のセキュリティベンダーBlack Kiteが公開した2つの調査報告書を簡単に紹介します。",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_1dcbd4d3e00dd09f",
+      "title": "ヤマト、障害のある人の「待ってほしい」などの要望に対応　ミライロID連携",
+      "url": "https://www.watch.impress.co.jp/docs/news/2133276.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-08-17T11:25:46.000Z",
+      "summary": "ミライロとヤマト運輸は17日、デジタル障害者手帳「ミライロID」と個人向け会員サービス「クロネコメンバーズ」の連携サービスを提供開始した。ミライロIDの利用者が、荷物の配達時に希望する対応を事前登録できる。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_5e28294bd4244b93",
+      "title": "西武鉄道、特急レッドアローのサブスク　30日間4000円～",
+      "url": "https://www.watch.impress.co.jp/docs/news/2133283.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-08-17T10:41:48.000Z",
+      "summary": "西武鉄道は、新宿線特急レッドアロー号を対象とした「レッドアローサブスクパス」を、8月24日から11月2日までの期間限定で発売する。平日限定で、30日間4,000円から。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_d60f40f880aee327",
+      "title": "「TDXラジオ」Teacher’s ［Shift］【夏休みSP】「いい加減、校務もDX化しませんか？」を公開",
+      "url": "https://ict-enews.net/2026/08/17tdxradio-10/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-08-17T10:00:25.000Z",
+      "summary": "TDXラジオは17日、教育ICTを活用した「新しい学び」と「先生の働き方改革」を応援するTeacher’s ［Shift］［夏休みSP］「いい加減、校務もDX化しませんか？」を公開 […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_32b43cd5f0bcb6f5",
@@ -1005,24 +1070,6 @@
       "priority_score": 60
     },
     {
-      "id": "item_95b6a15c1f95014c",
-      "title": "Claudeで生成した文章に「電子透かし」導入　編集しても残る",
-      "url": "https://www.watch.impress.co.jp/docs/news/2132925.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-08-15T02:27:05.000Z",
-      "summary": "Anthropicは、今後「Claude」のAIモデルの出力として「透かし」が入ったテキストを生成すると公表した。欧州のAI規制法(EU AI Act)に対応するためのもので、主要なAIプロバイダー各社も対応。全世界のClaudeの出力に透かしを付与していく。11日に透かし導入の方針を公表していたが、14日にその詳細を公表した。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "生成AI",
-        "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_89879215ffdc66b9",
       "title": "共通テスト「情報Ⅰ」はどう対策するべきか",
       "url": "https://note.com/infosaito02/n/n016ef408b122",
@@ -1040,22 +1087,6 @@
         "入試"
       ],
       "priority_score": 70
-    },
-    {
-      "id": "item_2c02c7d2a398dd49",
-      "title": "カシオ プロトレック、“小物収納バンド”の軽量モデル",
-      "url": "https://www.watch.impress.co.jp/docs/news/2131953.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-08-15T01:00:00.000Z",
-      "summary": "カシオ計算機は、「PRO TREK」(プロトレック)の新作として、小物を収納できる新構造のバンドを採用した「PRJ-B001EX-1JR」を発売した。Bluetoothソーラーの腕時計で、価格は33,000円。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
     },
     {
       "id": "item_d5c796ee7b4b0328",
@@ -1279,22 +1310,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_7e145c3df4d384e6",
-      "title": "ロジテックのHDD/SSDスタンドがAmazonでセール中　クローン機能を備えた2ドライブモデルが4980円など",
-      "url": "https://internet.watch.impress.co.jp/docs/shopping/2132679.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-08-14T01:30:00.000Z",
-      "summary": "Amazon.co.jpのロジテックダイレクトのストアページでは、ロジテック製の周辺機器のセールが行われている。その一環として、HDD/SSDスタンドがセールとなっている。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_1da182928b23ff99",
       "title": "東京都北区、親子で学ぶ「レイのブログ」体験会開催",
       "url": "https://ict-enews.net/2026/08/14kita/",
@@ -1407,24 +1422,6 @@
         "ICT",
         "行政",
         "文科省"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_73750ab65c19eeb9",
-      "title": "EduJapa!、教師のためのEdTech体験会 「Snorkl ～手書き×AI採点で、考える力を引き出す授業へ～」30日開催",
-      "url": "https://ict-enews.net/2026/08/14edujapa/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-08-14T00:59:55.000Z",
-      "summary": "EduJapa!は、教師のためのEdTech体験会「第25回：Snorkl (スノークル) ～手書き×AI採点で、考える力を引き出す授業へ～」を8月30日に開催する。 「Snork […]",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "教育ニュース",
-        "ICT",
-        "教材",
-        "ツール"
       ],
       "priority_score": 50
     },
