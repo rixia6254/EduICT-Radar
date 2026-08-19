@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-08-19T09:39:47.478Z",
+  "generated_at": "2026-08-19T21:18:11.280Z",
   "total": 103,
   "items": [
+    {
+      "id": "item_21f8651de3f2baea",
+      "title": "文部科学省ホームページトップはこちら",
+      "url": "https://www.mext.go.jp/",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-08-19T21:18:00.310Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
     {
       "id": "item_bd1951ae70f98dac",
       "title": "サイトマップはこちら",
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-08-19T09:39:24.251Z",
+      "published_at": "2026-08-19T21:18:00.310Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -25,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-08-19T09:39:24.251Z",
+      "published_at": "2026-08-19T21:18:00.310Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -38,22 +56,54 @@
       "priority_score": 60
     },
     {
-      "id": "item_21f8651de3f2baea",
-      "title": "文部科学省ホームページトップはこちら",
-      "url": "https://www.mext.go.jp/",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-08-19T09:39:24.250Z",
-      "summary": "",
+      "id": "item_9d5c55423b68d308",
+      "title": "Androidスマホの写真をMacにWi-Fi接続でバックアップする【自宅Wi-Fiの“わからない”をスッキリ！】",
+      "url": "https://internet.watch.impress.co.jp/docs/column/homewifi/2133111.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-08-19T21:00:00.000Z",
+      "summary": "第275回～第279回では、スマートフォンのデータをまるごとPCへバックアップする手法を実践した。続けて、第280回からは、スマートフォンの写真と動画を、ファイルとしてPCにコピーする方法を実践している。",
       "starred": false,
-      "category": "admin",
+      "category": "tech",
       "tags": [
-        "行政",
-        "文科省",
-        "制度",
-        "教育ニュース"
+        "インターネット",
+        "セキュリティ"
       ],
-      "priority_score": 60
+      "priority_score": 50
+    },
+    {
+      "id": "item_ecceed201159e176",
+      "title": "ことでん、「デジタル券売機」導入　地方鉄道の無人駅で全国初",
+      "url": "https://www.watch.impress.co.jp/docs/news/2134013.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-08-19T11:00:00.000Z",
+      "summary": "香川県を拠点とする高松琴平電気鉄道(ことでん)とレシップは、Webアプリ型モバイルチケットシステム「QUICK TRIP Ticket」を活用した、地方鉄道の無人駅では全国初となるデジタル券売機の運用を9月1日より開始する。",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_450808adda7879b6",
+      "title": "Google、AIで飛行機雲の発生を防ぐ「オペレーション・ブルースカイ」",
+      "url": "https://www.watch.impress.co.jp/docs/news/2133977.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-08-19T09:36:01.000Z",
+      "summary": "Googleは、英国政府、航空業界と連携し、AIを活用することで飛行機雲の発生を回避するルートを作成し、航空機による気候変動への影響を軽減する取り組み「オペレーション・ブルースカイ」を開始する。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_4e0d4bbb2d81ebbd",
@@ -1229,38 +1279,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_8d5a3535e0c039db",
-      "title": "glo用たばこスティック値上げ　10月に今年2回目の増税",
-      "url": "https://www.watch.impress.co.jp/docs/news/2133652.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-08-18T10:32:25.000Z",
-      "summary": "ブリティッシュ・アメリカン・タバコ・ジャパン(BATジャパン)は10月1日に、glo HYPER用たばこスティック「ラッキー・ストライク」「ケント」「ネオ」、glo Hilo用たばこスティック「ヴァルト」全銘柄を、20円～40円値上げする。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_3a063b0417bb52da",
-      "title": "ミズノ、ウォーキングシューズ刷新　ビジネスカジュアル強化",
-      "url": "https://www.watch.impress.co.jp/docs/news/2133629.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-08-18T10:02:56.000Z",
-      "summary": "ミズノは、ウォーキングシューズシリーズ「MIZUNO LIFESTYLE」を2026年秋冬シーズンから展開する。同シリーズの新製品として「ME-DELIGHT JQ(エムイー ディライト JQ)」を9月18日に発売する。価格は13,200円。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_03bad7f7b62ecb4b",
       "title": "無料で読めるAIエージェントの実践ガイド、Googleが公開　基礎から本番実装まで学べる",
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/18/news055.html",
@@ -1412,22 +1430,6 @@
         "セキュリティ",
         "行政",
         "文科省"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_f926ff410a8af012",
-      "title": "NTT西日本、「フレッツ光」提供エリアを愛媛県北宇和郡鬼北町の一部地域で拡大。最大10Gbpsの「フレッツ 光クロス」も提供",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2133217.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-08-17T22:30:00.000Z",
-      "summary": "NTT西日本株式会社は8月17日、光回線によるインターネットサービス「フレッツ光」の提供エリア拡大を発表した。対象は愛媛県北宇和郡鬼北町の一部地域。最大10Gbpsの「フレッツ 光クロス」、最大1Gbpsの「フレッツ 光ネクスト」のほか、IP電話サービスの「ひかり電話ネクスト」などを新たに提供する。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
       ],
       "priority_score": 50
     },
