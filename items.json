@@ -1,32 +1,14 @@
 {
-  "generated_at": "2026-08-20T09:40:39.879Z",
+  "generated_at": "2026-08-20T21:20:18.228Z",
   "total": 102,
   "items": [
-    {
-      "id": "item_21f8651de3f2baea",
-      "title": "文部科学省ホームページトップはこちら",
-      "url": "https://www.mext.go.jp/",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-08-20T09:40:29.947Z",
-      "summary": "",
-      "starred": false,
-      "category": "admin",
-      "tags": [
-        "行政",
-        "文科省",
-        "制度",
-        "教育ニュース"
-      ],
-      "priority_score": 60
-    },
     {
       "id": "item_bd1951ae70f98dac",
       "title": "サイトマップはこちら",
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-08-20T09:40:29.947Z",
+      "published_at": "2026-08-20T21:20:08.238Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +25,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-08-20T09:40:29.947Z",
+      "published_at": "2026-08-20T21:20:08.238Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +36,125 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_21f8651de3f2baea",
+      "title": "文部科学省ホームページトップはこちら",
+      "url": "https://www.mext.go.jp/",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-08-20T21:20:08.237Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_9bfdae654a35b159",
+      "title": "オープンソースのBIツール「Metabase」に緊急度10の脆弱性、対策済みの最新バージョンに更新を",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2134355.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-08-20T21:05:00.000Z",
+      "summary": "オープンソースのBIツール「Metabase」にSQLインジェクションの脆弱性（CVE-2026-72898）があるとして、MetabaseおよびJPCERT/CCが情報を公開している。緊急度はCVSS 4.0、3.xともに10。この脆弱性は、CISA（米国サイバーセキュリティ・インフラストラクチャセキュリティ庁）が公開している、実際に悪用された脆弱性をまとめた「KEVカタログ」にも掲載されている…",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "情報モラル",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_2ff1c7d33c87206b",
+      "title": "Wi-Fiより10倍速い!? 筆者の好きな「有線LAN」を移住先の10LDK住宅に構築しました【奥川浩彦の「岐阜の山奥に移住しました」第12回】",
+      "url": "https://internet.watch.impress.co.jp/docs/column/ijuu/2133836.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-08-20T21:00:00.000Z",
+      "summary": "前々回は筆者が移住した岐阜県加茂郡白川町のインターネット回線事情、前回はやたら広い10LDKのWi-Fi環境についてお伝えした。連載の第12回となる今回は、有線LAN環境について30枚近くの画像を用いてお話ししよう。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_576c18228c2b6d03",
+      "title": "GoogleはAI競争に負けたのか　「最強のAI」ではなく「AIの“電力網”」を選ぶ賭け",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/21/news006.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-08-20T20:00:00.000Z",
+      "summary": "GoogleからAI研究の中心人物が相次いで去った。「Geminiは終わった」という見方に対し、「最先端ではなく、AIを社会全体に行き渡らせる“電力網”で勝つ賭けだ」という別の解釈もある。電気の歴史になぞらえながら整理する。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_5d74b1561d82f1c2",
+      "title": "東京都が「Tokyo Map」公開　防災・暑さ対策・Wi-Fiマップを重ねて表示",
+      "url": "https://www.watch.impress.co.jp/docs/news/2134323.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-08-20T11:50:10.000Z",
+      "summary": "東京都とGovTech東京は、都民の暮らしに役立つ地図情報をまとめて閲覧できるWebサイト「Tokyo Map」の正式版を提供開始した。PCやスマートフォンなどのWebブラウザから無料で利用できる。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_dad41679eafe478c",
+      "title": "京王、座席指定「京王ライナー」に「立席」",
+      "url": "https://www.watch.impress.co.jp/docs/news/2134313.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-08-20T09:52:31.000Z",
+      "summary": "京王電鉄は、座席指定列車「京王ライナー」において、10月1日から「立席」を導入するとともに、座席指定料金の見直しを行なう。立席の運用は平日のみで料金は400円、平日の着席は500～600円(10月1日以降)。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_094e2218263f7f78",
+      "title": "ホンダ、交換式バッテリーで建設現場を電動化　建設中の「Torch Tower」で実証",
+      "url": "https://www.watch.impress.co.jp/docs/news/2134309.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-08-20T09:38:05.000Z",
+      "summary": "ホンダは、東京都およびカナモトと連携し、交換式バッテリー「Honda Mobile Power Pack e:」を活用した建設現場における交換式バッテリー共用化の実証事業を開始した。実証は、東京都千代田区大手町で建設中の「Torch Tower」で行なわれる。実施期間は2027年3月まで。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_990cadbdc3fdc464",
@@ -1091,56 +1192,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_ecceed201159e176",
-      "title": "ことでん、「デジタル券売機」導入　地方鉄道の無人駅で全国初",
-      "url": "https://www.watch.impress.co.jp/docs/news/2134013.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-08-19T11:00:00.000Z",
-      "summary": "香川県を拠点とする高松琴平電気鉄道(ことでん)とレシップは、Webアプリ型モバイルチケットシステム「QUICK TRIP Ticket」を活用した、地方鉄道の無人駅では全国初となるデジタル券売機の運用を9月1日より開始する。",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_450808adda7879b6",
-      "title": "Google、AIで飛行機雲の発生を防ぐ「オペレーション・ブルースカイ」",
-      "url": "https://www.watch.impress.co.jp/docs/news/2133977.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-08-19T09:36:01.000Z",
-      "summary": "Googleは、英国政府、航空業界と連携し、AIを活用することで飛行機雲の発生を回避するルートを作成し、航空機による気候変動への影響を軽減する取り組み「オペレーション・ブルースカイ」を開始する。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_4e0d4bbb2d81ebbd",
-      "title": "クリーニング店でZOZOTOWN返品受付　ホワイト急便で実証",
-      "url": "https://www.watch.impress.co.jp/docs/news/2133987.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-08-19T09:05:22.000Z",
-      "summary": "丸井グループの物流事業会社であるムービングは、クリーニング店「ホワイト急便」で、ファッションEC「ZOZOTOWN」商品の返品を受け付ける実証実験を8月21日から開始する。EC商品の返品・発送サービス「トルダス(trds)」を活用して実施する。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_77d13947519ae401",
       "title": "日本交通、7月に発生した不正アクセスで一部保有ファイルの流出を確認",
       "url": "https://internet.watch.impress.co.jp/docs/news/2133999.html",
@@ -1302,22 +1353,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_9165847d50c33a91",
-      "title": "色相・彩度・明度のスライダーを調整してサンプルに近い色を生成するゲームが登場し、人気【やじうまWatch】",
-      "url": "https://internet.watch.impress.co.jp/docs/yajiuma/2133735.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-08-19T02:42:20.000Z",
-      "summary": "「色相・彩度・明度」の3つのパラメーターを調整してサンプルに近い色を生成できるか競う、超シンプルなルールのゲームが登場して人気だ。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_c78c02fef6686f31",
       "title": "なぜNTTは「小型LLM」にこだわるのか　国産AI「tsuzumi 2」に込めた狙い",
       "url": "https://kn.itmedia.co.jp/kn/articles/2607/14/news012.html",
@@ -1334,22 +1369,6 @@
         "AI活用"
       ],
       "priority_score": 60
-    },
-    {
-      "id": "item_3c51b505831a9b18",
-      "title": "Intel製CPUがAmazonで数量限定セール！　LGA1700対応で20コアの「Core i5-14400F」は2万7980円",
-      "url": "https://internet.watch.impress.co.jp/docs/shopping/2133710.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-08-19T02:30:00.000Z",
-      "summary": "Amazon.co.jpのIntelストアページでは、同社のCPUがタイムセール中となっている。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
     },
     {
       "id": "item_22ff57a4976064a7",
@@ -1385,23 +1404,6 @@
         "AI活用",
         "教材",
         "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_8f882eabdb6ee2cd",
-      "title": "人材育成を邪魔する、「忙しすぎる現場」以外の要因は？　ガートナーが指摘",
-      "url": "https://www.itmedia.co.jp/enterprise/articles/2608/17/news086.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-08-19T02:00:00.000Z",
-      "summary": "デジタル人材育成が急務になる中、ガートナーが人材育成に関する課題を調査した。同社が指摘する、「学ぶ時間がない」の先にある課題とは。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
       ],
       "priority_score": 50
     },
