@@ -1,32 +1,14 @@
 {
-  "generated_at": "2026-08-21T21:16:11.185Z",
+  "generated_at": "2026-08-22T03:43:19.680Z",
   "total": 103,
   "items": [
-    {
-      "id": "item_21f8651de3f2baea",
-      "title": "文部科学省ホームページトップはこちら",
-      "url": "https://www.mext.go.jp/",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-08-21T21:15:51.270Z",
-      "summary": "",
-      "starred": false,
-      "category": "admin",
-      "tags": [
-        "行政",
-        "文科省",
-        "制度",
-        "教育ニュース"
-      ],
-      "priority_score": 60
-    },
     {
       "id": "item_bd1951ae70f98dac",
       "title": "サイトマップはこちら",
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-08-21T21:15:51.270Z",
+      "published_at": "2026-08-22T03:43:08.827Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +25,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-08-21T21:15:51.270Z",
+      "published_at": "2026-08-22T03:43:08.827Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +36,92 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_21f8651de3f2baea",
+      "title": "文部科学省ホームページトップはこちら",
+      "url": "https://www.mext.go.jp/",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-08-22T03:43:08.826Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_b90875fd6afd3946",
+      "title": "カシオ、シンプルで軽いダイバー風アナログウォッチ",
+      "url": "https://www.watch.impress.co.jp/docs/news/2134009.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-08-22T01:00:00.000Z",
+      "summary": "カシオ計算機は、「CASIO Collection」の新作として、“マリンデザイン”が特徴のアナログウォッチ「MRW-240H」シリーズ3機種を発売した。クオーツ式の腕時計で、価格は6,050円。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_279cd0b5ab66fa08",
+      "title": "【いつモノコト】バランス接続の音が痛快　スマホ用スティックDAC「GO link 2 Max」",
+      "url": "https://www.watch.impress.co.jp/docs/series/itsmo/2131799.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-08-22T00:15:00.000Z",
+      "summary": "iFi audioのスティック型USB-DACアンプ「GO link 2 Max」が8月7日に発売されたので、さっそく買ってみました。店頭での価格は15,950円でした。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_c876795cabe9a286",
+      "title": "土屋鞄 objcts.io、Apple Watchバンド二重巻きタイプ",
+      "url": "https://www.watch.impress.co.jp/docs/news/2134735.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-08-21T23:30:00.000Z",
+      "summary": "土屋鞄製造所のレザープロダクトブランド・objcts.ioは、二重巻きタイプのApple Watchバンド「レザーハイブリッドダブルラップバンド」を8月26日に発売する。価格は18,700円。カラーはブラック、ホワイトベージュ、シルバーの3色。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_8a2d5bd726b9a7ac",
+      "title": "Anthropic、「ミュトス 5」を脆弱性スキャンに開放──「Claude Security」経由でEnterprise顧客が利用可能に",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2608/22/2000000697/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-08-21T22:09:30.000Z",
+      "summary": "Anthropicは、最上位モデル「Claude Mythos 5」をセキュリティサービス「Claude Security」の脆弱性検出に導入したと発表した。モデル本体への直接アクセスは開放せず、パッチ提案などの出力のみに限定して提供する。オープンソース保護に向けた総額3500万ドルの基金設立も公表した。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_412bb586f5c5bf2f",
@@ -621,22 +689,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_955135d78bf1e293",
-      "title": "【レビュー】そろそろ「折りたたみスマホ」を使おう 「Pixel 11 Pro Fold」の\"最新”が楽しい",
-      "url": "https://www.watch.impress.co.jp/docs/review/review/2134376.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-08-20T23:20:00.000Z",
-      "summary": "2026年夏。折りたたみスマホが元気です。製品化の時期などの面で界隈を引っ張ってきたリーダー的存在のサムスンが、それまでの2機種体制を3機種体制へと拡充。OPPO、nubia(ZTE)に加え、気づけばモトローラも日本国内向け製品を投入しました。そして、折りたたみiPhoneの噂が関係者の間で駆け巡っています。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_648929d32af58540",
       "title": "データをつなぎ、AI活用へ――オートデスクが示す設計／製造DXの未来像",
       "url": "https://monoist.itmedia.co.jp/mn/articles/2608/21/news010.html",
@@ -997,24 +1049,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_335b96a26404f1e3",
-      "title": "Stripe、AIモデルゲートウェイのOpenRouterを買収",
-      "url": "https://www.watch.impress.co.jp/docs/news/2134389.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-08-20T22:30:00.000Z",
-      "summary": "決済プラットフォームを展開するStripeは19日(米国時間)、AIモデルのゲートウェイやルーティングプラットフォームを提供する「OpenRouter」の買収に合意したと発表した。",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_9532d281b42c4a24",
       "title": "千葉県警がサイバー犯罪に関わった少年の立ち直り支援、「今の時代、インターネットを取り上げるわけにもいかない」と全国初の取り組み",
       "url": "https://internet.watch.impress.co.jp/docs/interview/2132234.html",
@@ -1296,40 +1330,6 @@
         "AI活用"
       ],
       "priority_score": 50
-    },
-    {
-      "id": "item_5d74b1561d82f1c2",
-      "title": "東京都が「Tokyo Map」公開　防災・暑さ対策・Wi-Fiマップを重ねて表示",
-      "url": "https://www.watch.impress.co.jp/docs/news/2134323.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-08-20T11:50:10.000Z",
-      "summary": "東京都とGovTech東京は、都民の暮らしに役立つ地図情報をまとめて閲覧できるWebサイト「Tokyo Map」の正式版を提供開始した。PCやスマートフォンなどのWebブラウザから無料で利用できる。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_3c989fea372a421c",
-      "title": "「ロボットのChatGPTモーメントが近づいている」　中国UnitreeのCEO、世界ロボット大会で言及",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2608/20/2000000656/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-08-20T08:08:10.000Z",
-      "summary": "Unitreeのワン・シンシンCEOは世界ロボット大会で、ロボットの「ChatGPTモーメント」が近づいていると発言した。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 60
     },
     {
       "id": "item_e36ca74dac2c7bd2",
