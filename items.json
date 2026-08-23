@@ -1,32 +1,14 @@
 {
-  "generated_at": "2026-08-22T21:13:57.946Z",
+  "generated_at": "2026-08-23T03:52:18.108Z",
   "total": 103,
   "items": [
-    {
-      "id": "item_5a2c7864b68dcd43",
-      "title": "過去の文部科学省ホームページ（※国立国会図書館ホームページへリンク）",
-      "url": "https://warp.ndl.go.jp/waid/3475",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-08-22T21:13:47.477Z",
-      "summary": "",
-      "starred": false,
-      "category": "admin",
-      "tags": [
-        "行政",
-        "文科省",
-        "制度",
-        "教育ニュース"
-      ],
-      "priority_score": 60
-    },
     {
       "id": "item_21f8651de3f2baea",
       "title": "文部科学省ホームページトップはこちら",
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-08-22T21:13:47.476Z",
+      "published_at": "2026-08-23T03:52:09.573Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -44,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-08-22T21:13:47.476Z",
+      "published_at": "2026-08-23T03:52:09.573Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +36,58 @@
         "制度"
       ],
       "priority_score": 50
+    },
+    {
+      "id": "item_5a2c7864b68dcd43",
+      "title": "過去の文部科学省ホームページ（※国立国会図書館ホームページへリンク）",
+      "url": "https://warp.ndl.go.jp/waid/3475",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-08-23T03:52:09.573Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_8ef2f969d101f34f",
+      "title": "ユーキャン、「第58回（令和8年度）社労士試験」の解答速報を試験当日15時頃から順次公開",
+      "url": "https://ict-enews.net/2026/08/23u-can-3/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-08-23T03:00:58.000Z",
+      "summary": "ユーキャンでは、8月23日実施の「第58回（令和8年度）社会保険労務士試験」の解答速報を試験当日15時頃から公開する。講師陣による解説動画、速報講評も順次、公開予定。 社会保険労務 […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_4126bfbcd1737a3e",
+      "title": "OpenAI、「GPT-5.6 Sol」のAPI料金を値下げ　入力20％出力33％安く、11月21日まで",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2608/23/2000000700/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-08-22T21:54:23.000Z",
+      "summary": "OpenAIは、フラグシップモデル「GPT-5.6 Sol」のAPI利用料金を期間限定で最大33％引き下げた。入力4ドル、出力20ドルとするプロモーション価格を少なくとも3カ月間適用し、ChatGPT WorkやCodexのクレジット消費量も削減。利用量や支出上限を追跡・制御できる管理機能も告知している。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 60
     },
     {
       "id": "item_b90875fd6afd3946",
@@ -1103,24 +1137,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_6e62a57d3dfca810",
-      "title": "Hanji、AIチューター「Knock」が高校「工業」科目に対応",
-      "url": "https://ict-enews.net/2026/08/21hanji/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-08-20T22:29:03.000Z",
-      "summary": "Hanjiは19日、生成AIを活用したAIチューター「Knock」にて、高校の専門教科「工業」への対応を開始したことを発表した。 今回の拡充によって、英語・数学・理科・社会などの一 […]",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "教育ニュース",
-        "ICT",
-        "生成AI",
-        "AI活用"
-      ],
-      "priority_score": 60
-    },
-    {
       "id": "item_fb4332d763f1cbdd",
       "title": "ChatGPTに「おすすめの○○は？」　実は答えが決まっているらしい：893rd Lap",
       "url": "https://kn.itmedia.co.jp/kn/articles/2608/21/news043.html",
@@ -1310,24 +1326,6 @@
       "tags": [
         "インターネット",
         "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_576c18228c2b6d03",
-      "title": "GoogleはAI競争に負けたのか　「最強のAI」ではなく「AIの“電力網”」を選ぶ賭け",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/21/news006.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-08-20T20:00:00.000Z",
-      "summary": "GoogleからAI研究の中心人物が相次いで去った。「Geminiは終わった」という見方に対し、「最先端ではなく、AIを社会全体に行き渡らせる“電力網”で勝つ賭けだ」という別の解釈もある。電気の歴史になぞらえながら整理する。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
       ],
       "priority_score": 50
     },
