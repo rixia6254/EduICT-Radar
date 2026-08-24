@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T09:54:32.626Z",
+  "generated_at": "2026-08-24T21:20:45.222Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-08-24T09:54:23.643Z",
+      "published_at": "2026-08-24T21:20:34.260Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-08-24T09:54:23.643Z",
+      "published_at": "2026-08-24T21:20:34.260Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-08-24T09:54:23.643Z",
+      "published_at": "2026-08-24T21:20:34.260Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,54 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_6d4bc0a9bd51aaa6",
+      "title": "ソニーネットワークコミュニケーションズとファイバーゲート、入居者の希望に応じて選べ、オーナーの負担がない集合住宅向け光回線サービス提供",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2135057.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-08-24T21:00:00.000Z",
+      "summary": "ソニーネットワークコミュニケーションズ株式会社は、高速光回線サービス「NURO 光」の基盤を活用した集合住宅向け卸サービスを構築したと発表した。本サービスは同社の事業提携先である株式会社ファイバーゲートより「FGBB 光 Select powered by NURO」として9月1日から提供開始される。提供プランは2ギガプランと10ギガプラン。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_6abe8a5f32286a30",
+      "title": "マネーフォワード、みずほ証券とAPI連携　資産情報を自動取得",
+      "url": "https://www.watch.impress.co.jp/docs/news/2135124.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-08-24T11:20:00.000Z",
+      "summary": "マネーフォワードは、みずほ証券が提供する「みずほ証券ネット倶楽部」とのAPI連携を開始した。マネーフォワードグループの各サービスで、みずほ証券ネット倶楽部上の総合口座における資産残高や保有銘柄などの資産状況を、自動で取り込めるようになる。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_848e77e3e9b62c56",
+      "title": "ビューカード、モバイルSuica新規連携でポイント山分け",
+      "url": "https://www.watch.impress.co.jp/docs/news/2135168.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-08-24T10:27:46.000Z",
+      "summary": "ビューカードは、モバイルSuica定期券の購入やオートチャージを対象にポイントを山分けでプレゼントするキャンペーンを開催する。期間は9月1日～10月31日。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_be3774075a6db32b",
@@ -1220,24 +1268,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_1ab374087a1ee948",
-      "title": "LINE着せかえ、iOS版で一部デザイン未反映　返金対応",
-      "url": "https://www.watch.impress.co.jp/docs/news/2134704.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-08-21T09:39:57.000Z",
-      "summary": "LINEは、LINEアプリのアップデートに伴い、一部の「LINE着せかえ」でメニューアイコンなどの表示が変更されているとして、今後の対応と返金方法を案内した。iOS版では着せかえのメニューアイコンを順次更新し、日本国内のユーザーを対象に返金申請も受け付ける。",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_ac46119261762e10",
       "title": "SNSのウソ画像、どう見破る？　熊本県庁やテレビ局も頼る“すごい企業”の正体",
       "url": "https://www.itmedia.co.jp/news/article/2608/21/2000000682/",
@@ -1251,22 +1281,6 @@
         "生成AI",
         "AI",
         "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_c7798a8a75d4b2da",
-      "title": "寺院・神社にキャッシュレス決済を　「おまいりPay」活用",
-      "url": "https://www.watch.impress.co.jp/docs/news/2134701.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-08-21T09:30:07.000Z",
-      "summary": "NTTデータとバリューデザインは、寺院・神社専用キャッシュレス決済「おまいりPay」と対面決済総合サービス「ADAPTIS In-Store」を組み合わせた、寺社窓口に特化した決済環境を提供開始した。鎌倉大仏殿高徳院から本格導入する。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
       ],
       "priority_score": 50
     },
@@ -1418,23 +1432,6 @@
       "tags": [
         "インターネット",
         "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_17d81adee8e581e5",
-      "title": "テクニカルサポート詐欺が前年同期比2.5倍に急増！　新手の詐欺としてAIの回答が入口になる事例も〜トレンドマイクロ「個人セキュリティ脅威動向レポート 2026 上半期」",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2134335.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-08-20T23:00:00.000Z",
-      "summary": "トレンドマイクロ株式会社は8月20日、個人利用者に被害をもたらす「詐欺」と「AIのリスク」の観点から、同社の観測データと調査を基にまとめた「個人セキュリティ脅威動向レポート 2026 上半期」を公開した。",
-      "starred": false,
-      "category": "security",
-      "tags": [
-        "インターネット",
-        "セキュリティ",
-        "情報モラル"
       ],
       "priority_score": 50
     },
