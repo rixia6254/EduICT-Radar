@@ -1,32 +1,14 @@
 {
-  "generated_at": "2026-08-27T13:55:58.163Z",
-  "total": 102,
+  "generated_at": "2026-08-27T19:45:17.118Z",
+  "total": 83,
   "items": [
-    {
-      "id": "item_21f8651de3f2baea",
-      "title": "文部科学省ホームページトップはこちら",
-      "url": "https://www.mext.go.jp/",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-08-27T13:55:48.388Z",
-      "summary": "",
-      "starred": false,
-      "category": "admin",
-      "tags": [
-        "行政",
-        "文科省",
-        "制度",
-        "教育ニュース"
-      ],
-      "priority_score": 60
-    },
     {
       "id": "item_bd1951ae70f98dac",
       "title": "サイトマップはこちら",
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-08-27T13:55:48.388Z",
+      "published_at": "2026-08-27T19:45:06.649Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +25,25 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-08-27T13:55:48.388Z",
+      "published_at": "2026-08-27T19:45:06.649Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_21f8651de3f2baea",
+      "title": "文部科学省ホームページトップはこちら",
+      "url": "https://www.mext.go.jp/",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-08-27T19:45:06.648Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -493,22 +493,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_511fccf7c8e47e4f",
-      "title": "●絵も文もAIが作ったペラペラ漫画● 【ちゃのまのAIプロト】 第3話「よしひろの『あわてんぼう』を予測せよ！」",
-      "url": "https://ict-enews.net/zoomin/27chanomaai/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-08-27T01:30:48.000Z",
-      "summary": "【ちゃのまのAIプロト】第3話「よしひろの『あわてんぼう』を予測せよ！」 忘れ物大王のパパ、その本当の理由は……？ 月曜日の朝。なわない家の玄関で、プロトが完璧な「持ち物リスト」で […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_499191b0c6e02f01",
       "title": "MCPの新たなロードマップ公開　今後はAIエージェント対応、HTTP通信への統一などに注力",
       "url": "https://www.itmedia.co.jp/news/article/2608/27/2000000831/",
@@ -522,300 +506,6 @@
         "生成AI",
         "AI",
         "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_778a5adb22239851",
-      "title": "高校生の7割超がAIの助言を「実行」悩みの決断を委ねるリアルな実態=塾選ジャーナル調ベ=",
-      "url": "https://ict-enews.net/2026/08/27delta-x-5/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-08-27T01:14:17.000Z",
-      "summary": "DeltaXが運営する塾選びサービス「塾選」は26日、「高校生のAI利用実態調査」について調査し概要を発表した。 塾選ジャーナルの調査では、高校生の67.0%が勉強、47.6%が恋 […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_a6900ce806b14fd0",
-      "title": "アイデアを考える際にAIを使う子どもは52.8％、うち11.7％が「最初からAIを使う」=木村鋳造所調べ=",
-      "url": "https://ict-enews.net/2026/08/27kimuragrp/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-08-27T01:14:07.000Z",
-      "summary": "木村鋳造所は26日、2027年に迎える創業100周年記念プロジェクト『ぜつめつしそうな 妄想かいじゅうずかん』の一環として、子どものAI利用や創造・妄想に関する親子調査を実施、その […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_feeda7887279254e",
-      "title": "27年卒学生の約4割が奨学金を利用。奨学金を学生自身で全額返済する割合は77.6％=マイナビ調べ=",
-      "url": "https://ict-enews.net/2026/08/27mynavi-5/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-08-27T01:13:53.000Z",
-      "summary": "マイナビは26日、2027 年卒業予定の全国の大学生、大学院生を対象に実施した、「マイナビ2027年卒大学生キャリア意向調査7月＜奨学金について＞」の結果を発表した。 27年卒業予 […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_4170db977fcf13ac",
-      "title": "IIBC、TOEIC公式教材アプリに「公式TOEIC Listening & Reading 800＋」を追加",
-      "url": "https://ict-enews.net/2026/08/27iibc-4/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-08-27T01:13:37.000Z",
-      "summary": "国際ビジネスコミュニケーション協会（IIBC）26日、「TOEIC 公式教材アプリ」へ新たに「公式 TOEIC Listening & Reading 800＋」を追加した […]",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "教育ニュース",
-        "ICT",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_213844b77943959e",
-      "title": "QuizKnock×漢検協会がコラボ 全問正解であなたも漢字王「QuizKnock漢字検定」公開",
-      "url": "https://ict-enews.net/2026/08/27kanken-2/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-08-27T01:13:21.000Z",
-      "summary": "日本漢字能力検定協会は25日、batonが運営するQuizKnockとコラボレーションした漢字プリント「QuizKnock漢字検定」を漢検ホームページ等にて公開することを発表した。 […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_9f8cdedbb5a1f275",
-      "title": "松実高等学園×Atlas、生徒とともにつくるAIキャラクターの導入に向けた取り組みを開始",
-      "url": "https://ict-enews.net/2026/08/27atlas-tech/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-08-27T01:13:11.000Z",
-      "summary": "Atlasは25日、松実高等学園とAIを活用した新しい取り組みを開始することに合意したことを発表した。 Atlasが運営するAIの友だち「ねこやまさん」の基盤技術を用いて、松実高等 […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_3f8a3b8b8ca0e002",
-      "title": "日本ワーキング・ホリデー協会、YouTube「OverseasGate」動画本数815本を超える情報ライブラリに",
-      "url": "https://ict-enews.net/2026/08/27jawhm/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-08-27T01:13:02.000Z",
-      "summary": "日本ワーキング・ホリデー協会（JAWHM）は25日、公式YouTubeチャンネル「OverseasGate」の動画本数が815本を超えたことを発表した。 これを受け、夏休み期間中に […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_07d96e8c5e5bdc76",
-      "title": "ヴィリング、高齢者施設向けのブロック×レクリエーション用具「ブロックる」提供開始",
-      "url": "https://ict-enews.net/2026/08/27viling-2/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-08-27T01:12:52.000Z",
-      "summary": "ヴィリングは26日、9月1日から、高齢者施設向けのブロック×レクリエーション用具「ブロックる」の提供を開始すると発表した。 「ブロックる」は、ブロックを使ったものづくりとレクリエー […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_e17010e55fa24ba9",
-      "title": "IGS、「先生方向け『教科探究』実践支援プログラム」を鹿児島で9月5日開催",
-      "url": "https://ict-enews.net/2026/08/27igs-3/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-08-27T01:12:41.000Z",
-      "summary": "Institution for a Global Society （IGS）は、三菱みらい育成財団の助成を得て、「先生方向け『教科探究』実践支援プログラム」を鹿児島で9月5日に開催 […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_1f88b7a7bed061d9",
-      "title": "東京電機大学、中学生対象「大学で学ぶ 『生成 AI を活用したプログラミング教室』」9月開催",
-      "url": "https://ict-enews.net/2026/08/27dendai/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-08-27T01:12:31.000Z",
-      "summary": "東京電機大学は、東京千住キャンパスで、足立区との連携企画として、区内の中学生を対象とした体験型ワークショップ「大学で学ぶ『生成 AI を活用したプログラミング教室』」を9 月 26 […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 60
-    },
-    {
-      "id": "item_cfc4f21645c6f7b8",
-      "title": "近畿大学、工学研究と地域課題解決の成果を一堂に紹介「工学・地域・みらい博」開催",
-      "url": "https://ict-enews.net/2026/08/27kindai-6/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-08-27T01:12:20.000Z",
-      "summary": "近畿大学工学部は、広島キャンパスで「工学・地域・みらい博」と題し、「近畿大学工学部研究公開フォーラム2026」と「東広島市・3大学合同Town&Gown構想活動報告会」を8 […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_1ef53fcee4587ab9",
-      "title": "情報処理学会、「実世界に広がるAI：情報技術の融合と社会展開」開催",
-      "url": "https://ict-enews.net/2026/08/27ipsj-3/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-08-27T01:12:10.000Z",
-      "summary": "情報処理学会は、連続セミナー2026「実世界に広がるAI：情報技術の融合と社会展開」の第6回「ロボットマニピュレーションにおけるPhysical AI ～研究開発と産業応用～」を9 […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_0cb5783989e9ed11",
-      "title": "イーオン、オンラインプライベートレッスンで特別プランを提供開始",
-      "url": "https://ict-enews.net/2026/08/27aeonet-3/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-08-27T01:11:56.000Z",
-      "summary": "イーオンは26日、合計先着1000名限定で、オンラインプライベートレッスン「ネイティブ講師プラン」の「毎日1レッスンコース」と「毎月8レッスンコース」にて特別プランを提供する。それ […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_3319c1537c45399b",
-      "title": "TAC、不動産鑑定士 25歳以下は対象コースが最大10万円割引「U25割引キャンペーン」",
-      "url": "https://ict-enews.net/2026/08/27tac-9/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-08-27T01:11:44.000Z",
-      "summary": "TACは、不動産鑑定士講座で、25歳以下の対象コースが最大10万円割引になる「U25割引キャンペーン」を8月31日まで実施している。 対象コース・ 割引価格 1. 2年本科生MAX […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_50cd856a075328b2",
-      "title": "コクヨ「大人のやる気ペン」とベネッセ「Udemy」、資格取得に挑む大人の「自律的な学び」を応援",
-      "url": "https://ict-enews.net/2026/08/27kokuyo-2/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-08-27T01:11:33.000Z",
-      "summary": "コクヨは26日、ベネッセコーポレーションが国内で展開する AI搭載のスキル開発プラットフォーム 「Udemy（ユーデミー）」と、コクヨが開発するIoT文具「大人のやる気ペン」の共同 […]",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "教育ニュース",
-        "ICT",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_0254307ec1b44d08",
-      "title": "QNS Services、大学・研究機関向けネットワーク暗号可視化評価キット「CipherMirror Board」発表",
-      "url": "https://ict-enews.net/2026/08/27qnsservices/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-08-27T01:11:21.000Z",
-      "summary": "QNS Services（QNS）は26日、大学・研究機関等での実践的な学習を目的とした教育用教材、ネットワーク暗号可視化評価キット「CipherMirror Board（サイファ […]",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "教育ニュース",
-        "ICT",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_e80d33085fa49197",
-      "title": "ジーデップ・アドバンスがシリコンスタジオとフィジカルAI分野で戦略的協業を開始",
-      "url": "https://ict-enews.net/2026/08/27gdep/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-08-27T01:11:09.000Z",
-      "summary": "ジーデップ・アドバンスは25日、シリコンスタジオとフィジカルAI分野における業務協力に関する覚書を締結し、戦略的協業を開始したことを発表した。 製造、建築、防災、医療をはじめとする […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_0f91dabf092b8eff",
-      "title": "BenQ、デュアルモニターに完全対応したモニターライト「ScreenBar Max」登場",
-      "url": "https://ict-enews.net/2026/08/27benq-3/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-08-27T01:10:59.000Z",
-      "summary": "ベンキュージャパン（BenQ)は、マルチタスクを加速させるデュアルモニター環境向けモニターライト「ScreenBar Max」を8 月26日に発売した。 iMac向けに設計され、 […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
       ],
       "priority_score": 50
     },
