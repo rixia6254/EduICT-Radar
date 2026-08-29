@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-08-29T02:58:41.298Z",
+  "generated_at": "2026-08-29T09:50:12.582Z",
   "total": 102,
   "items": [
+    {
+      "id": "item_21f8651de3f2baea",
+      "title": "文部科学省ホームページトップはこちら",
+      "url": "https://www.mext.go.jp/",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-08-29T09:50:03.606Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
     {
       "id": "item_bd1951ae70f98dac",
       "title": "サイトマップはこちら",
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-08-29T02:58:31.339Z",
+      "published_at": "2026-08-29T09:50:03.606Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -25,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-08-29T02:58:31.339Z",
+      "published_at": "2026-08-29T09:50:03.606Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -38,22 +56,42 @@
       "priority_score": 60
     },
     {
-      "id": "item_21f8651de3f2baea",
-      "title": "文部科学省ホームページトップはこちら",
-      "url": "https://www.mext.go.jp/",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-08-29T02:58:31.338Z",
-      "summary": "",
+      "id": "item_330828fe995d90a5",
+      "title": "フューチャーインスティテュート、GIGAスクール構想「全国端末・採用状況調査」アンケート実施中",
+      "url": "https://ict-enews.net/2026/08/29practica/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-08-29T08:38:33.000Z",
+      "summary": "フューチャーインスティテュートが運営する「教育ICTリサーチ ブログ」は、GIGAスクール構想「全国端末・採用状況調査」アンケートを8月31日まで実施している。締切は8月31日。 […]",
       "starred": false,
-      "category": "admin",
+      "category": "dx",
       "tags": [
-        "行政",
-        "文科省",
-        "制度",
-        "教育ニュース"
+        "教育ニュース",
+        "ICT",
+        "校務DX",
+        "GIGA"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_e5e1fe5b9df8ac03",
+      "title": "OpenAI、Cursorへのモデル提供を終了　理由は「SpaceXによる買収」",
+      "url": "https://www.watch.impress.co.jp/docs/news/2136717.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-08-29T03:50:04.000Z",
+      "summary": "OpenAIは28日(米国時間)、SpaceXによるCursor買収を受けて、コーディングエージェント「Cursor」へのOpenAIの最新モデルの提供を終了すると発表した。同日にSpaceXにモデル提供契約の終了を通知し、終了予定日は11月12日。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "生成AI",
+        "AI活用",
+        "行政",
+        "文科省"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_9b428f803e2c69bf",
@@ -666,22 +704,6 @@
       "priority_score": 60
     },
     {
-      "id": "item_552fbe87ae953d58",
-      "title": "アマゾン、スマイルSale開始　家電や日用品が特価に",
-      "url": "https://www.watch.impress.co.jp/docs/news/2136134.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-08-28T00:00:00.000Z",
-      "summary": "Amazonは、8月28日9時から9月3日23時59分までの7日間「Amazon スマイルSale」を開催します。テーマは「夏のお得、まだまだ続く」で、人気商品を中心に、家電や食料品、日用品、アウトドア用品、洋服、ゲームなどを特別価格で販売します。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_960192faa4c36c4d",
       "title": "神奈川県、公立中学校における部活動の地域展開に協力できる企業・大学・スポーツ文化団体等を募集",
       "url": "https://ict-enews.net/2026/08/28pref-kanagawa/",
@@ -984,22 +1006,6 @@
         "ICT",
         "生成AI",
         "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_cb83a267fc3d12fb",
-      "title": "ワオフル、noteで「不登校になったら最初に読むガイドブック」の連載開始",
-      "url": "https://ict-enews.net/2026/08/28wowfull/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-08-27T23:47:20.000Z",
-      "summary": "ワオフルは、noteにて「不登校になったら最初に読むガイドブック」の連載を8月24日から開始した。 同社は、学校が合わない子のためのオンライン教室「夢中教室」および少人数制オンライ […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
       ],
       "priority_score": 50
     },
