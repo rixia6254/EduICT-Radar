@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-29T22:56:36.751Z",
-  "total": 102,
+  "generated_at": "2026-08-30T09:01:02.350Z",
+  "total": 83,
   "items": [
     {
       "id": "item_bd1951ae70f98dac",
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-08-29T22:56:28.444Z",
+      "published_at": "2026-08-30T09:00:51.820Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -25,7 +25,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-08-29T22:56:28.444Z",
+      "published_at": "2026-08-30T09:00:51.820Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-08-29T22:56:28.443Z",
+      "published_at": "2026-08-30T09:00:51.819Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -56,22 +56,54 @@
       "priority_score": 60
     },
     {
-      "id": "item_330828fe995d90a5",
-      "title": "フューチャーインスティテュート、GIGAスクール構想「全国端末・採用状況調査」アンケート実施中",
-      "url": "https://ict-enews.net/2026/08/29practica/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-08-29T08:38:33.000Z",
-      "summary": "フューチャーインスティテュートが運営する「教育ICTリサーチ ブログ」は、GIGAスクール構想「全国端末・採用状況調査」アンケートを8月31日まで実施している。締切は8月31日。 […]",
+      "id": "item_d40784411e5fdb82",
+      "title": "オメガ、スモールサイズの「スピードマスター 38」を刷新",
+      "url": "https://www.watch.impress.co.jp/docs/news/2135506.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-08-30T01:00:00.000Z",
+      "summary": "スウォッチ グループ ジャパンは、「オメガ」の新作として、「スピードマスター 38」の7つのバリエーションを発表した。直営ブティックで販売を開始しており、正規取扱店でも順次発売する。機械式の腕時計で、価格は99万円～194万7,000円。",
       "starred": false,
-      "category": "dx",
+      "category": "tech",
       "tags": [
-        "教育ニュース",
-        "ICT",
-        "校務DX",
-        "GIGA"
+        "テクノロジー",
+        "デジタル"
       ],
-      "priority_score": 60
+      "priority_score": 50
+    },
+    {
+      "id": "item_493c6893d02a7daf",
+      "title": "「合理性」か「安心」か　新たな投資ニーズを狙う「オルカン高配当」のチャレンジ",
+      "url": "https://www.watch.impress.co.jp/docs/topic/watchplus/2136326.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-08-30T00:00:00.000Z",
+      "summary": "Impress Watchニュースレターに掲載した記事です。ニュースレターは無料で、毎週編集部員が会員向けのコラムなどをお送りしています。登録はこちらから。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_a855aba25b5a92d4",
+      "title": "OpenAI、Cursorへのモデル提供を11月12日に終了　SpaceXによる買収が理由",
+      "url": "https://www.itmedia.co.jp/news/article/2608/30/2000000945/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-08-29T23:12:23.000Z",
+      "summary": "OpenAIは、AIコードエディタ「Cursor」へのモデル提供契約を11月12日に終了すると発表した。SpaceXによるCursor買収を受け、イーロン・マスク氏の過去の契約違反実績から規約順守を確信できないことを理由に挙げている。Cursor側は影響が限定的としつつ協議継続を表明、Anthropicは支援継続を示した。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_e5e1fe5b9df8ac03",
@@ -551,24 +583,6 @@
       "priority_score": 60
     },
     {
-      "id": "item_0178672096b14ae7",
-      "title": "「えー」「あー」を除去して複数話者音声文字変換「Gemini 3.5 Transcribe」",
-      "url": "https://www.watch.impress.co.jp/docs/news/2136424.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-08-28T02:58:40.000Z",
-      "summary": "Googleは26日(米国時間)、新しい高精度な音声文字変換モデル「Gemini 3.5 Transcribe」を発表した。背景のノイズなどの影響を低減し、音声データを正確で洗練されたテキストに変換できるほか、複数話者の識別などを強化した。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "生成AI",
-        "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_8974e086e9479afc",
       "title": "新しいTwitterを名乗るSNS「Twitter.now」が登場も、ネットユーザーの目は冷ややか。その理由は？【やじうまWatch】",
       "url": "https://internet.watch.impress.co.jp/docs/yajiuma/2136400.html",
@@ -668,22 +682,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_0ac777929a90f2cb",
-      "title": "コクヨ、高級筆記具「KOKUYO WP ファインライター」にディープな新色",
-      "url": "https://www.watch.impress.co.jp/docs/news/2135844.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-08-28T01:03:36.000Z",
-      "summary": "コクヨは、高級筆記具「KOKUYO WP」の「ファインライター」から、ディープブルー、ディープグリーン、ディープレッドの3色を定番色として9月2日に発売する。価格は5,000円(税別)。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_de8bd383d076cd6e",
       "title": "Google、動画生成AI「Gemini Omni 1.1 Flash」公開　10秒分の文脈を参照して最長40秒まで延長",
       "url": "https://www.itmedia.co.jp/aiplus/article/2608/28/2000000878/",
@@ -702,312 +700,6 @@
         "ツール"
       ],
       "priority_score": 60
-    },
-    {
-      "id": "item_960192faa4c36c4d",
-      "title": "神奈川県、公立中学校における部活動の地域展開に協力できる企業・大学・スポーツ文化団体等を募集",
-      "url": "https://ict-enews.net/2026/08/28pref-kanagawa/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-08-27T23:53:53.000Z",
-      "summary": "神奈川県は26日、部活動の地域展開を進めるため、12月に、県内の市町村・学校・地域クラブ等を対象とした、部活動の地域展開に関する「相談窓口」を開設し、課題解決策の提案、類似事例の情 […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_0bb49f6d45daf1a3",
-      "title": "生成AIなどを仕事に活かす「かがわ・働く女性のお仕事DXプログラム」参加者募集開始",
-      "url": "https://ict-enews.net/2026/08/28umeworks/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-08-27T23:53:26.000Z",
-      "summary": "UMEWORKSは、香川県内で勤務している女性を対象に、仕事に役立つデジタルスキルを実践的に学ぶ全6回の連続講座「かがわ・働く女性のお仕事DXプログラム」（香川県主催）を10月から […]",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "教育ニュース",
-        "ICT",
-        "生成AI",
-        "AI活用"
-      ],
-      "priority_score": 60
-    },
-    {
-      "id": "item_afa2ec807a739d77",
-      "title": "Polimill、自治体向け生成AI「QommonsAI」の活用研修（初級編）を福岡県筑前町で実施",
-      "url": "https://ict-enews.net/2026/08/28polimill-5/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-08-27T23:53:13.000Z",
-      "summary": "Polimillは27日、8月6日と7日の2日間、福岡県の筑前町職員を対象に、自治体向け生成AI「QommonsAI（コモンズAI）」の活用研修（初級編）を筑前町役場にて実施したと […]",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "教育ニュース",
-        "ICT",
-        "生成AI",
-        "AI活用"
-      ],
-      "priority_score": 60
-    },
-    {
-      "id": "item_17727a23fe5895f8",
-      "title": "CFC、小中高生保護者対象「2026年 子どもの教育機会に関する実態調査」報告書公開",
-      "url": "https://ict-enews.net/2026/08/28cfc/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-08-27T23:52:35.000Z",
-      "summary": "チャンス・フォー・チルドレン（CFC）は26日、2026 年3 月に実施した「2026 年子どもの教育機会に関する実態調査」結果を発表した。 本調査は、2026 年現在の子どもの学 […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_013c27edabb4ac3f",
-      "title": "大学生の親85％が「もっと話しておけばよかった」―話し足りなかった話題の1位とは？=「塾選ジャーナル」調べ=",
-      "url": "https://ict-enews.net/2026/08/28delta-x-4/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-08-27T23:52:17.000Z",
-      "summary": "DeltaXが運営する塾選びサービス「塾選」は、27日「子どもと話し足りなかった話題」について調査し、その概要を発表した。 子どもが大学生になると、進路選択や一人暮らし、アルバイト […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_18c3212e70aca161",
-      "title": "小学生の63.0%が「AIで考える力が弱くなる」と不安 =「コロコロコミック」調べ=",
-      "url": "https://ict-enews.net/2026/08/28corocorolab/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-08-27T23:51:56.000Z",
-      "summary": "小学館は27日、『コロコロコミック』で、小学1年生から6年生までの『コロコロコミック』読者752人を対象に「生成AI」の利用実態に関するアンケート調査を実施、その結果を発表した。 […]",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "教育ニュース",
-        "ICT",
-        "生成AI",
-        "AI活用"
-      ],
-      "priority_score": 60
-    },
-    {
-      "id": "item_738954d2fe27ebb1",
-      "title": "子どもの不登校に「介護休業」条件に適合で活用可能、知らない親8割=サイボウズ調べ=",
-      "url": "https://ict-enews.net/2026/08/28cybozu-2/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-08-27T23:51:37.000Z",
-      "summary": "サイボウズ ソーシャルデザインラボは、多様な価値観を持つ人々が安心して暮らせる社会を目指し、サイボウズ流のチームワークに基づく社会実験（育苗実験）を行っている。 2026年7月8日 […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_3ed5b6dfbc6677d3",
-      "title": "CURIO SCHOOL、中高生探究コンテスト2026 全応募者アンケート分析結果",
-      "url": "https://ict-enews.net/2026/08/28curioschool/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-08-27T23:51:17.000Z",
-      "summary": "CURIO SCHOOLは26日、同社主催の「中高生探究コンテスト2026（最終審査会 3月14日／日本科学未来館ホール）」にて、応募した中学生・高校生を対象に実施した探究学習に関 […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_63924a7b62f19a21",
-      "title": "くうねあ、保育士等スタッフのAI利用実態を調査 AI利用経験は6割超",
-      "url": "https://ict-enews.net/2026/08/28qoonea/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-08-27T23:50:59.000Z",
-      "summary": "くうねあは26日、「子育て応援企業」として広島で5つの保育園・認定こども園を運営する同社で働く保育士をはじめとするスタッフ46名を対象に実施した、保育園でのAIの利用状況についての […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_8eea3a37888485b6",
-      "title": "内田洋行と福井大学、学習空間・教育データ・教育アセスメントをつなぐ包括連携協定を締結",
-      "url": "https://ict-enews.net/2026/08/28uchida-5/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-08-27T23:50:43.000Z",
-      "summary": "内田洋行は27日、福井大学と、次世代の教育・学習環境の構築と教材開発、教育データやアセスメントを活用した新たな教育評価の実現に向け包括連携協定を締結したと発表した。 締結式は、8月 […]",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "教育ニュース",
-        "ICT",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_613da2ddd3d27bf8",
-      "title": "関東学院大学と城南進学研究社が年内入試対策で協業　オンライン学習支援プログラムをスタート",
-      "url": "https://ict-enews.net/2026/08/28johnan-2/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-08-27T23:50:26.000Z",
-      "summary": "城南進学研究社は27日、同社が開発・運営する、年内入試対策システム「推薦ラボ」が、関東学院大学が実施する年内入試対策プログラム「KGU小論文・面接塾」に採用されたと発表した。 これ […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_e79c7c67c70e73cf",
-      "title": "新潟医療福祉大学、文部科学省の新たなAI活用研究事業第2回公募に1件採択",
-      "url": "https://ict-enews.net/2026/08/28nsg/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-08-27T23:50:07.000Z",
-      "summary": "NSGグループの新潟医療福祉大学は、文部科学省が今年度より開始した「AI for Science萌芽的挑戦研究創出事業（SPReAD）」にて、8月18日に発表された第2回公募の採択 […]",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "教育ニュース",
-        "ICT",
-        "生成AI",
-        "AI活用",
-        "行政",
-        "文科省"
-      ],
-      "priority_score": 60
-    },
-    {
-      "id": "item_02a7dc98f93d130a",
-      "title": "エディフィストラーニング、女子中高生の未来の選択肢を広げる生成AI体験ワークショップを実施",
-      "url": "https://ict-enews.net/2026/08/28comture/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-08-27T23:49:52.000Z",
-      "summary": "コムチュアのグループ会社であるエディフィストラーニングは、日本マイクロソフトが推進する社会貢献活動「AI×ものづくりの未来」の一環として、湘南白百合学園の女子中学生・女子高校生64 […]",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "教育ニュース",
-        "ICT",
-        "生成AI",
-        "AI活用"
-      ],
-      "priority_score": 60
-    },
-    {
-      "id": "item_925c5d13431751b3",
-      "title": "教育分野の専門イベント「EDIXツアー in 福岡 2026」 12月の3日間で初開催",
-      "url": "https://ict-enews.net/2026/08/28rxjapan/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-08-27T23:49:34.000Z",
-      "summary": "RX Japanは、教育分野の専門イベント「EDIXツアー in 福岡 2026」を、12月2日～4日の3日間、マリンメッセ福岡にて初開催する。 EDIXは、教育ICT、学校業務支 […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_d5343e61e8ed40d6",
-      "title": "ネットアドバンス、中高教員向け「AI時代におけるオンラインデータベースの有用性」9月開催",
-      "url": "https://ict-enews.net/2026/08/28japanknowledge/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-08-27T23:49:14.000Z",
-      "summary": "ネットアドバンスは、紀伊國屋書店と共に、中学校‧高等学校の教員を対象としたセミナーを、仙台市のせんだいメディアテークにて9月23日に開催する。 同セミナーは、教育の最前線で活躍され […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_db9cdf30247ca9b5",
-      "title": "テクノブロード、「未来の先生フォーラム2026」でオンライン理科実験教材を展示",
-      "url": "https://ict-enews.net/2026/08/28t-broad/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-08-27T23:48:55.000Z",
-      "summary": "テクノブロードは、9月12日・13日に桜美林大学新宿キャンパスで開催される、朝日新聞主催「未来の先生フォーラム2026」に出展する。 同社ブースでは、オンライン理科実験教材 「Qu […]",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "教育ニュース",
-        "ICT",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_e00ed15e7d07315b",
-      "title": "北見工業大学、小6～中3女子対象に「リケジョのWA」10月4日開催",
-      "url": "https://ict-enews.net/2026/08/28kitami-it/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-08-27T23:48:38.000Z",
-      "summary": "北見工業大学は、小学6年生～中学3年生の女子児童・生徒を対象としたイベント「リケジョのWA」を10月4日に開催する。 同学の女性教職員と女子学生が講師を務め、参加者らに理科・工学の […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_62375ff957d05e85",
-      "title": "DAIJOBU、非エンジニア向け短期集中コース「Claude Code 超実践2DAYS」提供開始",
-      "url": "https://ict-enews.net/2026/08/28daijobu/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-08-27T23:48:11.000Z",
-      "summary": "DAIJOBUは26日、非エンジニア向けの短期集中コース「Claude Code 超実践2DAYS」の提供を開始した。 土曜4時間×2回、合計8時間。東京・新宿御苑の会場に複数社が […]",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "教育ニュース",
-        "ICT",
-        "生成AI",
-        "AI活用"
-      ],
-      "priority_score": 50
     },
     {
       "id": "item_bcb3ae6148edfabf",
@@ -1301,24 +993,6 @@
         "AI活用"
       ],
       "priority_score": 50
-    },
-    {
-      "id": "item_68515cace9413f52",
-      "title": "2035年、AI推論需要の半分は「コード生成」に　推論市場の今と未来",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/27/news046.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-08-27T04:00:00.000Z",
-      "summary": "ABI Researchは、急拡大するAI推論市場の現状を解説した。生成AIの本番利用が広がる中、推論ワークロードは2033年にトレーニングを追い越し、消費電力は2035年に46ギガワットへ拡大すると予測する。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 60
     },
     {
       "id": "item_c25b7dafa19b4d70",
