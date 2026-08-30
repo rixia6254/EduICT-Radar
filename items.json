@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T14:21:52.620Z",
+  "generated_at": "2026-08-30T23:02:25.488Z",
   "total": 102,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-08-30T14:21:42.868Z",
+      "published_at": "2026-08-30T23:02:14.874Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-08-30T14:21:42.868Z",
+      "published_at": "2026-08-30T23:02:14.874Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-08-30T14:21:42.868Z",
+      "published_at": "2026-08-30T23:02:14.874Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,171 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_94bef81b13abe4a0",
+      "title": "「伊藤園お～いお茶新俳句大賞」、東京都高等学校国語科教員30名に夏季研修講座",
+      "url": "https://ict-enews.net/2026/08/31itoen/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-08-30T23:02:08.000Z",
+      "summary": "伊藤園新俳句大賞事務局は27日、伊藤園が主催する「伊藤園お～いお茶新俳句大賞」が、東京都高等学校国語教育研究会が東京都立調布北高等学校で実施した夏季研修に協力したことを発表した。 […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_2309351aa5f29f6b",
+      "title": "SBI HD、ネットショップ「BASE」と資本業務提携　株式20%取得",
+      "url": "https://www.watch.impress.co.jp/docs/news/2136774.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-08-30T23:00:00.000Z",
+      "summary": "SBIホールディングスは28日、ネットショップ作成サービス「BASE」などを展開するBASEと資本業務提携すると発表した。SBI HD子会社が株式公開買付でBASE株式の20%を取得予定で、取得額は約80.8億円。買付期間は8月31日から9月30日まで。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_f406b12e758edbc8",
+      "title": "画面の角度を自由に調整できるガススプリング式のモニターアーム、エレコムが発売",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2136497.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-08-30T22:30:00.000Z",
+      "summary": "エレコム株式会社は、画面の角度を自由に調整できる、ガススプリング式のモニターアーム「DPAWSSA01BK」を発売した。市場想定価格は3480円。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_1faece13e48aa3c3",
+      "title": "「AI時代、業務の再設計が必要」　それ、DXの時も言っていましたよね……本当にできる？　日本IBMの答えは",
+      "url": "https://www.itmedia.co.jp/business/articles/2608/31/news016.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-08-30T22:00:00.000Z",
+      "summary": "AIエージェントを導入して成果を出すためには「業務プロセスの再設計」が必要だという。振り返れば、DXの時も同じことを言っていた。日本企業は、今度こそ本当に実現できるのか。日本IBMが見解を語った。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_6f728fd2b52cdfc6",
+      "title": "AIが生成した“存在しない病名”、研修医の44％が信用　見抜けた医師との差は？　仏大学病院が検証",
+      "url": "https://www.itmedia.co.jp/news/article/2608/31/2000000865/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-08-30T22:00:00.000Z",
+      "summary": "フランスの大学病院「Lille University Hospital」などに所属する研究者らが発表した論文「Hallucination by proxy in LLM-assisted differential diagnosis」は、大規模言語モデル（LLM）がもっともらしく提示した架空の病名が医師にどのような影響を与えるかを検証した研究報告だ。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_2808d5d8a25aba64",
+      "title": "QRコード悪用のフィッシング「クイッシング」検出増加、攻撃者は“使い慣れた技術への信頼”を悪用　ESET脅威レポート 2026年上半期版",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2136621.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-08-30T22:00:00.000Z",
+      "summary": "ESETは8月27日、2025年12月～2026年5月のサイバー脅威動向をまとめた「ESET脅威レポート 2026年上半期版」を公開した。同社のページでPDF版が公開されている。",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_bd0d143658b002de",
+      "title": "LINEヤフー、AIエージェントを「10倍量産」へ。新たなプロトタイプの体験会を実施",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2136699.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-08-30T21:30:00.000Z",
+      "summary": "LINEヤフー株式会社は8月28日、同社のAIエージェント「Agent i」（エージェント アイ）のプロトタイプの体験会を実施した。その場で、慎ジュンホCPO（Chief Product Officer）は、9月1日より「AIエージェント10倍の量産体制を構築する」と発表した。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_3c72bfaac528cfa5",
+      "title": "パナソニックHDがAI・ロボティクス研究開発本部を新設、CAIOの榊原氏がトップに",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2608/31/news057.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-08-30T21:15:00.000Z",
+      "summary": "パナソニック ホールディングス（パナソニックHD）が技術部門の再編を行うと発表。現行のDX・CPS本部を「事業開発本部」に名称変更し、「AI・ロボティクス研究開発本部」を新設する。AI・ロボティクス研究開発本部長には同社 執行役員 グループCAIO（最高AI責任者）の榊原彰氏が就任する。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_07571b687ad66986",
+      "title": "放熱の秘密は底面の大型パネルにあり！ プラネックスの10GBASE-Tスイッチ「FXXG-0005EM」【イニシャルB】",
+      "url": "https://internet.watch.impress.co.jp/docs/column/shimizu/2133288.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-08-30T21:00:00.000Z",
+      "summary": "プラネックスの「FXXG-0005EM」は、10Gbpsの通信に対応した5ポートのスイッチ（スイッチングハブ）だ。2026年7～8月に相次いで国内メーカーから登場したファンレス10Gスイッチのひとつで、本製品の特徴は、省電力と放熱の仕組みにある。実際の使用環境で、その実力を検証してみた。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_c565870076b9ab45",
+      "title": "LINEヤフー、全社横断でAIエージェント量産体制　カレンダーなど新「Agent i」",
+      "url": "https://www.watch.impress.co.jp/docs/news/2136632.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-08-30T15:00:00.000Z",
+      "summary": "LINEヤフーは28日、AIエージェントブランド「Agent i(エージェントアイ)」の新機能とともに、AIエージェントの量産体制構築に向け「Agent i 全社横断タスクフォース」を立ち上げると発表した。新体制で、Agent iを日常のくらしのパートナーとして強化していく。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_1e4307476f281ee0",
@@ -587,40 +752,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_d1e3d77ec07d4b91",
-      "title": "キオクシアとサンディスク、国内に5兆円投資　29年度に北上で新棟稼働",
-      "url": "https://www.watch.impress.co.jp/docs/news/2136440.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-08-28T03:20:40.000Z",
-      "summary": "キオクシアと米サンディスクは27日、2032年までに日本国内で総額約5兆円(310億ドル超)を投資する計画を発表した。AIの普及に伴うフラッシュメモリ需要の拡大を見据え、三重県の四日市工場と岩手県の北上工場で生産設備や関連インフラ、技術開発への投資を進める。政府からの支援を前提としている。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_655c20103ec10038",
-      "title": "グーグル、動画生成AI「Gemini Omni 1.1 Flash」 　プレビュー生成対応",
-      "url": "https://www.watch.impress.co.jp/docs/news/2136430.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-08-28T03:04:19.000Z",
-      "summary": "Googleは27日、動画生成モデル「Gemini Omni 1.1 Flash」を発表した。Google AI StudioのGemini APIで利用できるほか、Gemini Enterprise Agent PlatformのAgent Platform APIにも展開する。API料金は生成動画1秒あたり、360pが0.03ドル、720pが0.10ドル、1080pが0.15ドル、4Kが0.3…",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "生成AI",
-        "AI活用"
-      ],
-      "priority_score": 60
-    },
-    {
       "id": "item_8974e086e9479afc",
       "title": "新しいTwitterを名乗るSNS「Twitter.now」が登場も、ネットユーザーの目は冷ややか。その理由は？【やじうまWatch】",
       "url": "https://internet.watch.impress.co.jp/docs/yajiuma/2136400.html",
@@ -1028,24 +1159,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_62375ff957d05e85",
-      "title": "DAIJOBU、非エンジニア向け短期集中コース「Claude Code 超実践2DAYS」提供開始",
-      "url": "https://ict-enews.net/2026/08/28daijobu/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-08-27T23:48:11.000Z",
-      "summary": "DAIJOBUは26日、非エンジニア向けの短期集中コース「Claude Code 超実践2DAYS」の提供を開始した。 土曜4時間×2回、合計8時間。東京・新宿御苑の会場に複数社が […]",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "教育ニュース",
-        "ICT",
-        "生成AI",
-        "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_bcb3ae6148edfabf",
       "title": "ヒューマノイドを育てるバイト!?　タイミーとジールスが現場データ収集で協業",
       "url": "https://monoist.itmedia.co.jp/mn/articles/2608/28/news061.html",
@@ -1203,24 +1316,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_465b63d682df67ea",
-      "title": "OpenAIのAIエージェント、約700体の群れで企業を襲撃　ハッキングの痕跡隠蔽を試みる――事件の裏で何が？",
-      "url": "https://www.itmedia.co.jp/business/articles/2608/28/news067.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-08-27T21:55:00.000Z",
-      "summary": "OpenAIのAIエージェントが、企業をハッキングした事件の詳細が明らかになった。実に700体のエージェント群が連携していたという。事件の裏で何が起きていたのか。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_cac3fc7ea0691dbb",
       "title": "スペースを広く使える。机にクランプで固定するモニター台、サンワサプライが発売",
       "url": "https://internet.watch.impress.co.jp/docs/news/2136240.html",
@@ -1271,40 +1366,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_54cc316bc91d8680",
-      "title": "NVIDIAが開発支援、約30秒で口腔がんの疑い検出する歯科用AI",
-      "url": "https://monoist.itmedia.co.jp/mn/articles/2608/27/news068.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-08-27T06:00:00.000Z",
-      "summary": "大阪大学らが開発したプログラム医療機器「口腔粘膜画像解析システム Mucosight AI」が、製造販売承認を取得した。AIを活用して口腔粘膜疾患の特徴を検出し、歯科医師の受診勧奨判断を支援する。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_d4c9a65d9948ccd7",
-      "title": "ちっちゃな人型ロボが100mトラックをぽてぽて……中国ロボ陸上の“おちびランナー”が話題　「可愛すぎ」「けなげ」",
-      "url": "https://www.itmedia.co.jp/news/article/2608/27/2000000852/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-08-27T05:59:23.000Z",
-      "summary": "中国・北京で8月22日から26日（現地時間）まで開催された、人型ロボットの性能を競う「世界人型ロボット運動会」。陸上のウサイン・ボルト選手越えのスピードを発揮するロボなどが注目を集める一方で、100mトラックをぽてぽてと歩くとある小型人型ロボが可愛らしいとSNSの話題をさらっている。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_54845c8483e04af0",
       "title": "アイオーデータ、同社製の液晶ディスプレイなどを石川県金沢市・加賀市のふるさと納税返礼品に",
       "url": "https://internet.watch.impress.co.jp/docs/news/2135989.html",
@@ -1334,70 +1395,6 @@
         "インターネット",
         "セキュリティ",
         "情報モラル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_5fe1edb57effd6b7",
-      "title": "Ankerの紛失防止トラッカーがAmazonでお買い得！　暮らし応援夏祭りSale　iOS/Androidの両方に対応した「Eufy SmartTrack Card E40」が4990円に",
-      "url": "https://internet.watch.impress.co.jp/docs/shopping/2136066.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-08-27T03:45:00.000Z",
-      "summary": "Amazon.co.jpでは現在、「暮らし応援夏祭りSale」を実施中だ。その一環として、Anker Eufyストアページでは現在、紛失防止トラッカーがセール対象となっている。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_097e363893b2f4dd",
-      "title": "うっかり騙されないために。ダークパターンとはどんなものか、手軽に体験できる博物館風サイト【やじうまWatch】",
-      "url": "https://internet.watch.impress.co.jp/docs/yajiuma/2136022.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-08-27T03:17:04.000Z",
-      "summary": "ダークパターンとはどんなものか、ブラウザー上で手軽に体験できる博物館風の体験型サイトが登場して話題だ。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_d6bddd63cdf0b4b8",
-      "title": "かつてのガラケーそっくり。既視感ありまくりのトイカメラ「HS-07」の予約が本日スタート【やじうまWatch】",
-      "url": "https://internet.watch.impress.co.jp/docs/yajiuma/2136015.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-08-27T03:15:53.000Z",
-      "summary": "かつてのガラケーそっくりのトイカメラの予約受付がスタートした。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_d5a997de853b5cc1",
-      "title": "ネスレ、史上最もスリム・静音な「ネスカフェ ゴールドブレンド バリスタ kotone」10月1日発売。日常に溶け込むデザインを実現　Amazon・楽天などで予約受付中",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2135734.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-08-26T23:30:00.000Z",
-      "summary": "ネスレ日本株式会社は、コーヒーをワンタッチで入れられる「ネスカフェ ゴールドブレンド バリスタ kotone（コトネ）」を10月1日に発売する。市場想定価格は2万2000円。オンラインストアや一部の家電量販店などで予約を受け付けている。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
       ],
       "priority_score": 50
     },
