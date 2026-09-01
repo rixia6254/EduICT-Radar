@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T08:25:37.229Z",
+  "generated_at": "2026-09-01T14:03:55.422Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-09-01T08:25:26.697Z",
+      "published_at": "2026-09-01T14:03:46.355Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-09-01T08:25:26.697Z",
+      "published_at": "2026-09-01T14:03:46.355Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-09-01T08:25:26.697Z",
+      "published_at": "2026-09-01T14:03:46.355Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,91 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_e0fd3b73087a2c27",
+      "title": "総務省、「AX・新技術戦略室」を新設　AI推進に注力",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2609/01/2000001044/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-09-01T10:37:56.000Z",
+      "summary": "林芳正総務大臣は、9月1日の会見で、総務省に「AX・新技術戦略室」を新設すると発表した。同省におけるAI推進施策の取りまとめや、関係省庁との連携を担う。",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "行政",
+        "文科省"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_37fc66b8763b47e3",
+      "title": "シャープ、家電とつながる統合AI「ニア」　家電操作やタスク管理も",
+      "url": "https://www.watch.impress.co.jp/docs/news/2137382.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-09-01T10:20:00.000Z",
+      "summary": "シャープは、家電やサービスと連携して暮らしをサポートする統合AIサービス「NIAH(ニア)」を9月30日から提供開始する。AIエージェント「NIAH」がスマホアプリを通じて、家電や家事に関する質問に答えるほか、家電の設定や日々のタスク管理を支援する。",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_0bba09bfbfb9c4b2",
+      "title": "ナッシュ、シニア市場参入「健康ごちそう便」　塩分・食物繊維に配慮した宅配食",
+      "url": "https://www.watch.impress.co.jp/docs/news/2137393.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-09-01T09:50:25.000Z",
+      "summary": "ナッシュは1日、シニア層向けの冷凍宅配食ブランド「健康ごちそう便 by ナッシュ」を提供開始した。全メニューで塩分2.5g以下、食物繊維6g以上とし、主食のご飯も付ける。開始時は和・洋・中の20商品を用意する。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_f2083f0d3076c328",
+      "title": "ドコモ スターリンクダイレクト、米国・フィリピン・カナダで国際ローミング開始",
+      "url": "https://www.watch.impress.co.jp/docs/news/2137392.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-09-01T09:34:10.000Z",
+      "summary": "NTTドコモは、衛星通信サービス「docomo Starlink Direct」の国際ローミング接続を、米国、フィリピン、カナダで開始した。まず「Samsung Galaxy Zシリーズ」3機種が対応し、9月中に対象機種を追加する。今後も対応国・対応機種は順次拡大する。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_23c0a784bcd66bb8",
+      "title": "KDDIら、ローソンで広告・コンテンツ配信「ローソンビジョン」",
+      "url": "https://www.watch.impress.co.jp/docs/news/2137379.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-09-01T09:08:49.000Z",
+      "summary": "KDDIは、三菱商事との合弁で新会社「クインタ」を設立した。新会社は、ローソン店舗のデジタルサイネージを活用したリテールメディア事業を開始する。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_d9521bc5666ccca6",
@@ -1142,72 +1227,6 @@
       "priority_score": 60
     },
     {
-      "id": "item_9919c033eaf3afc9",
-      "title": "ココイチが深夜料金導入　一部トッピングも値上げ",
-      "url": "https://www.watch.impress.co.jp/docs/news/2137089.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-08-31T11:00:00.000Z",
-      "summary": "壱番屋は、「カレーハウスCoCo壱番屋」において、9月1日から7%の深夜料金を導入する。また、一部トッピングの価格を値上げする。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_0133d96c62f086b3",
-      "title": "東海道山陽新幹線で引越し輸送「アートでマッハ便」　東京～博多が最短当日",
-      "url": "https://www.watch.impress.co.jp/docs/news/2137075.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-08-31T09:56:00.000Z",
-      "summary": "アート引越センター、JR東海グループ、JR西日本グループは、東海道・山陽新幹線の荷物輸送サービスを活用した引越し関連荷物の輸送サービス「アートでマッハ便」「アートで荷もっシュッ!」を9月1日から開始する。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_d276b34c56d38b85",
-      "title": "横浜駅西口「相鉄ムービル」9月30日閉館　37年の歴史に幕",
-      "url": "https://www.watch.impress.co.jp/docs/news/2137074.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-08-31T09:34:15.000Z",
-      "summary": "横浜駅西口の「相鉄ムービル(相鉄南幸第2ビル)」が、9月30日をもって閉館となる。37年の歴史に幕を閉じる。相鉄アーバンクリエイツと相鉄ビルマネジメントは、同日に閉館セレモニーを開催する。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_03382e51f25e63a2",
-      "title": "日産とホンダ、次世代SDVの中核技術を共同開発　ECUや車載OSなど",
-      "url": "https://www.watch.impress.co.jp/docs/news/2137053.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-08-31T09:00:00.000Z",
-      "summary": "日産自動車と本田技研工業(ホンダ)は、次世代ソフトウェアディファインドビークル(SDV)の中核を構成する複数のECU(Electric Control Unit)と、そのECU上で動作する車載OS、ミドルウェアなどの共通化で合意し、共同開発契約を締結した。共同開発するECUやソフトウェアを搭載するE&Eアーキテクチャーは、2029年度以降、両社の次世代SDVへの適用を目指す。",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_aa91080bb614d605",
       "title": "サイボウズ「kintone」の動向に見る、AI時代に向けた大企業の課題と対策",
       "url": "https://www.itmedia.co.jp/enterprise/articles/2608/31/news095.html",
@@ -1393,27 +1412,6 @@
         "AI",
         "LLM",
         "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_3e956423500dd5d7",
-      "title": "ソニー・ミュージックパブリッシングとワーナー・チャペル、Anthropicを著作権侵害で提訴",
-      "url": "https://www.itmedia.co.jp/news/article/2608/31/2000000950/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-08-30T23:21:28.000Z",
-      "summary": "Sony Music PublishingやWarner Chappell Musicなどの音楽出版社グループは、Anthropicと同社幹部を著作権侵害で提訴した。海賊版サイトからの歌詞取得や無断学習を「史上最大の知財窃盗」と主張し、数十億ドル規模の損害賠償を請求している。Anthropicは全面的に争う姿勢だ。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用",
-        "セキュリティ",
-        "情報モラル",
-        "教育ニュース"
       ],
       "priority_score": 50
     },
