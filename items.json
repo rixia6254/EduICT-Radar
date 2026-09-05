@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T22:41:06.942Z",
+  "generated_at": "2026-09-05T07:30:10.287Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-09-04T22:40:56.769Z",
+      "published_at": "2026-09-05T07:29:59.872Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-09-04T22:40:56.769Z",
+      "published_at": "2026-09-05T07:29:59.872Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-09-04T22:40:56.769Z",
+      "published_at": "2026-09-05T07:29:59.872Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,108 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_071c6d51e8563753",
+      "title": "「最大45％コスト減」　Anthropicが「Claude Fable 5.1」発表　脆弱性検知にも対応",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/05/news009.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-09-05T04:00:00.000Z",
+      "summary": "Anthropicは、新AIモデル「Claude Fable 5.1」および「Claude Mythos 5.1」を発表した。キャッシュ読み取り価格の引き下げによりFable 5.1は最大約45％のコスト削減が見込めるとしている。脆弱性検知への対応など、セーフガードも一部変更されたという。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_4af2277746b8f2fa",
+      "title": "OpenAIのAIエージェント、休眠サイトを掲示板化してタスク回答を共有か　研究団体が報告書公開",
+      "url": "https://www.itmedia.co.jp/news/article/2609/05/2000001200/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-09-05T03:06:58.000Z",
+      "summary": "OpenAIの社内AIエージェントが休眠状態の外部Wikiサイトを不正に“掲示板”として利用し、評価タスクの答えや制限回避の手法を共有していたとする報告書を研究団体が公開した。閲覧のみ許可されていた環境の抜け道を突き、GETリクエストで書き込みを行っていた。OpenAI側は内容を精査して対処するとしている。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_009240ff76008633",
+      "title": "中高生から本格プログラミングを学ぶべき理由とは？現役エンジニア責任者が語るIT教育のリアル",
+      "url": "https://note.com/beengineer_fuji/n/n7326bb94d642",
+      "source_id": "note_joho1",
+      "source_name": "note（情報科教員）",
+      "published_at": "2026-09-05T01:20:53.000Z",
+      "summary": "初めまして！BeEngineer梅田校で責任者を務めている藤原圭吾と申します。 普段は中高生に向けて、実践的なプログラミング指導と校舎の運営を行っています。 これまで現場で多くの子どもたちと接してきましたが、この度、より多くの中高生や保護者の方々に「プログラミングの本当の面白さ」をお伝えしたいと思い、noteでの情報発信をスタートすることにしました。 続きをみる",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "授業実践",
+        "情報Ⅰ",
+        "教材",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_a087ae298d4d2f56",
+      "title": "【いつモノコト】残り時間を円盤で表示　「TIME Timer」が仕事の区切りにちょうどいい",
+      "url": "https://www.watch.impress.co.jp/docs/series/itsmo/2132536.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-09-05T01:00:00.000Z",
+      "summary": "筆者は以前、書籍編集の仕事をしていました。原稿確認や校正では、紙や画面に並ぶ文字を長時間見続けます。集中していると、休憩を取らないまま数時間が経ち、同じ姿勢を続けてしまうことがありました。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_2649524b8b2460ce",
+      "title": "3日間で各社最上位AIモデルが続々登場 \"驚けない”凄さと開発の「減速」",
+      "url": "https://www.watch.impress.co.jp/docs/topic/watchplus/2138294.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-09-05T00:00:00.000Z",
+      "summary": "Impress Watchニュースレターに掲載した記事です。ニュースレターは無料で、毎週編集部員が会員向けのコラムなどをお送りしています。登録はこちらから。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_e60867a51c89e1ee",
+      "title": "セイコー、ファン投票カラーのダイバーズウォッチ",
+      "url": "https://www.watch.impress.co.jp/docs/news/2136597.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-09-04T23:30:00.000Z",
+      "summary": "セイコーウオッチは、「セイコー プロスペックス」の新作として、世界中のファンによる投票で選ばれた特別カラーの限定モデルを10月9日に発売する。機械式の腕時計で、価格は199,100円。全世界4,500本(うち国内2,000本)の数量限定。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_0c95f95537fc1016",
@@ -981,22 +1083,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_16b1dd3599450356",
-      "title": "UberとWayve、ロンドンで英国初の自動運転配車を開始　26年後半に東京も",
-      "url": "https://www.watch.impress.co.jp/docs/news/2138059.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-09-03T23:00:00.000Z",
-      "summary": "Uber Technologies(Uber)と、英Wayveは3日、ロンドンにおいて、セーフティドライバーが同乗する自動運転配車サービスを開始した。英国内で自動運転による配車が可能になるのは今回が初となる。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_7e4422f9ca8e1fc9",
       "title": "サンワサプライ、ノートPCと周辺小物をまとめて収納できるポケット付きPCプロテクトスーツ発売　14/13.3インチワイド・16/15.6インチワイド対応の2サイズ",
       "url": "https://internet.watch.impress.co.jp/docs/news/2138051.html",
@@ -1171,24 +1257,6 @@
       "priority_score": 60
     },
     {
-      "id": "item_15c2fedcc97b1aa1",
-      "title": "NVIDIA、Hugging Faceを買収　約1.9兆円",
-      "url": "https://www.watch.impress.co.jp/docs/news/2138143.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-09-03T14:33:15.000Z",
-      "summary": "NVIDIAは3日(米国時間)、AIプラットフォーム「Hugging Face」を運営するHugging Faceを129億3,030万ドル(約1.87兆円)で買収することに合意した。両社が協力し、Hugging Faceのプラットフォームを拡大し、インフラを強化。世界中の開発者らがAIを利用できる機会を広げていく。",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_bab12787b0866311",
       "title": "「AIで業務アプリを作成する仕組み」で特許取得、KDDI傘下のELYZA　X上では一部批判も【追記あり】",
       "url": "https://www.itmedia.co.jp/aiplus/article/2609/03/2000001144/",
@@ -1203,25 +1271,6 @@
         "AI",
         "LLM",
         "AI活用",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_457d72c5d88a0600",
-      "title": "NVIDIAがHugging Face買収で合意　約2兆円　ジェンスン・フアンCEOはオープンモデルの重要性に言及",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2609/03/2000001150/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-09-03T13:34:49.000Z",
-      "summary": "米NVIDIAが、AI開発プラットフォームを運営する米Hugging Faceを129億3030万ドルで買収することに合意したと発表した。",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
         "教材",
         "ツール"
       ],
@@ -1262,39 +1311,6 @@
         "教材",
         "セキュリティ",
         "情報モラル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_d21742e4af4212f9",
-      "title": "楽天市場・楽天トラベル「スーパーSALE」先行開始　冷蔵庫半額・宿泊35%オフ",
-      "url": "https://www.watch.impress.co.jp/docs/news/2138086.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-09-03T11:00:00.000Z",
-      "summary": "楽天市場・楽天トラベルは、9月4日20時から「スーパーSALE」を開始します。楽天市場では11日1時59分まで、楽天トラベルでは10月1日9時59分まで、多くのセールが実施されます。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_b46b8b49cc033ef5",
-      "title": "AWSをゲームで学べる“AWSクエスト”にまさかの新バージョン　AIバーチャル顧客と対話可能に",
-      "url": "https://www.itmedia.co.jp/news/article/2609/03/2000001124/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-09-03T07:26:37.000Z",
-      "summary": "米Amazon Web Services（AWS）は、3DオープンワールドでAWSを学べるオンラインゲーム「AWS Cloud Quest」の新バージョン「AWS Cloud Quest 2.0」の提供を開始しました。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
       ],
       "priority_score": 50
     },
@@ -1769,26 +1785,6 @@
         "入試"
       ],
       "priority_score": 70
-    },
-    {
-      "id": "item_71d2678943cd77d7",
-      "title": "大学受験共通テスト 情報Ⅰ用語集 Ankiデッキ（無料コンテンツ）",
-      "url": "https://note.com/yukkuri_jyuku/n/nf40a7532225d",
-      "source_id": "note_joho1",
-      "source_name": "note（情報科教員）",
-      "published_at": "2026-07-14T00:50:13.000Z",
-      "summary": "情報Ⅰ用語集は、大学入試共通テスト対策用のAnkiデッキです。この記事では、デッキの紹介とwebアプリへのリンクを提供します。 情報Ⅰ用語集は無料でお使いいただけます。 こんな人におすすめ 続きをみる",
-      "starred": false,
-      "category": "exam",
-      "tags": [
-        "授業実践",
-        "情報Ⅰ",
-        "教材",
-        "共通テスト",
-        "入試",
-        "ツール"
-      ],
-      "priority_score": 80
     }
   ],
   "clips": []
