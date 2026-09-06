@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-09-06T07:43:44.465Z",
-  "total": 103,
+  "generated_at": "2026-09-06T12:47:35.705Z",
+  "total": 83,
   "items": [
+    {
+      "id": "item_5a2c7864b68dcd43",
+      "title": "過去の文部科学省ホームページ（※国立国会図書館ホームページへリンク）",
+      "url": "https://warp.ndl.go.jp/waid/3475",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-09-06T12:47:26.103Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
     {
       "id": "item_21f8651de3f2baea",
       "title": "文部科学省ホームページトップはこちら",
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-09-06T07:43:34.502Z",
+      "published_at": "2026-09-06T12:47:26.102Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +44,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-09-06T07:43:34.502Z",
+      "published_at": "2026-09-06T12:47:26.102Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -38,22 +56,20 @@
       "priority_score": 50
     },
     {
-      "id": "item_5a2c7864b68dcd43",
-      "title": "過去の文部科学省ホームページ（※国立国会図書館ホームページへリンク）",
-      "url": "https://warp.ndl.go.jp/waid/3475",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-09-06T07:43:34.502Z",
-      "summary": "",
+      "id": "item_f52f3bbe8cee3e1d",
+      "title": "関東は7日朝にかけて大雨予報　山手線は本数減　交通情報に注意",
+      "url": "https://www.watch.impress.co.jp/docs/news/2138587.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-09-06T12:27:45.000Z",
+      "summary": "6日夜から7日にかけて関東や東海で、大雨が予想されています。気象庁は大雨や土砂災害への注意を呼びかけているほか、各交通機関も運休や運転本数の削減などを予告しています。",
       "starred": false,
-      "category": "admin",
+      "category": "tech",
       "tags": [
-        "行政",
-        "文科省",
-        "制度",
-        "教育ニュース"
+        "テクノロジー",
+        "デジタル"
       ],
-      "priority_score": 60
+      "priority_score": 50
     },
     {
       "id": "item_bbd91737e4188cb6",
@@ -657,346 +673,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_acb1aa9dbd12a800",
-      "title": "川口市とコドモン、放課後児童クラブ（学童）の報告業務を効率化する実証",
-      "url": "https://ict-enews.net/2026/09/04codmon-17/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-09-03T23:38:57.000Z",
-      "summary": "コドモンは2日、埼玉県川口市が実施する「川口市放課後DX推進実証事業」にて、放課後児童クラブ（学童）の報告業務を効率化する実証を行うことを発表した。 同実証は、こども家庭庁の令和8 […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_fb2411155335f813",
-      "title": "新卒の生成AI研修、9割超が実施も評価基準に課題 =GUGA調べ=",
-      "url": "https://ict-enews.net/2026/09/04guga/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-09-03T23:38:38.000Z",
-      "summary": "生成AI活用普及協会（GUGA）は1日、企業で従業員向けの生成AI活用の指導・教育に携わる担当者1014名を対象に実施した「新卒社員向け生成AI研修に関する実態調査」の結果を発表し […]",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "教育ニュース",
-        "ICT",
-        "生成AI",
-        "AI活用"
-      ],
-      "priority_score": 60
-    },
-    {
-      "id": "item_c9febb7d794ae719",
-      "title": "95.3%が挫折する習慣化。56.7%は1週間以内に断念 =日本デザイン調べ=",
-      "url": "https://ict-enews.net/2026/09/04japan-design/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-09-03T23:38:11.000Z",
-      "summary": "日本デザインは3日、習慣化や学びに関心のある人を対象に、習慣化・学びに関する実態調査を実施しその結果を発表した。 「Q1.いま『続けたい・身につけたい』習慣や学びはどれですか？（複 […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_a86c51a3f01475a6",
-      "title": "SAK University、AI・ITを日本語で学び英国学士号を取得　2027年度春入学の出願受付を開始",
-      "url": "https://ict-enews.net/2026/09/04sie-2/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-09-03T23:37:50.000Z",
-      "summary": "エスアイイーは、英国国立エセックス大学公認の国際教育提携校 SAK University 東京イノベーションキャンパス（SAK University）が、2027年4月入学を希望す […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_9a02281ca2c65b81",
-      "title": "オルタナティブスクール「自由学舎EUREKA」、探究型オンラインスクール「EUREKA Satellite」始動",
-      "url": "https://ict-enews.net/2026/09/04toyama-happyschool/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-09-03T23:37:30.000Z",
-      "summary": "とやまハッピースクールが運営するオルタナティブスクール「自由学舎EUREKA（ジユウガクシャエウレカ）」は、民間としては全国的にも初となる旧小学校校舎の廃校活用を叶え、2026年4 […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_312a203f43962e80",
-      "title": "⽇本AED財団、AEDを用いた救命処置を学べるデジタル教材9月9日「救急の日」に公開",
-      "url": "https://ict-enews.net/2026/09/04aed-zaidan/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-09-03T23:37:14.000Z",
-      "summary": "⽇本AED財団は、9月9日「救急の日」にあわせ、AEDを用いた救命処置のやり方を学べるデジタル教材を新たにリリースする。 学校や企業・団体向けに授業形式で利用できる「救命コーチング […]",
-      "starred": false,
-      "category": "lesson",
-      "tags": [
-        "教育ニュース",
-        "ICT",
-        "授業実践",
-        "情報Ⅰ",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_a764f99995de32e9",
-      "title": "SHIFT AI、通信制高校サポート校「青楓館高等学院」にAI活用学習プログラム「SHIFT AI Junior」提供",
-      "url": "https://ict-enews.net/2026/09/04shift-ai-2/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-09-03T23:36:47.000Z",
-      "summary": "SHIFT AIは、兵庫県の通信制高校サポート校「青楓館高等学院」に対し、中高生向けAI活用学習プログラム「SHIFT AI Junior」の本格提供を9月1日から開始したことを発 […]",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "教育ニュース",
-        "ICT",
-        "生成AI",
-        "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_c2b3053c244afd7b",
-      "title": "エクシード、Scratch体験会にAIの切り口を加える小中学生向け教材をリリース",
-      "url": "https://ict-enews.net/2026/09/04tfe-3/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-09-03T23:36:30.000Z",
-      "summary": "エクシードは2日、Scratch体験会にAIという新しい切り口を加える小中学生向け教材「AI×Scratch うごく水族館作り」をリリースした。 あわせて、同教材を実際の体験会など […]",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "教育ニュース",
-        "ICT",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_b79edd85d814b241",
-      "title": "ISSA、第4回「グローバル校の経営戦略と実践事例」12日・13日開催",
-      "url": "https://ict-enews.net/2026/09/04issa/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-09-03T23:36:09.000Z",
-      "summary": "International Student Success Association（ISSA）は、立命館 東京キャンパスで、第4回「グローバル校の経営戦略と実践事例」を9月12日（ […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_9ca2558cc7142735",
-      "title": "NIJIN、海外進学を選んだ不登校経験をもつ現役大学生が進路に悩む保護者に語る講演会26日開催",
-      "url": "https://ict-enews.net/2026/09/04nijin-9/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-09-03T23:35:54.000Z",
-      "summary": "NIJINが運営する不登校オルタナティブスクール「NIJINアカデミー」は、進路講演会「英語が赤点だった僕が、いま世界 22 位の大学にいる ―不登校から海外進学という選択肢」を9 […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_1fae816927c32f19",
-      "title": "TAC、TOEIC L&R TEST対策オンラインセミナー12日開催",
-      "url": "https://ict-enews.net/2026/09/04tac-16/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-09-03T23:35:32.000Z",
-      "summary": "TACは、TACの講師自らが、TOEIC L&R TESTで 300点から990点取得に至るまでに行った勉強法を伝えるオンラインセミナーを9月12日に開催する。 TOEIC […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_2d64c2405cc70934",
-      "title": "TAC、大学生にオススメ「60分でわかる！会計業界資格オンラインセミナー」25日開催",
-      "url": "https://ict-enews.net/2026/09/04tac-school/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-09-03T23:35:13.000Z",
-      "summary": "TACは、大学生を対象とした「60分でわかる！会計業界資格オンラインセミナー」を9月25日に開催する。 現役大学生に向け、会計業界の仕事の魅力を話す。また、会計系の資格として簿記検 […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_f66fd270b7a78ea5",
-      "title": "ライフイズテック、大学生向け就活スマートアプリ「JRNY」リリース",
-      "url": "https://ict-enews.net/2026/09/04life-is-tech-9/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-09-03T23:34:46.000Z",
-      "summary": "ライフイズテックは2日、大学生向けデジタル・AI就活サービス「Life is Tech ! Career」の新プロダクトとして、就活スマートアプリ「JRNY（ジャーニー）」のiOS […]",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "教育ニュース",
-        "ICT",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_3ab9f6a5c6e4113d",
-      "title": "トライズ、英語学習の成果を世界標準の英語テスト「Versant」で可視化するキャンペーン実施",
-      "url": "https://ict-enews.net/2026/09/04toraiz-2/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-09-03T23:34:30.000Z",
-      "summary": "トライズは、日本経済新聞社 人財・教育事業ユニットと共同で、英語学習の成果を世界標準の英語テスト「Versant（ヴァーサント）」で可視化する参加型キャンペーン「Versantチャ […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_90d29a04a3ac9513",
-      "title": "Z会の通信教育、中学生向けコース資料の請求で『伝わる！英語ライティングワーク』無料プレゼント",
-      "url": "https://ict-enews.net/2026/09/04zkai-gr-9/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-09-03T23:33:59.000Z",
-      "summary": "進会ホールディングス（Z会グループ）のグループ会社であるZ会は2日、「【中学生向け】特典2冊が無料。秋の資料請求キャンペーン」を実施していることを発表した。 「Z会の通信教育」にて […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_27050d712eae77ad",
-      "title": "ユニークポイント、生成AIを活用したい個人対象「みんなのAI相談室 Solo」リリース",
-      "url": "https://ict-enews.net/2026/09/04uniquepoint/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-09-03T23:33:25.000Z",
-      "summary": "ユニークポイントは3日、生成AIを仕事で活用したい個人を対象としたオンライン学習サービス「みんなのAI相談室 Solo」を正式リリースした。 「みんなのAI相談室 Solo」は、法 […]",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "教育ニュース",
-        "ICT",
-        "生成AI",
-        "AI活用"
-      ],
-      "priority_score": 60
-    },
-    {
-      "id": "item_fc69e2ed2674ba88",
-      "title": "テスト演習ツール「Dr.okke」、新規科目として「歴史総合」を追加",
-      "url": "https://ict-enews.net/2026/09/04okke-3/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-09-03T23:32:59.000Z",
-      "summary": "okkeは2日、テスト演習ツール「Dr.okke」が、新規科目として「歴史総合」を追加したことを発表した。 指導者・学習時間を確保しづらい科目の指導を、ICTの力で支援する。 20 […]",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "教育ニュース",
-        "ICT",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_0a5703f5d07a329d",
-      "title": "A.ver、YouTubeチャンネル「総合型・推薦型チャンネル【武田塾】」開設",
-      "url": "https://ict-enews.net/2026/09/04aver-2/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-09-03T23:32:38.000Z",
-      "summary": "A.verは2日、大学受験予備校「武田塾」が、総合型選抜・学校推薦型選抜で大学合格を目指す受験生に向け、新たな公式YouTubeチャンネル「総合型・推薦型チャンネル【武田塾】」を開 […]",
-      "starred": false,
-      "category": "exam",
-      "tags": [
-        "教育ニュース",
-        "ICT",
-        "共通テスト",
-        "入試"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_61752fc88e00fb50",
-      "title": "Loohcs志塾仙台校、東北大学志望受験生対象に「東北大AO入試模試」開催 OL受験も可",
-      "url": "https://ict-enews.net/2026/09/04loohcs/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-09-03T23:32:24.000Z",
-      "summary": "総合型選抜(AO入試・学校推薦選抜)対策専門塾のLoohcs志塾仙台校は3日、東北大学を志望する受験生を対象とした「東北大AO入試模試」を、開催すると発表した。今年からは新たに筆記 […]",
-      "starred": false,
-      "category": "exam",
-      "tags": [
-        "教育ニュース",
-        "ICT",
-        "共通テスト",
-        "入試"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_f1b9ef5e46bb9f85",
-      "title": "オンライン英会話「aleva!」、外国人講師とゲームを楽しむ「ゲームレッスン」提供開始",
-      "url": "https://ict-enews.net/2026/09/04kyo-kai/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-09-03T23:32:01.000Z",
-      "summary": "教育開発出版とライトエデュケーションが提供する、大人向けオンライン英会話「aleva!（アレバ）」は3日、外国人講師とオンラインゲームを楽しみながら英語でコミュニケーションする「A […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_02ba6b3821e84ab8",
       "title": "AIで2D図面を3D CADモデル化、アセンブリからバラシ図面の作成も",
       "url": "https://monoist.itmedia.co.jp/mn/articles/2609/04/news033.html",
@@ -1010,24 +686,6 @@
         "生成AI",
         "AI",
         "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_f089c1fe56a08042",
-      "title": "【鈴木淳也のPay Attention】MUFG「預金3000万円で無料プラチナ」の狙い　「相続」強化とネット銀対抗",
-      "url": "https://www.watch.impress.co.jp/docs/series/suzukij/2137095.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-09-03T23:20:00.000Z",
-      "summary": "三菱UFJ銀行は預金残高に連動した富裕層向け会員サービス「エムット Excellent Club」とデジタル相続プラットフォーム「エムットそうぞく」を8月26日に発表した。",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "教材",
-        "ツール"
       ],
       "priority_score": 50
     },
