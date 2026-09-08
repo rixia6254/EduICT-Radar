@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T07:54:38.187Z",
+  "generated_at": "2026-09-08T13:27:09.892Z",
   "total": 102,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-09-08T07:54:28.754Z",
+      "published_at": "2026-09-08T13:27:00.639Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-09-08T07:54:28.754Z",
+      "published_at": "2026-09-08T13:27:00.639Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-09-08T07:54:28.754Z",
+      "published_at": "2026-09-08T13:27:00.639Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,164 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_bbf9f9cd82529293",
+      "title": "Adobe Premiere、タイムライン上で動画・効果音をAI生成",
+      "url": "https://www.watch.impress.co.jp/docs/news/2139044.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-09-08T13:00:00.000Z",
+      "summary": "アドビは8日、Adobe PremiereとAdobe After EffectsにAIを活用した新機能を発表した。Premiereでは、タイムライン上で動画や効果音などを生成できる「生成メディアツール」を追加し、After EffectsではAIアシスタントをパブリックベータ版として提供する。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "生成AI",
+        "AI活用",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_8f814bc2232207c7",
+      "title": "マラソン大会のポスターが“AIっぽい”と波紋　「説明に不適切な部分があった」と事務局声明",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2609/08/2000001291/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-09-08T11:43:34.000Z",
+      "summary": "鹿児島県指宿市のマラソン大会を告知するポスターに、「生成AIで描かれているようだ」などの指摘が相次ぎ、同事務局が9月8日に声明を発表した",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_e73c29cf98bfd7c2",
+      "title": "東京・有明に最大規模の「チームラボ」アートミュージアム",
+      "url": "https://www.watch.impress.co.jp/docs/news/2139213.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-09-08T10:08:32.000Z",
+      "summary": "東京都は8日、都が保有する「有明北地区1-6区画・1-7区画」の開発事業について、チームラボを代表組合員とする事業者に決定した。過去最大スケールのデジタルアートミュージアムやカフェ、緑地などを整備する。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_042d2868e14670e1",
+      "title": "「令和のトキワ荘」高輪に　JR東日本が若手クリエイター拠点",
+      "url": "https://www.watch.impress.co.jp/docs/news/2139192.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-09-08T09:32:11.000Z",
+      "summary": "JR東日本は、TAKANAWA GATEWAY CITYに若手クリエイター・アーティスト向けの住居・アトリエ/スタジオオフィス「CREATIVE PLATFORM LINKSHINE Takanawa Gateway」(LINKSHINE、リンクシャイン)を2027年3月に高輪で開設する。公式サイトを公開し、入居希望者の問い合わせ受付を開始した。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_8ad759612a123272",
+      "title": "日立社長の“フィジカルAI”熱弁に「あれは、叱咤激励だ」　社内外に刺さるトップメッセージの核心とは",
+      "url": "https://www.itmedia.co.jp/business/articles/2609/08/news028.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-09-08T08:30:00.000Z",
+      "summary": "日立製作所の徳永社長が講演で「フィジカルAI」について熱弁を振るった。その講演は、社員にも響いたようだ。社内外に刺さるトップメッセージの核心とは。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_b3249d2b00216c0e",
+      "title": "三井住友銀行/Vpassアプリ、PayPay残高確認に対応　PayPayとID連携強化",
+      "url": "https://www.watch.impress.co.jp/docs/news/2139166.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-09-08T08:30:00.000Z",
+      "summary": "三井住友銀行と三井住友カードは8日、「三井住友銀行アプリ」と「Vpassアプリ」において「PayPay残高確認」機能を提供開始した。",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_600356cbee77657e",
+      "title": "JR芦屋駅直結の11階建て複合施設着工　住宅・商業",
+      "url": "https://www.watch.impress.co.jp/docs/news/2139165.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-09-08T08:14:49.000Z",
+      "summary": "東急不動産は、兵庫県芦屋市が施行者として進めているJR芦屋駅南地区の複合施設開発について、9月4日に新築着工したと発表した。完成は2030年度を予定している。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_6fc941e8f39baeec",
+      "title": "OpenAI「GPT-6 Astra」発表　Codexのコーディングは前世代からどれだけ進化？",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/08/news035.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-09-08T08:00:00.000Z",
+      "summary": "OpenAIは、次世代AIモデル「GPT-6 Astra」を発表した。PC自律操作やコーディング、セキュリティ検証などの能力が大幅に向上し、抽象推論ベンチマークテスト「ARC-AGI-3」で99.9％のスコアを達成したという。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_71ca1e4bd2c0e01c",
+      "title": "「人型ロボット向け救急車」登場、国内初うたう　世界の救急車両を参考にデザイン　GMO傘下",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2609/08/2000001279/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-09-08T07:58:18.000Z",
+      "summary": "GMO AI&ロボティクス商事は人型ロボットの故障・トラブル時に診断や修理、代替機の提供などを行う「GMOヒューマノイド救急車」を導入すると発表した。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_d8fb07202fe7722e",
@@ -1140,24 +1298,6 @@
       "priority_score": 60
     },
     {
-      "id": "item_a8aed29dac8c575d",
-      "title": "PayPay証券、「こどもNISA」の口座開設申込を10月1日開始",
-      "url": "https://www.watch.impress.co.jp/docs/news/2138769.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-09-07T07:00:00.000Z",
-      "summary": "PayPay証券は、27年1月から始まる0歳～17歳向けの「こどもNISA」について、10月1日から口座開設申込の受付を開始する。PayPay内のミニアプリ「PayPay証券」と「PayPay証券アプリ」で利用でき、100円または100ポイントから投資できる。",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_5f89ae8f6f1fc996",
       "title": "M365 Copilotでも「GPT-6 Astra」利用可能に　「Fable 5.1」も可　Work IQと合わせて「より的確な応答」に",
       "url": "https://www.itmedia.co.jp/aiplus/article/2609/07/2000001217/",
@@ -1176,57 +1316,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_a6fb64279f242d6b",
-      "title": "M365 Copilotを配っても「使われない」 でもAI活用が進んだ福島県庁の\"逆張り\"戦略",
-      "url": "https://kn.itmedia.co.jp/kn/article/2609/07/2000000807/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-09-07T06:31:29.000Z",
-      "summary": "福島といえば喜多方ラーメン。毎日でも飽きないスープのように、生成AIも職員が日常的に使う存在にできるのか。有償アカウント100件と研修を用意しても利用が二極化した福島県が、それでも約6000人への全庁展開に踏み切った理由を追う。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 60
-    },
-    {
-      "id": "item_6d4bfd50bd523e22",
-      "title": "みずほ楽天カードが2%還元に　個人向け一体戦略「ナットク！みずほ」",
-      "url": "https://www.watch.impress.co.jp/docs/news/2138773.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-09-07T05:52:09.000Z",
-      "summary": "みずほ銀行は、「みずほ楽天カード」のポイントプログラムを刷新する。9月7日からスタートした個人向けの新戦略「ナットク！みずほ」の一環。「貯蓄預金」のキャンペーンなども実施する。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_9f2301e8a8349ab6",
-      "title": "Teslaのロボタクシー「Cybercab」が日本で実車初公開　東京・大阪・名古屋で",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2609/07/2000001207/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-09-07T05:10:57.000Z",
-      "summary": "Tesla Japanが自動運転タクシー専用車両「Cybercab」を日本初公開。9月11日から東京・大阪・名古屋の4会場で「Cybercab Japan Tour」を開き、ハンドルもペダルもない2人乗りの実車を展示する。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_bd5fc4a02dd5185f",
       "title": "英語の会話【身近なITのモヤモヤ】画面ではきれいだったのに、印刷すると色がくすむのはなぜ？（RGBとCMYK）",
       "url": "https://note.com/plum_tree/n/nd7e4b50736f7",
@@ -1241,54 +1330,6 @@
         "情報Ⅰ",
         "教材",
         "教育ニュース"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_e4cd6ffdec14a548",
-      "title": "顔認証だけで支払い　SBPS「PayCAS」とNECが技術連携",
-      "url": "https://www.watch.impress.co.jp/docs/news/2138732.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-09-07T04:50:53.000Z",
-      "summary": "NEC、SBペイメントサービス(SBPS)、SB C&Sは、マルチ決済サービス「PayCAS」に顔認証決済を導入する。NECの顔認証サービス「Bio-IDiom Services for SaaS(バイオイディオム サービス フォー サース)」とPayCASを連携し、顔だけでクレジットカード決済を行なえるようにする。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_abb3ba55658b476e",
-      "title": "串カツ田中、ロゴ・店舗デザイン刷新　ハイボール110円も",
-      "url": "https://www.watch.impress.co.jp/docs/news/2138709.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-09-07T03:58:11.000Z",
-      "summary": "ユニシアホールディングスは、同社が運営する「串カツ田中」で、初のリブランディングを実施する。新タグライン「今日も、田中で。」を掲げ、ブランドロゴと店舗デザインを刷新する。ももいろクローバーZの佐々木彩夏さんをPR大使に起用する。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_4d9ec608b5577fa9",
-      "title": "ニトリで小型家電の回収　東日本・東海エリアに拡大",
-      "url": "https://www.watch.impress.co.jp/docs/news/2138714.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-09-07T03:48:42.000Z",
-      "summary": "ニトリは、4月から関東エリアで実施している小型家電の無料リサイクルの回収対象店舗を、9月から東北・甲信越・北陸・東海エリアに拡大する。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
       ],
       "priority_score": 50
     },
@@ -1325,23 +1366,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_1f01782524b09f3c",
-      "title": "日立、フィジカルAIの4つの新サービスを発表　「なんちゃってFDE」で終わらせないアプローチとは",
-      "url": "https://www.itmedia.co.jp/enterprise/articles/2609/07/news040.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-09-07T03:00:00.000Z",
-      "summary": "「FDE」を名乗るサービスが次々に誕生する中、日立はフィジカルAIの実装を担うFDEをあえて「チーム」として構成する。「1人のスーパーマンでは足りない」理由とは。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_2c2c72d949b4d3ec",
       "title": "古いPCでもWi-Fi 7化できるコンパクトなUSBアダプター登場!!　USB Type-Cにも対応、なのだが、はたしてその実力は？　動画で解説します。【清水理史の「イニシャルB」チャンネル】",
       "url": "https://internet.watch.impress.co.jp/docs/column/shimizumovie/2138624.html",
@@ -1354,23 +1378,6 @@
       "tags": [
         "インターネット",
         "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_312e92b49f766c78",
-      "title": "初登場の“あの技術”、早くも「過度な期待」ピーク期に　Gartnerが2026年版ハイプ・サイクルを発表",
-      "url": "https://www.itmedia.co.jp/enterprise/articles/2609/07/news043.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-09-07T02:55:00.000Z",
-      "summary": "Gartnerが2026年版のハイプ・サイクルを発表した。2025年版では「黎明期」にあったエージェント型AIの他、これまで取り上げられてこなかった「ある技術」が早くも「過度な期待」に突入した。初登場にもかかわらず、「過度な期待」を背負っている技術とは何か。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
       ],
       "priority_score": 50
     },
