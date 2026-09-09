@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T07:57:47.010Z",
-  "total": 83,
+  "generated_at": "2026-09-09T13:37:44.251Z",
+  "total": 103,
   "items": [
     {
       "id": "item_21f8651de3f2baea",
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-09-09T07:57:36.917Z",
+      "published_at": "2026-09-09T13:37:33.825Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-09-09T07:57:36.917Z",
+      "published_at": "2026-09-09T13:37:33.825Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-09-09T07:57:36.917Z",
+      "published_at": "2026-09-09T13:37:33.825Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,111 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_945b03873040f123",
+      "title": "動画編集の「DaVinci Resolve」、ClaudeやCodexからの操作に対応",
+      "url": "https://www.watch.impress.co.jp/docs/news/2139568.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-09-09T11:56:12.000Z",
+      "summary": "Blackmagic Designの動画編集ソフトウェア「DaVinci Resolve」の最新バージョン「DaVinci Resolve 21.1」が8日公開された。動画編集や写真取り込みで多くの機能が追加されたほか、ClaudeやClaude Code、ChatGPT/CodexなどのAIサービスの統合に対応した。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "生成AI",
+        "AI活用",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_e7b387617bc76939",
+      "title": "GENIAC、フィジカルAIを本格化　メルカリやKDDIなど採択",
+      "url": "https://www.watch.impress.co.jp/docs/news/2139606.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-09-09T10:12:03.000Z",
+      "summary": "経済産業省とNEDOは9日、国内のAI開発力強化と社会実装を進めるプロジェクト「GENIAC(Generative AI Accelerator Challenge)」の事業計画発表会・中間報告会・成果報告会を開催した。新たにロボット基盤モデルの研究開発事業で13件の採択を発表し、採択事業者がそれぞれの開発計画を紹介した。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_b00ed2b0bace77f1",
+      "title": "TerraMasterが楽天市場に公式ストア出店、現在開催中の楽天スーパーSALEにも参加",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2139577.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-09-09T09:30:00.000Z",
+      "summary": "TerraMasterは、楽天市場に「TerraMaster公式楽天市場店」をオープンした。9月11日1時59分まで開催中の「楽天スーパーSALE」にも参加している。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_91ac6c6d240120bc",
+      "title": "Androidスマホに不正アプリをインストールさせるフィッシング、「今すぐポイントが受け取れます」などのメールに注意！",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2139561.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-09-09T09:05:00.000Z",
+      "summary": "Androidスマートフォン用の不正アプリのインストールへ誘導するフィッシングメールの報告を受けているとして、フィッシング対策協議会が緊急情報を公開した。フィッシングメールは、9月8日11時30分時点で配信されていることが確認されている。",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "情報モラル",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_de2f22fb0d3ee4e8",
+      "title": "SBI証券、24時間対応のAIチャット導入　満足度は3倍に",
+      "url": "https://www.watch.impress.co.jp/docs/news/2139562.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-09-09T09:02:44.000Z",
+      "summary": "SBI証券は9日、従来のチャットボットを強化し、生成AIを活用したチャットサービスを提供開始した。利用者が入力した質問の意図や文脈を捉え、内容に応じた回答を提示する。24時間利用でき、SBI証券のWebサイトに表示される生成AIチャットアイコンからアクセスできる。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "生成AI",
+        "AI活用"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_684147c9457dcad5",
+      "title": "ヤマトと宮崎交通、人と荷物を同時に運ぶ「ねこみやバス」",
+      "url": "https://www.watch.impress.co.jp/docs/news/2139549.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-09-09T08:33:47.000Z",
+      "summary": "宮崎交通とヤマト運輸は、宮崎県の日向・入郷地域で、人と荷物を同時に運ぶ路線バス型の公共ライドシェア「ねこみやバス」の実証運行を10月1日に開始する。期間は2027年3月末までで、2027年4月の本格運行を目指す。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_19f357c80a61769b",
@@ -435,6 +540,158 @@
       "priority_score": 60
     },
     {
+      "id": "item_ea21a44aadf5d27b",
+      "title": "子育てと読書のWebメディア「コクリコ」、子どもの「行きしぶり」に関する調査実施",
+      "url": "https://ict-enews.net/2026/09/09kodansha-2/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-09-08T23:23:41.000Z",
+      "summary": "講談社は7日、同社が運営する子育てと読書のWebメディア「コクリコ［cocreco］」が、小学生以上の子どもを持つ保護者を対象に実施した、子どもの「行きしぶり」に関するアンケート調 […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_b21525ce41f962ff",
+      "title": "高校生向け探究学習サイト「Locus」、「高校生が描く地元と将来のかたち調査」結果発表",
+      "url": "https://ict-enews.net/2026/09/09mynavi-13/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-09-08T23:23:21.000Z",
+      "summary": "マイナビは7日、高校生向け探究学習サイト「Locus」が、全国の高校生を対象に実施した「高校生が描く地元と将来のかたち調査」の結果を発表した。 それによると、高校生に地元(自分の住 […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_a49d795024b4a2b2",
+      "title": "私立中学校245校の教員の98.4%が「小学生からの検定挑戦」を支持=日本漢字能力検定協会調べ=",
+      "url": "https://ict-enews.net/2026/09/09kanken/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-09-08T23:23:03.000Z",
+      "summary": "「日本漢字能力検定」を主催する日本漢字能力検定協会は8日、全国の私立中学校761校を対象に、「小学生のうちから検定に挑戦すること」および「小学生のうちから検定に取り組んできた生徒の […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_3f814b5cfbcfcbf9",
+      "title": "ICT教材eboard、特別支援教育で「自治体一括アカウント申請」の受付開始",
+      "url": "https://ict-enews.net/2026/09/09eboard-3/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-09-08T23:22:45.000Z",
+      "summary": "eboardは8日、特別支援教育で利用するICT教材eboardの無償アカウントについて、自治体・教育委員会による一括申請の受付を開始すると発表した。 これまでは利用する1校ごとの […]",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "教材",
+        "ツール",
+        "行政",
+        "文科省"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_e8e9559628a234f3",
+      "title": "コンコードアカデミー、京都大学最大級の学生生活ポータルサイト「京大map」全面リニューアル",
+      "url": "https://ict-enews.net/2026/09/09concord-academy/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-09-08T23:22:26.000Z",
+      "summary": "学生向けのキャリア教育事業を展開するコンコードアカデミーは8日、京都大学の学生に向けた学生生活ポータルサイト「京大map」を全面リニューアルしたと発表した。 今回のリニューアルでは […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_e6f9b8bdbbe504aa",
+      "title": "東京都と東専各、専門学校の第三者評価を共同推進 – 評価者養成講座を10月開講",
+      "url": "https://ict-enews.net/2026/09/09tsk/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-09-08T23:22:10.000Z",
+      "summary": "東京都専修学校各種学校協会（東専各）は、東京都と共同で「東京都専修学校第三者評価促進事業」を実施している。本事業は、2026年4月施行の学校教育法改正により、専門課程を置く専修学校 […]",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "行政",
+        "文科省"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_396575bc5ed37478",
+      "title": "IIBC、10月19日「TOEICの日」に『公式TOEIC Listening & Reading 問題集13』書籍版・アプリ版同時発売",
+      "url": "https://ict-enews.net/2026/09/09iibc-4/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-09-08T23:21:49.000Z",
+      "summary": "日本で TOEIC Program を実施・運営する国際ビジネスコミュニケーション協会（IIBC） は8日、累計300万部を発行している「公式 TOEIC Listening &a […]",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_81c8be4e78ba533a",
+      "title": "GISPA、国内外の大学・教育機関を結ぶ「JOT Global University Network 100（JGUN）」始動",
+      "url": "https://ict-enews.net/2026/09/09gispa/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-09-08T23:21:30.000Z",
+      "summary": "グローバル共生社会推進機構（GISPA）は7日、日本の大学と世界の高等教育機関（大学・短大・高校等）との大学間協定（MOU）および学術・教育連携を強力に推進する国際大学コンソーシア […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_6f33cd04addc4ec8",
+      "title": "トガル、名古屋市内の高校・大学3校でSNS教育・産学連携授業を計4回実施",
+      "url": "https://ict-enews.net/2026/09/09togaru/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-09-08T23:21:03.000Z",
+      "summary": "トガルは8日、7月1日から22日にかけて、愛知県・名古屋市内の高校・大学3校において、SNS教育・産学連携授業を計4回実施したと発表した。 対象は高校生から大学生まで。SNSを活用 […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
       "id": "item_60ebfd6a2963c243",
       "title": "埼玉高速鉄道の延伸予定区間を全踏破　埼玉スタジアムが“近く”なる",
       "url": "https://www.watch.impress.co.jp/docs/topic/2137022.html",
@@ -447,6 +704,190 @@
       "tags": [
         "テクノロジー",
         "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_deeb52c9c11c2704",
+      "title": "金沢工業大学、生成AIを活用した数学・物理学習支援チャットボットを開発",
+      "url": "https://ict-enews.net/2026/09/09kanazawa-it-6/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-09-08T23:19:47.000Z",
+      "summary": "金沢工業大学数理工教育研究センターは7日、生成AIを活用した数学・物理学習支援チャットボットを開発し、「KIT STEMナビゲーション」上で公開したと発表した。 「KIT STEM […]",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "生成AI",
+        "AI活用"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_cde3601bd495c641",
+      "title": "Smart相談室、近畿大学が「Smart相談室」を導入し外国人留学生の相談体制を強化",
+      "url": "https://ict-enews.net/2026/09/09smart-sou/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-09-08T23:19:23.000Z",
+      "summary": "Smart相談室は、近畿大学グローバルエデュケーションセンターが外国人留学生を対象に、Smart相談室が運営する相談窓口サービス「Smart相談室」を9月14日から導入することを発 […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_406ffd989c320a1c",
+      "title": "「生成AIは教育をどう変えるのか？企業研修・eラーニング活用の実践ポイントがわかる中級編セミナー」10月開催",
+      "url": "https://ict-enews.net/2026/09/09digital-knowledge-18/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-09-08T23:18:42.000Z",
+      "summary": "デジタル・ナレッジは、「生成AIは教育をどう変えるのか？企業研修・eラーニング活用の実践ポイントがわかる中級編セミナー」を、10月21日にオンラインで無料開催する。 「生成AIを実 […]",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "生成AI",
+        "AI活用"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_4531eb964ac32985",
+      "title": "教員対象「学習を支える『ルビ』の力×Canvaでつくる『アクセシビリティを高める』教材づくり」16日開催",
+      "url": "https://ict-enews.net/2026/09/09rubizaidan/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-09-08T23:18:00.000Z",
+      "summary": "ルビ財団は、デザインプラットフォーム「Canva Japan」とのコラボレーションにより、全国の教員を対象とした無料オンラインセミナー「学習を支える『ルビ』の力×Canvaでつくる […]",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_ed4277044b7e2554",
+      "title": "amulapo、「バーチャル宇宙体験フェス」を横須賀市で10月4日開催",
+      "url": "https://ict-enews.net/2026/09/09amulapo/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-09-08T23:17:36.000Z",
+      "summary": "amulapoは、「バーチャル宇宙体験フェス」を横須賀市生涯学習センター​「まなびかん」にて10月4日に開催する。 近年世界中で宇宙開発が加速しており、日本でも10年で1兆円規模の […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_f134c05cfd9ec941",
+      "title": "駿台、全国67大学の最新入試情報「秋の入試戦略フォーラム」10月20日から配信",
+      "url": "https://ict-enews.net/2026/09/09sundai-3/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-09-08T23:17:19.000Z",
+      "summary": "駿河台学園は、中学生・高校生・高卒生とその保護者を対象に、全国67大学の最新入試情報を届ける「秋の入試戦略フォーラム」をオンラインにて10月20日から無料配信する。 今夏に好評を得 […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_6844b1874239d69b",
+      "title": "TAC、「仕事と両立して受かる人のタイムマネジメント 社会人のための公認会計士合格戦略」29日開催",
+      "url": "https://ict-enews.net/2026/09/09tac-16/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-09-08T23:16:59.000Z",
+      "summary": "TACは、公認会計士講座の講師による社会人向けのオンラインセミナー「仕事と両立して受かる人のタイムマネジメント 社会人のための 公認会計士合格戦略」を9月29日に開催する。 多忙な […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_19c5c8a55ea88634",
+      "title": "LoiLo、新機能発表・体験会のアーカイブ動画を公開",
+      "url": "https://ict-enews.net/2026/09/09loilo-9/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-09-08T23:16:35.000Z",
+      "summary": "LoiLoは8日、2026年8月に開催した「ロイロノート・スクール」の新機能発表・体験会のアーカイブ動画を公開した。 主な内容 共有ノートの追加機能 ・フォルダを作成し、整理できる […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_58abfefc97ce2820",
+      "title": "VISH、児童発達支援・放課後等デイサービス向け「コノベル」が「加算管理機能」提供開始",
+      "url": "https://ict-enews.net/2026/09/09vish-5/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-09-08T23:16:18.000Z",
+      "summary": "VISHは7日、児童発達支援・放課後等デイサービス向けクラウドサービス「コノベル」にて、日々の支援で職員が行った加算を記録・管理する「加算管理機能」のリリースを発表した。 同機能で […]",
+      "starred": false,
+      "category": "dx",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "校務DX",
+        "GIGA"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_8bdbc41d7220dfa9",
+      "title": "英会話イーオン、オンライン校が提供する「英検対策コース」などで「9スキルトレーニング」追加",
+      "url": "https://ict-enews.net/2026/09/09aeonet-5/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-09-08T23:15:55.000Z",
+      "summary": "イーオンは7日、オンライン校の高校生以上クラスにて提供をしている「英検対策コース」と「TOEIC L&Rテスト対策コース」にて、イーオンが2025年10月から提供をしている […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_6e7f6deb1bf73f18",
+      "title": "オンライン英会話「aleva!」、外国人講師とオンラインゲームを楽しむ「Arcadeレッスン」提供開始",
+      "url": "https://ict-enews.net/2026/09/09kyo-kai/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-09-08T23:15:27.000Z",
+      "summary": "教育開発出版とライトエデュケーションは7日、両社が提供する大人向けオンライン英会話「aleva!(アレバ)」が、外国人講師とオンラインゲームを楽しみながら英語でコミュニケーションす […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
       ],
       "priority_score": 50
     },
@@ -759,22 +1200,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_600356cbee77657e",
-      "title": "JR芦屋駅直結の11階建て複合施設着工　住宅・商業",
-      "url": "https://www.watch.impress.co.jp/docs/news/2139165.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-09-08T08:14:49.000Z",
-      "summary": "東急不動産は、兵庫県芦屋市が施行者として進めているJR芦屋駅南地区の複合施設開発について、9月4日に新築着工したと発表した。完成は2030年度を予定している。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_6fc941e8f39baeec",
       "title": "OpenAI「GPT-6 Astra」発表　Codexのコーディングは前世代からどれだけ進化？",
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/08/news035.html",
@@ -808,54 +1233,6 @@
         "生成AI",
         "AI",
         "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_d8fb07202fe7722e",
-      "title": "「預金はインフレに負けている」デジタルバンクのハビット「貯蓄マックス!」",
-      "url": "https://www.watch.impress.co.jp/docs/news/2139142.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-09-08T07:46:10.000Z",
-      "summary": "デジタルバンクを手掛けるHabitto(ハビット)は、サービスブランドを「Habitto」(ハビット)から「貯蓄の窓口 by Habitto」にリニューアルした。あわせて、“第三の貯蓄”と謳う投資信託の新商品「貯蓄マックス！」の正式提供を9月8日から開始した。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_36ad77b23fe1cf49",
-      "title": "ワークマン、リカバリーウェアで売上2割視野　NASA宇宙技術の最上位モデル投入",
-      "url": "https://www.watch.impress.co.jp/docs/news/2139129.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-09-08T07:15:10.000Z",
-      "summary": "ワークマンは、2026年秋冬 新製品発表会で、「XShelter」の新製品やリカバリーウェア「MEDIHEAL(メディヒール)」の最上位モデル「COSMOS(コスモス)」など、販売拡大策を発表した。ホームウェアなどの「リラックス系」だけでなく、ビジネススーツや作業服など「アクティブ系」にも力を入れていく。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_94152cb7ee51afeb",
-      "title": "「スターバックス専用自販機」日本初登場・全国展開",
-      "url": "https://www.watch.impress.co.jp/docs/news/2139135.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-09-08T07:10:20.000Z",
-      "summary": "スターバックス・コーポレーションとサントリービバレッジ&フードは、日本で初めてとなる「スターバックス専用自動販売機」を9月中旬から全国で順次展開する。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
       ],
       "priority_score": 50
     },
@@ -1053,41 +1430,6 @@
       "source_name": "INTERNET Watch",
       "published_at": "2026-09-07T22:00:00.000Z",
       "summary": "株式会社DTSとグランセキュノロジー株式会社は9月7日、協業によるセキュリティサービスの高度化についての説明会を実施した。同日、グランセキュノロジーではASM（Attack Surface Management：攻撃対象領域管理）サービス「Mitokude」（ミトクデ）において、インターネットからアクセス可能なIT資産を可視化する既存の「Mitokude .pub」に加え、社内のシャドーITなどの…",
-      "starred": false,
-      "category": "security",
-      "tags": [
-        "インターネット",
-        "セキュリティ",
-        "情報モラル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_573df6bc707e4460",
-      "title": "「pixiv」「note」「ガールズちゃんねる」「好き嫌い.com」が情プラ法の「大規模プラットフォーム事業者」に指定された件についての記事に注目が集まる【アクセスランキング】",
-      "url": "https://internet.watch.impress.co.jp/docs/news/ranking/2138785.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-09-07T21:55:00.000Z",
-      "summary": "前週に閲覧数の多かった記事を、カテゴリーごとに上位5位までレポートします。",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "インターネット",
-        "セキュリティ",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_6ef8a2e34b278563",
-      "title": "警察庁とマイクロソフト、サイバー事案対策で協定",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2138885.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-09-07T21:30:00.000Z",
-      "summary": "警察庁と日本マイクロソフト株式会社は9月7日、サイバー事案対策に関する協定を締結した。",
       "starred": false,
       "category": "security",
       "tags": [
