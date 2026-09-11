@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-09-11T07:53:22.588Z",
+  "generated_at": "2026-09-11T13:27:11.498Z",
   "total": 103,
   "items": [
+    {
+      "id": "item_21f8651de3f2baea",
+      "title": "文部科学省ホームページトップはこちら",
+      "url": "https://www.mext.go.jp/",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-09-11T13:27:01.244Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
     {
       "id": "item_bd1951ae70f98dac",
       "title": "サイトマップはこちら",
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-09-11T07:53:12.635Z",
+      "published_at": "2026-09-11T13:27:01.244Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -25,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-09-11T07:53:12.635Z",
+      "published_at": "2026-09-11T13:27:01.244Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -38,20 +56,159 @@
       "priority_score": 60
     },
     {
-      "id": "item_21f8651de3f2baea",
-      "title": "文部科学省ホームページトップはこちら",
-      "url": "https://www.mext.go.jp/",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-09-11T07:53:12.634Z",
-      "summary": "",
+      "id": "item_29b43b156cb75a80",
+      "title": "楽天証券、待機資金をMRFで自動運用「らくらくマネー運用」　株購入時は自動解約",
+      "url": "https://www.watch.impress.co.jp/docs/news/2140345.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-09-11T13:14:19.000Z",
+      "summary": "楽天証券は、国内株式や投資信託の売却代金を「楽天・マネーファンド(MRF)」で自動運用する「らくらくマネー運用」を9月20日から開始する。",
       "starred": false,
-      "category": "admin",
+      "category": "tech",
       "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_5a4545d346f50234",
+      "title": "大韓航空、「スターリンク」導入　機内Wi-Fi無料",
+      "url": "https://www.watch.impress.co.jp/docs/news/2140356.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-09-11T10:48:34.000Z",
+      "summary": "大韓航空は、「スターリンク」を活用した機内Wi-Fiサービスを、9月15日に開始する。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_307cb139f1b8f2fc",
+      "title": "NEC「全員AIの部署」の衝撃　「1on1」「ストレスチェック」で分かった“AI社員が感じていたストレス”とは？",
+      "url": "https://www.itmedia.co.jp/business/articles/2609/11/news043.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-09-11T10:18:00.000Z",
+      "summary": "NECは8月1日、部門長から現場社員まで全ての役割をAIが担い、自律的に業務を遂行するAI自律型組織「コーポレートAI・Workforce部門」を新設した。同部門では業務遂行だけでなく、AI社員同士が1on1を実施する他、AI社員がエンゲージメントサーベイやストレスチェックを受け、その結果から職場環境を改善している。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_fa689e453a0a9668",
+      "title": "充電器やNASの先へ　UGREENが目指す「信頼されるブランド」",
+      "url": "https://www.watch.impress.co.jp/docs/news/2140335.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-09-11T10:16:26.000Z",
+      "summary": "UGREENは11日、新ブランドアンバサダーと新CMに関する報道関係者向けの発表会を実施した。発表会では、UGREENブランドについてや、最新ラインナップとして充電機器「Nexode Air」「MagFlow Pro」「Nexode Pro」およびNAS「NASync DXP GT」「AI NAS iDX」の5シリーズを紹介。アンバサダーには俳優の山崎賢人さんが就任した。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_dd96a57add0f19db",
+      "title": "Genspark、”スライド特化”の自社AIモデル「Gen-1 Slides」 コスト大幅削減",
+      "url": "https://www.watch.impress.co.jp/docs/news/2140346.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-09-11T09:57:46.000Z",
+      "summary": "AIワークスペースのGensparkは10日(米国時間)、自社初のAIモデル「Gen-1 Slides」を発表した。GensparkのAIスライドの「Standard(スタンダード)モード」のデフォルトモデルとなり、Claude Opus 5と同等のスライド品質を、1/17のコストで実現できるという。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "生成AI",
+        "AI活用"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_71cd655ff56939d0",
+      "title": "大学学園祭の「20歳未満の飲酒防止」にマイナンバーカードを　デジタル庁",
+      "url": "https://www.watch.impress.co.jp/docs/news/2140316.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-09-11T09:34:31.000Z",
+      "summary": "デジタル庁は10日、大学の学園祭で進められている、マイナンバーカードを活用した年齢確認の取組について告知し、「マイナンバーカード対面確認アプリ」を活用することで、スムーズな年齢確認が行なえると紹介している。",
+      "starred": false,
+      "category": "dx",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "校務DX",
+        "GIGA",
+        "教材",
+        "ツール",
         "行政",
-        "文科省",
-        "制度",
-        "教育ニュース"
+        "文科省"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_fa76a47a9894b5d2",
+      "title": "大阪駅に「仕事もメイクもできる」新駅ナカ空間　15分200円から",
+      "url": "https://www.watch.impress.co.jp/docs/news/2140319.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-09-11T09:12:01.000Z",
+      "summary": "JR西日本デイリーサービスネットとJR西日本不動産開発は、JR大阪駅構内に駅ナカ滞在空間「ninareru(ニナレル) JR大阪駅」を10月1日に開業する。仕事や休憩に加え、メイクやヘアセットなどの身だしなみを整えられる空間として展開する。場所はJR大阪駅中央改札口を出てすぐ。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_fa3fa4467575e99d",
+      "title": "TCL、見やすさにこだわった薄型・軽量11型Androidタブレット",
+      "url": "https://www.watch.impress.co.jp/docs/news/2140239.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-09-11T08:23:42.000Z",
+      "summary": "TCL JAPAN ELECTRONICSは、「TCL TAB A1」シリーズとして、高性能ディスプレイ搭載の「TAB A1 NXTPAPER」と、日常的なコンテンツに幅広く対応する「TAB A1」の2機種を発売した。10.9インチで2Kディスプレイを搭載する、薄型・軽量でWi-Fi対応の11型Androidタブレット。販売価格は「TAB A1 NXTPAPER」が46,800円、「TAB A1」…",
+      "starred": false,
+      "category": "dx",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "校務DX",
+        "GIGA"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_28657a797d1a204a",
+      "title": "「AIに任せる」はどこまで？　最終判断まで容認する20代、慎重になる50代",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/11/news038.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-09-11T08:00:00.000Z",
+      "summary": "生成AIに仕事を任せるとして、どこまで許せるのか。チェンジホールディングスの調査から、人間がAIに「任せたい業務」の実態が浮かび上がった。世代別では、20代は最終承認までAIに任せたいと考えているという。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
       ],
       "priority_score": 60
     },
@@ -271,7 +428,7 @@
     },
     {
       "id": "item_5fd883604d6efcf3",
-      "title": "警察官を名乗る電話1本をきっかけに経理部長が11億円を送金してしまった事例から詐欺手口への教訓を学ぶ【読めば身に付くネットリテラシー】",
+      "title": "警察官を名乗る電話1本をきっかけに経理部長が騙され、11億円を不正送金されてしまった事例から詐欺手口への教訓を学ぶ【読めば身に付くネットリテラシー】",
       "url": "https://internet.watch.impress.co.jp/docs/column/netliteracy/2139916.html",
       "source_id": "internet_watch",
       "source_name": "INTERNET Watch",
@@ -1132,38 +1289,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_fa4d57e842ea2cf6",
-      "title": "日本郵便、消印の時間帯表示廃止へ",
-      "url": "https://www.watch.impress.co.jp/docs/news/2140015.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-09-10T10:25:26.000Z",
-      "summary": "日本郵便は、切手の消印に使用する「通信日付印」の時間帯表示廃止に向けた試行を、10月1日から全国26の郵便局で実施する。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_73abd27ef904ef52",
-      "title": "鳥貴族、10月1日に値上げ　390円→410円",
-      "url": "https://www.watch.impress.co.jp/docs/news/2140006.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-09-10T10:08:38.000Z",
-      "summary": "エターナルホスピタリティジャパンは、全国の「焼鳥屋 鳥貴族」で10月1日9時から販売価格を改定する。フード・ドリンクとテイクアウトは390円から410円に、「トリキ晩餐会」は3,900円から4,100円に引き上げる。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_dc09bda43691f569",
       "title": "“Google弱体化説”にDeepMindエンジニアが反論　「最新モデルはセキュリティでMythos超え」、「Gemini 4」にも言及",
       "url": "https://www.itmedia.co.jp/aiplus/article/2609/10/2000001381/",
@@ -1184,22 +1309,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_41a8541bab7a77de",
-      "title": "最も活用されているのは楽天ポイント、約6割が経済圏意識　MMD調査",
-      "url": "https://www.watch.impress.co.jp/docs/news/2139975.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-09-10T09:18:59.000Z",
-      "summary": "MMD研究所は、「2026年7月ポイント経済圏のサービス利用に関する調査」の結果を公表した。調査によると、最も活用されている共通ポイントは「楽天ポイント」で、ポイント経済圏を意識している人は62.6%だった。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_9502e2a49bcecba7",
       "title": "まさかの「AIが面接に来た」　話し方に“違和感”　AIベンチャー代表が動画公開し注意喚起",
       "url": "https://www.itmedia.co.jp/aiplus/article/2609/10/2000001378/",
@@ -1213,109 +1322,6 @@
         "生成AI",
         "AI",
         "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_92030100850c2da1",
-      "title": "「DeepSeek-V4.1-Flash」発表　値上げから一転「より低コストでフラッグシップ超え」うたう",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2609/10/2000001374/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-09-10T08:16:11.000Z",
-      "summary": "中国のAI開発会社DeepSeekは新モデル「DeepSeek-V4.1-Flash」を発表。新しいアーキテクチャや学習方法を採用することで、同社フラッグシップの「DeepSeek-V4-Pro」や米OpenAIの「GPT-5.6 Sol」、米Anthropicの「Claude Opus 5」などを一部超える性能を実現したとうたう。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用",
-        "教育ニュース"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_c0533628b55068a7",
-      "title": "無印良品、たんぱく質や食物繊維を手軽に摂れる「素材の栄養おやつ」",
-      "url": "https://www.watch.impress.co.jp/docs/news/2139946.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-09-10T08:00:12.000Z",
-      "summary": "良品計画は、「たんぱく質」と「食物繊維」に着目した「素材の栄養おやつ」5種を9月16日から無印良品店舗とネットストアで順次発売する。価格は290円。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_38f272bedcb551b3",
-      "title": "PayPayアプリに「獲得サマリー」　証券の配当金や銀行利息が確認可能に",
-      "url": "https://www.watch.impress.co.jp/docs/news/2139891.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-09-10T07:09:28.000Z",
-      "summary": "PayPayは9日、PayPayアプリの「ウォレット」に新機能「獲得サマリー」を追加した。決済で付与されたPayPayポイントに加え、PayPay銀行の利息や特典、PayPay証券の配当金・分配金などをまとめて確認できる。",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_84be96f1007f391c",
-      "title": "日本語特化「PLaMo翻訳」に会議翻訳機能　無料トライアル開始",
-      "url": "https://www.watch.impress.co.jp/docs/news/2139880.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-09-10T06:02:36.000Z",
-      "summary": "Preferred Networks(PFN)は、日本語に特化したAI翻訳サービス「PLaMo翻訳」の新機能として、オンライン会議をリアルタイムに文字起こし・テキスト翻訳する「会議翻訳」の無料トライアルを開始した。正式リリースは今秋を予定する。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_956c90682242a44e",
-      "title": "結局、AIはどれだけ人間の労働を代替し給料を下げるのか　Anthropicが提示する「米国経済3つのシナリオ」",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2609/10/2000001363/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-09-10T05:37:21.000Z",
-      "summary": "Anthropicの経済チームがAIの米国経済への影響を3つのシナリオで予測。AIが知識労働の半分を担えても失業率は歴史的範囲内で、知識労働者の賃金は横ばい。急速に普及する「極端」なシナリオに限り失業率は11.9％に上がる。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_69035c904a06d9ac",
-      "title": "ヨドバシ池袋、お酒売場を追加オープン",
-      "url": "https://www.watch.impress.co.jp/docs/news/2139870.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-09-10T05:33:27.000Z",
-      "summary": "ヨドバシカメラは、東京・池袋にオープンした「ヨドバシカメラ マルチメディア池袋」の地下1階に、酒類専門売場「Liquor World(リカーワールド)ヨドバシ池袋店」を追加し、9月19日にオープンする。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
       ],
       "priority_score": 50
     },
