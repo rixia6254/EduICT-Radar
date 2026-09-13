@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T08:06:06.633Z",
+  "generated_at": "2026-09-13T13:44:57.387Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-09-13T08:05:56.515Z",
+      "published_at": "2026-09-13T13:44:47.054Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-09-13T08:05:56.515Z",
+      "published_at": "2026-09-13T13:44:47.054Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-09-13T08:05:56.515Z",
+      "published_at": "2026-09-13T13:44:47.054Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,42 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_e99023b39fb362b4",
+      "title": "AI開発「減速」をアンソロピックCEOが提案　アルトマン氏・マスク氏らも賛同",
+      "url": "https://www.watch.impress.co.jp/docs/news/2140440.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-09-13T10:50:00.000Z",
+      "summary": "AIの開発「減速」の議論が本格化している。Anthropicのダリオ・アモデイCEOは12日(米国時間)、「We Must Pace the Frontier」(フロンティアの歩みを調整しなければならない)と題したブログを投稿し、AIの急速な進歩による事故が続いていることから、フロンティアAIの開発競争を減速(Pacing)する必要があると強調。このままの開発が進むと、「6～12カ月後には、インタ…",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "生成AI",
+        "AI活用"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_da8a94ef26228245",
+      "title": "ノートパソコンの「謎の箱」のひみつ ── ACアダプター【英語マンガ・対訳つき】",
+      "url": "https://note.com/plum_tree/n/n9ac35efbac1d",
+      "source_id": "note_joho1",
+      "source_name": "note（情報科教員）",
+      "published_at": "2026-09-13T10:09:22.000Z",
+      "summary": "パソコン部に所属する高校生のケンタさん。ある日、中学生の妹ミオさんが、自宅でノートパソコンを充電しようとしたところ、電源コードの途中についている黒い箱に気づきました。 【ケーブルの箱】「ねえケンタ、なんでこの充電ケーブルの途中に箱があるの？」 続きをみる",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "授業実践",
+        "情報Ⅰ",
+        "教材",
+        "教育ニュース"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_f757936cf812e3c3",
@@ -609,26 +645,6 @@
         "生成AI",
         "AI",
         "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_372e03036ec09fb8",
-      "title": "グーグル、Windows用「Gemini」アプリ公開　Alt+Spaceで起動",
-      "url": "https://www.watch.impress.co.jp/docs/news/2140120.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-09-11T02:31:46.000Z",
-      "summary": "Googleは10日(米国時間)、Windows向けの「Gemini」アプリを提供開始した。Windows PCで、Alt + Spaceキーを押すと、作業の画面上にGeminiが表示でき、ドキュメントの事実確認やプレゼンテーションのタイトルのアイデアの作成などで、Geminiを活用できる。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "生成AI",
-        "AI活用",
-        "教材",
-        "ツール"
       ],
       "priority_score": 50
     },
@@ -1800,25 +1816,6 @@
         "入試"
       ],
       "priority_score": 70
-    },
-    {
-      "id": "item_ca22a92301f06773",
-      "title": "「自分たちで撮ったデータ」でPythonを学ぶ ── 甲府南高校で行った、チーム1台のセンサー×データ分析授業",
-      "url": "https://note.com/schoomy/n/n5168b1f7ff75",
-      "source_id": "note_joho1",
-      "source_name": "note（情報科教員）",
-      "published_at": "2026-07-21T22:57:40.000Z",
-      "summary": "甲府南高等学校の卒業生で、いまスクーミーでインターンをしている小澤先生が、母校の情報科で出張授業を行いました。テーマは 「自分たちで撮ったデータで、Pythonのデータ分析を学ぶ」。「母校の後輩に、データ分析の面白さを伝えたい」——その想いから、自分で教材をつくって授業に臨みました。 この記事は、全4時間の授業（STEP1〜STEP3＋フリーラボ、そして温度を使った課題解決まで）の実施レポートです…",
-      "starred": false,
-      "category": "lesson",
-      "tags": [
-        "授業実践",
-        "情報Ⅰ",
-        "教材",
-        "ツール",
-        "教育ニュース"
-      ],
-      "priority_score": 50
     }
   ],
   "clips": []
