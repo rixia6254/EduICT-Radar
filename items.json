@@ -1,32 +1,14 @@
 {
-  "generated_at": "2026-09-12T22:44:21.051Z",
+  "generated_at": "2026-09-13T08:06:06.633Z",
   "total": 103,
   "items": [
-    {
-      "id": "item_5a2c7864b68dcd43",
-      "title": "過去の文部科学省ホームページ（※国立国会図書館ホームページへリンク）",
-      "url": "https://warp.ndl.go.jp/waid/3475",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-09-12T22:44:10.541Z",
-      "summary": "",
-      "starred": false,
-      "category": "admin",
-      "tags": [
-        "行政",
-        "文科省",
-        "制度",
-        "教育ニュース"
-      ],
-      "priority_score": 60
-    },
     {
       "id": "item_21f8651de3f2baea",
       "title": "文部科学省ホームページトップはこちら",
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-09-12T22:44:10.540Z",
+      "published_at": "2026-09-13T08:05:56.515Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -44,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-09-12T22:44:10.540Z",
+      "published_at": "2026-09-13T08:05:56.515Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +36,78 @@
         "制度"
       ],
       "priority_score": 50
+    },
+    {
+      "id": "item_5a2c7864b68dcd43",
+      "title": "過去の文部科学省ホームページ（※国立国会図書館ホームページへリンク）",
+      "url": "https://warp.ndl.go.jp/waid/3475",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-09-13T08:05:56.515Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_f757936cf812e3c3",
+      "title": "パナソニック、浄水型ウォーターサーバー参入　月額2420円",
+      "url": "https://www.watch.impress.co.jp/docs/news/2140422.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-09-13T01:30:00.000Z",
+      "summary": "パナソニックは、浄水型ウォーターサーバーのサブスクリプションサービスを10月1日から開始する。水道水を浄水するウォーターサーバー「TK-RSS1」を月額2,420円で利用可能とするサービスで、申込みは公式ショッピングサイト「Panasonic Store Plus」で行なう。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_87caaa53c20bbabf",
+      "title": "AnthropicのアモデイCEO、AI開発の「ペース調整」訴えるエッセイ公開　アルトマン氏とマスク氏も賛同",
+      "url": "https://www.itmedia.co.jp/news/article/2609/13/2000001432/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-09-12T23:06:11.000Z",
+      "summary": "AnthropicのアモデイCEOは、AIの急速な自己改善や安全上の脅威を踏まえ、モデルの能力向上ペースを抑える3段階の計画を提言した。第三者の常駐評価者の導入や民主主義国間での協調を訴えている。これに対し、OpenAIのアルトマンCEOやマスク氏も同調し、同様の評価体制を導入する意向を示した。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_a3e4788d11d9bd59",
+      "title": "「AIコーディングより人を雇う方が安い」時代が来る？　生成AIの予算超過を防ぐトークン浪費対策の全て",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/13/news005.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-09-12T23:00:00.000Z",
+      "summary": "生成AIやAIエージェントの活用が広がる一方、トークン課金による想定外のコスト増が企業を悩ませています。なぜ浪費が起こるのか、その原因と、現場で取り組める対策を5本の記事から探ります。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用",
+        "行政",
+        "文科省"
+      ],
+      "priority_score": 60
     },
     {
       "id": "item_bd3ac694e2d0eaae",
@@ -647,22 +701,6 @@
         "AI活用"
       ],
       "priority_score": 60
-    },
-    {
-      "id": "item_dcfa4be44be1d714",
-      "title": "セイコーアストロンに「グレーセラミックス」採用の2モデル",
-      "url": "https://www.watch.impress.co.jp/docs/news/2139961.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-09-11T01:00:00.000Z",
-      "summary": "セイコーウオッチは、「セイコー アストロン」Nexterシリーズの新作として、ブランド初の「グレーセラミックス」をベゼルとブレスレットの中駒に採用したレギュラーモデル2機種を10月9日に発売する。GPSソーラーの腕時計で、価格はシルバーの「HAB007J」が330,000円、ブラックの「HAB008J」が352,000円。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
     },
     {
       "id": "item_d7c563c53811dbcc",
@@ -1281,43 +1319,6 @@
       "source_name": "ITmedia AI+",
       "published_at": "2026-09-10T20:00:00.000Z",
       "summary": "他社の華やかな「インスタ映え」するAI成功事例を追うのは、今すぐ辞めるべき――。「AIを使え」というトップダウンの号令だけで空回りする組織が、過去の「失敗DX」と同じ轍を踏まないための現実的なアプローチとは何か。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_dc09bda43691f569",
-      "title": "“Google弱体化説”にDeepMindエンジニアが反論　「最新モデルはセキュリティでMythos超え」、「Gemini 4」にも言及",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2609/10/2000001381/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-09-10T09:23:08.000Z",
-      "summary": "「Googleはもはやフロンティアモデルを持っていない」というX上の意見に対してGoogle DeepMindのエンジニアが「最新モデルはセキュリティでMythos超え」だと反論した。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用",
-        "セキュリティ",
-        "情報モラル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_9502e2a49bcecba7",
-      "title": "まさかの「AIが面接に来た」　話し方に“違和感”　AIベンチャー代表が動画公開し注意喚起",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2609/10/2000001378/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-09-10T08:16:19.000Z",
-      "summary": "「人生で初めてAIが面接に来た」――AIベンチャーKOWRO（コヲロ、東京都港区）の原田祐二CEOは、自身のXアカウントでこのような動画を公開した。",
       "starred": false,
       "category": "ai",
       "tags": [
