@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T13:44:57.387Z",
+  "generated_at": "2026-09-13T22:44:37.417Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-09-13T13:44:47.054Z",
+      "published_at": "2026-09-13T22:44:28.500Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-09-13T13:44:47.054Z",
+      "published_at": "2026-09-13T22:44:28.500Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-09-13T13:44:47.054Z",
+      "published_at": "2026-09-13T22:44:28.500Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,112 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_efda0689623e9d98",
+      "title": "古野電気、世界最大のGNSSテストイベント「ジャマーテスト 2026」に3年連続の参加　ノルウェー・アンドーヤで開催",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2140252.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-09-13T22:30:00.000Z",
+      "summary": "古野電気株式会社は、9月14日～18日にノルウェー・アンドーヤで開催される世界最大のGNSSテストイベント「ジャマーテスト 2026」に参加すると発表した。同社の同イベントへの参加は3年連続となる。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_c27fd9bb1e77cdcd",
+      "title": "AI技術を“無料で公開”、なぜ？　米IT業界の文化「オープン化」の裏にしたたかな戦略、日本は追随できるか",
+      "url": "https://www.itmedia.co.jp/business/articles/2609/14/news047.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-09-13T22:00:00.000Z",
+      "summary": "AI分野で「オープン化」が進んでいる。企業はなぜ、自社技術を無料で公開するのか。そこには、AI企業のしたたかな戦略があった。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_488887691ba06a7d",
+      "title": "「Gemini Notebook」になって何が変わった？　NotebookLMからの変更点をおさらい",
+      "url": "https://kn.itmedia.co.jp/kn/article/2609/14/2000001421/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-09-13T22:00:00.000Z",
+      "summary": "Googleの「Gemini Notebook」が、資料を読むためのAIから、データ分析や成果物の作成までを任せられるツールへと変わりつつある。NotebookLMから何が変わったのか。2026年の主な機能追加と最新動向を整理する。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_0bfabb0f3df1e2b3",
+      "title": "LINEヤフーの「Agent i」に、一度設定したら自動的・継続的にAIエージェントが働く「タスク機能」追加",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2140184.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-09-13T22:00:00.000Z",
+      "summary": "LINEヤフー株式会社は9月11日、AIエージェント「Agent i」において、情報収集などの日常の作業を代行し通知する「タスク機能」を提供開始した。質問に回答する「答えるAI」だけでなく、日常のタスクを自律的・継続的に代行する「動くAI」として、より便利な体験を提供するとしている。",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "行政",
+        "文科省"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_88d58696b714d941",
+      "title": "中露・北朝鮮の関与が疑われるサイバー攻撃への言及増加、警察庁がサイバー空間の脅威情勢レポート　AI、IoT機器を悪用した犯罪事例も",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2140272.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-09-13T21:30:00.000Z",
+      "summary": "警察庁は9月10日、半期ごとに発表しているサイバー脅威の動向レポート「令和8年上半期におけるサイバー空間をめぐる脅威の情勢等について」を公開した。",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_6a0d39c1ddca3fab",
+      "title": "高性能マイク＋アプリ連携で、話者の判別や写真入り議事録作りまで買い切り2万円台！ iFLYTEKのAIボイスレコーダー P1 Pro【イニシャルB【特別編】】[Sponsored]",
+      "url": "https://internet.watch.impress.co.jp/docs/topic/shimizu_sp/2137398.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-09-13T21:00:00.000Z",
+      "summary": "会議の文字起こしや要約、インタビューのまとめ、外国語のプレゼンの翻訳と、ビジネスシーンでは音声が重要な意味を持つシーンが少なくない。筆者もインタビュー時には必ず録音を行い、たびたび「この発言誰だっけ？」「あのとき彼は何て言ってたっけ？」と聞き返して確認する。",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_e99023b39fb362b4",
@@ -1262,23 +1368,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_885f620cbdaab692",
-      "title": "「AI利用料は90％下落、でも支出増」の怪――AIコスト問題で注目の「ジェボンズのパラドックス」から考える",
-      "url": "https://www.itmedia.co.jp/business/articles/2609/11/news030.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-09-10T22:00:00.000Z",
-      "summary": "AIのトークン利用料金は90％下落しているのに、支出が増加する――こうしたAIコストを巡る議論では「ジェボンズのパラドックス」が注目されている。どのような考え方なのか。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_ec8f2212fc37e785",
       "title": "NTT西日本、「フレッツ光」提供エリアを愛媛県松山市門田町、泊町、由良町の一部地域で拡大　10月9日より受付開始予定",
       "url": "https://internet.watch.impress.co.jp/docs/news/2139890.html",
@@ -1328,23 +1417,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_8a707e60fb1193ae",
-      "title": "「『過去の失敗DX』を学ぶべき」　専門家に聞く現実的な「AI変革推進法」",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/11/news010.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-09-10T20:00:00.000Z",
-      "summary": "他社の華やかな「インスタ映え」するAI成功事例を追うのは、今すぐ辞めるべき――。「AIを使え」というトップダウンの号令だけで空回りする組織が、過去の「失敗DX」と同じ轍を踏まないための現実的なアプローチとは何か。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_480b322d4f4c58c1",
       "title": "さくらインターネット、「さくらのレンタルサーバ」および販売管理システムへの不正アクセスについて調査結果を公開　「さくらのレンタルサーバ」不正アクセス対象は951アカウントに拡大",
       "url": "https://internet.watch.impress.co.jp/docs/news/2139863.html",
@@ -1387,70 +1459,6 @@
       "source_name": "INTERNET Watch",
       "published_at": "2026-09-10T02:30:00.000Z",
       "summary": "Amazon.co.jpのUGREENストアページでは、同社製の紛失防止トラッカー（スマートトラッカー）がタイムセール中だ。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_9258039506d63bc4",
-      "title": "バッファローのWi-FiルーターがAmazonで安い！　10Gbps WAN搭載のWi-Fi 7モデル「WXR9300BE6P/N」が3万1480円など",
-      "url": "https://internet.watch.impress.co.jp/docs/shopping/2139707.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-09-10T01:30:00.000Z",
-      "summary": "Amazon.co.jpのタイムセールコーナーでは、バッファロー製のWi-Fi 7ルーターがタイムセール価格で販売されている。なお、紹介する製品はいずれもメッシュ標準規格「Wi-Fi EasyMesh」に対応している。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_677692b91fd4ac3f",
-      "title": "いわきのサイズを手軽に実感。世界各地に福島県いわき市を表示できるマップサービス【やじうまWatch】",
-      "url": "https://internet.watch.impress.co.jp/docs/yajiuma/2139703.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-09-10T00:29:04.000Z",
-      "summary": "世界中のあらゆる地点に福島県いわき市を表示し、同市のサイズを手軽に比較できるマップサービスが登場し、多くのSNSユーザーを困惑させている。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_4213addedf632d30",
-      "title": "他人への回答？ それともハルシネーション？ 尋ねてもいない質問にGoogleが答える怪現象【やじうまWatch】",
-      "url": "https://internet.watch.impress.co.jp/docs/yajiuma/2139702.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-09-10T00:27:31.000Z",
-      "summary": "Google 検索で、こちらが尋ねていない質問にAIが回答する怪現象が報告され、SNSで話題になっている。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_2d0f73365576a29c",
-      "title": "スマホやPCにマグネットで付けられる7in1ドッキングステーション、エレコムが発売",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2139602.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-09-09T23:00:00.000Z",
-      "summary": "エレコム株式会社は9月9日、マグネットでノートPCやスマートフォンの背面に装着できるドッキングステーション「DST-N071BPBK」を発売した。市場想定価格は8980円。",
       "starred": false,
       "category": "tech",
       "tags": [
