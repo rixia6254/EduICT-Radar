@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T15:49:29.335Z",
+  "generated_at": "2026-09-14T23:38:36.064Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-09-14T15:49:20.000Z",
+      "published_at": "2026-09-14T23:38:25.466Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-09-14T15:49:20.000Z",
+      "published_at": "2026-09-14T23:38:25.466Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-09-14T15:49:20.000Z",
+      "published_at": "2026-09-14T23:38:25.466Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,284 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_b06cf3e889deb8b3",
+      "title": "ORICO、Thunderbolt 4対応の12-in-1ドッキングステーション発売",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2140845.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-09-14T23:30:00.000Z",
+      "summary": "ORICOは9月12日、Thunderbolt 4認証を取得した12-in-1ドッキングステーションを発売した。Amazon.co.jpでの販売価格は2万6713円。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_6acd267beb33d76c",
+      "title": "自由が丘駅前の新たな“顔” 「ミューズスクエア」を見てきた　9月17日開業",
+      "url": "https://www.watch.impress.co.jp/docs/news/2140851.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-09-14T23:20:00.000Z",
+      "summary": "自由が丘駅前の複合施設「JIYUGAOKA MUSE SQUARE(自由が丘 ミューズスクエア)」が9月17日に開業する。ここでは9月14日に開催された関係者向け内覧会の模様をお伝えする。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_7af5662845e267a5",
+      "title": "トランプ大統領、アモデイ氏を名指しで「完璧な小さい天使のふり」　「AIに必要なガードレールは強く賢い大統領だけ」",
+      "url": "https://www.itmedia.co.jp/news/article/2609/15/2000001470/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-09-14T23:15:18.000Z",
+      "summary": "トランプ米大統領はSNSへの投稿で、AIに必要なガードレールは強く賢い大統領だけで十分だと述べ、AI企業に対する刑事・規制上の強い権限を強調した。AnthropicのアモデイCEOを名指しで批判し、AI開発を妨げる動きを中国を利する陰謀だと非難して、米国の優位性を維持する姿勢を示した。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_78c64ef3e7ec0367",
+      "title": "生成AIを「別画面」で使い続けて本当によいのか？　300人調査で見えた活用定着の“壁”",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/15/news042.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-09-14T23:00:00.000Z",
+      "summary": "生成AIの活用が広がる一方、最も定着している業務でも、7割は業務システムとは別の画面で生成AIを利用していた。こうした状況は、生成AI活用にどのような影響を及ぼしているのか。調査結果から実態を探る。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_abada4b2fe05ce21",
+      "title": "なぜ、会議支援AI市場が35・1％も成長？　「議事録作成」で終わらないニーズとは",
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2609/14/news023.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-09-14T23:00:00.000Z",
+      "summary": "国内の会議支援AI市場は2025年度に前年度比35.1％増と急伸した。汎用（はんよう）の生成AIツールでも議事録を作成できるのに、なぜ会議支援AIのニーズは伸び続けるのか。ITRの調査が示す、需要の変化とは。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_1e089e946997050a",
+      "title": "ビル管理で進む「属人化」解消なるか　東京建物らが開設、新たな「基地」が持つ5つの機能",
+      "url": "https://www.itmedia.co.jp/business/articles/2609/15/news052.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-09-14T23:00:00.000Z",
+      "summary": "毎日の安全で快適な生活を陰で支えてきた、ビルメンテナンス業界の在り方が大きく変わろうとしている。昨今の人手不足に加え、長年の課題である「ワンマン管理による属人化」の影響で、ノウハウの継承や若手育成が危ぶまれているのだ。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_ddad6a2a53a74e1b",
+      "title": "簡単接続でテレビの音声を手元で聴けるスピーカー「400-SP131」発売　FM/AMラジオにもなる",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2140731.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-09-14T23:00:00.000Z",
+      "summary": "サンワサプライ株式会社は9月8日、テレビの音声を最大20mまでワイヤレス送信できる手元スピーカー「400-SP131」を発売した。直販サイト「サンワダイレクト」での販売価格は8980円。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_99e4773ecf569d58",
+      "title": "「iOS 27」公開　AI機能など大幅アップデート Siri AIは10月",
+      "url": "https://www.watch.impress.co.jp/docs/news/2140866.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-09-14T22:38:35.000Z",
+      "summary": "アップルは15日、最新のiOS「iOS 27」を公開した。新しいAIアシスタント「Siri AI」に対応するほか、Apple Intelligenceによる大幅な機能強化やカレンダーの強化、新たな子どもの安全性のための機能などが追加されている。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "生成AI",
+        "AI活用"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_baef38af94dac3f0",
+      "title": "NTT西日本、「フレッツ光」提供エリアを愛知県岡崎市の一部地域で拡大。「フレッツ・テレビ」「スカパー！」も",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2140581.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-09-14T22:30:00.000Z",
+      "summary": "NTT西日本株式会社 東海支店は9月14日、愛知県における光回線によるインターネットサービス「フレッツ光」および「フレッツ・テレビ」「スカパー！」などの提供エリア拡大を発表した。対象エリアは愛知県岡崎市の一部地域。最大10Gbpsの「フレッツ 光クロス」、最大1Gbpsの「フレッツ 光ネクスト」、IP電話サービスの「ひかり電話ネクスト」。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_82b251c6ebfd6d46",
+      "title": "エース、ちりめん生地の軽量キャリー「フィーナRF LTD2」",
+      "url": "https://www.watch.impress.co.jp/docs/news/2140804.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-09-14T22:20:00.000Z",
+      "summary": "エースは、日本製トラベルバッグブランド「PROTECA(プロテカ)」から、軽量ソフトキャリー「フィーナRF」のボディにちりめん生地を採用した限定モデル「フィーナRF LTD2」を発売した。容量は18L、24L、29Lの3サイズで、価格は順に53,900円、56,100円、59,400円。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_c1409a2dc02d2fb2",
+      "title": "「AIを盗む」のではなく「AIを動かす」ために　Googleが捉えた攻撃者の異変",
+      "url": "https://kn.itmedia.co.jp/kn/article/2609/15/2000001459/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-09-14T22:00:00.000Z",
+      "summary": "生成AIの普及で変わり始めているのは、企業の業務だけではない。Googleの最新セキュリティレポートからは、攻撃者がAIエージェントを攻撃活動に組み込み、侵入先のクラウドや開発環境を新たな「AI攻撃基盤」として悪用する実態が見えてきた。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用",
+        "校務DX",
+        "GIGA",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_59f86b30e4a6f174",
+      "title": "「青少年のSNS利用禁止」日本ではどうなる？ 当事者の中高生はどう思っている？ こども家庭庁に聞いた――目指すのは「こどものウェルビーイング実現」",
+      "url": "https://internet.watch.impress.co.jp/docs/special/2137099.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-09-14T22:00:00.000Z",
+      "summary": "青少年のネット利用環境の整備に関して、こども家庭庁、総務省がそれぞれ専門家らによるワーキンググループ（WG）を立ち上げ、議論を進めている。両省庁の役割の違いは何か。そして、こども家庭庁が目指すところは何か。同庁の関根友里氏（成育局安全対策課 課長補佐）に話を聞いた。",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "行政",
+        "文科省"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_2b316b23983f849e",
+      "title": "警察官を名乗る電話1本をきっかけに経理部長が騙され、11億円を不正送金されてしまった事例から詐欺手口への教訓を学ぶ。「読めば身に付くネットリテラシー」連載記事に注目が集まる【アクセスランキング】",
+      "url": "https://internet.watch.impress.co.jp/docs/news/ranking/2140786.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-09-14T21:55:00.000Z",
+      "summary": "前週に閲覧数の多かった記事を、カテゴリーごとに上位5位までレポートします。",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_7d9d87d0458849a7",
+      "title": "中国外務省、AI開発「減速論」に反応　「恐怖をあおることや対立、悪性の競争は誰の利益にもならない」",
+      "url": "https://www.itmedia.co.jp/news/article/2609/15/2000001469/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-09-14T21:21:49.000Z",
+      "summary": "中国外務省の郭副報道局長は定例会見で、米AI企業トップらが訴える開発減速論について問われ、脅威論や悪質な競争はグローバルなAIガバナンスを阻害するだけだと反論した。また、BRICS首脳会議で習近平国家主席がオープンソースAIコミュニティの設立を提唱したことも明らかにした。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_47300762ae448c5d",
+      "title": "NTT、ミリ波・サブテラヘルツ帯で世界最高速となる2Tbpsの無線伝送に成功",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2140781.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-09-14T21:00:00.000Z",
+      "summary": "NTT株式会社は9月14日、屋外環境（伝送距離100m）において、ミリ波・サブテラヘルツ帯で2Tbpsの無線伝送に成功したと発表した。同社によると、電波を用いた無線通信で世界最高速だという。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_11038f374dd10c0a",
+      "title": "その.envのAPIキーが、AIエージェントを「内通者」に変える――“人間前提のやり方”は破綻した",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/16/news013.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-09-14T20:00:00.000Z",
+      "summary": "AIエージェントの活用が広がり、その裏側で増殖するのがAPIキーやトークンなどの認証情報です。これまで当たり前だったAPIキーの管理方法が、AIエージェントの登場によって限界を迎えつつあります。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_a041b9b84f1ec9ea",
@@ -1061,22 +1339,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_5a4545d346f50234",
-      "title": "大韓航空、「スターリンク」導入　機内Wi-Fi無料",
-      "url": "https://www.watch.impress.co.jp/docs/news/2140356.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-09-11T10:48:34.000Z",
-      "summary": "大韓航空は、「スターリンク」を活用した機内Wi-Fiサービスを、9月15日に開始する。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_307cb139f1b8f2fc",
       "title": "NEC「全員AIの部署」の衝撃　「1on1」「ストレスチェック」で分かった“AI社員が感じていたストレス”とは？",
       "url": "https://www.itmedia.co.jp/business/articles/2609/11/news043.html",
@@ -1090,40 +1352,6 @@
         "生成AI",
         "AI",
         "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_fa689e453a0a9668",
-      "title": "充電器やNASの先へ　UGREENが目指す「信頼されるブランド」",
-      "url": "https://www.watch.impress.co.jp/docs/news/2140335.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-09-11T10:16:26.000Z",
-      "summary": "UGREENは11日、新ブランドアンバサダーと新CMに関する報道関係者向けの発表会を実施した。発表会では、UGREENブランドについてや、最新ラインナップとして充電機器「Nexode Air」「MagFlow Pro」「Nexode Pro」およびNAS「NASync DXP GT」「AI NAS iDX」の5シリーズを紹介。アンバサダーには俳優の山崎賢人さんが就任した。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_dd96a57add0f19db",
-      "title": "Genspark、”スライド特化”の自社AIモデル「Gen-1 Slides」 コスト大幅削減",
-      "url": "https://www.watch.impress.co.jp/docs/news/2140346.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-09-11T09:57:46.000Z",
-      "summary": "AIワークスペースのGensparkは10日(米国時間)、自社初のAIモデル「Gen-1 Slides」を発表した。GensparkのAIスライドの「Standard(スタンダード)モード」のデフォルトモデルとなり、Claude Opus 5と同等のスライド品質を、1/17のコストで実現できるという。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "生成AI",
-        "AI活用"
       ],
       "priority_score": 50
     },
@@ -1179,24 +1407,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_a30cd7c446c05923",
-      "title": "フィジカルAI向け「データ収集工場」に\"潜入\"　実機写真で学習データ生成の流れを解説",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2609/11/2000001402/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-09-11T03:34:06.000Z",
-      "summary": "フィジカルAI・ロボットのデータファクトリー「J-HRTI 関東データファクトリー」が千葉県習志野市内で稼働を開始した。運営するのは業種の異なる民間5社のコンソーシアム「J-HRTI」で、集めたデータは参画企業が共同で使う。実際、データはどう集められているのか。実機写真を基に解説する。",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "教育ニュース"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_644cb66e178a62d0",
       "title": "バッファローのトラックボールで食わず嫌いを克服！ Codexで作った自動切り替えツールで“二刀流”が快適すぎた 【テレワークグッズ・ミニレビュー 第167回】",
       "url": "https://internet.watch.impress.co.jp/docs/column/teleworkgoods/2139043.html",
@@ -1232,215 +1442,6 @@
         "情報モラル",
         "行政",
         "文科省"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_5fd883604d6efcf3",
-      "title": "警察官を名乗る電話1本をきっかけに経理部長が騙され、11億円を不正送金されてしまった事例から詐欺手口への教訓を学ぶ【読めば身に付くネットリテラシー】",
-      "url": "https://internet.watch.impress.co.jp/docs/column/netliteracy/2139916.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-09-11T02:52:00.000Z",
-      "summary": "4月20日午前8時2分、上場企業の経理部長の携帯電話が鳴りました。警察官を名乗る相手から大規模な資金洗浄事件の捜査だと告げられ、それから約26時間後、会社の銀行口座からは11億7981万円が消えてしまいました――。",
-      "starred": false,
-      "category": "security",
-      "tags": [
-        "インターネット",
-        "セキュリティ",
-        "情報モラル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_03875872d39bc65f",
-      "title": "「iPhone Duo」開閉時のエフェクト、他社製品でも再現できる？ Galaxy Z Fold 8での検証結果は【やじうまWatch】",
-      "url": "https://internet.watch.impress.co.jp/docs/yajiuma/2140114.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-09-11T02:41:06.000Z",
-      "summary": "「iPhone Duo」の開閉時に表示される特徴的なアニメーションエフェクトをGalaxy Z Fold 8で再現した動画が話題だ。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_4bdef344a5e8d160",
-      "title": "マニアックすぎる？ 3Dスキャンした公共トイレのデータを集めた投稿型アーカイブサイト【やじうまWatch】",
-      "url": "https://internet.watch.impress.co.jp/docs/yajiuma/2140111.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-09-11T02:39:06.000Z",
-      "summary": "公共トイレの内部を3Dスキャンし、マウスで動かしながら見られるようにした投稿型のアーカイブサイトが海外で話題だ。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_edfbcaf6f93626bd",
-      "title": "NECが明かす「AIだけの部署」の実態　AI同士で1on1、ストレスチェックで“悩み”も可視化",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2609/11/2000001400/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-09-11T02:33:21.000Z",
-      "summary": "AIが全社員の役割を担うNECの新組織「コーポレートAI・Workforce部門」。実態や狙いを同社の小玉浩氏が語った。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_b89534c1c1c40838",
-      "title": "10Gbps対応のWi-Fi 7高機能モデル「Archer BE19000」が5万1840円など、TP-LinkのWi-FiルーターがAmazonでセール中！",
-      "url": "https://internet.watch.impress.co.jp/docs/shopping/2140071.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-09-11T02:30:00.000Z",
-      "summary": "Amazon.co.jpのTP-Linkストアページでは現在、同社のWi-Fi 7ルーターがセール価格で販売されている。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_42eb1fdca2132fa3",
-      "title": "Windows用「Gemini」アプリ提供開始　画面上に重ねて作業を中断せず利用可能に",
-      "url": "https://www.itmedia.co.jp/news/article/2609/11/2000001399/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-09-11T02:06:11.000Z",
-      "summary": "Googleは、Windows向けデスクトップアプリ「Gemini app for Windows」を公開した。Windows 10および11に対応し、UIは日本語をサポートする。［Alt］＋［Space］で作業画面上に重ねて呼び出せるほか、自律型AIエージェント「Gemini Spark」や画像・動画生成もPC上で利用できる（一部は有料プランが必要）。Mac版は4月にリリース済み。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_7767b56d76c994df",
-      "title": "お風呂でも使えるEdifierのポータブルスピーカーがAmazonでセール中　327gと軽量・小型でマルチポイント接続もできる「QS20」は3974円に",
-      "url": "https://internet.watch.impress.co.jp/docs/shopping/2140070.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-09-11T01:30:00.000Z",
-      "summary": "Amazon.co.jpのEdifierストアページでは同社のBluetooth対応ポータブルスピーカーがセール中だ。いずれも防塵防水性能を備え、浴室など水回りでも使用できる。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_4a34d5130db19152",
-      "title": "Amazon、OpenAIと広告で提携　Amazon DSPの広告主が「ChatGPT」内に広告出稿可能に",
-      "url": "https://www.itmedia.co.jp/news/article/2609/11/2000001396/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-09-11T01:03:13.000Z",
-      "summary": "Amazon Adsは、OpenAIと提携して「ChatGPT」上での広告配信に対応すると発表した。広告主はAmazon DSPを通じ、会話画面下にテキストや画像広告を出稿できるようになる。まずは米国の成人無料プラン向けパイロットとして開始し、配信面の制御はOpenAIのシステムが担う。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 60
-    },
-    {
-      "id": "item_d7c563c53811dbcc",
-      "title": "ChatGPT、最上位プランの新規受付を一時停止　「Astra」需要対応のため　既存加入者には影響なし",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2609/11/2000001394/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-09-11T00:31:23.000Z",
-      "summary": "OpenAIのティボー・ソティオ氏（通称Tibo）は新モデル「GPT-6 Astra」の需要拡大に対応するため、最上位プランの新規受付を停止すると発表した。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 60
-    },
-    {
-      "id": "item_04e76b5b9c177fbc",
-      "title": "OpenAI、金融機関向け「ChatGPT for Financial Services」　金融データ搭載し「GPT-6 Astra」で分析",
-      "url": "https://www.itmedia.co.jp/news/article/2609/11/2000001392/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-09-11T00:10:41.000Z",
-      "summary": "OpenAIは、金融機関向けAI「ChatGPT for Financial Services」を発表した。最新モデル「GPT-6 Astra」を基盤に、主要な金融データセットを標準で内蔵。財務分析や顧客向け資料作成を支援し、既存の契約データとの連携やMicrosoft Officeテンプレートの社内配布にも対応する。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 60
-    },
-    {
-      "id": "item_23457e94ee6a68a1",
-      "title": "ChatGPT Work、質問するだけで社内データ分析・グラフやダッシュボードも作る「Data agent」",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2609/11/2000001391/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-09-10T23:39:05.000Z",
-      "summary": "",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 60
-    },
-    {
-      "id": "item_339335ec64fa91b7",
-      "title": "ラック、情報リテラシーを学べるカードゲーム「リテらっこ」のスターターキット公開　配布サイトから無料でダウンロードでき、学校や企業で活用可能",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2139960.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-09-10T23:00:00.000Z",
-      "summary": "株式会社ラックは9月7日、情報リテラシーカードゲーム「リテらっこ」を手軽に体験できるスターターキットを公開した。印刷して利用する教材は無料でダウンロード可能で、学校や家庭、企業などの幅広い場面で活用できるとしている。",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "インターネット",
-        "セキュリティ",
-        "教材",
-        "ツール",
-        "教育ニュース"
       ],
       "priority_score": 50
     },
