@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T08:40:37.747Z",
+  "generated_at": "2026-09-14T15:49:29.335Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-09-14T08:40:27.947Z",
+      "published_at": "2026-09-14T15:49:20.000Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-09-14T08:40:27.947Z",
+      "published_at": "2026-09-14T15:49:20.000Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-09-14T08:40:27.947Z",
+      "published_at": "2026-09-14T15:49:20.000Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,89 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_a041b9b84f1ec9ea",
+      "title": "AI開発“減速論”過熱でソフトバンク、キオクシア株急落　その他AI関連株も",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2609/14/2000001462/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-09-14T11:16:05.000Z",
+      "summary": "米国の最先端AIモデルを開発する企業が、人類への脅威を防ぐためには開発ペースを落とす必要があると警告したことを受け、ソフトバンクやキオクシア、東京エレクトロンといったAI関連株が急落した。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_660d457431e28641",
+      "title": "コンテックの法人向けWi-Fi機器「FLEXLAN」シリーズに複数の脆弱性、最新版ファームウェアに更新を",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2140840.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-09-14T11:08:45.000Z",
+      "summary": "株式会社コンテックの法人向けWi-Fi機器「FLEXLAN」シリーズに複数の脆弱性があるとして、脆弱性情報ポータルサイト「JVN」（Japan Vulnerability Notes）が情報を公開した。コンテックでも情報を公開しており、いずれも最新版ファームウェアに更新することで対策できる。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_370ed80c101baf85",
+      "title": "東京駅の新名物は\"偶然の出会い\"　「グランスタ東京」26店舗を見た",
+      "url": "https://www.watch.impress.co.jp/docs/news/2140808.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-09-14T11:00:00.000Z",
+      "summary": "JR東京駅のエキナカ商業施設「グランスタ東京 地下 丸の内改札内エリア」が、9月16日にリニューアルオープンし、26店舗が開業する。運営するJR東日本クロスステーション デベロップメントカンパニーは、報道向け内覧会を実施した。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_ccbb5f87f04f217f",
+      "title": "盛り上がる「AI減速」論に「勝手にどうぞ。許可を求めるな」 トランプ政権幹部",
+      "url": "https://www.watch.impress.co.jp/docs/news/2140779.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-09-14T10:10:07.000Z",
+      "summary": "AnthropicやOpenAIが提案するAI開発の「減速(Pacing)」案が注目を集める中、米国の科学技術に関する大統領顧問会議(PCAST)の共同議長であるデビッド・サックス(David Sacks)氏がXの投稿で反論。「どうぞご勝手に(go ahead)。ただし、代わりに好みの規制の枠組みを要求するのは、政治システムに対する脅迫だ」と述べている。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "生成AI",
+        "AI活用"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_7ad384f2e7db090b",
+      "title": "日産・KDDIら、横浜で自動運転体験　500名募集",
+      "url": "https://www.watch.impress.co.jp/docs/news/2140733.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-09-14T08:40:58.000Z",
+      "summary": "日産自動車は14日、KDDI、Moplusらと共同で、神奈川県横浜市にて2026年度に実施する「自動運転モビリティサービスの実証実験」の詳細を発表した。期間は10月1日～12月18日。一般モニターも第1期募集を開始している。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_ed6a58a220f90b21",
@@ -1045,62 +1128,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_71cd655ff56939d0",
-      "title": "大学学園祭の「20歳未満の飲酒防止」にマイナンバーカードを　デジタル庁",
-      "url": "https://www.watch.impress.co.jp/docs/news/2140316.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-09-11T09:34:31.000Z",
-      "summary": "デジタル庁は10日、大学の学園祭で進められている、マイナンバーカードを活用した年齢確認の取組について告知し、「マイナンバーカード対面確認アプリ」を活用することで、スムーズな年齢確認が行なえると紹介している。",
-      "starred": false,
-      "category": "dx",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "校務DX",
-        "GIGA",
-        "教材",
-        "ツール",
-        "行政",
-        "文科省"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_fa76a47a9894b5d2",
-      "title": "大阪駅に「仕事もメイクもできる」新駅ナカ空間　15分200円から",
-      "url": "https://www.watch.impress.co.jp/docs/news/2140319.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-09-11T09:12:01.000Z",
-      "summary": "JR西日本デイリーサービスネットとJR西日本不動産開発は、JR大阪駅構内に駅ナカ滞在空間「ninareru(ニナレル) JR大阪駅」を10月1日に開業する。仕事や休憩に加え、メイクやヘアセットなどの身だしなみを整えられる空間として展開する。場所はJR大阪駅中央改札口を出てすぐ。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_fa3fa4467575e99d",
-      "title": "TCL、見やすさにこだわった薄型・軽量11型Androidタブレット",
-      "url": "https://www.watch.impress.co.jp/docs/news/2140239.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-09-11T08:23:42.000Z",
-      "summary": "TCL JAPAN ELECTRONICSは、「TCL TAB A1」シリーズとして、高性能ディスプレイ搭載の「TAB A1 NXTPAPER」と、日常的なコンテンツに幅広く対応する「TAB A1」の2機種を発売した。10.9インチで2Kディスプレイを搭載する、薄型・軽量でWi-Fi対応の11型Androidタブレット。販売価格は「TAB A1 NXTPAPER」が46,800円、「TAB A1」…",
-      "starred": false,
-      "category": "dx",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "校務DX",
-        "GIGA"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_28657a797d1a204a",
       "title": "「AIに任せる」はどこまで？　最終判断まで容認する20代、慎重になる50代",
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/11/news038.html",
@@ -1399,24 +1426,6 @@
       "priority_score": 60
     },
     {
-      "id": "item_7a219ae5edad7f72",
-      "title": "Anthropic、AI悪用レポートを公開　中国AI企業の「蒸留」、各国政府の監視・世論操作、生物兵器につながり得る研究を列挙",
-      "url": "https://www.itmedia.co.jp/news/article/2609/11/2000001390/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-09-10T23:13:19.000Z",
-      "summary": "Anthropicは、自社AI「Claude」の悪用事例をまとめた脅威レポートを公開した。生物兵器の設計や国家機関による世論操作や反体制派監視、通常兵器開発への利用を検知、遮断したと発表。中国AI企業による組織的なモデル抽出（蒸留）の実態も報告し、危険な転用への警戒を強めている。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_339335ec64fa91b7",
       "title": "ラック、情報リテラシーを学べるカードゲーム「リテらっこ」のスターターキット公開　配布サイトから無料でダウンロードでき、学校や企業で活用可能",
       "url": "https://internet.watch.impress.co.jp/docs/news/2139960.html",
@@ -1432,25 +1441,6 @@
         "教材",
         "ツール",
         "教育ニュース"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_3f8cbf87159bb625",
-      "title": "NECプラットフォームズの法人向けWi-Fiルーター「Aterm Biz SH」シリーズ、セキュリティ評価制度「JC-STAR」★1取得",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2139987.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-09-10T22:30:00.000Z",
-      "summary": "NECプラットフォームズ株式会社は9月10日、スモールビジネス向けWi-Fiルーター「Aterm Biz SH」シリーズの3製品が、IoT製品のセキュリティレベルを評価・可視化する「JC-STAR」の「★1」適合ラベルを取得したと発表した。",
-      "starred": false,
-      "category": "security",
-      "tags": [
-        "インターネット",
-        "セキュリティ",
-        "情報モラル",
-        "教材",
-        "ツール"
       ],
       "priority_score": 50
     },
