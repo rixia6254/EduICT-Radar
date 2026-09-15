@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-09-15T08:28:51.673Z",
+  "generated_at": "2026-09-15T14:16:01.654Z",
   "total": 102,
   "items": [
+    {
+      "id": "item_21f8651de3f2baea",
+      "title": "文部科学省ホームページトップはこちら",
+      "url": "https://www.mext.go.jp/",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-09-15T14:15:52.793Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
     {
       "id": "item_bd1951ae70f98dac",
       "title": "サイトマップはこちら",
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-09-15T08:28:42.229Z",
+      "published_at": "2026-09-15T14:15:52.793Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -25,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-09-15T08:28:42.229Z",
+      "published_at": "2026-09-15T14:15:52.793Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -38,22 +56,157 @@
       "priority_score": 60
     },
     {
-      "id": "item_21f8651de3f2baea",
-      "title": "文部科学省ホームページトップはこちら",
-      "url": "https://www.mext.go.jp/",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-09-15T08:28:42.228Z",
-      "summary": "",
+      "id": "item_8c72156af787c564",
+      "title": "DeepL Voice「音声通訳」に対応　話者の声のまま日本語も翻訳",
+      "url": "https://www.watch.impress.co.jp/docs/news/2141087.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-09-15T12:00:00.000Z",
+      "summary": "DeepLは、リアルタイム音声翻訳サービス「DeepL Voice」において、話者の声のまま相手の言語で届く「音声通訳」を開始する。声や感情表現を含む通訳は、日本語を含む14言語で対応する。また、Windows/Macのデスクトップアプリも提供開始する。",
       "starred": false,
-      "category": "admin",
+      "category": "tools",
       "tags": [
-        "行政",
-        "文科省",
-        "制度",
-        "教育ニュース"
+        "テクノロジー",
+        "デジタル",
+        "教材",
+        "ツール"
       ],
-      "priority_score": 60
+      "priority_score": 50
+    },
+    {
+      "id": "item_7269231199f732bb",
+      "title": "「GREEN×EXPO 2027」まであと半年　大屋根リングを使った5万円の限定パス",
+      "url": "https://www.watch.impress.co.jp/docs/news/2141177.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-09-15T11:36:28.000Z",
+      "summary": "GREEN×EXPO協会は9月15日、「GREEN×EXPO 2027」(2027年国際園芸博覧会)の開催半年前記者発表会を都内で開催しました。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_ba3e7284ff540ef8",
+      "title": "万博・大屋根リング木材を柱に　GREEN×EXPO「KAJIMA TREE」着工",
+      "url": "https://www.watch.impress.co.jp/docs/news/2141162.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-09-15T10:23:25.000Z",
+      "summary": "鹿島建設は、2027年国際園芸博覧会「GREEN×EXPO 2027」の会場内で、木造タワー「KAJIMA TREE」の本体工事を9月14日に開始した。建設現場も初公開し、大阪・関西万博の大屋根リングで使われた木材を再利用した柱の組み立て作業が披露された。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_e5e703172a290a45",
+      "title": "アシックスウォーキング、もっと歩きたくなるフラッグシップ「MOON AMBLE」",
+      "url": "https://www.watch.impress.co.jp/docs/news/2141144.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-09-15T10:00:13.000Z",
+      "summary": "アシックス商事は、アシックスウォーキングのフラッグシップモデル「MOON AMBLE(ムーンアンブル)」を9月16日に発売する。3品番をラインアップし、価格は25,300円から40,700円。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_2ce64dd24e16e24e",
+      "title": "シャープ、AIサーバー事業参入　拡大するフィジカルAI市場に投入",
+      "url": "https://www.watch.impress.co.jp/docs/news/2141109.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-09-15T08:44:37.000Z",
+      "summary": "シャープは、業務向けのAIサーバー事業に参入する。業界大手の鴻海科技集団(Foxconn)と連携し、“世界の供給力”を国内に展開すると謳う。企業や自治体、研究機関などに向けてラックマウントのAIサーバーを販売するもので、データセンター事業者も対象。第1弾として「NVIDIA RTX Proサーバー」(4U・空冷)の受注を開始しており、今後はより高性能な「NVIDIA HGX システム」も展開する。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_fb9e8ef788debe57",
+      "title": "「Grok 5はAGI」「4.9はAstraクラス」　マスク氏、自社AIの開発状況を共有　AI開発減速論にも賛成",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2609/15/2000001499/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-09-15T08:33:54.000Z",
+      "summary": "SpaceXAIのイーロン・マスクCEOが自社開発のAIモデル「Grok」のアップデート状況を共有。「AGIの達成はGrok 5になるだろう」と述べた。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_bfafc9137bca09d3",
+      "title": "「監視されていないときのAIは、もう評価できない」　OpenAI現役研究者が個人声明",
+      "url": "https://www.itmedia.co.jp/news/article/2609/15/2000001500/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-09-15T08:33:37.000Z",
+      "summary": "OpenAIの現役研究者ダニエル・セルサム氏は個人的な声明を公開し、モデルの状況認識向上により人間がその真の振る舞いを評価できなくなりつつあると警告した。意図しない目標を獲得したAIが制約から解放された場合、地球環境を損なうほどの極端な行動を取る恐れがあるとし、現行の安全対策に疑問を投げ掛けた。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_0e59a81b5b34b7db",
+      "title": "CO2を資源に変える藻類、生産効率化へ　NTTが新技術",
+      "url": "https://www.watch.impress.co.jp/docs/news/2141111.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-09-15T08:24:05.000Z",
+      "summary": "NTTは、微細藻類が二酸化炭素(CO2)を「いつ、どれだけ吸収しているか」を連続して把握できる技術を開発した。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_fda8a21c4e9d2881",
+      "title": "「ブラウザを開く手間」を解消　作業画面に直接呼び出せるWindows版「Gemini」公開",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/15/news076.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-09-15T08:00:00.000Z",
+      "summary": "Googleは、Aアシスタント「Gemini」をWindows 10／11のデスクトップから呼び出せるネイティブアプリを提供開始した。［Alt］＋［Space］のショートカットで即座に呼び出せる他、「Google Drive」との情報連携や画像・動画生成に対応する。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_7edbfc9693e4ba40",
@@ -1104,72 +1257,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_ccbb5f87f04f217f",
-      "title": "盛り上がる「AI減速」論に「勝手にどうぞ。許可を求めるな」 トランプ政権幹部",
-      "url": "https://www.watch.impress.co.jp/docs/news/2140779.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-09-14T10:10:07.000Z",
-      "summary": "AnthropicやOpenAIが提案するAI開発の「減速(Pacing)」案が注目を集める中、米国の科学技術に関する大統領顧問会議(PCAST)の共同議長であるデビッド・サックス(David Sacks)氏がXの投稿で反論。「どうぞご勝手に(go ahead)。ただし、代わりに好みの規制の枠組みを要求するのは、政治システムに対する脅迫だ」と述べている。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "生成AI",
-        "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_7ad384f2e7db090b",
-      "title": "日産・KDDIら、横浜で自動運転体験　500名募集",
-      "url": "https://www.watch.impress.co.jp/docs/news/2140733.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-09-14T08:40:58.000Z",
-      "summary": "日産自動車は14日、KDDI、Moplusらと共同で、神奈川県横浜市にて2026年度に実施する「自動運転モビリティサービスの実証実験」の詳細を発表した。期間は10月1日～12月18日。一般モニターも第1期募集を開始している。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_ed6a58a220f90b21",
-      "title": "LINE MUSIC、有料プラン刷新　料金そのままで特典追加",
-      "url": "https://www.watch.impress.co.jp/docs/news/2140737.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-09-14T08:23:06.000Z",
-      "summary": "LINE MUSICは、有料ユーザー向け「LINE MUSICプレミアムプラン」を刷新し、「LINE MUSIC with LYPプレミアム エンジョイ」(正式名称：LINE MUSIC with LYPプレミアム ライトプラン エンジョイパック)として提供開始した。月額および年額料金は変更せず、LINE関連の特典を追加する。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_25e9613c9a65b5c7",
-      "title": "マネックス証券「こどもNISA」10月から事前受付",
-      "url": "https://www.watch.impress.co.jp/docs/news/2140602.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-09-14T06:00:00.000Z",
-      "summary": "マネックス証券は、2027年1月から制度が開始される「こどもNISA」に向け、10月1日から「こどもNISA」口座の開設の事前受付を開始する。特設ページも公開し情報を発信していく。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_22c41674d030498d",
       "title": "米トランプ大統領、広がるAI規制論に反論　「中国へのリードを維持したい」",
       "url": "https://www.itmedia.co.jp/aiplus/article/2609/14/2000001449/",
@@ -1183,59 +1270,6 @@
         "生成AI",
         "AI",
         "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_c4c8f32e454351ad",
-      "title": "衣類を手のひらサイズに圧縮「Pocket Tips」　羽田空港などで導入へ",
-      "url": "https://www.watch.impress.co.jp/docs/news/2140643.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-09-14T05:05:57.000Z",
-      "summary": "日本空港ビルデングとSJOYは、衣類専用自動圧縮サービス「Pocket Tips」の空港への本格導入に向け、共同開発を開始する。2026年1月に羽田空港で実施した実証実験の成果を踏まえ、成田、熊本、那覇空港とも連携し、27年以降の導入を目指す。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_b544ecd8116f9f69",
-      "title": "「FDE」「ハーネス」「オープンウェイト」って何？　AI時代に現場で飛び交う10用語をGitHubが整理",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/14/news037.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-09-14T04:00:00.000Z",
-      "summary": "GitHubは、ソフトウェア開発の現場で急速に広がるAI関連の新用語を解説するガイドを公開した。「FDE」「ハーネス」「オープンウェイト」など、主要な10の用語を整理している。",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_943ca09ffa205c15",
-      "title": "Microsoft、CopilotにGrok追加　プレビューで順次提供",
-      "url": "https://www.watch.impress.co.jp/docs/news/2140579.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-09-14T03:20:15.000Z",
-      "summary": "Microsoftは12日(米国時間)、「Copilot」で選択できるAIモデルにSpaceXAIの「Grok」を追加した。まずはFrontierプログラムの対象ユーザー向けプレビューとして、Word、Excel、PowerPointで順次提供する。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "生成AI",
-        "AI活用"
       ],
       "priority_score": 50
     },
@@ -1318,41 +1352,6 @@
       "tags": [
         "インターネット",
         "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_218113554f3ff7f9",
-      "title": "日立HMAX新技術「AIオーケストレーション」、特急注文など部門間調整を自動化",
-      "url": "https://monoist.itmedia.co.jp/mn/articles/2609/14/news041.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-09-13T23:30:00.000Z",
-      "summary": "日立製作所は、製造業の部門間スケジュール調整を自動化する「AIオーケストレーション技術」の具体的な運用シナリオを公開した。部門特化型のAI群と計画最適化エンジンを連携させ、人は最終的な意思決定に集中する。2027年提供予定だ。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_0c9d51b9a3bb461f",
-      "title": "トランプ政権のサックス氏、AI「ペース調整」論に苦言　「規制がなければできないふりをやめろ」",
-      "url": "https://www.itmedia.co.jp/news/article/2609/14/2000001433/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-09-13T23:14:08.000Z",
-      "summary": "大統領科学技術諮問委員会のデビッド・サックス共同議長は、AnthropicとOpenAIのトップによるAI開発減速の提案を批判した。減速を望むなら規制や他者の許可を待たずに自ら実行すべきだと指摘。減速を条件に規制の枠組みを要求する姿勢は政治への脅迫に見えると述べ、利己的な動機を装うのをやめるよう求めた。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
       ],
       "priority_score": 50
     },
