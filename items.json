@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T08:28:39.988Z",
+  "generated_at": "2026-09-17T14:13:43.188Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-09-17T08:28:29.172Z",
+      "published_at": "2026-09-17T14:13:34.002Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-09-17T08:28:29.172Z",
+      "published_at": "2026-09-17T14:13:34.002Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-09-17T08:28:29.172Z",
+      "published_at": "2026-09-17T14:13:34.002Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,130 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_19eb1e21951cb0e8",
+      "title": "九州国立博物館、特別展ポスターに生成AI使用　当初「使用していない」と説明",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2609/17/2000001595/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-09-17T12:55:04.000Z",
+      "summary": "九州国立博物館は特別展「卑弥呼の鏡」のポスターとチラシのイラスト制作において、一部に生成AIを使用していることが分かったと報告した。当初、外部からの問い合わせに対して「使用していない」と回答していた。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_28cf0f381fe2799d",
+      "title": "ChatGPTが「マネーフォワード ME」データと連携　相談可能に",
+      "url": "https://www.watch.impress.co.jp/docs/news/2141941.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-09-17T11:30:00.000Z",
+      "summary": "マネーフォワードホームは、アプリ「マネーフォワード ME」のデータが、OpenAIの「Apps in ChatGPT」に対応したと発表した。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "生成AI",
+        "AI活用",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_cc2bd55517acccd1",
+      "title": "経産省、循環型消費を促す「CEアクションWeek」　メルカリなど10社",
+      "url": "https://www.watch.impress.co.jp/docs/news/2141924.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-09-17T09:55:39.000Z",
+      "summary": "経済産業省は、10月1日～7日に「サーキュラーエコノミー(CE)アクションWeek」を開催する。生活者に「買う・使う・分ける・まわす」の4つの循環型消費行動を呼びかけ、賛同企業10社とキャンペーンや体験企画を展開する。",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "行政",
+        "文科省"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_cd336f8a7cf03ea8",
+      "title": "ソフトバンク、HAPSで「3次元ネットワーク」へ　スマホ直接通信で下り36Mbps",
+      "url": "https://www.watch.impress.co.jp/docs/news/2141933.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-09-17T09:45:19.000Z",
+      "summary": "ソフトバンクは、8月に実施した成層圏通信プラットフォーム「HAPS(High Altitude Platform Station)」の飛行・通信試験に関する説明会を開催した。試験は日本上空で行なわれ、スマートフォン向け通信やドローン通信、エッジコンピューティングなどを検証。2027年からHAPSの商用運用開始を目指す。",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_84b5a099724c74ca",
+      "title": "SBI、ライブドアを75億円で買収　「ネオメディア」強化",
+      "url": "https://www.watch.impress.co.jp/docs/news/2141895.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-09-17T09:00:00.000Z",
+      "summary": "SBIホールディングス(SBI HD)は17日、ミンカブ・ジ・インフォノイドの子会社であるライブドアの全株式を取得することで合意したと発表した。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_53915fc77385e6d3",
+      "title": "クラファン6億突破のwena X、第3期募集　スポーツ・睡眠バンドも",
+      "url": "https://www.watch.impress.co.jp/docs/news/2141877.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-09-17T08:35:57.000Z",
+      "summary": "「wena」を承継し開発しているaugment AIは、スマートウォッチの最新モデル「wena X」(ウェナ クロス)について、GREEN FUNDINGでクラウドファンディング第3期の募集を9月18日から開始する。新たなリターンとして、運動に適した「wena X sports band」と、睡眠に適した「wena X sleep band」が追加される。wena Xの本体を含む支援プランは51,…",
+      "starred": false,
+      "category": "dx",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "校務DX",
+        "GIGA"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_995d4408db0d858c",
+      "title": "Visa、「本物」音楽新体験に向けユニバーサルミュージックと協業",
+      "url": "https://www.watch.impress.co.jp/docs/news/2141858.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-09-17T08:25:22.000Z",
+      "summary": "ビザ・ワールドワイド・ジャパン(Visa)は17日、音楽を通じたファンとアーティストの新たな体験創出を目的とし、音楽分野における協働に向けた検討について、ユニバーサルミュージック合同会社と基本合意書を締結したと発表した。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_53fd2023d97a40d8",
@@ -839,22 +963,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_2ad94f2c2bc91f30",
-      "title": "【お金の教室】キオクシア株価「一時61倍」の衝撃　日本株インデックス4指数の違いを比較する",
-      "url": "https://www.watch.impress.co.jp/docs/series/tsukamoto/2139212.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-09-16T23:20:00.000Z",
-      "summary": "半導体メーカーのキオクシアホールディングスは、2024年12月の上場から一時、株価が60倍を超える水準まで上昇し、時価総額でトヨタ自動車を抜いて国内首位となる場面がありました。個別株を持っていなくても、日本株インデックス投資をしていた人はこの成長の恩恵を受けています。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_1d8a808de58a7036",
       "title": "Anthropic、Claudeの「チャット」と「Cowork」を統合　資料作成の「Docs」「Slides」も",
       "url": "https://www.itmedia.co.jp/news/article/2609/17/2000001565/",
@@ -944,22 +1052,6 @@
         "文科省"
       ],
       "priority_score": 60
-    },
-    {
-      "id": "item_f09e8b4966ad65d5",
-      "title": "AIが乗客を検知しワンマン運転支援　パナと東急電鉄",
-      "url": "https://www.watch.impress.co.jp/docs/news/2141529.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-09-16T23:00:00.000Z",
-      "summary": "東急電鉄とパナソニック コネクトは、AI画像解析技術を活用して、ワンマン運転を行なう運転士のドア閉扉判断を支援する「乗務員支援ホーム監視AIシステム」を、9月17日から東急東横線の各駅に順次導入する。対象は渋谷駅を除く代官山駅～横浜駅の20駅で、綱島駅から導入を開始する。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
     },
     {
       "id": "item_90dd4cd4614504aa",
@@ -1060,22 +1152,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_24aaf977a9e20450",
-      "title": "全室スイートの新クルーズ船「三井オーシャンサクラ」に乗船した　足湯・寿司バー",
-      "url": "https://www.watch.impress.co.jp/docs/news/2141537.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-09-16T10:28:49.000Z",
-      "summary": "商船三井クルーズは、9月19日から運航を開始する「MITSUI OCEAN SAKURA(三井オーシャンサクラ)」の就航前事業説明・内覧会を実施した。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_e66f228dfafa115a",
       "title": "画像共有サービス「Gyazo」に不正アクセス、ユーザー情報約2362万件・画像メタデータ約4.9億件が漏えい",
       "url": "https://internet.watch.impress.co.jp/docs/news/2141538.html",
@@ -1106,54 +1182,6 @@
         "インターネット",
         "セキュリティ",
         "情報モラル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_0326c785239a2c19",
-      "title": "日本で「RCS」対応拡大　3キャリアでiPhone/Androidをまたいで使える",
-      "url": "https://www.watch.impress.co.jp/docs/news/2141526.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-09-16T09:30:59.000Z",
-      "summary": "日本国内の「RCS」によるメッセージが、通信キャリアやOSの壁を越えて利用できるようになった。Googleは16日、「AndroidとiPhoneの間のRCS送受信がより便利になった」と発表した。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_84f631c83df2317b",
-      "title": "福島県最大級「イオンモール伊達」 11月27日オープン",
-      "url": "https://www.watch.impress.co.jp/docs/news/2141491.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-09-16T09:02:58.000Z",
-      "summary": "イオンは、福島県伊達市の商業施設「イオンモール伊達」を11月27日にグランドオープンする。福島県最大級を謳うグルメゾーンのほか、屋外テラス「ROOFTOP TERRACE」を中心としたエンターテインメントゾーン、地域とつながるコミュニティゾーン「だてのわ」などを展開する。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_6b06a176c5fb3854",
-      "title": "通信4社、5Gミリ波の利用エリア拡大に向け共同検討",
-      "url": "https://www.watch.impress.co.jp/docs/news/2141496.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-09-16T08:49:22.000Z",
-      "summary": "KDDI、NTTドコモ、ソフトバンク、楽天モバイルは11日、各社が保有・構築する「5G(第5世代移動通信システム)」のミリ波利用エリア拡大に向けた共同検討を実施することに合意し、覚書を締結した。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
       ],
       "priority_score": 50
     },
@@ -1402,24 +1430,6 @@
         "AI活用"
       ],
       "priority_score": 60
-    },
-    {
-      "id": "item_d69d53936438e787",
-      "title": "OpenAI、AI安全性でAnthropic、Google DeepMindと協議中──Bloomberg報道",
-      "url": "https://www.itmedia.co.jp/news/article/2609/16/2000001522/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-09-15T22:13:20.000Z",
-      "summary": "OpenAIが、AnthropicやGoogle DeepMindとAIの安全性確保に向けて協議を進めているとBloombergが報じた。反トラスト法の適用除外を巡っては米当局の警戒や議会での法案提出など議論が活発化。一方、NVIDIAのフアンCEOは市場原理で安全性と迅速な開発は両立可能として政府の介入に否定的な見方を示した。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 50
     },
     {
       "id": "item_da8a94ef26228245",
