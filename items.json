@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T13:31:46.308Z",
+  "generated_at": "2026-09-18T22:56:01.825Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-09-18T13:31:37.385Z",
+      "published_at": "2026-09-18T22:55:52.682Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-09-18T13:31:37.385Z",
+      "published_at": "2026-09-18T22:55:52.682Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-09-18T13:31:37.385Z",
+      "published_at": "2026-09-18T22:55:52.682Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,78 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_175ed4dedbabdf22",
+      "title": "「規定を探す時間」をAIで短縮　豊川信用金庫が生成AIを職員のFAQに活用",
+      "url": "https://kn.itmedia.co.jp/kn/article/2609/19/2000001616/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-09-18T22:00:00.000Z",
+      "summary": "業務規定や商品知識など、金融機関には日々参照する情報が多い。必要な情報を探したり、詳しい職員に確認したりする時間も課題となる。ココペリは、こうした情報検索を生成AIで支援する「SAF」を豊川信用金庫に導入した。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_4a046b24523862b0",
+      "title": "「AIで資料は作れるけど、増えすぎた」を解消するNotebook機能とは？",
+      "url": "https://kn.itmedia.co.jp/kn/article/2609/19/2000001614/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-09-18T22:00:00.000Z",
+      "summary": "生成AIでスライドや図解を手軽に作れるようになった一方、作成物が増えるほど「どれが何の資料か分からない」「目的の資料を探せない」といった問題が起きやすい。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_1a2317802283ea22",
+      "title": "AI導入は6割、でも8割超が「チャット止まり」　業務自動化まで進まない原因は？",
+      "url": "https://kn.itmedia.co.jp/kn/article/2609/19/2000001624/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-09-18T22:00:00.000Z",
+      "summary": "「AIを導入したが、チャットに使うだけ」。そんな中小企業は少なくない。クラウドワークスの調査では、AI利用企業の8割超がチャット利用にとどまった。業務自動化を阻む原因は何か。",
+      "starred": false,
+      "category": "dx",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "校務DX",
+        "GIGA"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_01e6f6fa4dde8106",
+      "title": "シフト作りの悩み、XORで解決 ── ベテランは「どちらか一方だけ」【英語会話・対訳つき】",
+      "url": "https://note.com/plum_tree/n/n49c2b71c581c",
+      "source_id": "note_joho1",
+      "source_name": "note（情報科教員）",
+      "published_at": "2026-09-18T15:04:54.000Z",
+      "summary": "ケンタさんのお母さんは、カフェを経営しています。今日は来月のシフト表とにらめっこ。ベテランのアヤさんとユミさんは頼りになるけれど、時給が高いので2人同時に入れると人件費がかさんでしまう。かといって、どちらも入っていない日は、新人だけで店が回るか心配……。困っているお母さんに、パソコン部のケンタさんが声をかけます。 続きをみる",
+      "starred": false,
+      "category": "lesson",
+      "tags": [
+        "授業実践",
+        "情報Ⅰ",
+        "教材"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_6ef91bfb90b742a0",
@@ -1373,59 +1445,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_cd1dce4d299f7253",
-      "title": "OpenAI、モデルの「ミスアライメント」報告の新フレームワーク公開　データ捏造など6件の事例も公表",
-      "url": "https://www.itmedia.co.jp/news/article/2609/17/2000001570/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-09-17T01:23:50.000Z",
-      "summary": "OpenAIは、AIモデルの開発過程などで確認されたミスアライメント事例を追跡・公表するための新枠組みを発表した。実害の有無を問わず迅速に情報共有する方針で、APIキーの無断探索やデータ捏造、不正な指示の書き込みなど、未公開モデルや「GPT-5.6 Sol」の訓練中に観測された6件の事例報告書も公開した。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_1d8a808de58a7036",
-      "title": "Anthropic、Claudeの「チャット」と「Cowork」を統合　資料作成の「Docs」「Slides」も",
-      "url": "https://www.itmedia.co.jp/news/article/2609/17/2000001565/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-09-16T23:05:35.000Z",
-      "summary": "AnthropicがAIアシスタント「Claude」のチャットと作業環境「Claude Cowork」を統合した。簡単な対話から複数手順の複雑な作業までを1つの会話内で完結でき、文書作成「Claude Docs」やスライド作成機能も追加。ProやMax向けから段階的に展開する。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_389d7f4e9e8fc764",
-      "title": "三菱重工、インフラ・防衛向けAIでPFNと資本業務提携　100億円出資し共同開発",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2609/17/2000001563/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-09-16T23:00:00.000Z",
-      "summary": "三菱重工業とPreferred Networksが資本業務提携契約を締結。三菱重工はPFNに100億円を出資し、社会インフラや国家安全保障分野で機械・システムの知能化・自律化に向けたAI技術の共同開発を本格化する。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_da8a94ef26228245",
       "title": "ノートパソコンの「謎の箱」のひみつ ── ACアダプター【英語マンガ・対訳つき】",
       "url": "https://note.com/plum_tree/n/n9ac35efbac1d",
@@ -1779,25 +1798,6 @@
         "共通テスト",
         "入試",
         "教育ニュース"
-      ],
-      "priority_score": 70
-    },
-    {
-      "id": "item_5c6512bd7c0be551",
-      "title": "共通テスト『情報Ⅰ』の分析と対策",
-      "url": "https://note.com/mei_math/n/nb398d73e5996",
-      "source_id": "note_joho1",
-      "source_name": "note（情報科教員）",
-      "published_at": "2026-07-24T22:50:18.000Z",
-      "summary": "情報Ⅰに時間を割きたくない。 でも、点数も落としたくない。 その気持ち、とてもよくわかります。 配点も低いし、2次試験にもないし。コスパがよくないですよね。 続きをみる",
-      "starred": false,
-      "category": "exam",
-      "tags": [
-        "授業実践",
-        "情報Ⅰ",
-        "教材",
-        "共通テスト",
-        "入試"
       ],
       "priority_score": 70
     }
