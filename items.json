@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T07:53:24.041Z",
+  "generated_at": "2026-09-19T13:01:01.964Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-09-19T07:53:12.173Z",
+      "published_at": "2026-09-19T13:00:51.520Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-09-19T07:53:12.173Z",
+      "published_at": "2026-09-19T13:00:51.520Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-09-19T07:53:12.173Z",
+      "published_at": "2026-09-19T13:00:51.520Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -273,24 +273,6 @@
       "category": "security",
       "tags": [
         "インターネット",
-        "セキュリティ",
-        "情報モラル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_a313890e12d3c4e3",
-      "title": "ICT教育ニュースよりメンテナンス作業のお知らせ",
-      "url": "https://ict-enews.net/2026/09/18icten-3/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-09-18T08:39:42.000Z",
-      "summary": "読者の皆さま ICT教育ニュースでは、本日（18日）夜間から翌日（19日）にかけて、メンテナンス作業を実施いたします。 つきましては、作業中、一時的にブラウザのセキュリティ警告が表 […]",
-      "starred": false,
-      "category": "security",
-      "tags": [
-        "教育ニュース",
-        "ICT",
         "セキュリティ",
         "情報モラル"
       ],
@@ -933,6 +915,22 @@
         "入試"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_2ba583941090eefb",
+      "title": "プロシーズ、製造業向けeラーニング「Start engineer」全49講座をインドネシア語に対応",
+      "url": "https://ict-enews.net/2026/09/0918pro-seeds/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-09-18T00:43:31.000Z",
+      "summary": "プロシーズは16日、製造業の新人・未経験者向けeラーニングサービス「Start engineer」の全49講座について、インドネシア語版を2026年11月から配信する予定だと発表し […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_9ccd4c50913722fb",
