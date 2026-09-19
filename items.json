@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T13:01:01.964Z",
+  "generated_at": "2026-09-19T22:36:07.080Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-09-19T13:00:51.520Z",
+      "published_at": "2026-09-19T22:35:57.177Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-09-19T13:00:51.520Z",
+      "published_at": "2026-09-19T22:35:57.177Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-09-19T13:00:51.520Z",
+      "published_at": "2026-09-19T22:35:57.177Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,116 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_4053b7f3da95c6f8",
+      "title": "AI人材を採用できない中小企業、専門家を「必要な時だけ」活用する支援サービス",
+      "url": "https://kn.itmedia.co.jp/kn/article/2609/20/2000001626/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-09-19T22:00:00.000Z",
+      "summary": "生成AIを導入しても、現場で使いこなせなければ業務改善にはつながらない。中小企業ではAI人材の不足や研修、費用が壁となる中、専門人材を常時抱えるのではなく、「必要な時だけ活用する」という選択肢を提供するベンダーがある。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_85e89b2b180e3276",
+      "title": "AIを入れても仕事は変わらない？　アビームとNotionが「企業ナレッジ」に注目する理由",
+      "url": "https://kn.itmedia.co.jp/kn/article/2609/20/2000001660/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-09-19T22:00:00.000Z",
+      "summary": "AIエージェントの導入が進む一方、企業固有の業務を任せるには、社内に分散する知識や個人の経験則をAIが使える形に整える必要がある。アビームとNotionは、ナレッジを起点に業務と組織を変える。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_6c1991dc3fa92060",
+      "title": "AIを入れても「最後は人頼み」　自動化の穴を「AI＋人」で埋める新たなBPOサービス",
+      "url": "https://kn.itmedia.co.jp/kn/article/2609/20/2000001625/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-09-19T22:00:00.000Z",
+      "summary": "RPAや生成AIを導入しても、例外処理や目視確認、システム更新など「最後に人がやる仕事」は残る。Generative Partnersは、こうした自動化しきれない業務をAIと人力で分担し、BPOとして丸ごと引き受けるサービスを始めた。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_463c0a811bb0d95f",
+      "title": "AI導入でつまずく中小企業、「何を・誰が・どう変えるか」を丸ごと支援",
+      "url": "https://kn.itmedia.co.jp/kn/article/2609/20/2000001627/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-09-19T22:00:00.000Z",
+      "summary": "生成AIを導入したくても、「どの業務から始めるか分からない」「AI人材がいない」と悩む中小企業は少なくない。ただツールを導入するだけでは業務は変わらない。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_87decfcf76eabe25",
+      "title": "AI攻撃は「調べて対応」では間に合わない　ゼットスケーラーがSOCをAIエージェント化",
+      "url": "https://kn.itmedia.co.jp/kn/article/2609/20/2000001661/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-09-19T22:00:00.000Z",
+      "summary": "AIによってサイバー攻撃のスピードが増す一方、企業の防御現場では人が大量のアラートを調査し、対応を判断している。人手不足も重なる中、ゼットスケーラーはAIエージェントを活用し、検知から調査、対応までを自動化する新たなSOCを打ち出した。",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_eb6f9000e760a473",
+      "title": "「GTP」って言ってない？ ── GPTを二度と間違えない覚え方【マンガ】",
+      "url": "https://note.com/plum_tree/n/n0b78b9149e7a",
+      "source_id": "note_joho1",
+      "source_name": "note（情報科教員）",
+      "published_at": "2026-09-19T15:50:43.000Z",
+      "summary": "パソコン部に所属する高校生のケンタさん。ある日、帰宅すると、お父さんが両手で顔を覆ってため息をついていました。心配になったケンタさんが声をかけます。 続きをみる",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "授業実践",
+        "情報Ⅰ",
+        "教材",
+        "教育ニュース"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_6dadc38cb1ce9e01",
@@ -1158,45 +1268,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_07dce623d6001e15",
-      "title": "経営「AIでラクして早く帰って」→社員「帰らない」　工数最大9割減のDeNAも悩むAI効率化の壁",
-      "url": "https://www.itmedia.co.jp/news/article/2609/18/2000001484/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-09-17T22:00:00.000Z",
-      "summary": "働く側は仕事が増えたと訴え、経営側は人が浮いてこないと嘆く。AIは確かに時間を生んでいる。しかし、その時間はどこへ消えているのか。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_a46cb00644493f3a",
-      "title": "Microsoftが進めるCopilot再編　「Microsoft Copilot」への移行で、企業への影響は？",
-      "url": "https://kn.itmedia.co.jp/kn/article/2609/18/2000001586/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-09-17T22:00:00.000Z",
-      "summary": "Microsoftは、「Microsoft 365 Copilot」のアプリや利用体験を「Microsoft Copilot」に整理する変更を8月から段階的に進めている。Web版のURLも変更されるため、接続先を個別に制限している企業では、IT管理者によるネットワーク設定の確認が必要になる可能性がある。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用",
-        "校務DX",
-        "GIGA",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_8b6ec06d82ea93cb",
       "title": "「神風」に乗ったSo-netと、「挑戦」として生まれたNURO 光、両サービスが見据える30年後～ソニーネットワークコミュニケーションズ　それぞれの視点から目指す「ソニーグループ企業らしさ」とは",
       "url": "https://internet.watch.impress.co.jp/docs/special/30thinterview/2138094.html",
@@ -1209,24 +1280,6 @@
       "tags": [
         "インターネット",
         "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_d648f712cd0978a0",
-      "title": "NVIDIA、Google、Emerald AIがAIデータセンターの電力消費調整を目指すアライアンス設立　Anthropicも参加",
-      "url": "https://www.itmedia.co.jp/news/article/2609/18/2000001599/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-09-17T21:46:04.000Z",
-      "summary": "NVIDIAとGoogleは新興企業Emerald AIとともに、電力網の状況に応じて消費電力を動的に制御する「柔軟なデータセンター」の普及を目指す新団体「AEMA」を設立した。送電網の容量不足や住民の電気料金高騰懸念がAIインフラ拡充の壁となる中、計算処理の分散や専用ソフトを活用し、既存電力網の効率運用と接続期間の短縮を図る。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
       ],
       "priority_score": 50
     },
@@ -1261,24 +1314,6 @@
         "セキュリティ"
       ],
       "priority_score": 50
-    },
-    {
-      "id": "item_19eb1e21951cb0e8",
-      "title": "九州国立博物館、特別展ポスターに生成AI使用　当初「使用していない」と説明",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2609/17/2000001595/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-09-17T12:55:04.000Z",
-      "summary": "九州国立博物館は特別展「卑弥呼の鏡」のポスターとチラシのイラスト制作において、一部に生成AIを使用していることが分かったと報告した。当初、外部からの問い合わせに対して「使用していない」と回答していた。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 60
     },
     {
       "id": "item_28cf0f381fe2799d",
@@ -1349,24 +1384,6 @@
       "tags": [
         "テクノロジー",
         "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_53fd2023d97a40d8",
-      "title": "ローカルLLM利用のクリニックが話題　院長自ら環境を構築　「医療機器より安い」は本当か",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2609/17/2000001587/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-09-17T07:31:47.000Z",
-      "summary": "ローカルLLMを利用しているクリニックが話題だ。話題のクリニックと、同種サービスを提供するベンダーに話を聞いた。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
       ],
       "priority_score": 50
     },
@@ -1772,26 +1789,6 @@
         "教育ニュース"
       ],
       "priority_score": 50
-    },
-    {
-      "id": "item_cba0e2cb28f53d1b",
-      "title": "英語のマンガ【共通テスト情報Ⅰ風】データマネジメント／欠損値の処理：消えかけた数字を救出せよ！",
-      "url": "https://note.com/plum_tree/n/n183666407853",
-      "source_id": "note_joho1",
-      "source_name": "note（情報科教員）",
-      "published_at": "2026-07-25T12:15:21.000Z",
-      "summary": "高校生のエミさんは、吹奏楽部の定期演奏会を見に来てくれた人へのアンケート（questionnaire）を集計しようとしましたが、10代・20代…から選択する「年代（age group）」や5段階評価の「満足度（satisfaction rating）」に空欄のままの回答が含まれていました。 エミさんは集計を始めましたが… 続きをみる",
-      "starred": false,
-      "category": "exam",
-      "tags": [
-        "授業実践",
-        "情報Ⅰ",
-        "教材",
-        "共通テスト",
-        "入試",
-        "教育ニュース"
-      ],
-      "priority_score": 70
     }
   ],
   "clips": []
