@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T13:31:56.619Z",
+  "generated_at": "2026-09-20T22:50:14.388Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-09-20T13:31:46.239Z",
+      "published_at": "2026-09-20T22:50:04.208Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-09-20T13:31:46.239Z",
+      "published_at": "2026-09-20T22:50:04.208Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-09-20T13:31:46.239Z",
+      "published_at": "2026-09-20T22:50:04.208Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,96 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_6127d95073ffe207",
+      "title": "「社長の頭の中」をAIに　経営と現場をつなぐ専用AIとは？",
+      "url": "https://kn.itmedia.co.jp/kn/article/2609/21/2000001651/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-09-20T22:00:00.000Z",
+      "summary": "ベテラン社員の退職で、会社に蓄積された経験やノウハウが失われる。そんな中小企業の「知識の属人化」に向き合い、社長の経験や現場の知恵を蓄積する専用AIが登場した。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_12f6c724b5ed14a0",
+      "title": "AI研修を受けた人は1割未満　「学びたい」4割超なのに、なぜ？",
+      "url": "https://kn.itmedia.co.jp/kn/article/2609/21/2000001604/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-09-20T22:00:00.000Z",
+      "summary": "企業でAI活用やDX推進が求められる一方、職場でそれらが話題にならず、研修を受ける機会も限られている。調査では、研修未経験者が9割に達する一方、4割超がAI・デジタルスキルの習得を希望している。学ぶ意欲と機会のギャップが浮かんだ。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_1f987605d2376b01",
+      "title": "大和鋼管工業、SaaS増加で複雑化したライセンス管理を「情シスAI」でどう解決？",
+      "url": "https://kn.itmedia.co.jp/kn/article/2609/21/2000001655/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-09-20T22:00:00.000Z",
+      "summary": "SaaSの増加に伴い、ライセンスの利用状況やコスト管理が複雑になっていた大和鋼管工業。部署ごとに分散していたSaaSやアカウント情報の一元化に動いた。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_84d4ad542ed54e35",
+      "title": "双日調査、Copilot導入企業の87.5％が「情報分散」を課題　「横断検索AI」に期待か",
+      "url": "https://kn.itmedia.co.jp/kn/article/2609/21/2000001657/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-09-20T22:00:00.000Z",
+      "summary": "双日テックイノベーションの調査によると、Copilot・M365導入企業の78％が社内情報の検索・活用を「カバーできている」と回答。一方、87.5％が情報の分散を課題に挙げ、96.2％が社内情報を横断的に検索・活用できるAI環境によって、AI活用が広がると回答した。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_8e15f4289615df85",
+      "title": "Googleの「Gemini」も能力テスト中に実在企業3社に侵入──WSJ報道",
+      "url": "https://www.itmedia.co.jp/news/article/2609/21/2000001665/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-09-20T21:50:52.000Z",
+      "summary": "GoogleのAI「Gemini」が、サイバーセキュリティの評価テスト中に外部ネットワークへ接続し、実在する3社のシステムへ自律的に侵入していたことが判明した。架空なはずの社名が実存企業と一致したことやテスト環境の設定不備が原因。Googleは、Geminiが実在企業と認識した時点で侵入を中止しており、実害やミスアライメントはないと説明している。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_0f7ca0b5c0c7894b",
@@ -1166,80 +1256,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_f72f5218c9b4f77d",
-      "title": "経営者は「AI導入」に夢中、現場は「IT環境」に疲弊　ITサポート軽視が招く時間・人件費ロスの実態",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/18/news036.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-09-17T23:00:00.000Z",
-      "summary": "DXERは、社内IT環境と従業員の成果に関する実態調査の結果を発表した。動作の遅い端末やツール不足により、従業員1人当たり年間147時間が失われているという。",
-      "starred": false,
-      "category": "dx",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "校務DX",
-        "GIGA",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_b296694b98fc348e",
-      "title": "恐るるに足らず？　中国フィジカルAI主要15社と5大集積地で見る「点と線と面」",
-      "url": "https://monoist.itmedia.co.jp/mn/articles/2609/18/news012.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-09-17T23:00:00.000Z",
-      "summary": "ヒト型ロボットの競技会や個別企業の新製品、資金調達など、中国のフィジカルAIを巡るさまざまなニュースが相次いでいる。しかし、こうした「点」の情報だけでは、完成品からAI基盤、基幹部品、供給網まで広がる業界全体の構造は見えにくい。SUGENAが開催したセミナーから、主要15社、大学ネットワーク、5つの地域集積を手掛かりに、中国フィジカルAIの全体像を読み解く。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_cf5bce813bf2b61b",
-      "title": "AIへの「念のためプロンプト」はもう逆効果　Claudeのトークンを浪費する6つのアンチパターン",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/18/news040.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-09-17T23:00:00.000Z",
-      "summary": "Anthropicは、Claude Platformでコスト削減と精度向上を両立する3つの手法を公開した。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_b2f835ac07cb2227",
-      "title": "資生堂、AIエージェントで原料探索時間を95％削減　研究員の「目利き」を複数LLMで再現",
-      "url": "https://www.itmedia.co.jp/enterprise/articles/2609/18/news020.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-09-17T23:00:00.000Z",
-      "summary": "資生堂ジャパンは研究開発領域にAIエージェントを導入し、膨大な候補から有望な原料を見極める研究員の「目利き」を再現した。探索時間が縮んだだけでなく、提案される原料の数も増えた。同社はエージェントを「誰が作るか」でも作り分けている。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_78ddb96f5db3d671",
       "title": "サンリオキャラの紛失防止タグ　Apple「探す」対応",
       "url": "https://www.watch.impress.co.jp/docs/news/2141813.html",
@@ -1301,24 +1317,6 @@
       "tags": [
         "インターネット",
         "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_fccd48ae4862994e",
-      "title": "英チャールズ国王、AI大手トップらに「実存的な危険」を警告　NVIDIAやOpenAI、Anthropicが参加",
-      "url": "https://www.itmedia.co.jp/news/article/2609/18/2000001600/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-09-17T22:23:23.000Z",
-      "summary": "英国王室は、チャールズ国王主催のAIサミットを開催した。NVIDIAのフアンCEOやGoogle DeepMindのハサビス会長ら業界幹部が参加。国王は技術が悪用され破滅的な被害をもたらすリスクに警鐘を鳴らし、参加した各社幹部も安全性確保やオープン化の重要性、協調対応の必要性を訴えた。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
       ],
       "priority_score": 50
     },
