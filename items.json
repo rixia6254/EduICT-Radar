@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-19T22:36:07.080Z",
-  "total": 103,
+  "generated_at": "2026-09-20T08:23:31.296Z",
+  "total": 83,
   "items": [
     {
       "id": "item_21f8651de3f2baea",
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-09-19T22:35:57.177Z",
+      "published_at": "2026-09-20T08:23:21.457Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-09-19T22:35:57.177Z",
+      "published_at": "2026-09-20T08:23:21.457Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-09-19T22:35:57.177Z",
+      "published_at": "2026-09-20T08:23:21.457Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,78 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_0f7ca0b5c0c7894b",
+      "title": "「Jev」とは　“文章を書かないAI”がなぜ話題に？　元OpenAI研究者が開発、「“スマートなif文”と考えてみて」",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2609/20/2000001664/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-09-20T07:00:26.000Z",
+      "summary": "米スタートアップのTypeSafe AIが9月15日（現地時間）に発表したAIモデル「Jev」（ジェヴ）が、海外や日本のAIコミュニティで大きな注目を集めている。この記事では、Jevとは何か、LLMとはどう違うのかなどを整理する。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_8e94fd4c416a5de5",
+      "title": "メガバンクは金利0.5%に　各行独自の引き上げも",
+      "url": "https://www.watch.impress.co.jp/docs/news/2142489.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-09-20T03:48:10.000Z",
+      "summary": "日銀は18日、政策金利を1.25%程度に引き上げることを決定。連動して多くの銀行が円普通預金金利の引き上げを発表した。",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "行政",
+        "文科省"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_ea9054730729c054",
+      "title": "「待ち時間も楽しい」　音楽体験を強化するVisaと\"削ってはいけない時間\"",
+      "url": "https://www.watch.impress.co.jp/docs/topic/watchplus/2142010.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-09-20T00:00:00.000Z",
+      "summary": "Impress Watchニュースレターに掲載した記事です。ニュースレターは無料で、毎週編集部員が会員向けのコラムなどをお送りしています。登録はこちらから。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_f92222e02f126870",
+      "title": "高校生70名に「情報I」を熱血指導！能開センターでの特別授業とBeEngineer梅田校の圧倒的熱量",
+      "url": "https://note.com/beengineer_fuji/n/ne735c78ad58e",
+      "source_id": "note_joho1",
+      "source_name": "note（情報科教員）",
+      "published_at": "2026-09-19T23:11:09.000Z",
+      "summary": "BeEngineer梅田校責任者の藤原圭吾です。 この週末、私は新卒から6年間お世話になった古巣である栃木県の「能開センター」に呼んでいただき、高校生向けの「共通テスト 情報I」特別対策授業の壇上に立ってまいりました。 続きをみる",
+      "starred": false,
+      "category": "exam",
+      "tags": [
+        "授業実践",
+        "情報Ⅰ",
+        "教材",
+        "共通テスト",
+        "入試",
+        "教育ニュース"
+      ],
+      "priority_score": 70
     },
     {
       "id": "item_4053b7f3da95c6f8",
@@ -703,346 +775,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_894a28a1406c9634",
-      "title": "『基礎学力』とは何か？日本の保護者は「知識、技能」、他9カ国は「活用する力」=スプリックス教育財団調べ=",
-      "url": "https://ict-enews.net/2026/09/18sprix-foundation-2/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-09-18T00:47:49.000Z",
-      "summary": "スプリックス教育財団は16日、日本を含む10カ国の小中学生とその保護者・学校の先生を対象に「国際基礎学力調査2026」を実施し、その結果を発表した。 本調査では『基礎学力』に着目し […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_61d4e9dcd819d377",
-      "title": "小学3年生以上が「自由研究離れ」1年で16％→31％に倍増=いこーよファミリーラボ調べ=",
-      "url": "https://ict-enews.net/2026/09/18iko-yo/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-09-18T00:47:36.000Z",
-      "summary": "子育て世代のお出かけ情報サイト「いこーよ」を運営するアクトインディは16日、子育て家庭の保護者498名を対象に、2026年の夏休みの自由研究に関する意識調査を実施、その結果を発表し […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_523c3dd11a43c164",
-      "title": "母子モ、母子手帳アプリ『母子モ』が京都府京丹波町で提供を開始",
-      "url": "https://ict-enews.net/2026/09/18boshimo-6/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-09-18T00:47:23.000Z",
-      "summary": "母子モ、同社が運営する母子手帳アプリ「母子モ」が京都府船井郡京丹波町で導入され、『kyotambaこそだてアプリ』として9月17日から提供を開始した。 京丹波町では、「広げよう 地 […]",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "教育ニュース",
-        "ICT",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_1190e78e76784ef2",
-      "title": "岡山理科大学、Google Gemini公式noteが同学「スポーツ×生成AI」の取り組みを前後編で紹介",
-      "url": "https://ict-enews.net/2026/09/18ous/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-09-18T00:47:03.000Z",
-      "summary": "岡山理科大学は16日、Googleが運営する「Gemini – Google の AI」公式noteに、岡山理科大学サッカー部における生成AI「Gemini」を活用した […]",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "教育ニュース",
-        "ICT",
-        "生成AI",
-        "AI活用"
-      ],
-      "priority_score": 60
-    },
-    {
-      "id": "item_638d9fa659a01592",
-      "title": "八ヶ岳農業大学校、「AI副校長」のサポートで学生・職員が育てた高原野菜を直売所で販売中",
-      "url": "https://ict-enews.net/2026/09/18yatsunou/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-09-18T00:46:54.000Z",
-      "summary": "八ヶ岳農業大学校は16日、独自に構築・開発した生成AIシステム「AI副校長」やセンシングデータなどを活用した最先端の農業に挑戦し、高原野菜を生産、現在も収穫および販売を継続している […]",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "教育ニュース",
-        "ICT",
-        "生成AI",
-        "AI活用"
-      ],
-      "priority_score": 60
-    },
-    {
-      "id": "item_8be16e19c0a5007b",
-      "title": "檸檬会、オンライン研修の不安からサポート「サビ管・児発管 基礎研修」受講生募集中",
-      "url": "https://ict-enews.net/2026/09/18lemonkai/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-09-18T00:46:03.000Z",
-      "summary": "檸檬会は16日、2026年度 東京都と埼玉県のサービス管理責任者等基礎研修の受講生を募集していると発表した。 オンライン研修は自分の都合に合わせて学べるから便利だけど、パソコンの設 […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_f66e9498177b6510",
-      "title": "立命館大学、文科省「大学・高専機能強化支援事業（成長分野転換基金）」に採択",
-      "url": "https://ict-enews.net/2026/09/18ritsumei-4/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-09-18T00:45:48.000Z",
-      "summary": "立命館大学は16日、文部科学省が公募する「大学・高専機能強化支援事業（成長分野転換基金）」〔支援2：高度情報専門人材の確保に向けた機能強化に係る支援「重点分野支援枠」〕に採択された […]",
-      "starred": false,
-      "category": "admin",
-      "tags": [
-        "教育ニュース",
-        "ICT",
-        "行政",
-        "文科省"
-      ],
-      "priority_score": 60
-    },
-    {
-      "id": "item_bb64df86ada6fe87",
-      "title": "情報処理学会、2026年度第2回認定情報技術者（CITP）個人認証申請を受付中",
-      "url": "https://ict-enews.net/2026/09/18ipsj/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-09-18T00:45:37.000Z",
-      "summary": "情報処理学会は16日、2026年度第2回認定情報技術者（CITP）個人認証申請受付を開始した。 CITP（Certified IT Professional）は経済産業省の「ITス […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_62affa2bc87dc44e",
-      "title": "あしなが育英会、中学生に支援を拡大　新中学1年生400人に5万円給付",
-      "url": "https://ict-enews.net/2026/09/18ashinaga/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-09-18T00:45:26.000Z",
-      "summary": "あしなが育英会は17日、中学校に入学する遺児や親に障がいがある子どもを対象に、入学直前に5万円を給付する「中学校進学支援金」制度を創設すると発表した。 初年度は、2027年4月に中 […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_d8495349eeb3cf0c",
-      "title": "中高生のための3DCGコンテスト「CG部ネクストスターズ2026」エントリー締切まで1カ月",
-      "url": "https://ict-enews.net/2026/09/18borndigital/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-09-18T00:45:16.000Z",
-      "summary": "ボーンデジタルは、中学生・高校生のための3DCGコンテスト「CG部ネクストスターズ2026」を開催している。エントリー締切は10月16日。 3DCG・映像クリエイター向けメディア「 […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_21f9a5079bebd113",
-      "title": "ロブロックス、サービス開始から今年で20年「The Hunt: Roblox 20」に参加しよう",
-      "url": "https://ict-enews.net/2026/09/18roblox/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-09-18T00:45:06.000Z",
-      "summary": "世界で1億3200万人以上が利用するオンラインプラットフォーム「Roblox（ロブロックス、NYSE：RBLX）」は、今年、サービス開始から20年を迎える。 これを記念してRobl […]",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "教育ニュース",
-        "ICT",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_9b6fb5465b308963",
-      "title": "エクシード、AI時代の学びを届けるための体験教材3種を試作　モニター教室募集",
-      "url": "https://ict-enews.net/2026/09/18tfe-2/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-09-18T00:44:56.000Z",
-      "summary": "10代向けデジタル人材育成サービス「TechHigher」を運営するエクシードは17日、プログラミング教室が保護者と子どもにAI時代の学びを届けるための体験教材3種「親子AI体験」 […]",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "教育ニュース",
-        "ICT",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 60
-    },
-    {
-      "id": "item_112d2d062413c514",
-      "title": "iOSコンソーシアム、MacBook Neo体験セミナーを名古屋で10月24日開催",
-      "url": "https://ict-enews.net/2026/09/18ios/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-09-18T00:44:46.000Z",
-      "summary": "iOSコンソーシアムは、教育産業本社ビル8階のKsg Lab.（名古屋市中区）で「MacBook Neo体験セミナー」を10月24日に開催する。 参加者全員に体験用のMacBook […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_20d353c50aba6a08",
-      "title": "mpi英語教育フォーラム「世界とつながる喜びを育てる、これからの英語教育」開催",
-      "url": "https://ict-enews.net/2026/09/18mpi-j-2/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-09-18T00:44:35.000Z",
-      "summary": "mpi 松香フォニックスは、全国の英語指導者および、子どもの英語教育に関心がある保護者に向けた「英語教育フォーラム」を10 月 24 日（土） 、11 月 7 日（土）、12 月 […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_9674592c198568f2",
-      "title": "NIJIN、不登校の中学生へ 高校進学の伴走支援を開始",
-      "url": "https://ict-enews.net/2026/09/18nijin-7/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-09-18T00:44:25.000Z",
-      "summary": "NIJINが運営する通信制高校サポート校「NIJIN高等学院（ニジ高）」は18日、9月28日から、中学2・3年生とその保護者を対象とした無料の進路支援プログラムを開始すると発表した […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_c65eb53e6416d8df",
-      "title": "タオ、幼児期の「学びに向かう力」の育て方を解説する無料セミナー10月2日開催",
-      "url": "https://ict-enews.net/2026/09/18tao-st-2/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-09-18T00:44:16.000Z",
-      "summary": "教育・保育・療育施設向けICT教材「天神X」を開発するタオは、幼稚園・保育所・認定こども園を対象とした無料オンラインセミナー「『非認知能力を育てたい』園にこそ知ってほしい 認知的な […]",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "教育ニュース",
-        "ICT",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_0e8fa0f9f5ffb8ca",
-      "title": "ホビーク、子どもの毎日の持ち物準備をカメラで確認「たーとるうぃずのもちものチェック」公開",
-      "url": "https://ict-enews.net/2026/09/18turtlewiz/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-09-18T00:43:56.000Z",
-      "summary": "ホビークは17日、実物をカメラに見せて、忘れ物チェックするiPhoneアプリ「たーとるうぃずのもちものチェック」を提供開始したと発表した。 学校・旅行・仕事・スポーツなどの準備を、 […]",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "教育ニュース",
-        "ICT",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_ada878ea0f596411",
-      "title": "「旺文社 受験生のための英検カコモン」、第2回検定対策に向けて新規問題を追加",
-      "url": "https://ict-enews.net/2026/09/18obunsha-4/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-09-18T00:43:47.000Z",
-      "summary": "旺文社は17日、実用英語技能検定（英検）の過去問学習ができるWebサービス「受験生のための英検カコモン」（準1級～3級対応）に、新たに2025年度第2回の過去問を搭載したと発表した […]",
-      "starred": false,
-      "category": "exam",
-      "tags": [
-        "教育ニュース",
-        "ICT",
-        "共通テスト",
-        "入試"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_007acafbf70030ad",
-      "title": "CBTS、大雨で中止された国家試験を3日後にCBT試験へ切り替え",
-      "url": "https://ict-enews.net/2026/09/18cbts/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-09-18T00:43:38.000Z",
-      "summary": "CBTソリューションズ（CBTS）は17日、2026年8月30日に大雨の影響で福井県内の会場で中止となった国家試験（紙の一斉開催型）について、中止から3日後の9月2日、振替受験の受 […]",
-      "starred": false,
-      "category": "exam",
-      "tags": [
-        "教育ニュース",
-        "ICT",
-        "共通テスト",
-        "入試"
-      ],
-      "priority_score": 60
-    },
-    {
-      "id": "item_2ba583941090eefb",
-      "title": "プロシーズ、製造業向けeラーニング「Start engineer」全49講座をインドネシア語に対応",
-      "url": "https://ict-enews.net/2026/09/0918pro-seeds/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-09-18T00:43:31.000Z",
-      "summary": "プロシーズは16日、製造業の新人・未経験者向けeラーニングサービス「Start engineer」の全49講座について、インドネシア語版を2026年11月から配信する予定だと発表し […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_9ccd4c50913722fb",
       "title": "自然言語や画像から3D CADモデルを生成、資金調達で開発と海外展開を加速",
       "url": "https://monoist.itmedia.co.jp/mn/articles/2609/18/news015.html",
@@ -1251,23 +983,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_2a099e2e57f4c5f5",
-      "title": "AIが異常察知し7つの専門エージェントが解決案を提案、NECのSCMソリューション",
-      "url": "https://monoist.itmedia.co.jp/mn/articles/2609/18/news039.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-09-17T22:15:00.000Z",
-      "summary": "NECは「国際物流総合展2026」において、需要予測や生産計画などの複数システムを横断し、トラブル検知から解決案の提示までを自律的に実行する「NEC SCM AIエージェント」を披露した。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_8b6ec06d82ea93cb",
       "title": "「神風」に乗ったSo-netと、「挑戦」として生まれたNURO 光、両サービスが見据える30年後～ソニーネットワークコミュニケーションズ　それぞれの視点から目指す「ソニーグループ企業らしさ」とは",
       "url": "https://internet.watch.impress.co.jp/docs/special/30thinterview/2138094.html",
@@ -1350,40 +1065,6 @@
         "デジタル",
         "行政",
         "文科省"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_cd336f8a7cf03ea8",
-      "title": "ソフトバンク、HAPSで「3次元ネットワーク」へ　スマホ直接通信で下り36Mbps",
-      "url": "https://www.watch.impress.co.jp/docs/news/2141933.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-09-17T09:45:19.000Z",
-      "summary": "ソフトバンクは、8月に実施した成層圏通信プラットフォーム「HAPS(High Altitude Platform Station)」の飛行・通信試験に関する説明会を開催した。試験は日本上空で行なわれ、スマートフォン向け通信やドローン通信、エッジコンピューティングなどを検証。2027年からHAPSの商用運用開始を目指す。",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_84b5a099724c74ca",
-      "title": "SBI、ライブドアを75億円で買収　「ネオメディア」強化",
-      "url": "https://www.watch.impress.co.jp/docs/news/2141895.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-09-17T09:00:00.000Z",
-      "summary": "SBIホールディングス(SBI HD)は17日、ミンカブ・ジ・インフォノイドの子会社であるライブドアの全株式を取得することで合意したと発表した。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
       ],
       "priority_score": 50
     },
@@ -1769,24 +1450,6 @@
         "授業実践",
         "情報Ⅰ",
         "教材"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_5eca5e2652b78c5a",
-      "title": "「レスキューロボ大作戦！」当日レポート──名古屋国際工科専門職大学と市邨高校の学生・生徒が先生役を務めました",
-      "url": "https://note.com/schoomy/n/n0d762e7f71a0",
-      "source_id": "note_joho1",
-      "source_name": "note（情報科教員）",
-      "published_at": "2026-07-29T05:35:18.000Z",
-      "summary": "2026年7月29日（水）、名古屋国際工科専門職大学の学生と市邨高校の生徒が、防災体験イベント「つくって！走らせて！レスキューロボ大作戦！」の初日を実施しました。会場は、株式会社名鉄スマイルプラスが運営するTELACO藤が丘校です。当日の様子を報告します。 《PDFでの簡易版報告書はこちら》 続きをみる",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "授業実践",
-        "情報Ⅰ",
-        "教材",
-        "教育ニュース"
       ],
       "priority_score": 50
     }
