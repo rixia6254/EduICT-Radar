@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T22:50:14.388Z",
+  "generated_at": "2026-09-21T08:42:05.692Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-09-20T22:50:04.208Z",
+      "published_at": "2026-09-21T08:41:54.552Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-09-20T22:50:04.208Z",
+      "published_at": "2026-09-21T08:41:54.552Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-09-20T22:50:04.208Z",
+      "published_at": "2026-09-21T08:41:54.552Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,91 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_2d5f7fa55190f155",
+      "title": "初対面の高校生20人の心を掴む！授業の「ストーリー設計」とBeEngineer講師の成長論",
+      "url": "https://note.com/beengineer_fuji/n/nc72a112359bc",
+      "source_id": "note_joho1",
+      "source_name": "note（情報科教員）",
+      "published_at": "2026-09-21T03:05:37.000Z",
+      "summary": "BeEngineer梅田校責任者の藤原圭吾です。 栃木での2日間にわたる特別出張が無事に終了いたしました。 続きをみる",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "授業実践",
+        "情報Ⅰ",
+        "教材",
+        "教育ニュース"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_cfdf268d2e81fff5",
+      "title": "トランプ大統領、「AI Force」創設を表明　「AI脅威論はでっちあげだ」",
+      "url": "https://www.itmedia.co.jp/news/article/2609/21/2000001666/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-09-21T00:45:19.000Z",
+      "summary": "トランプ大統領はSNSへの投稿で、AIを担当する新組織「AI Force」の創設と責任者“AI皇帝”の指名を表明した。AI脅威論を否定して業界の成長支援を掲げ、AIの新たな呼称案の投票も呼び掛けた。Anthropicなどの経営陣から開発のペース調整や安全性を求める声が相次ぐ中、規制に否定的な姿勢を鮮明にしている。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_30d7c093fd98e8ce",
+      "title": "Suicaのペンギンに変わる新キャラ、投票は9月23日まで",
+      "url": "https://www.watch.impress.co.jp/docs/news/2142493.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-09-21T00:00:00.000Z",
+      "summary": "JR東日本の「Suica新キャラクター」の投票がまもなく終了する。応募期間は9月23日までとなっており、リス風の「A」、うさぎ風の「B」、モグラをモチーフとした「C」の3案の投票を募り、その投票結果で新キャラクターを決定する。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_c41eebc3b2056d74",
+      "title": "【西田宗千佳のイマトミライ】「iPhone Duoは長く使える」 アップルが語る品質・価値を維持する設計",
+      "url": "https://www.watch.impress.co.jp/docs/series/nishida/2142514.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-09-20T23:20:00.000Z",
+      "summary": "アップルが、9月18日「iPhone 18 Pro」シリーズを中心とした新製品群を発表した。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_4797832c1a41d560",
+      "title": "エヌビディアCEO「誰かと夕食をすると、その翌日に相手の株価が2倍になる」　GPUを巡る巨額マネーの行方",
+      "url": "https://www.itmedia.co.jp/business/articles/2609/21/news024.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-09-20T23:00:00.000Z",
+      "summary": "NVIDIAのフアンCEOが「私がどこで夕食を食べるのか、そして誰と夕食を食べるのかを調べることだ。そうすると、相手の株価が翌日に2倍になる」と語った。GPUを巡る巨額マネーの行方は。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_6127d95073ffe207",
@@ -816,23 +901,6 @@
       "priority_score": 60
     },
     {
-      "id": "item_c680c68708d2eb84",
-      "title": "散在する“29万ファイル”をAmazon S3に集約、「AIに聞くだけ」で検索可能に――AWSはどう実現？",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/18/news025.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-09-18T02:00:00.000Z",
-      "summary": "社内のさまざまなシステムに散在するデータを、AIで横断的に検索、分析できるようにするにはどうすればいいのか。AWSが航空業界を題材に、約29万ファイルを使ったレファレンス実装を公開した。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_e134b2d7aac04c3b",
       "title": "G-SHOCK、リアル志向「タンカラー」がアクセントのカラバリ2機種",
       "url": "https://www.watch.impress.co.jp/docs/news/2140663.html",
@@ -1205,23 +1273,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_9ccd4c50913722fb",
-      "title": "自然言語や画像から3D CADモデルを生成、資金調達で開発と海外展開を加速",
-      "url": "https://monoist.itmedia.co.jp/mn/articles/2609/18/news015.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-09-18T00:00:00.000Z",
-      "summary": "トコシエは、East Venturesと個人投資家2人を引受先として資金調達を実施した。自然言語や画像から編集可能な3D CADモデルを作成できるAI 3D CAD「Ignite0」の開発体制を強化し、米国を起点としたグローバル展開を本格化する。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_d816e6c1e29c641a",
       "title": "AIエージェントに「新人研修」を　Microsoft IQが推す“文脈”の競争力",
       "url": "https://www.watch.impress.co.jp/docs/news/2141659.html",
@@ -1365,44 +1416,6 @@
       "tags": [
         "インターネット",
         "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_28cf0f381fe2799d",
-      "title": "ChatGPTが「マネーフォワード ME」データと連携　相談可能に",
-      "url": "https://www.watch.impress.co.jp/docs/news/2141941.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-09-17T11:30:00.000Z",
-      "summary": "マネーフォワードホームは、アプリ「マネーフォワード ME」のデータが、OpenAIの「Apps in ChatGPT」に対応したと発表した。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "生成AI",
-        "AI活用",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 60
-    },
-    {
-      "id": "item_cc2bd55517acccd1",
-      "title": "経産省、循環型消費を促す「CEアクションWeek」　メルカリなど10社",
-      "url": "https://www.watch.impress.co.jp/docs/news/2141924.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-09-17T09:55:39.000Z",
-      "summary": "経済産業省は、10月1日～7日に「サーキュラーエコノミー(CE)アクションWeek」を開催する。生活者に「買う・使う・分ける・まわす」の4つの循環型消費行動を呼びかけ、賛同企業10社とキャンペーンや体験企画を展開する。",
-      "starred": false,
-      "category": "admin",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "行政",
-        "文科省"
       ],
       "priority_score": 50
     },
@@ -1773,23 +1786,6 @@
         "教育ニュース"
       ],
       "priority_score": 70
-    },
-    {
-      "id": "item_1b298f451ba3a54c",
-      "title": "大妻女子大学 2026年度 一般選抜A",
-      "url": "https://note.com/infosaito/n/na6a86c26fd90",
-      "source_id": "note_joho1",
-      "source_name": "note（情報科教員）",
-      "published_at": "2026-08-07T06:53:55.000Z",
-      "summary": "大学公開の問題はこちら。PDFの109ページから始まります。 https://www.otsuma.ac.jp/wp-content/uploads/2026/03/m-senntaku-0202-2026.pdf 続きをみる",
-      "starred": false,
-      "category": "lesson",
-      "tags": [
-        "授業実践",
-        "情報Ⅰ",
-        "教材"
-      ],
-      "priority_score": 50
     }
   ],
   "clips": []
