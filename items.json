@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-21T15:49:03.251Z",
-  "total": 103,
+  "generated_at": "2026-09-21T23:44:56.555Z",
+  "total": 102,
   "items": [
     {
       "id": "item_21f8651de3f2baea",
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-09-21T15:48:53.056Z",
+      "published_at": "2026-09-21T23:44:47.789Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-09-21T15:48:53.056Z",
+      "published_at": "2026-09-21T23:44:47.789Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-09-21T15:48:53.056Z",
+      "published_at": "2026-09-21T23:44:47.789Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,97 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_e277c434a94dc247",
+      "title": "「TDXラジオ」Teacher’s ［Shift］File.285  関東学院六浦中・高　犬塚 孝一 先生（前編）",
+      "url": "https://ict-enews.net/movie/22tdxradio-3/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-09-21T23:00:06.000Z",
+      "summary": "TDXラジオは21日、教育ICTを活用した「新しい学び」と「先生の働き方改革」を応援するTeacher’s ［Shift］ File.285「関東学院六浦中学校・高等学校 犬塚 孝 […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_5de3e2f7d1b59052",
+      "title": "キユーピー、AIで工場シミュレーションモデルの開発工数を8割削減　3つの壁をどう乗り越えた？",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/22/news009.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-09-21T23:00:00.000Z",
+      "summary": "製造業では工場シミュレーションが重要な役割を果たす。しかしシミュレーションモデルの構築には専用ソフトウェアと専門言語の高度な知識が要り、属人化しやすい。キユーピーでは、生成AIによる高度化、効率化を目指していたが、それには3つの課題があった。どう対応したのか。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_9a63d2a8493d96c6",
+      "title": "脱メインフレーム、7割超が失敗　背景に「生成AIへの過信」　2026年度上半期システム刷新記事ランキング",
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2609/22/news018.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-09-21T23:00:00.000Z",
+      "summary": "生成AIがあればレガシー刷新は楽になる――。この期待に冷や水を浴びせる予測が発表されました。2026年度上半期（4～9月）のシステム刷新関連記事トップ10を紹介し、「システム刷新における生成AIの現在地」と「AI時代に人に残る役割」に迫ります。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_89033fa77eee215a",
+      "title": "グーグル、新カテゴリーノートPC「Googlebook」発売　899ドルから",
+      "url": "https://www.watch.impress.co.jp/docs/news/2142583.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-09-21T23:00:00.000Z",
+      "summary": "Googleは21日(米国時間)、新しいノートPCプラットフォーム「Googlebook」を米国で販売開始した。Acer、ASUS、Dell、HP、Lenovoらから対応機種が発売され、価格は899ドルから。",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_684782e027598ece",
+      "title": "Teams会議をAIエージェントの「教材」に　埋もれた経験則を資産に変える新たな手法とは",
+      "url": "https://kn.itmedia.co.jp/kn/article/2609/22/2000001658/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-09-21T22:00:00.000Z",
+      "summary": "AIエージェントの活用が広がる中、企業固有の「仕事の進め方」をどうAIに教えるかが課題になっている。Teams会議に埋もれた判断や経験則を、AIが扱える業務知識へどう変換するか。",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_ce9ce9411d9092e7",
@@ -548,25 +639,6 @@
       "priority_score": 60
     },
     {
-      "id": "item_1a2317802283ea22",
-      "title": "AI導入は6割、でも8割超が「チャット止まり」　業務自動化まで進まない原因は？",
-      "url": "https://kn.itmedia.co.jp/kn/article/2609/19/2000001624/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-09-18T22:00:00.000Z",
-      "summary": "「AIを導入したが、チャットに使うだけ」。そんな中小企業は少なくない。クラウドワークスの調査では、AI利用企業の8割超がチャット利用にとどまった。業務自動化を阻む原因は何か。",
-      "starred": false,
-      "category": "dx",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "校務DX",
-        "GIGA"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_01e6f6fa4dde8106",
       "title": "シフト作りの悩み、XORで解決 ── ベテランは「どちらか一方だけ」【英語会話・対訳つき】",
       "url": "https://note.com/plum_tree/n/n49c2b71c581c",
@@ -680,42 +752,6 @@
       "tags": [
         "テクノロジー",
         "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_cdae011c76da158b",
-      "title": "生成AIで物議のレベルファイブ、東京ゲームショウ当日の様子は……現地を見てきた",
-      "url": "https://www.itmedia.co.jp/news/article/2609/18/2000001633/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-09-18T07:52:09.000Z",
-      "summary": "9月10日のオンライン発表会でAI生成動画を利用し、SNSで物議を醸したレベルファイブ。数日後に「東京ゲームショウ2026」（幕張メッセ）の開催を控えての炎上になったが、イベント当日の様子はどうか。現地を実際に見てきたので、写真を交えて紹介する。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 60
-    },
-    {
-      "id": "item_40e994a07a876030",
-      "title": "Anthropic、AI開発の26％を「Claudeが主導」　「1％未満」から半年で急拡大",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2609/18/2000001634/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-09-18T07:46:34.000Z",
-      "summary": "同社のAIモデルの研究開発全体を100とした時、AIが主導する仕事が全体の26％を占めた。人間が細かく指示しながらAIと進める仕事と合わせると90％を超えた。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
       ],
       "priority_score": 50
     },
@@ -1255,40 +1291,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_007acafbf70030ad",
-      "title": "CBTS、大雨で中止された国家試験を3日後にCBT試験へ切り替え",
-      "url": "https://ict-enews.net/2026/09/18cbts/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-09-18T00:43:38.000Z",
-      "summary": "CBTソリューションズ（CBTS）は17日、2026年8月30日に大雨の影響で福井県内の会場で中止となった国家試験（紙の一斉開催型）について、中止から3日後の9月2日、振替受験の受 […]",
-      "starred": false,
-      "category": "exam",
-      "tags": [
-        "教育ニュース",
-        "ICT",
-        "共通テスト",
-        "入試"
-      ],
-      "priority_score": 60
-    },
-    {
-      "id": "item_2ba583941090eefb",
-      "title": "プロシーズ、製造業向けeラーニング「Start engineer」全49講座をインドネシア語に対応",
-      "url": "https://ict-enews.net/2026/09/0918pro-seeds/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-09-18T00:43:31.000Z",
-      "summary": "プロシーズは16日、製造業の新人・未経験者向けeラーニングサービス「Start engineer」の全49講座について、インドネシア語版を2026年11月から配信する予定だと発表し […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_d816e6c1e29c641a",
       "title": "AIエージェントに「新人研修」を　Microsoft IQが推す“文脈”の競争力",
       "url": "https://www.watch.impress.co.jp/docs/news/2141659.html",
@@ -1303,22 +1305,6 @@
         "デジタル",
         "生成AI",
         "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_85bb165380236386",
-      "title": "【鈴木淳也のPay Attention】セルフレジは当たり前になった　ファミマ新型POSが向き合う次の課題",
-      "url": "https://www.watch.impress.co.jp/docs/series/suzukij/2140628.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-09-17T23:20:00.000Z",
-      "summary": "ファミリーマートは新型POSレジを9月から全国に約1万6,500店舗あるファミリーマートへの本格導入をスタートする。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
       ],
       "priority_score": 50
     },
