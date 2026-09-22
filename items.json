@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T23:44:56.555Z",
+  "generated_at": "2026-09-22T08:20:42.856Z",
   "total": 102,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-09-21T23:44:47.789Z",
+      "published_at": "2026-09-22T08:20:33.245Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-09-21T23:44:47.789Z",
+      "published_at": "2026-09-22T08:20:33.245Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-09-21T23:44:47.789Z",
+      "published_at": "2026-09-22T08:20:33.245Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,134 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_0613861e879327ba",
+      "title": "東大受験記",
+      "url": "https://note.com/hayatomang/n/n75597a8a353c",
+      "source_id": "note_joho1",
+      "source_name": "note（情報科教員）",
+      "published_at": "2026-09-22T07:30:00.000Z",
+      "summary": "予定通り高田馬場の書店の学参コーナーを見て来ました。 地学基礎 地学は高校で履修したこともあり、なんとなくいけそうな感じです。ド文系で暗記は得意なので、なんとか攻略できそうです。 続きをみる",
+      "starred": false,
+      "category": "exam",
+      "tags": [
+        "授業実践",
+        "情報Ⅰ",
+        "教材",
+        "共通テスト",
+        "入試",
+        "教育ニュース"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_8d91a869aa26b827",
+      "title": "OpenAI、数学者の独立諮問グループと連携　内部モデルは「100件超の未解決問題を解決」",
+      "url": "https://www.itmedia.co.jp/news/article/2609/22/2000001671/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-09-22T02:49:24.000Z",
+      "summary": "OpenAIは、数学者が設立した独立組織「AGMAI」と連携し、AIによる数学的成果の評価や公表方法について助言を受けると発表した。社内モデルによる100件以上の未解決問題解決を受けた動きで、急速な成果発表や帰属問題を巡る数学界からの批判に対応する。組織は独立して運営され、他社への助言も行う方針だ。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_cecf59d48cb23015",
+      "title": "OpenAI、フロンティアAIの国際標準づくりを米国主導で進めるよう提言　「RSIはまだ起きていない」",
+      "url": "https://www.itmedia.co.jp/news/article/2609/22/2000001670/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-09-22T01:51:09.000Z",
+      "summary": "た。各国のAI安全性研究所の連携などを提案し、制御不能な自律的進化を防ぐ枠組みを求める。アルトマンCEOは国連安保理の公開会合でも発言する予定だ。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_335b2ffb385ac218",
+      "title": "「Grok 4.7」登場、長時間タスクも安定処理　価格はSolの半分以下",
+      "url": "https://www.watch.impress.co.jp/docs/news/2142588.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-09-22T01:26:51.000Z",
+      "summary": "SpaceXAIは21日(米国時間)、最新のAIモデルとなる「Grok 4.7」を公開した。コーディングやナレッジワーク向けで、同社における最高モデルとなり、同等のモデルと比較し、「処理速度は2倍、価格は半額」とアピールしている。CursorとGrok Buildで利用可能となるほか、Grok APIや各社のコーディングハーネス、モデルルーター、クラウドプラットフォームでも展開する。",
+      "starred": false,
+      "category": "dx",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "校務DX",
+        "GIGA",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_4a514e68a12194b8",
+      "title": "Amazon、MetaのAIエージェント「Muse」による代理購入をブロック　Shopifyは全店舗で対応へ",
+      "url": "https://www.itmedia.co.jp/news/article/2609/22/2000001669/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-09-22T00:43:43.000Z",
+      "summary": "AmazonがMetaのAIエージェント「Muse」による自社サイトでの代理購入をブロックしたと報じられた。無断アクセスやセキュリティ上のリスクを理由としている。一方、MetaはShopify全ストアへの対応を発表するなど連携拡大を進める。自社サイトでのAIエージェント排除を強めるAmazonとの対立が鮮明になっている。",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_15c36e5682485d3d",
+      "title": "ハサミをバージョンアップしてストレス低減　コクヨ・プラス・レイメイ等",
+      "url": "https://www.watch.impress.co.jp/docs/topic/2139957.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-09-22T00:00:00.000Z",
+      "summary": "一家に少なくとも1本はあり、複数本を常備している家庭も多いハサミ。使う機会の多いアイテムだけに、「テープを切ったらベタベタになった」「硬いものを切ると手が痛くなる」「すぐにサビて切れ味が落ちてしまう」など、ちょっとしたストレスを感じている人も多いのではないでしょうか。より快適に使えるハサミに買い替えたい、今はどんなハサミが主流なのか知りたい、という方のために、ハサミを約100種類取り扱うハンズの広…",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_64a2a9a9a2e31c43",
+      "title": "SpaceXAI、「Grok 4.7」発表　コーディングと知識労働向けで同社最高性能、価格は据え置き",
+      "url": "https://www.itmedia.co.jp/news/article/2609/22/2000001668/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-09-21T23:46:47.000Z",
+      "summary": "SpaceXAIはAIモデル「Grok 4.7」を発表した。前モデルと同価格・同速度を維持しつつ大規模なベースモデルを採用し、コーディングや長時間の業務タスク性能、安全性を強化した。[Cursor](https://www.itmedia.co.jp/news/article/2606/17/1260617066/)やAPI経由で即日提供し、競合の最新モデルと比べ大幅な低コストと高速性を打ち出し、…",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_e277c434a94dc247",
@@ -520,24 +648,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_6dadc38cb1ce9e01",
-      "title": "東京ゲームショウと生成AI　ゲームの祭典で商談見込むベンダーたち",
-      "url": "https://www.itmedia.co.jp/news/article/2609/19/2000001639/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-09-19T03:00:00.000Z",
-      "summary": "ゲームでのAI活用と言えば、オンライン発表会での動画生成AI使用が物議を醸したレベルファイブをはじめ、まだまだユーザー側の拒否感が強い領域でもある。こうした状況下で、ベンダーはどういったソリューションを、どんな企業にプッシュしようとしているのか。TGS2026現地で何社かに話を聞いてみた。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 60
-    },
-    {
       "id": "item_f865a785952dd897",
       "title": "シチズン アテッサ、太陽とオーロラがテーマの限定モデル",
       "url": "https://www.watch.impress.co.jp/docs/news/2142257.html",
@@ -584,59 +694,6 @@
         "デジタル"
       ],
       "priority_score": 50
-    },
-    {
-      "id": "item_133b76b477703775",
-      "title": "パナソニック・サムスン撤退の裏で「中国勢5割」　独IT見本市「IFA」トップが明かす舞台裏",
-      "url": "https://www.itmedia.co.jp/business/articles/2609/19/news010.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-09-18T23:00:00.000Z",
-      "summary": "出展2000社超の過半数が中国勢、そして長年メイン会場の“顔”だったサムスン電子の電撃的な撤退──。欧州最大の家電見本市「IFA」の会場には、中国勢の巨大ブースと50モデルものヒューマノイドなど地殻変動の熱気が渦巻いていた。主役の交代と「脱・家電」シフトが加速する中、IFA運営トップのライフ・リントナーCEOを現地ベルリンで単独直撃。サムスン離脱の本当の理由から、パナソニックがブースを壁で覆った真…",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_175ed4dedbabdf22",
-      "title": "「規定を探す時間」をAIで短縮　豊川信用金庫が生成AIを職員のFAQに活用",
-      "url": "https://kn.itmedia.co.jp/kn/article/2609/19/2000001616/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-09-18T22:00:00.000Z",
-      "summary": "業務規定や商品知識など、金融機関には日々参照する情報が多い。必要な情報を探したり、詳しい職員に確認したりする時間も課題となる。ココペリは、こうした情報検索を生成AIで支援する「SAF」を豊川信用金庫に導入した。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 60
-    },
-    {
-      "id": "item_4a046b24523862b0",
-      "title": "「AIで資料は作れるけど、増えすぎた」を解消するNotebook機能とは？",
-      "url": "https://kn.itmedia.co.jp/kn/article/2609/19/2000001614/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-09-18T22:00:00.000Z",
-      "summary": "生成AIでスライドや図解を手軽に作れるようになった一方、作成物が増えるほど「どれが何の資料か分からない」「目的の資料を探せない」といった問題が起きやすい。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 60
     },
     {
       "id": "item_01e6f6fa4dde8106",
@@ -951,22 +1008,6 @@
         "AI活用"
       ],
       "priority_score": 60
-    },
-    {
-      "id": "item_e134b2d7aac04c3b",
-      "title": "G-SHOCK、リアル志向「タンカラー」がアクセントのカラバリ2機種",
-      "url": "https://www.watch.impress.co.jp/docs/news/2140663.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-09-18T01:30:00.000Z",
-      "summary": "カシオ計算機は、G-SHOCK「MASTER OF G」のカラーバリエーションとして、MUDMASTER(マッドマスター)「GWG-B1000-1A3JF」を132,000円で、FROGMAN(フロッグマン)「GWF-D1000BC-1JF」を198,000円で9月25日に発売する。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
     },
     {
       "id": "item_14d612af62f42f1f",
@@ -1287,24 +1328,6 @@
         "ICT",
         "共通テスト",
         "入試"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_d816e6c1e29c641a",
-      "title": "AIエージェントに「新人研修」を　Microsoft IQが推す“文脈”の競争力",
-      "url": "https://www.watch.impress.co.jp/docs/news/2141659.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-09-18T00:00:00.000Z",
-      "summary": "Microsoftは17日、「Work IQ」などの「Microsoft IQ」について報道向けの説明会を開催した。企業におけるAI活用や業務改善においては、AIモデルよりもAIが理解するための「コンテキスト(文脈)」の準備が重要であるとし、Microsoft IQ導入の必要性を説明した。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "生成AI",
-        "AI活用"
       ],
       "priority_score": 50
     },
@@ -1741,26 +1764,6 @@
       "source_name": "note（情報科教員）",
       "published_at": "2026-08-09T03:23:30.000Z",
       "summary": "「情報Ⅰ」が大学入試に関係するって本当？ 続きをみる",
-      "starred": false,
-      "category": "exam",
-      "tags": [
-        "授業実践",
-        "情報Ⅰ",
-        "教材",
-        "共通テスト",
-        "入試",
-        "教育ニュース"
-      ],
-      "priority_score": 70
-    },
-    {
-      "id": "item_1151b33570c12ab0",
-      "title": "【教育接続補論｜第3回】大学入学共通テストからみるＲＩＶ－ＴＨＥＴＡ｜国語から英語・情報Ⅰ・探究活動へ広げる補助線｜26-48",
-      "url": "https://note.com/rievallab/n/n9f5b6dca2b67",
-      "source_id": "note_joho1",
-      "source_name": "note（情報科教員）",
-      "published_at": "2026-08-07T22:00:00.000Z",
-      "summary": "RI Eval Lab｜方式名『複素構造評価』 / Complex Structure Evaluation 国語で見た「根拠・意味づけ・見取り・向き・表現」の補助線を、英語・情報Ⅰ・探究活動へ広げ、どこまで接続できるかを確認する。 続きをみる",
       "starred": false,
       "category": "exam",
       "tags": [
