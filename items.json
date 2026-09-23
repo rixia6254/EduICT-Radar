@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-09-22T23:23:51.663Z",
+  "generated_at": "2026-09-23T08:22:48.444Z",
   "total": 102,
   "items": [
+    {
+      "id": "item_21f8651de3f2baea",
+      "title": "文部科学省ホームページトップはこちら",
+      "url": "https://www.mext.go.jp/",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-09-23T08:22:39.745Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
     {
       "id": "item_bd1951ae70f98dac",
       "title": "サイトマップはこちら",
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-09-22T23:23:42.243Z",
+      "published_at": "2026-09-23T08:22:39.745Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -25,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-09-22T23:23:42.243Z",
+      "published_at": "2026-09-23T08:22:39.745Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -38,22 +56,108 @@
       "priority_score": 60
     },
     {
-      "id": "item_21f8651de3f2baea",
-      "title": "文部科学省ホームページトップはこちら",
-      "url": "https://www.mext.go.jp/",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-09-22T23:23:42.242Z",
-      "summary": "",
+      "id": "item_4aab5520ff54769e",
+      "title": "OpenAI、「GPT-6 Sol」「Luna」公開　Astra並の性能でコストはGPT-5.6の半額",
+      "url": "https://www.watch.impress.co.jp/docs/news/2142636.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-09-23T01:54:06.000Z",
+      "summary": "OpenAIは22日(米国時間)、最上位モデル「GPT‑6 Astra」と同じGPT-6シリーズで、高い知能とコスト効率を両立した新モデル「GPT‑6 Sol」、「GPT‑6 Luna」を提供開始した。GPT-6 Astraを最上位モデルとし、Sol、Lunaの3つのモデルを用途やコストに応じて選択可能となる。",
       "starred": false,
-      "category": "admin",
+      "category": "ai",
       "tags": [
-        "行政",
-        "文科省",
-        "制度",
-        "教育ニュース"
+        "テクノロジー",
+        "デジタル",
+        "生成AI",
+        "AI活用"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_70d79b6574a783a0",
+      "title": "トランプ大統領、国連演説で「AI」を「Super Intelligence」に改称すると表明",
+      "url": "https://www.itmedia.co.jp/news/article/2609/23/2000001676/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-09-23T01:36:07.000Z",
+      "summary": "トランプ米大統領は国連総会の一般討論演説で、AIの呼称を「Super Intelligence（SI）」に変更すると表明した。米国の全公文書で採用し、他国にも同調を促す。国際的なAI管理の枠組みを拒否し、地球温暖化論争になぞらえて脅威論を一蹴した上で、成長を支援して開発競争をリードする姿勢を強調した。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_ca1e1e7f486c72da",
+      "title": "オリエント バンビーノに小ぶりな36mmサイズが登場",
+      "url": "https://www.watch.impress.co.jp/docs/news/2142360.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-09-23T01:00:00.000Z",
+      "summary": "エプソン販売は、腕時計ブランド「Orient」(オリエント)の新作として、ケースを小型化した「オリエント バンビーノ 36」4機種を9月25日に発売する。機械式の腕時計で、価格は44,000円、ゴールドめっきのモデルは46,200円。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_b9b31a46b93307b9",
+      "title": "OpenAI、「GPT-6 Sol」と「GPT-6 Luna」公開　API料金は前世代の半額に",
+      "url": "https://www.itmedia.co.jp/news/article/2609/23/2000001674/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-09-23T00:12:02.000Z",
+      "summary": "OpenAIは新モデル「GPT-6 Sol」と「GPT-6 Luna」を公開した。最上位のAstraと同様の手法で訓練し、前世代からAPI料金を半額に引き下げた。ChatGPTやCodexで順次提供する。アライメント改善が進む一方、思考過程で評価を察知する兆候が増加するなど監視上の課題も残る。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_1d436919c52b8353",
+      "title": "アプリ「マウスカーソルげんそくん」をMicrosoft Storeで公開してみた",
+      "url": "https://www.watch.impress.co.jp/docs/topic/2142055.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-09-23T00:00:00.000Z",
+      "summary": "みなさん、AIコーディングを駆使してアプリやサービスを開発していますか? きっと自分用ツールをガンガン作って日々の作業を楽にしたり、生活を便利にしていることでしょう。",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_2f156b0c9f7b7466",
+      "title": "今押さえたい「半導体」の基礎知識　極小チップが“AI時代の戦略物資”になった、納得の理由",
+      "url": "https://www.itmedia.co.jp/business/articles/2609/23/news004.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-09-22T23:00:00.000Z",
+      "summary": "ニュースでよく聞く「半導体」。「GPUのことね」「AI時代に重要なんでしょ」という認識はあっても、その本質を理解できていますか？ 半導体が重要視される理由を基礎から解説します。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_f43ac4dc110c719a",
@@ -539,24 +643,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_0f7ca0b5c0c7894b",
-      "title": "「Jev」とは　“文章を書かないAI”がなぜ話題に？　元OpenAI研究者が開発、「“スマートなif文”と考えてみて」",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2609/20/2000001664/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-09-20T07:00:26.000Z",
-      "summary": "米スタートアップのTypeSafe AIが9月15日（現地時間）に発表したAIモデル「Jev」（ジェヴ）が、海外や日本のAIコミュニティで大きな注目を集めている。この記事では、Jevとは何か、LLMとはどう違うのかなどを整理する。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_8e94fd4c416a5de5",
       "title": "メガバンクは金利0.5%に　各行独自の引き上げも",
       "url": "https://www.watch.impress.co.jp/docs/news/2142489.html",
@@ -609,41 +695,6 @@
         "教育ニュース"
       ],
       "priority_score": 70
-    },
-    {
-      "id": "item_4053b7f3da95c6f8",
-      "title": "AI人材を採用できない中小企業、専門家を「必要な時だけ」活用する支援サービス",
-      "url": "https://kn.itmedia.co.jp/kn/article/2609/20/2000001626/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-09-19T22:00:00.000Z",
-      "summary": "生成AIを導入しても、現場で使いこなせなければ業務改善にはつながらない。中小企業ではAI人材の不足や研修、費用が壁となる中、専門人材を常時抱えるのではなく、「必要な時だけ活用する」という選択肢を提供するベンダーがある。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 60
-    },
-    {
-      "id": "item_85e89b2b180e3276",
-      "title": "AIを入れても仕事は変わらない？　アビームとNotionが「企業ナレッジ」に注目する理由",
-      "url": "https://kn.itmedia.co.jp/kn/article/2609/20/2000001660/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-09-19T22:00:00.000Z",
-      "summary": "AIエージェントの導入が進む一方、企業固有の業務を任せるには、社内に分散する知識や個人の経験則をAIが使える形に整える必要がある。アビームとNotionは、ナレッジを起点に業務と組織を変える。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
     },
     {
       "id": "item_eb6f9000e760a473",
@@ -877,41 +928,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_a9c0d6141230d2a3",
-      "title": "サムスン「Galaxy Buds」が補聴器に　米FDA認可を取得",
-      "url": "https://www.watch.impress.co.jp/docs/news/2142191.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-09-18T05:24:06.000Z",
-      "summary": "サムスンは、「Samsung Galaxy Buds」の補聴器機能と聴力検査機能を26年第4四半期に、米国および必要な認可を取得した一部の国・地域で提供開始する。対象機種は「Samsung Galaxy Buds3 Pro」と「Samsung Galaxy Buds4 Pro」。補聴器機能は米国食品医薬品局(FDA)の認可を取得した。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_c3651b5c7eca1911",
-      "title": "クラウドフレア、AI学習拒否・検索OKを選べる新設定",
-      "url": "https://www.watch.impress.co.jp/docs/news/2142146.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-09-18T04:38:58.000Z",
-      "summary": "CDN大手のCloudflare(クラウドフレア)は、AIによるコンテンツ収集を制御する取組みにおいて、AI学習のみを拒否する新たな設定「Disallow AI Training」の提供を開始した。この新機能と推奨設定により、出版社やメディア企業などは、「検索」「AI学習」「AIエージェント」ごとに、自社コンテンツの使われ方を個別に指定できるようになる。またクローラー側でも、この指定を考慮した仕組…",
-      "starred": false,
-      "category": "dx",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "校務DX",
-        "GIGA",
-        "教育ニュース"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_822cd182db73bd11",
       "title": "ゲーミング回線「GameWith光」、通信品質を試せる体験席を池袋の「eSPORTS CAFE AIM」に設置",
       "url": "https://internet.watch.impress.co.jp/docs/news/2141919.html",
@@ -940,22 +956,6 @@
       "tags": [
         "インターネット",
         "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_1bbff88ae7229f70",
-      "title": "サンマルクHD、うどんの「つるとんたん」を取得 128億円",
-      "url": "https://www.watch.impress.co.jp/docs/news/2142096.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-09-18T02:52:40.000Z",
-      "summary": "「サンマルクカフェ」「鎌倉パスタ」などを傘下に持つ外食チェーンのサンマルクホールディングスは17日、うどん専門業態の「麺匠の心つくし つるとんたん」をケー・エキスプレスから取得すると発表した。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
       ],
       "priority_score": 50
     },
