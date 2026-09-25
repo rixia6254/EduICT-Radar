@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T14:31:57.810Z",
+  "generated_at": "2026-09-25T23:43:58.705Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-09-25T14:31:47.840Z",
+      "published_at": "2026-09-25T23:43:48.549Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-09-25T14:31:47.840Z",
+      "published_at": "2026-09-25T23:43:48.549Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-09-25T14:31:47.840Z",
+      "published_at": "2026-09-25T23:43:48.549Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -52,6 +52,77 @@
         "文科省",
         "制度",
         "教育ニュース"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_568cb694f5aa5f9c",
+      "title": "テスラを太陽光の余剰電力で自動充電　Nature Remoの新サービス",
+      "url": "https://www.watch.impress.co.jp/docs/news/2143432.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-09-25T23:30:00.000Z",
+      "summary": "Natureは、スマホHEMS「Nature Remo E」「Nature Remo E2」向けに、太陽光発電の余剰電力をテスラ車の充電に自動で利用する新機能「スマートEV充電 for Tesla」の提供を開始した。料金は月額300円で、初月は無料。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_0a0e2cc91c6f2798",
+      "title": "Microsoft、「Copilot」を刷新　「仕事のための新しいOS」とナデラCEO",
+      "url": "https://www.itmedia.co.jp/news/article/2609/26/2000001773/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-09-25T22:48:32.000Z",
+      "summary": "Microsoftは「Microsoft Copilot」アプリの大幅な刷新を発表した。「Home」「Code」「Autopilot」の3タブ構成とし、Officeを直接統合する。自然言語でのアプリ構築や自律的な業務代行エージェントを導入し、日常機能は月額課金、高度なエージェントや最新モデルは従量課金に移行する。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_a486dc5de27d3ddb",
+      "title": "あいち銀行が経理DXを本格化　LayerXと「請求書受領から振込まで」をつなぐ",
+      "url": "https://kn.itmedia.co.jp/kn/article/2609/26/2000001731/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-09-25T22:00:00.000Z",
+      "summary": "紙やPDFの請求書を受け取り、Excelに転記して承認、振込データを作成する。企業の経理現場には今なお手作業が残る。あいち銀行はLayerXと組み、請求書の受領から承認、振込までをデジタルでつなぐ取り組みに乗り出す。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_27174ae5cf4acb00",
+      "title": "資料作成が月32時間から4時間に　トラコムが生成AIで「月28時間削減」した方法",
+      "url": "https://kn.itmedia.co.jp/kn/article/2609/26/2000001725/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-09-25T22:00:00.000Z",
+      "summary": "生成AIを導入しても、活用が一部の従業員の“個人技”にとどまれば、効果を組織全体へ広げるのは難しい。トラコムでは、現場の工夫を仕組み化して共有。資料作成や月次処理などを効率化し、業務時間の削減につなげている。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
       ],
       "priority_score": 60
     },
@@ -1125,22 +1196,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_3a3dcfb56befd431",
-      "title": "都市部ではマルチローターが有利　SkyDriveが\"空飛ぶクルマ\"の設計思想を公開",
-      "url": "https://www.watch.impress.co.jp/docs/news/2143008.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-09-24T09:56:01.000Z",
-      "summary": "SkyDriveは24日、開発中の「空飛ぶクルマ」について、都市部での短距離移動を想定した設計思想を公開した。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_46b5ddaa47701a5c",
       "title": "ロート製薬、通販システムに第三者による不正アクセスの可能性があるとして調査実施",
       "url": "https://internet.watch.impress.co.jp/docs/news/2142865.html",
@@ -1369,59 +1424,6 @@
         "AI",
         "LLM",
         "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_56fd3dd7e2766d75",
-      "title": "「汎用AIにデータを渡すだけ」では専門業務をこなせない？　トムソン・ロイターが独自LLM「Thomson」を構築した理由",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/24/news019.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-09-23T23:00:00.000Z",
-      "summary": "ロイター通信を傘下に持つThomson Reutersは、自社開発した大規模言語モデル「Thomson」を発表した。推論コストを抑えつつも、高い専門性と完全なデータ制御を実現したという。同社のアプローチに迫る。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_93de19b3d9e438e2",
-      "title": "AIを導入しても“組織的には使われない”のはなぜ？　「個人利用」にとどまる理由と脱却策",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/24/news026.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-09-23T23:00:00.000Z",
-      "summary": "生成AIやAIエージェントの導入が進んでも、活用は個人の効率化にとどまり、組織としての活用が進まない実態が見えてきた。それはなぜなのか。こうした状況から脱却するには何が必要なのか。調査結果から探る。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 60
-    },
-    {
-      "id": "item_5d5bcadcf77923a3",
-      "title": "初受注まで「1年→5カ月」に短縮　AIで実現する営業の育成改革とは？",
-      "url": "https://www.itmedia.co.jp/business/articles/2609/24/news039.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-09-23T22:00:00.000Z",
-      "summary": "セールスイネーブルメントの取り組みやSFA活用の事例を踏まえつつ、AIを使った強い営業組織の作り方を考えていく。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
       ],
       "priority_score": 50
     },
