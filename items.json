@@ -1,32 +1,14 @@
 {
-  "generated_at": "2026-09-26T13:42:14.535Z",
+  "generated_at": "2026-09-26T23:17:33.559Z",
   "total": 103,
   "items": [
-    {
-      "id": "item_5a2c7864b68dcd43",
-      "title": "過去の文部科学省ホームページ（※国立国会図書館ホームページへリンク）",
-      "url": "https://warp.ndl.go.jp/waid/3475",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-09-26T13:42:04.762Z",
-      "summary": "",
-      "starred": false,
-      "category": "admin",
-      "tags": [
-        "行政",
-        "文科省",
-        "制度",
-        "教育ニュース"
-      ],
-      "priority_score": 60
-    },
     {
       "id": "item_21f8651de3f2baea",
       "title": "文部科学省ホームページトップはこちら",
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-09-26T13:42:04.761Z",
+      "published_at": "2026-09-26T23:17:23.686Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -44,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-09-26T13:42:04.761Z",
+      "published_at": "2026-09-26T23:17:23.686Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +36,42 @@
         "制度"
       ],
       "priority_score": 50
+    },
+    {
+      "id": "item_5a2c7864b68dcd43",
+      "title": "過去の文部科学省ホームページ（※国立国会図書館ホームページへリンク）",
+      "url": "https://warp.ndl.go.jp/waid/3475",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-09-26T23:17:23.686Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_2048c45610873c30",
+      "title": "NTTドコモ、「正しく質問させる」をやめ、“聞き返すAI”で変える顧客対応",
+      "url": "https://kn.itmedia.co.jp/kn/article/2609/27/2000001764/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-09-26T22:00:00.000Z",
+      "summary": "NTTドコモが、顧客の短い質問から意図をくみ取り、必要な手続きへ導く対話AIを導入した。生成AIが顧客に聞き返しながら情報を絞り込むことで、FAQを探す負担を軽減。AIによる顧客対応の本番運用を支える仕組みも整える。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 60
     },
     {
       "id": "item_de7dbe9604c955dc",
@@ -1388,23 +1406,6 @@
       "source_name": "ITmedia AI+",
       "published_at": "2026-09-24T02:45:00.000Z",
       "summary": "NECが「AIネイティブカンパニー」を目指して「AI自律型組織」を新設した。AIを「企業OS」として組織に組み込むというのは、果たして、どのような取り組みなのか。AIが自律的に進化する組織に変わる中で、従業員はどうなるのか。企業のAXについて考察する。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_aed80c696edc0efd",
-      "title": "AIの部下がAI？　「AIオーケストレーション」って何だろう",
-      "url": "https://monoist.itmedia.co.jp/mn/articles/2609/24/news041.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-09-24T02:45:00.000Z",
-      "summary": "AIに指揮棒を振る、ってコト……!?",
       "starred": false,
       "category": "ai",
       "tags": [
