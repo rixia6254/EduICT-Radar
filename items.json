@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T23:43:58.705Z",
+  "generated_at": "2026-09-26T08:24:36.897Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-09-25T23:43:48.549Z",
+      "published_at": "2026-09-26T08:24:26.497Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-09-25T23:43:48.549Z",
+      "published_at": "2026-09-26T08:24:26.497Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-09-25T23:43:48.549Z",
+      "published_at": "2026-09-26T08:24:26.497Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,96 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_ddc3ff7f1bc7a9c0",
+      "title": "「1週間の開発タスク」でAIの限界を検証　Googleが「Android Bench 2.0」公開",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/26/news013.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-09-26T04:00:00.000Z",
+      "summary": "Googleは、AIモデルやエージェントのコーディング能力を測る「Android Bench 2.0」を公開した。エンジニアが数日を要する複雑な長期タスクを課す仕様に刷新。最高通過率は従来の約91％から約28％に急落した。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_2eeca9124e01283a",
+      "title": "3Dプリンター×生成AIを高校の授業へ｜OpenSCADで始める教材研究と準備シート",
+      "url": "https://note.com/yum366/n/ne32f2be5bb2e",
+      "source_id": "note_joho1",
+      "source_name": "note（情報科教員）",
+      "published_at": "2026-09-26T02:04:27.000Z",
+      "summary": "「3Dプリンターを授業で使いたい。でも、生徒に何を考えてもらう授業にするのか？」 教材研究を始めて、僕がいちばん悩んだのはここだった。 続きをみる",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "授業実践",
+        "情報Ⅰ",
+        "教材",
+        "生成AI",
+        "AI活用",
+        "ツール",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_34aba52a5f6ae0d0",
+      "title": "「Codex」で1時間にわたる障害→使用量リセットへ",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2609/26/2000001774/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-09-26T01:27:56.000Z",
+      "summary": "「私たちは再び稼働中で、CodexとChatGPT全体で全有料ユーザーの使用制限をリセットするよ」",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_5a9338fa387b07de",
+      "title": "吉田カバン、アニエスベーとコラボ　バッグにカーゴパンツのエッセンス",
+      "url": "https://www.watch.impress.co.jp/docs/news/2143452.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-09-26T01:00:00.000Z",
+      "summary": "吉田カバンは、agnès b.(アニエスベー)とコラボレーションしたヘルメットバッグを、POTRブランドから発売する。2サイズをラインアップし、価格は61,600円、52,800円。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_b3198ea13a1500dc",
+      "title": "【いつモノコト】1.5万円のハイコスパタブレット「BMAX I8 Plus」を買ってみた!",
+      "url": "https://www.watch.impress.co.jp/docs/series/itsmo/2138323.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-09-26T00:20:00.000Z",
+      "summary": "自宅で動画視聴などサブ用途で使っていたタブレットが故障してしまい、新しいものを探していたところ発見したのがBMAXというメーカーのAndroidタブレット「I8 Plus」。Amazonで約15,000円という価格だったので購入してみたところ、意外とちゃんと使えるタブレットでした。",
+      "starred": false,
+      "category": "dx",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "校務DX",
+        "GIGA"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_568cb694f5aa5f9c",
@@ -211,7 +301,7 @@
     },
     {
       "id": "item_3fa50eb19c13b11f",
-      "title": "「クレカ乗車」でVポイントが貯まる　京王・TX・ゆりかもめなど",
+      "title": "「クレカ乗車」でVポイントが貯まる　京王・TX・ゆりかもめ",
       "url": "https://www.watch.impress.co.jp/docs/news/2143366.html",
       "source_id": "impress_watch",
       "source_name": "Impress Watch",
@@ -1164,38 +1254,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_f2b07559e2157c23",
-      "title": "新生Lemino誕生　WOWOW合弁でCL全試合やドラマ100作品超",
-      "url": "https://www.watch.impress.co.jp/docs/news/2142999.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-09-24T10:30:00.000Z",
-      "summary": "WOWOWとNTTドコモは10月1日、新会社「WOWOW Lemino」(予定)を設立し、映像配信サービス「Lemino」の共同運営を開始する。両社が6月15日に締結した資本業務提携に関する契約に基づくもので、WOWOWのスポーツやオリジナルドラマ、音楽ライブなどをLeminoで順次配信する。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_3094677334c3ee84",
-      "title": "「国立富士見台団地」が589戸のマンション「プラウドシティ国立」に",
-      "url": "https://www.watch.impress.co.jp/docs/news/2143014.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-09-24T10:02:57.000Z",
-      "summary": "野村不動産らは、「国立富士見台団地マンション再生事業」の建替え後のマンションである「プラウドシティ国立」が3月に竣工し、7月から分譲住戸購入者への引渡しを開始したと発表した。8階建ての2棟で構成され、住宅戸数は589戸。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_46b5ddaa47701a5c",
       "title": "ロート製薬、通販システムに第三者による不正アクセスの可能性があるとして調査実施",
       "url": "https://internet.watch.impress.co.jp/docs/news/2142865.html",
@@ -1388,42 +1446,6 @@
         "セキュリティ",
         "教材",
         "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_e127482655f5feaa",
-      "title": "Google AIサブスクに「Colab」有料特典をバンドル　「高性能GPU」にアクセス可能に",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2609/24/2000001685/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-09-24T00:47:12.000Z",
-      "summary": "Googleは「Google AI」の各プランに、「Google Colab」の有料特典を組み込むと発表した。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_ea2c2a26481b692d",
-      "title": "Claudeがブラウザを自律操作する「Claude in Chrome」一般提供　プロンプトインジェクションをどう防ぐ？",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/24/news024.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-09-23T23:00:00.000Z",
-      "summary": "Anthropicは、Webブラウザの拡張機能「Claude in Chrome」を全ての有料プランで一般提供した。操作ごとの承認を求めず、AIエージェントが自律的にWebブラウザを操作する。実行の前に安全性分類器が各操作を検証する。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
       ],
       "priority_score": 50
     },
@@ -1781,26 +1803,6 @@
         "教育ニュース"
       ],
       "priority_score": 50
-    },
-    {
-      "id": "item_6fc7143b90fc8fc7",
-      "title": "高校の「情報Ⅰ」が大学入試科目に。小学生のうちからできる準備とは？",
-      "url": "https://note.com/iteen_media/n/nc49afb8d4395",
-      "source_id": "note_joho1",
-      "source_name": "note（情報科教員）",
-      "published_at": "2026-08-09T03:23:30.000Z",
-      "summary": "「情報Ⅰ」が大学入試に関係するって本当？ 続きをみる",
-      "starred": false,
-      "category": "exam",
-      "tags": [
-        "授業実践",
-        "情報Ⅰ",
-        "教材",
-        "共通テスト",
-        "入試",
-        "教育ニュース"
-      ],
-      "priority_score": 70
     }
   ],
   "clips": []
