@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-09-26T08:24:36.897Z",
+  "generated_at": "2026-09-26T13:42:14.535Z",
   "total": 103,
   "items": [
+    {
+      "id": "item_5a2c7864b68dcd43",
+      "title": "過去の文部科学省ホームページ（※国立国会図書館ホームページへリンク）",
+      "url": "https://warp.ndl.go.jp/waid/3475",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-09-26T13:42:04.762Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
     {
       "id": "item_21f8651de3f2baea",
       "title": "文部科学省ホームページトップはこちら",
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-09-26T08:24:26.497Z",
+      "published_at": "2026-09-26T13:42:04.761Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +44,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-09-26T08:24:26.497Z",
+      "published_at": "2026-09-26T13:42:04.761Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -38,20 +56,20 @@
       "priority_score": 50
     },
     {
-      "id": "item_5a2c7864b68dcd43",
-      "title": "過去の文部科学省ホームページ（※国立国会図書館ホームページへリンク）",
-      "url": "https://warp.ndl.go.jp/waid/3475",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-09-26T08:24:26.497Z",
-      "summary": "",
+      "id": "item_de7dbe9604c955dc",
+      "title": "「AIトークンコスト増を44％抑制」できる可能性も　高性能モデルの“使い過ぎ”、どう減らす？",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/26/news011.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-09-26T08:00:00.000Z",
+      "summary": "生成AIやAIエージェントの活用が広がる中、企業のAI利用コストも膨らんでいる。AI活用を減らすことなく、増加するコストを抑えるには何を見直せばいいのか。アクセンチュアの調査から、その実態が見えてきた。",
       "starred": false,
-      "category": "admin",
+      "category": "ai",
       "tags": [
-        "行政",
-        "文科省",
-        "制度",
-        "教育ニュース"
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
       ],
       "priority_score": 60
     },
@@ -1393,25 +1411,6 @@
         "生成AI",
         "AI",
         "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_bd17083b52527e01",
-      "title": "MetaのザッカーバーグCEO、「ワンモアシング」としてたまごっちのような「Muse Charm」披露",
-      "url": "https://www.itmedia.co.jp/news/article/2609/24/2000001688/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-09-24T02:37:24.000Z",
-      "summary": "Metaは年次イベント「Meta Connect 2026」で、AIエージェントを持ち歩ける小型ガジェット「Muse Charm」をサプライズ発表した。指紋センサーのタップで音声会話を開始できるポケットサイズ端末で、12月の出荷を目指して開発中。日本の公式サイトでは現時点で利用不可と案内されている。",
-      "starred": false,
-      "category": "dx",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "校務DX",
-        "GIGA"
       ],
       "priority_score": 50
     },
