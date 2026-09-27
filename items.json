@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T23:17:33.559Z",
+  "generated_at": "2026-09-27T09:02:21.396Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-09-26T23:17:23.686Z",
+      "published_at": "2026-09-27T09:02:11.566Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-09-26T23:17:23.686Z",
+      "published_at": "2026-09-27T09:02:11.566Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-09-26T23:17:23.686Z",
+      "published_at": "2026-09-27T09:02:11.566Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,40 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_83a18fcea2dd1eb3",
+      "title": "【小寺信良のくらしDX】指輪でアンチエイジング!? 目的が先鋭化するスマートリング",
+      "url": "https://www.watch.impress.co.jp/docs/series/kodera/2143461.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-09-27T01:00:00.000Z",
+      "summary": "IT機器をウェアラブルにするという取り組みが行なわれて、もう10年以上が経過する。その中で最も成功したのが、スマートウォッチだろう。時計としての機能のほかに、スマートフォンの通知やナビ、搭載センサーでバイタル情報も取れる。小さいがディスプレイがあるという点で、ウェアラブル機器としては最もユーザーに受け入れられた。",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "行政",
+        "文科省"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_3689496784c382d4",
+      "title": "ファミマ「コンビニエンスウェア」は陳列もいい　後発セブンはどうなる?",
+      "url": "https://www.watch.impress.co.jp/docs/topic/watchplus/2143224.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-09-27T00:00:00.000Z",
+      "summary": "Impress Watchニュースレターに掲載した記事です。ニュースレターは無料で、毎週編集部員が会員向けのコラムなどをお送りしています。登録はこちらから。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_2048c45610873c30",
@@ -1100,24 +1134,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_bd2ff627228c50cc",
-      "title": "DeepL翻訳、CopilotやChatGPT、Claudeから利用可能に",
-      "url": "https://www.watch.impress.co.jp/docs/news/2143069.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-09-24T23:00:00.000Z",
-      "summary": "翻訳サービスの「DeepL」は22日、Microsoft Copilot、ChatGPT、Claudeでの利用に対応した。AIアシスタントの連携規格であるMCP(Model Context Protocol)を活用する。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "生成AI",
-        "AI活用"
-      ],
-      "priority_score": 60
-    },
-    {
       "id": "item_f9d83b7ab356846a",
       "title": "海底ケーブルは「P（ペタ）bpsの時代」へ、NECが大容量化などの取り組みを説明　課題となっている「海底ケーブル切断問題」にも言及",
       "url": "https://internet.watch.impress.co.jp/docs/news/2143064.html",
@@ -1270,22 +1286,6 @@
       "tags": [
         "インターネット",
         "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_bd28e38215a682f6",
-      "title": "アマゾン「プライム感謝祭」10月16日から　400万点が特価",
-      "url": "https://www.watch.impress.co.jp/docs/news/2143026.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-09-24T11:15:00.000Z",
-      "summary": "Amazonは、プライム会員限定セール「プライム感謝祭」を10月16日0時から10月19日23時59分まで開催します。10月13日0時からは先行セールも実施します。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
       ],
       "priority_score": 50
     },
