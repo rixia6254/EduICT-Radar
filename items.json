@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T09:34:21.639Z",
+  "generated_at": "2026-09-29T15:36:52.845Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-09-29T09:34:11.502Z",
+      "published_at": "2026-09-29T15:36:43.889Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-09-29T09:34:11.502Z",
+      "published_at": "2026-09-29T15:36:43.889Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-09-29T09:34:11.502Z",
+      "published_at": "2026-09-29T15:36:43.889Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,92 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_38325b873c102443",
+      "title": "タイムズカーの情報漏洩、免許証など本人確認書類流出は160万件",
+      "url": "https://www.watch.impress.co.jp/docs/news/2144279.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-09-29T12:54:41.000Z",
+      "summary": "カーシェアリングサービス「タイムズカー」を運営するタイムズモビリティは29日、Webシステムへの不正アクセスによる情報漏洩について、現時点で判明している情報を公開した。運転免許証画像などの本人確認書類が漏洩したアカウント数は、約160万件となった。",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_bb4734468a527586",
+      "title": "AIエージェント「Manus 2.0」登場　新アプリ「Cue」も",
+      "url": "https://www.watch.impress.co.jp/docs/news/2144252.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-09-29T11:40:00.000Z",
+      "summary": "AIエージェントを展開するManusは、「Manus 2.0」を発表した。新しいアーキテクチャやプロダクト、機能を導入した新モデルで、Web、デスクトップ、モバイルにて利用できる。",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_8a01206bce104fe3",
+      "title": "ANA SFC改定が見直し 年間決済300万円未満でも混雑時以外はラウンジ利用可に",
+      "url": "https://www.watch.impress.co.jp/docs/news/2144222.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-09-29T10:22:07.000Z",
+      "summary": "全日本空輸(ANA)は29日、上級会員向けのクレジットカード「ANAスーパーフライヤーズカード(ANA SFC)」のサービス変更を発表した。決済額300万円未満でも、28年度以降も上級会員として、混雑時以外は国内線のラウンジ利用可能になるなど、一定の緩和が図られる。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_ab0a5406667908f8",
+      "title": "Anthropic、IPO目論見書でAIによる「人類存亡リスク」を警告　海外報道",
+      "url": "https://www.itmedia.co.jp/news/article/2609/29/2000001860/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-09-29T10:18:11.000Z",
+      "summary": "英Reutersは9月28日（現地時間）、米Anthropicが新規株式公開（IPO）の目論見書で、AIが人類存亡に関わるリスクをもたらす可能性があると投資家に警告していると報じた。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_f770544ff4610a79",
+      "title": "NVIDIA、AIエージェントの「暴走」防ぐオープンソース基盤",
+      "url": "https://www.watch.impress.co.jp/docs/news/2144232.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-09-29T09:54:10.000Z",
+      "summary": "NVIDIAは、AIエージェントの安全な運用を支援する「NVIDIA Open Agent Safety Platform」を発表した。オープンソースのセキュアランタイム「NVIDIA OpenShell」と、DPUを使ってエージェントを独立監視するリファレンスシステム「NVIDIA Sentry」で構成する。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_11b2d07ea6cc4d12",
@@ -556,22 +642,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_ed0a76a20591f2df",
-      "title": "10月1日の酒税改正でビール値下げ、新ジャンル値上げ　どうする、家飲み派!?",
-      "url": "https://www.watch.impress.co.jp/docs/topic/2142860.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-09-29T01:00:00.000Z",
-      "summary": "10月1日、ビール系飲料の酒税が最終段階の見直しを迎える。ビールは安くなり、発泡酒と新ジャンル(第3のビール/発泡酒②)は値上がりする――ニュースでそう聞いても、実際どのくらい変わるのか、業界にとって何を意味するのかピンとこない人も多いはずだ。そこで、日本最大級の酒類小売チェーン「なんでも酒やカクヤス(以下、カクヤス)」に、価格の変化からメーカーの動き、消費者行動の見通しまでを聞いた。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_fc49d4dcc71903a9",
       "title": "「話そうと思えた時点で、もう限界を超えていた」　変化を捉えるAIで、声を上げられない生徒に気づく  高校生が開発した日記ツール「Blesc」",
       "url": "https://ict-enews.net/2026/09/29blesc/",
@@ -933,24 +1003,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_e6db27fe77ef495a",
-      "title": "B2Bカード決済を「成長投資」に VisaとONEが進める企業間取引のデジタル化[Sponsored]",
-      "url": "https://www.watch.impress.co.jp/docs/topic/special/2141156.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-09-29T00:00:00.000Z",
-      "summary": "日本国内の個人決済市場におけるキャッシュレス比率は、2025年には58%に到達し、さらにその比率を高めている。一方で、日本国内でキャッシュレス化が進んでいない市場が存在する。それが企業間取引(B2B)だ。",
-      "starred": false,
-      "category": "dx",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "校務DX",
-        "GIGA"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_aaf0a5c140ac5934",
       "title": "NVIDIA、AIエージェントをハードウェアでも監視する「Open Agent Safety Platform」発表　Anthropicなど100以上の組織が参加",
       "url": "https://www.itmedia.co.jp/news/article/2609/29/2000001824/",
@@ -998,22 +1050,6 @@
       "tags": [
         "インターネット",
         "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_819f84f9654ca1ce",
-      "title": "AIにより変化しつつある「IT覇権企業」　「GAFAM」から「AGNO」に",
-      "url": "https://www.watch.impress.co.jp/docs/watchplus/2143677.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-09-28T23:20:00.000Z",
-      "summary": "Impress Watchシリーズの会員限定記事です。記事を全文読むには会員登録をお願いします(無料)。登録はこちらから。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
       ],
       "priority_score": 50
     },
@@ -1070,24 +1106,6 @@
         "AI",
         "LLM",
         "教育ニュース"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_5e78dbe4c2719c88",
-      "title": "ハッピーローソンタウンにオンライン診療施設 診療と薬の受取を地域完結",
-      "url": "https://www.watch.impress.co.jp/docs/news/2143863.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-09-28T23:00:00.000Z",
-      "summary": "ローソンは、8月に開店した、マチづくり構想「ハッピーローソンタウン」の集合住宅型1号店舗「ハッピーローソンタウン日野高幡台店」において、9月29日からKDDIの「次世代リモート接客プラットフォーム」を活用した「オンライン診療受診施設」を開設する。",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "教材",
-        "ツール"
       ],
       "priority_score": 50
     },
@@ -1191,26 +1209,6 @@
       "category": "security",
       "tags": [
         "インターネット",
-        "セキュリティ",
-        "情報モラル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_47fe5ec6f0c9e4ca",
-      "title": "Anthropic、「Claude Sonnet 5.5」公開　料金据え置きで30％以上高速化、タスク当たりコスト最大3割減",
-      "url": "https://www.itmedia.co.jp/news/article/2609/29/2000001823/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-09-28T21:55:33.000Z",
-      "summary": "Anthropicは、新モデル「Claude Sonnet 5.5」を発表した。料金を据え置きつつ出力速度を30％以上高速化し、トークン効率向上でタスク当たり最大30％のコスト削減を実現した。コーディング評価で大幅にスコアを伸ばし、最上位モデル級のサイバー対策を初適用。無料枠を含む全プランとAPIで即日提供する。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用",
         "セキュリティ",
         "情報モラル"
       ],
