@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T09:26:33.864Z",
+  "generated_at": "2026-09-30T15:47:00.129Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-09-30T09:26:23.848Z",
+      "published_at": "2026-09-30T15:46:51.040Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-09-30T09:26:23.848Z",
+      "published_at": "2026-09-30T15:46:51.040Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-09-30T09:26:23.848Z",
+      "published_at": "2026-09-30T15:46:51.040Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,54 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_6077d9399e9c3dae",
+      "title": "新しい「Fire TV Stick 4K」登場　スリム+USB給電+新リモコン",
+      "url": "https://www.watch.impress.co.jp/docs/news/2144649.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-09-30T13:00:00.000Z",
+      "summary": "Amazonは、新しい4Kストリーミングメディアプレーヤー「Fire TV Stick 4K」と、新デザインのリモコン単体製品「Fire TVリモコン」「Fire TVリモコンPlus」を発表した。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_d5f5f15f052867d0",
+      "title": "Apple Watchで助けを求める　セコム「ひとりにしない」カスハラ対策",
+      "url": "https://www.watch.impress.co.jp/docs/news/2144615.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-09-30T09:55:39.000Z",
+      "summary": "セコムは、カスタマーハラスメント(カスハラ)対策支援サービス「Safe Assist(セーフアシスト)」を10月1日に発売する。カスハラを受けた際に、従業員がiPhoneやApple Watchから上司に助けを求められる法人向けサービスで、カスハラ発生時の迅速な状況把握・対応を支援する。1人あたりの料金は月額1,100円から。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_dfb61393a6efe795",
+      "title": "JR武蔵境に9階建て駅ビル　28年度冬開業",
+      "url": "https://www.watch.impress.co.jp/docs/news/2144613.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-09-30T09:24:53.000Z",
+      "summary": "JR東日本は、JR中央線 武蔵境駅直結の「(仮称)武蔵境駅東側駅ビル」の建設工事に、10月から着手する。商業施設・ホテル等からなる9階建ての施設で、2028年度冬の開業を予定している。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_574bc962e1e3de19",
@@ -839,26 +887,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_3b56353faa234901",
-      "title": "グーグル、観光や行政支援など　全国9自治体の生成AI事例を公開",
-      "url": "https://www.watch.impress.co.jp/docs/news/2144203.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-09-29T23:00:00.000Z",
-      "summary": "グーグルは29日、全国の自治体と進めてきた生成AI活用のプロトタイプや実装事例をまとめたWebサイトを公開した。現在進行中のプロジェクトを含む9自治体の事例に加え、自治体職員を主な対象とした無償のデジタルスキルトレーニングの受講方法などを紹介する。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "生成AI",
-        "AI活用",
-        "行政",
-        "文科省"
-      ],
-      "priority_score": 60
-    },
-    {
       "id": "item_0466f5d4f70a675e",
       "title": "「ロリポップ！ゼロトラストリンク byGMOペパボ」、アクセス制御を拡張した「プレミアムプラン」提供開始　下位プランにも対応した管理操作ログ、SSO・SCIM連携などの機能追加も実施",
       "url": "https://internet.watch.impress.co.jp/docs/news/2144287.html",
@@ -1106,42 +1134,6 @@
         "AI活用",
         "校務DX",
         "GIGA"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_38325b873c102443",
-      "title": "タイムズカーの情報漏洩、免許証など本人確認書類流出は160万件",
-      "url": "https://www.watch.impress.co.jp/docs/news/2144279.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-09-29T12:54:41.000Z",
-      "summary": "カーシェアリングサービス「タイムズカー」を運営するタイムズモビリティは29日、Webシステムへの不正アクセスによる情報漏洩について、現時点で判明している情報を公開した。運転免許証画像などの本人確認書類が漏洩したアカウント数は、約160万件となった。",
-      "starred": false,
-      "category": "security",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "セキュリティ",
-        "情報モラル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_bb4734468a527586",
-      "title": "AIエージェント「Manus 2.0」登場　新アプリ「Cue」も",
-      "url": "https://www.watch.impress.co.jp/docs/news/2144252.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-09-29T11:40:00.000Z",
-      "summary": "AIエージェントを展開するManusは、「Manus 2.0」を発表した。新しいアーキテクチャやプロダクト、機能を導入した新モデルで、Web、デスクトップ、モバイルにて利用できる。",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "教材",
-        "ツール"
       ],
       "priority_score": 50
     },
