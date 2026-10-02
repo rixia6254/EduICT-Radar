@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-10-02T09:29:37.592Z",
+  "generated_at": "2026-10-02T15:38:15.781Z",
   "total": 103,
   "items": [
+    {
+      "id": "item_5a2c7864b68dcd43",
+      "title": "過去の文部科学省ホームページ（※国立国会図書館ホームページへリンク）",
+      "url": "https://warp.ndl.go.jp/waid/3475",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-10-02T15:38:06.606Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
     {
       "id": "item_21f8651de3f2baea",
       "title": "文部科学省ホームページトップはこちら",
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-10-02T09:29:27.776Z",
+      "published_at": "2026-10-02T15:38:06.605Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +44,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-10-02T09:29:27.776Z",
+      "published_at": "2026-10-02T15:38:06.605Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -38,20 +56,105 @@
       "priority_score": 50
     },
     {
-      "id": "item_5a2c7864b68dcd43",
-      "title": "過去の文部科学省ホームページ（※国立国会図書館ホームページへリンク）",
-      "url": "https://warp.ndl.go.jp/waid/3475",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-10-02T09:29:27.776Z",
-      "summary": "",
+      "id": "item_d4b9dce4fc1233b6",
+      "title": "国産AI「LLM-jp-4」ベースのAIモデル、KDDI傘下のELYZAが無料公開",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2610/02/2000001965/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-10-02T11:04:32.000Z",
+      "summary": "KDDIグループのAI開発企業ELYZAは、AIモデル「ELYZA-Thinking-1.0-llm-jp-4-33b」および「ELYZA-Thinking-1.0-llm-jp-4-32b-a3b」を発表した。国立情報学研究所が開発したオープンなAIモデル「LLM-jp-4」シリーズをベースに事後学習を実施し、性能を強化したという。",
       "starred": false,
-      "category": "admin",
+      "category": "ai",
       "tags": [
-        "行政",
-        "文科省",
-        "制度",
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用",
         "教育ニュース"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_18a6dd283acc2f0f",
+      "title": "スガキヤ、ハンバーガーの「ドムドム」をグループ会社化",
+      "url": "https://www.watch.impress.co.jp/docs/news/2145347.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-10-02T11:00:00.000Z",
+      "summary": "「スガキヤ」などの飲食チェーンを運営するスガキコシステムズは、「ドムドムハンバーガー」を展開するドムドムフードサービスをグループ会社化する。9月30日付で、ドムドムフードサービスの株式を追加取得し、正式にグループ会社とすることで合意した。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_e276b15793a518e4",
+      "title": "ヤマト運輸「クロネコ代金後払いサービス」、不正アクセスで情報漏えいの可能性",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2145352.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-10-02T10:00:45.000Z",
+      "summary": "ヤマト運輸は10月2日、「クロネコ代金後払いサービス」で発生した不正アクセスにより、情報の一部が漏えいした可能性があると発表した。",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_c7759311624b5188",
+      "title": "高輪ゲートウェイ品川側開発、高輪築堤の土中保存で計画変更",
+      "url": "https://www.watch.impress.co.jp/docs/news/2145262.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-10-02T09:52:21.000Z",
+      "summary": "JR東日本は、26年3月にグランドオープンしたTAKANAWA GATEWAY CITY(高輪ゲートウェイシティ)の1～4街区に続き開発を進める5・6街区について、まちづくりと高輪築堤の保存との両立を前提に高輪築堤の一部を現状のままで土中保存することを基本方針とし、そのために現時点において可能な限り計画を変更すると発表した。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_fdf1f09d98879c07",
+      "title": "佐川急便「お荷物問い合わせサービス」不正アクセスにより情報流出の可能性、ウェブの荷物問い合わせなどを停止中",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2145343.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-10-02T09:51:11.000Z",
+      "summary": "佐川急便は10月1日、ウェブサイトの「お荷物問い合わせサービス」への不正アクセスにより個人情報流出の可能性があると発表した。",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_696d2695d9b9a269",
+      "title": "ChatGPTの“利用制限”リセットへ　有料ユーザー向け",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2610/02/2000001961/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-10-02T09:19:00.000Z",
+      "summary": "米OpenAIのプロダクト責任者ティボー・ソティオ氏は、「ChatGPT」の全有料ユーザーを対象に、利用制限枠をリセットすると発表した。日本時間10月3日午前2時の実施を予定している。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
       ],
       "priority_score": 60
     },
@@ -110,31 +213,12 @@
       "source_id": "internet_watch",
       "source_name": "INTERNET Watch",
       "published_at": "2026-10-02T06:30:00.000Z",
-      "summary": "東日本電信電話株式会社（NTT東日本）と西日本電信電話株式会社（NTT西日本）は9月30日、一部サービスの料金および工事費等の改定を発表した。",
+      "summary": "NTT東日本株式会社とNTT西日本株式会社は9月30日、一部サービスの料金および工事費等の改定を発表した。",
       "starred": false,
       "category": "tech",
       "tags": [
         "インターネット",
         "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_d4b9dce4fc1233b6",
-      "title": "「完全国産」AI、KDDI傘下のELYZAが無料公開　「LLM-jp-4」ベースに性能強化",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2610/02/2000001965/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-10-02T06:20:44.000Z",
-      "summary": "KDDIグループのAI開発企業ELYZAは、AIモデル「ELYZA-Thinking-1.0-llm-jp-4-33b」および「ELYZA-Thinking-1.0-llm-jp-4-32b-a3b」を発表した。国立情報学研究所が開発したオープンなAIモデル「LLM-jp-4」シリーズをベースに事後学習を実施し、性能を強化したという。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用",
-        "教育ニュース"
       ],
       "priority_score": 50
     },
@@ -185,24 +269,6 @@
         "デジタル"
       ],
       "priority_score": 50
-    },
-    {
-      "id": "item_696d2695d9b9a269",
-      "title": "ChatGPTの“利用制限”リセットへ　有料ユーザー向け",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2610/02/2000001961/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-10-02T05:06:56.000Z",
-      "summary": "米OpenAIのプロダクト責任者ティボー・ソティオ氏は、「ChatGPT」の全有料ユーザーを対象に、利用制限枠をリセットすると発表した。日本時間10月3日午前3時の実施を予定している。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 60
     },
     {
       "id": "item_a753b84880276f95",
@@ -1047,22 +1113,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_86e8bd3afa8e2afa",
-      "title": "チョコザップ、マンションで管理困難となったトレーニングルーム跡地に出店",
-      "url": "https://www.watch.impress.co.jp/docs/news/2144924.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-10-01T09:02:57.000Z",
-      "summary": "RIZAPは、分譲マンションで共用施設として設置されていたものの管理費増加などの影響により休止していたトレーニングルームの跡地を活用し、コンビニジム「chocoZAP(チョコザップ)」を出店した。埼玉県北本市の「ワコーレ・ロイヤルガーデン北本」で、チョコザップ一般会員が利用できるほか、同マンション居住者はチョコザップ法人会員価格で利用できる。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_a33d9b6a8addffbc",
       "title": "人間は「取締役2人だけ」　実務をAIが担う新会社、セキュリティサービスのHENNGE",
       "url": "https://www.itmedia.co.jp/aiplus/article/2610/01/2000001936/",
@@ -1096,22 +1146,6 @@
         "生成AI",
         "AI",
         "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_048d9d25cbd8a2f6",
-      "title": "こどもNISA、口座開設の事前申込が各社でスタート",
-      "url": "https://www.watch.impress.co.jp/docs/news/2144840.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-10-01T08:09:55.000Z",
-      "summary": "2027年から「こどもNISA」がスタートする。0～17歳が対象の少額投資非課税制度、子どもの名義で年間60万円、総額600万円まで非課税で運用できる制度で、10月1日から各証券会社で口座開設に向けた事前申込受付を開始した。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
       ],
       "priority_score": 50
     },
@@ -1271,23 +1305,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_f25ffdd97c5a22f0",
-      "title": "佐川急便「お荷物問い合わせサービス」に不正アクセス、一部利用を制限中　ヤマト運輸でも「クロネコ代金後払いサービス」に不正アクセスで停止中",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2144755.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-10-01T02:29:36.000Z",
-      "summary": "佐川急便は9月30日、ウェブサイトの「お荷物問い合わせサービス」に第三者による不正アクセスが確認されたとして、アクセスを一部制限していると発表した。",
-      "starred": false,
-      "category": "security",
-      "tags": [
-        "インターネット",
-        "セキュリティ",
-        "情報モラル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_f4d80066a658df49",
       "title": "「AIを使えば早くできるでしょ」と言われがち――エンジニアを困らせる\"勘違い\"の正体とは？",
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/01/news021.html",
@@ -1321,22 +1338,6 @@
         "AI活用",
         "教材",
         "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_5c0d3f535605b3ec",
-      "title": "N150搭載モデルもラインクイン。ディスプレイの背面に取り付け可能な小型PCが人気【MousePro 売れ筋ビジネスPCランキング デスクトップ編 2026/10/1版】",
-      "url": "https://internet.watch.impress.co.jp/docs/ranking/mousepro/2143524.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-10-01T02:00:00.000Z",
-      "summary": "本記事では、マウスコンピューターの法人向けブランド「MousePro」の売れ筋PCを紹介しています。なお、順位、価格、構成は随時変動しており、最新情報はリンク先にてご確認ください。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
       ],
       "priority_score": 50
     },
