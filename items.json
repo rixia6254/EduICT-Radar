@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-10-03T00:05:11.969Z",
+  "generated_at": "2026-10-03T08:57:21.635Z",
   "total": 103,
   "items": [
+    {
+      "id": "item_21f8651de3f2baea",
+      "title": "文部科学省ホームページトップはこちら",
+      "url": "https://www.mext.go.jp/",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-10-03T08:57:11.761Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
     {
       "id": "item_bd1951ae70f98dac",
       "title": "サイトマップはこちら",
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-10-03T00:05:01.835Z",
+      "published_at": "2026-10-03T08:57:11.761Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -25,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-10-03T00:05:01.835Z",
+      "published_at": "2026-10-03T08:57:11.761Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -38,22 +56,70 @@
       "priority_score": 60
     },
     {
-      "id": "item_21f8651de3f2baea",
-      "title": "文部科学省ホームページトップはこちら",
-      "url": "https://www.mext.go.jp/",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-10-03T00:05:01.834Z",
-      "summary": "",
+      "id": "item_3e010d7a21429a0f",
+      "title": "Meta、AIエージェント「Muse」とつながる自作ガジェット向けSDKをオープンソースで公開　「Raspberry Pi」などに対応",
+      "url": "https://www.itmedia.co.jp/news/article/2610/03/2000001984/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-10-03T01:41:21.000Z",
+      "summary": "Metaは、パーソナルAI「Muse」と連携するガジェットを自作できるプロジェクト「Muse Gadgets」を発表した。ESP32やRaspberry Pi向けSDKをGitHubでオープンソース公開。自作機器や家電と連携させる専用デバイス「Muse Home Link」も米国の有料会員向けに無償提供する。",
       "starred": false,
-      "category": "admin",
+      "category": "ai",
       "tags": [
-        "行政",
-        "文科省",
-        "制度",
-        "教育ニュース"
+        "生成AI",
+        "AI",
+        "LLM"
       ],
-      "priority_score": 60
+      "priority_score": 50
+    },
+    {
+      "id": "item_335d8e4e933c024a",
+      "title": "PORTER、コペンハーゲン発のサイクリングウェアブランドとコラボ",
+      "url": "https://www.watch.impress.co.jp/docs/news/2145346.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-10-03T01:00:00.000Z",
+      "summary": "PORTERは、コペンハーゲン発のサイクリングウェアブランド「Pas Normal Studios(パス・ノーマル・スタジオ)」とのコラボレーションアイテムを10月2日に発売した。バックパック、トートバッグ、フレームバッグなど6型をラインアップし、価格は22,000円から99,000円。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_f2d7ab32786c48e1",
+      "title": "Apple、macOSの「フルディスクアクセス」に追加の制御を導入へ　「AIエージェントの進化でリスクが大幅に増大」",
+      "url": "https://www.itmedia.co.jp/news/article/2610/03/2000001983/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-10-03T00:38:06.000Z",
+      "summary": "Appleは、macOSの「フルディスクアクセス」権限の付与手順を厳格化する方針を発表した。AIエージェントの自律化に伴うデータ流出リスクを抑えるため、明示的な操作や追加制御を導入する。背景にはMetaのAIエージェント「Muse」を巡るメッセージデータ監視の議論などがある。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_6f7c74303b297171",
+      "title": "「Osmo Pocket 4P」を1カ月持ち歩いた　旅先で“撮る”が習慣に【ミニレビュー】",
+      "url": "https://www.watch.impress.co.jp/docs/review/minireview/2144582.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-10-03T00:20:00.000Z",
+      "summary": "DJIが発売しているポケットサイズのジンバルカメラ「Osmo Pocket 4P」。Osmo Pocketシリーズの上位モデルで、2眼カメラを搭載したことが大きな特徴です。価格はスタンダードコンボが99,000円、周辺機器が一通り揃った「Vlogコンボ」が113,300円です。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_cbaa900e293a1769",
@@ -1049,22 +1115,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_3ed4097b4a4ec8fd",
-      "title": "アマゾン「Kindle」一新　最軽量16GBやアルミデザイン、カラーモデル",
-      "url": "https://www.watch.impress.co.jp/docs/news/2145024.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-10-01T22:00:00.000Z",
-      "summary": "Amazonは1日、電子書籍リーダーのKindleシリーズ4モデルを刷新し、順次発売開始する。シリーズ最軽量の「Kindle(16GB)」、アルミニウムデザインの「Kindle(32GB)」、長時間バッテリーの「Kindle Paperwhite」、カラーディスプレイ搭載「Kindle Colorsoft」の4モデルを展開し、価格は29,980円～56,980円。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_765b130837607644",
       "title": "データセンターの技術とビジネスを網羅する国際イベント「Data Centre World Tokyo」、2027年12月に日本初開催　出展企業を募集中",
       "url": "https://internet.watch.impress.co.jp/docs/news/2144824.html",
@@ -1093,22 +1143,6 @@
       "tags": [
         "インターネット",
         "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_f1c0ddea47c553e7",
-      "title": "SBI証券、こどもNISA限定で信託報酬ゼロ円の投資信託「ゼロカン」",
-      "url": "https://www.watch.impress.co.jp/docs/news/2144946.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-10-01T11:00:00.000Z",
-      "summary": "SBI証券は、こどもNISA専用ファンドとして、信託報酬が「0.00%」となる「SBI・ゼロ・オールカントリー・インデックス・ファンド【愛称：ゼロカン】」を取り扱う。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
       ],
       "priority_score": 50
     },
@@ -1366,41 +1400,6 @@
       "source_name": "ITmedia AI+",
       "published_at": "2026-09-30T23:00:00.000Z",
       "summary": "AIの活用が進むほど、企業は外部のサービスやインフラへの依存を深める。データやモデルへのコントロールを保ち、自らの意思で選択できる状態を守る「AI主権」はなぜ経営課題になったのか、4つの観点から解説する。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_312dfd68afa3f4b2",
-      "title": "日立とファナックがフィジカルAI協業　日立エッジAI×ファナックロボ有効性も検証",
-      "url": "https://monoist.itmedia.co.jp/mn/articles/2610/01/news031.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-09-30T22:30:00.000Z",
-      "summary": "日立製作所とファナックはフィジカルAI（人工知能）実装の共同事業化に向けた戦略的パートナーシップを締結した。日立のAI技術とファナックの産業用ロボットを組み合わせたフィジカルAIの共同実証と共同展開を推進する。共同実証で得られたフィジカルAIの実装／運用ノウハウを生かして、2027年度からグローバルなインストールベースを活用して展開する。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_623ffa5fcc8a26f3",
-      "title": "「デジタルスレッドとAIで動かす」　富士ソフトがスマート工場で10％成長狙う",
-      "url": "https://monoist.itmedia.co.jp/mn/articles/2610/01/news034.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-09-30T22:15:00.000Z",
-      "summary": "富士ソフトは経営体制「富士ソフト Gen.2」に基づく、製造業向けスマート工場事業戦略を発表した。既存設備を生かし、データをデジタルスレッドで統合しフィジカルAIで現場を動かす4つのオファリングを展開する。同事業で10％以上の成長を目指す。",
       "starred": false,
       "category": "ai",
       "tags": [
