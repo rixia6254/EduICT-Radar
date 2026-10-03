@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T08:57:21.635Z",
+  "generated_at": "2026-10-03T14:15:01.750Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-10-03T08:57:11.761Z",
+      "published_at": "2026-10-03T14:14:52.673Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-10-03T08:57:11.761Z",
+      "published_at": "2026-10-03T14:14:52.673Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-10-03T08:57:11.761Z",
+      "published_at": "2026-10-03T14:14:52.673Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,23 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_e80cb1c2a280ae7d",
+      "title": "Amazon、データセンター批判に反論　10億ドル超の地域支援策も発表",
+      "url": "https://www.itmedia.co.jp/news/article/2610/03/2000001985/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-10-03T08:52:00.000Z",
+      "summary": "AWSのマット・ガーマンCEOは、データセンター建設批判に反論する声明を出した。水資源枯渇などの懸念を「迷信”と否定しつつ、電力料金負担や自治体とのNDA撤廃を含む行動指針を発表。さらに地域支援として、資格取得や省エネ改修などを助成する10億ドル超の基金を立ち上げる。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_3e010d7a21429a0f",
@@ -1383,23 +1400,6 @@
       "source_name": "ITmedia AI+",
       "published_at": "2026-10-01T00:00:00.000Z",
       "summary": "Autodeskは「Autodesk University 2026（AU 2026）」において、「Fusion」「Inventor」「Vault」およびPLMに関する新たなAI機能や取り組みを発表した。部品の編集や組み立て、製造工程の自動化に加え、製品情報の連携や既存の設計資産の再利用を支援する。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_afca89ff4f389f44",
-      "title": "AI主権はなぜ「切実な経営課題」になったのか　モデル“禁輸”問題が示した「選択肢を持つこと」の重要性",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2610/01/2000001909/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-09-30T23:00:00.000Z",
-      "summary": "AIの活用が進むほど、企業は外部のサービスやインフラへの依存を深める。データやモデルへのコントロールを保ち、自らの意思で選択できる状態を守る「AI主権」はなぜ経営課題になったのか、4つの観点から解説する。",
       "starred": false,
       "category": "ai",
       "tags": [
