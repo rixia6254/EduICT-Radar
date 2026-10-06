@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T09:52:48.154Z",
+  "generated_at": "2026-10-06T15:48:13.993Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-10-06T09:52:37.919Z",
+      "published_at": "2026-10-06T15:48:04.326Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-10-06T09:52:37.919Z",
+      "published_at": "2026-10-06T15:48:04.326Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-10-06T09:52:37.919Z",
+      "published_at": "2026-10-06T15:48:04.326Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,44 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_e5835038606869a3",
+      "title": "チームみらい安野氏「サイバー攻撃能力の高いAIモデルが拡散」　相次ぐ情報漏えい受け「対応を急ぐ必要がある」",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2610/06/2000002065/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-10-06T10:47:25.000Z",
+      "summary": "チームみらいの安野貴博党首は、サイバー攻撃能力の高いAIモデルが拡散しているとの認識を示した。「データの漏えい事故も相次いでおり、対応を急ぐ必要がある」と指摘している。",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_1f4893a4b29a7af0",
+      "title": "「楽天ドライブ」、不正アクセスにより約1.5万アカウントのデータなどが漏えい",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2146152.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-10-06T10:42:33.000Z",
+      "summary": "楽天モバイル株式会社が提供するクラウドストレージサービス「楽天ドライブ」は10月6日、不正アクセスによる情報漏えいの発生について情報を発表した。",
+      "starred": false,
+      "category": "dx",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "校務DX",
+        "GIGA",
+        "情報モラル"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_562285a3ee9991d3",
@@ -1411,22 +1449,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_3134bca51842d966",
-      "title": "予約済みドメイン名「example.com」が13年ぶりにページ更新、その内容とは？【やじうまWatch】",
-      "url": "https://internet.watch.impress.co.jp/docs/yajiuma/2145539.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-10-05T02:54:58.000Z",
-      "summary": "「example.com」のウェブサイトが13年ぶりに更新され、話題になっている。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_651b39a8d450b02d",
       "title": "ITエンジニアの8割超「AIは人間より優れた判断をする」と認める　“でも任せられない”業務とは",
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/05/news017.html",
@@ -1458,25 +1480,6 @@
         "AI",
         "LLM",
         "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_fab00bb4d82803d7",
-      "title": "トランプ大統領、「Super Intelligence Force」創設を発表　国家情報長官やFTC委員長らが主導",
-      "url": "https://www.itmedia.co.jp/news/article/2610/05/2000001990/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-10-04T22:12:10.000Z",
-      "summary": "トランプ米大統領は超知能分野の政策を調整する新組織「Super Intelligence Force」（SIF）の創設を発表した。国家情報長官、FTC委員長、戦争省CTO、人事管理局長の4人が率い、大統領に直属する。官民や業界団体との連携窓口を担い、米国の技術的優位性の維持を目指す。",
-      "starred": false,
-      "category": "admin",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "行政",
-        "文科省"
       ],
       "priority_score": 50
     },
