@@ -1,32 +1,14 @@
 {
-  "generated_at": "2026-10-07T09:59:34.154Z",
-  "total": 83,
+  "generated_at": "2026-10-07T16:16:42.489Z",
+  "total": 103,
   "items": [
-    {
-      "id": "item_5a2c7864b68dcd43",
-      "title": "過去の文部科学省ホームページ（※国立国会図書館ホームページへリンク）",
-      "url": "https://warp.ndl.go.jp/waid/3475",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-10-07T09:59:24.361Z",
-      "summary": "",
-      "starred": false,
-      "category": "admin",
-      "tags": [
-        "行政",
-        "文科省",
-        "制度",
-        "教育ニュース"
-      ],
-      "priority_score": 60
-    },
     {
       "id": "item_21f8651de3f2baea",
       "title": "文部科学省ホームページトップはこちら",
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-10-07T09:59:24.360Z",
+      "published_at": "2026-10-07T16:16:33.546Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -44,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-10-07T09:59:24.360Z",
+      "published_at": "2026-10-07T16:16:33.546Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -52,6 +34,58 @@
         "行政",
         "文科省",
         "制度"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_5a2c7864b68dcd43",
+      "title": "過去の文部科学省ホームページ（※国立国会図書館ホームページへリンク）",
+      "url": "https://warp.ndl.go.jp/waid/3475",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-10-07T16:16:33.546Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_acb13c6e65ee9ca9",
+      "title": "アマゾン、Ring初のバッテリー式4K防犯カメラなど4機種",
+      "url": "https://www.watch.impress.co.jp/docs/news/2146495.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-10-07T14:00:00.000Z",
+      "summary": "Amazonは、ホームセキュリティブランド「Ring」の新製品4機種を発表した。Ring初のバッテリー給電対応4K屋外カメラ「Ring Outdoor Cam 4K Plus」のほか、2K対応の屋外カメラ2機種とドアベルをラインアップし、10月7日より順次発売を開始している。",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_ff6d434ee92d8e99",
+      "title": "日本の成長は「防衛産業」に 米大手VCアンドリーセン・ホロウィッツが日本展開",
+      "url": "https://www.watch.impress.co.jp/docs/news/2146516.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-10-07T10:03:31.000Z",
+      "summary": "米国の大手ベンチャーキャピタルであるアンドリーセン・ホロウィッツ(Andreessen Horowitz)は7日、日本オフィスを開設し、日本への投資を本格展開した。日本のエコシステムとの連携を通じ、AIネイティブな経済発展の加速などを目指すという。重点領域は「防衛」「ロボティクス」で、日本代表には日本マイクロソフト社長や日本ヒューレット・パッカード社長などを歴任した吉田仁志氏が就任した。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
       ],
       "priority_score": 50
     },
@@ -89,7 +123,7 @@
     },
     {
       "id": "item_90ec917dee49d94f",
-      "title": "【みおとあおい】情報Ⅰ #3｜IPアドレスも、結局2進数だった。",
+      "title": "【みおとあおい】情報Ⅰ STEP 3｜IPアドレスも、結局2進数だった。",
       "url": "https://note.com/sanraku01/n/n6cafdc35ed6c",
       "source_id": "note_joho1",
       "source_name": "note（情報科教員）",
@@ -521,6 +555,346 @@
       "priority_score": 50
     },
     {
+      "id": "item_1d1c19406ac00b8a",
+      "title": "TAC、2027年度教員採用試験の第一次選考「共同実施」解説ページを公開",
+      "url": "https://ict-enews.net/2026/10/07tac-11/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-10-07T00:44:41.000Z",
+      "summary": "TACは5日、2027年度（令和9年度）実施の教員採用選考試験から始まる第一次選考「共同実施」制度について、文部科学省の公表資料をもとに整理した解説ページを公開した。51自治体が参 […]",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "行政",
+        "文科省"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_eb29642e4710f580",
+      "title": "福岡県、あそんで・つくって・エントリー「小中学生アプリコンテスト」作品募集",
+      "url": "https://ict-enews.net/2026/10/07fukuoka/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-10-07T00:44:29.000Z",
+      "summary": "福岡県は6日、将来、県内IT産業で活躍する若者を育成するため、小中学生が楽しみながら作品（アプリ）をつくることで、ITに興味を持ってもらう取り組みとして「小中学生アプリコンテスト」 […]",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_f861e5f23a78cf10",
+      "title": "大学パワーランキング、「研究費の獲得総額が多い大学ランキング」発表",
+      "url": "https://ict-enews.net/2026/10/07ppcn/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-10-07T00:44:09.000Z",
+      "summary": "ポップコーンは5日、Webメディア「大学パワーランキング」で『研究費の獲得総額が多い大学ランキング【2026年最新版】』を公開した。 日本学術振興会が公表する科研費の機関別配分額と […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_495d7dfa93555472",
+      "title": "Teach For Japan、「教師の日ギャザリング2026」実施",
+      "url": "https://ict-enews.net/2026/10/07teach-for-japan-3/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-10-07T00:43:57.000Z",
+      "summary": "Teach For Japanは、「教師の日ギャザリング2026」を10月4日に実施した。 同イベントには、教師をはじめ、教育委員会・自治体、企業、NPO、学生など、教育に関心を持 […]",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "行政",
+        "文科省"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_7ff02b82c1e70e12",
+      "title": "津山高専、企業や大学講師による遠隔授業の実施拠点となるサテライトオフィス開設",
+      "url": "https://ict-enews.net/2026/10/07tsuyama-ct/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-10-07T00:43:47.000Z",
+      "summary": "国立高等専門学校機構は5日、津山工業高等専門学校が、岡山大学共創イノベーションラボ「KIBINOVE」にサテライトオフィスを開設したことを発表した。 津山工業高等専門学校は、文部科 […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_e5035c5f9a13e3df",
+      "title": "「第19回国際天文学・天体物理学オリンピック」で日本代表高校生5名全員がメダルを獲得",
+      "url": "https://ict-enews.net/2026/10/07iaojapan/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-10-07T00:43:36.000Z",
+      "summary": "⽇本天⽂学オリンピック委員会は5日、9⽉25⽇から10⽉5⽇にかけて、ハノイ（ベトナム）にて開催された「第19回国際天⽂学・天体物理学オリンピック（IOAA2026: 19th I […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_1ec503afbd5d517e",
+      "title": "C&R社、無料オンラインセミナー「前後編で学ぶ はじめてのExcel　Vol.17/Vol.18」開催",
+      "url": "https://ict-enews.net/2026/10/07cri-8/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-10-07T00:43:23.000Z",
+      "summary": "クリーク・アンド・リバー社（C&R社）は5日、これからExcelを使い始める人を対象とした無料のオンラインセミナー「前後編で学ぶ はじめてのExcel Vol.17/Vol […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_b7149cb893283152",
+      "title": "NTTデータ×国立科学博物館、「きみが館長！動物の博物館を作ろう」開催",
+      "url": "https://ict-enews.net/2026/10/07nttdata-2/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-10-07T00:43:06.000Z",
+      "summary": "NTTデータは、小・中学生向けIT体験教室「NTTデータ アカデミア」を、国立科学博物館で、10月31日と11月29日に開催する。 今回実施するプログラムは、「きみが館長！動物の博 […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_d316262c10404e60",
+      "title": "TAC、「オンライン無料講座説明会『ゼロから教えて！公務員！』」9日開催",
+      "url": "https://ict-enews.net/2026/10/07tac-10/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-10-07T00:42:56.000Z",
+      "summary": "TACは5日、公務員試験を検討している人へ向けて「オンライン無料講座説明会『ゼロから教えて！公務員！』」を開催すると発表した。 本ガイダンスは、すでに公務員受験を固く決意している人 […]",
+      "starred": false,
+      "category": "exam",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "共通テスト",
+        "入試"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_75a46ccc91d99488",
+      "title": "近畿大学理工学部、第28回「数学コンテスト」東大阪キャンパスで11月3日開催",
+      "url": "https://ict-enews.net/2026/10/07kindai-5/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-10-07T00:42:44.000Z",
+      "summary": "近畿大学理工学部は、第28回「数学コンテスト」を東大阪キャンパスにて11月3日に開催する。 近畿大学理工学部は、数学の問題を考える楽しみと解けた瞬間の喜びを味わってもらうことを目的 […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_271ad8bfce948063",
+      "title": "「QommonsAI」のPolimill、27日・28日開催「地方自治情報化推進フェア2026」出展",
+      "url": "https://ict-enews.net/2026/10/07polimill-3/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-10-07T00:42:33.000Z",
+      "summary": "Polimillは、10月27日・28日に幕張メッセで開催される「地方自治情報化推進フェア2026」に出展する。 同社ブースでは、行政向け生成AI「QommonsAI（コモンズAI […]",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "生成AI",
+        "AI活用",
+        "行政",
+        "文科省"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_d789675b98406bb5",
+      "title": "Too、「DISわぁるど in 京都」に「Appleで実現する学び、Tooにおまかせ」テーマで出展",
+      "url": "https://ict-enews.net/2026/10/07too-2/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-10-07T00:42:24.000Z",
+      "summary": "Tooは、2026年10月21日・22日に京都市勧業館 みやこめっせで開催される「DISわぁるど in 京都」に出展する。 Tooブースでは、「Appleで実現する学び、Tooにお […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_0d53d7a1d8d9f74b",
+      "title": "リケイマッチ、理系学生向けAI就活相談機能「AIリケねこ」をリリース",
+      "url": "https://ict-enews.net/2026/10/07cambiainc/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-10-07T00:42:11.000Z",
+      "summary": "カンビアは6日、理系就活サイト「リケイマッチ」で、AI就活相談機能「AIリケねこ」をリリースしたと発表した。 公式キャラクター「リケねこ」が、業界研究、自己分析、ES、面接、インタ […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_d792751a69631c39",
+      "title": "Z会、筑駒をめざす小学5年生に筑駒算数の「規則性」に特化した対策冊子プレゼント",
+      "url": "https://ict-enews.net/2026/10/07zkai-gr-9/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-10-07T00:42:01.000Z",
+      "summary": "Z会グループのZ会は6日、「Z会の通信教育」中学受験コースで、筑波大学附属駒場中学校をめざす小学5年生を対象としたオリジナル冊子『筑駒算数「規則性」のトリセツ』の期間限定プレゼント […]",
+      "starred": false,
+      "category": "exam",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "共通テスト",
+        "入試"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_a1aa60d640035c6a",
+      "title": "中高生向けAI学習サービス「ガクレオ」、iOS・Androidアプリを提供開始",
+      "url": "https://ict-enews.net/2026/10/07gakuleo/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-10-07T00:41:52.000Z",
+      "summary": "中学生・高校生向けAI学習サービス「ガクレオ」を運営する My Study AIは6日、iOS版およびAndroid版アプリの提供を開始したと発表した。App StoreとGoog […]",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_38fa8bed2daac328",
+      "title": "メイツ、日本語教育での活用に向けICTサービス「aim@」が多言語対応を開始",
+      "url": "https://ict-enews.net/2026/10/07mates-edu-4/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-10-07T00:41:38.000Z",
+      "summary": "メイツが提供する教育機関向けICTサービス「aim@（エイムアット）」は6日、生徒用画面の「多言語対応」機能をリリースいたしたと発表した。 英語、中国語（簡体字／繁体字）、インドネ […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_2814cbbb2efb10e2",
+      "title": "京進、教育と介護分野におけるAIを活用した対人サービス支援技術で特許出願",
+      "url": "https://ict-enews.net/2026/10/07kyoshin-3/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-10-07T00:41:25.000Z",
+      "summary": "京進は5日、AI開発プラットフォーム「Dify」を活用した面談データの実運用を通じて、サービス提供者の「声かけ」と、生徒・利用者の「行動変容」、「成果」との相関を解析する独自の対人 […]",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_6082dcff0263cf19",
+      "title": "TRIPORT、「研修×助成金活用支援」の連携スキームでスマートエイトと協業",
+      "url": "https://ict-enews.net/2026/10/07triport/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-10-07T00:41:15.000Z",
+      "summary": "TRIPORT社会保険労務士法人（TRIPORT）は6日、同法人が研修事業者向けに展開している「研修×助成金活用支援」の連携スキームにおいて、新たにスマートエイトとの協業を開始した […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_86d94c0de2251866",
+      "title": "ESAT-J Bridge、ESAT-J本番に向けてプレミアムプランを50％OFFで提供",
+      "url": "https://ict-enews.net/2026/10/07esat-j-bridge/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-10-07T00:41:05.000Z",
+      "summary": "クラクモは6日、東京都中学校英語スピーキングテスト対策アプリ「ESAT-J Bridge（イーサットジェイ ブリッジ）」で、10月8日から11月21日、プレミアム買い切りプランを定 […]",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_871d608c083ddfd3",
+      "title": "エスペラントシステム、電子書籍を楽しむ「コンテン堂ビューア」が主要4OSに対応",
+      "url": "https://ict-enews.net/2026/10/07ess-g/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-10-07T00:40:48.000Z",
+      "summary": "エスペラントシステムは5日、電子書籍をより快適に楽しむための新しい「コンテン堂ビューア」のリリースを発表した。 主要4OS（iOS・Android・Windows・macOS）で使 […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
       "id": "item_2bda55af5c44f46b",
       "title": "OpenAI、社内AIがリーマン予想の関連難問を証明と主張　論文722本をGitHubで公開",
       "url": "https://www.itmedia.co.jp/news/article/2610/07/2000002071/",
@@ -880,12 +1254,12 @@
     },
     {
       "id": "item_dcc979c3a94a579e",
-      "title": "【みおとあおい】情報Ⅰ #2｜8桁の2進数も、4つずつに切ればいい。",
+      "title": "【みおとあおい】情報Ⅰ STEP 2｜8桁の2進数も、4つずつに切ればいい。",
       "url": "https://note.com/sanraku01/n/nf9b3e1d917fb",
       "source_id": "note_joho1",
       "source_name": "note（情報科教員）",
       "published_at": "2026-10-06T08:39:08.000Z",
-      "summary": "【みおとあおい】情報Ⅰ #2｜8桁の2進数も、4つずつに切ればいい。 ――パリティビットで、2進数・16進数をもう一度使う💗―― 続きをみる",
+      "summary": "【みおとあおい】情報Ⅰ STEP 2｜8桁の2進数も、4つずつに切ればいい。 ――パリティビットで、2進数・16進数をもう一度使う💗―― 続きをみる",
       "starred": false,
       "category": "exam",
       "tags": [
@@ -945,44 +1319,6 @@
         "デジタル"
       ],
       "priority_score": 50
-    },
-    {
-      "id": "item_46384b6327a187fc",
-      "title": "イオンモールアプリ刷新　駐車場チェックイン、レストラン順番待ち予約対応",
-      "url": "https://www.watch.impress.co.jp/docs/news/2146066.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-10-06T07:56:49.000Z",
-      "summary": "イオンモールは6日、公式アプリ「イオンモールアプリ」をリニューアルした。生成AIを活用したAIエージェント「ひびまる」を導入するほか、「THE OUTLETS」などグループ施設のアプリを統合し、スマホ決済「AEON Pay」を標準搭載する。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "生成AI",
-        "AI活用",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 60
-    },
-    {
-      "id": "item_0d28ead016167820",
-      "title": "OpenAI、ChatGPTの生成文に電子透かし　EUで導入へ",
-      "url": "https://www.watch.impress.co.jp/docs/news/2145957.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-10-06T07:55:49.000Z",
-      "summary": "OpenAIは、ChatGPTやCodexが生成するテキストに、AIによる生成・処理を識別するための電子透かしを導入する。EUでは今後数週間かけて対象となるChatGPTとCodexの出力に適用する。APIでは10月5日から世界の利用者が一部モデルで任意に有効化でき、初期設定ではオフとなる。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "生成AI",
-        "AI活用"
-      ],
-      "priority_score": 60
     },
     {
       "id": "item_bc8710fc00c16cdf",
@@ -1176,12 +1512,12 @@
     },
     {
       "id": "item_3b7d2c8ace49df04",
-      "title": "【みおとあおい】情報Ⅰ #1｜共通テストの2進数・16進数は、型で解く。",
+      "title": "【みおとあおい】情報Ⅰ STEP 1｜共通テストの2進数・16進数は、型で解く。",
       "url": "https://note.com/sanraku01/n/n38601ce3f750",
       "source_id": "note_joho1",
       "source_name": "note（情報科教員）",
       "published_at": "2026-10-05T11:41:41.000Z",
-      "summary": "【みおとあおい】情報Ⅰ #1｜共通テストの2進数・16進数は、型で解く。 ―4つに切る。8・4・2・1を見る。終わり💗― 続きをみる",
+      "summary": "【みおとあおい】情報Ⅰ STEP 1｜共通テストの2進数・16進数は、型で解く。 ―4つに切る。8・4・2・1を見る。終わり💗― 続きをみる",
       "starred": false,
       "category": "exam",
       "tags": [
