@@ -1,32 +1,14 @@
 {
-  "generated_at": "2026-10-09T16:02:21.547Z",
-  "total": 103,
+  "generated_at": "2026-10-10T00:24:12.860Z",
+  "total": 83,
   "items": [
-    {
-      "id": "item_21f8651de3f2baea",
-      "title": "文部科学省ホームページトップはこちら",
-      "url": "https://www.mext.go.jp/",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-10-09T16:02:11.939Z",
-      "summary": "",
-      "starred": false,
-      "category": "admin",
-      "tags": [
-        "行政",
-        "文科省",
-        "制度",
-        "教育ニュース"
-      ],
-      "priority_score": 60
-    },
     {
       "id": "item_bd1951ae70f98dac",
       "title": "サイトマップはこちら",
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-10-09T16:02:11.939Z",
+      "published_at": "2026-10-10T00:24:04.129Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +25,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-10-09T16:02:11.939Z",
+      "published_at": "2026-10-10T00:24:04.129Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +36,74 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_21f8651de3f2baea",
+      "title": "文部科学省ホームページトップはこちら",
+      "url": "https://www.mext.go.jp/",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-10-10T00:24:04.128Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_fd71e64b80568ec3",
+      "title": "【いつモノコト】シール貼るだけでちょっと安心　紛失対策「find return」を買ってみた",
+      "url": "https://www.watch.impress.co.jp/docs/series/itsmo/2145558.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-10-10T00:15:00.000Z",
+      "summary": "findから発売された、シールを貼るだけのお手軽な紛失対策グッズ「find return」を買ってみました。シール5枚(大1、小4)がセットで1,000円です。Amazon.co.jpのほか一部の京王電鉄の駅窓口でも購入できます。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_ec709aac7ffc59a0",
+      "title": "楽天証券、こどもNISA専用で「信託報酬ゼロ」投資信託",
+      "url": "https://www.watch.impress.co.jp/docs/news/2147312.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-10-09T23:30:00.000Z",
+      "summary": "楽天証券は9日、2027年1月にスタートする「こどもNISA」専用商品として、信託報酬ゼロ(無料)の投資信託を提供すると発表した。通常、投資信託の保有にはそのコストとして信託報酬が発生するが、専用商品では信託報酬を0%とし、長期間の資産づくりを後押しする。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_5bceee7708a87239",
+      "title": "OpenAI、安全性研究者3人を解雇　本人らは「安全性を優先したため」と主張、同社は「機密情報の扱いに関する規定違反」と説明",
+      "url": "https://www.itmedia.co.jp/news/article/2610/10/2000002189/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-10-09T23:28:02.000Z",
+      "summary": "OpenAIで安全性研究に携わっていた研究者3人が、突然解雇されたと公表し、書面での理由開示や外部監査の受け入れ維持を求める書簡を公開した。これに対しOpenAIは、機密情報規定への重大な違反が社内調査で判明したためと説明し、安全性の懸念表明を理由とした解雇ではないと反論している。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_045ba508e57bf254",
@@ -792,348 +842,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_f2f8a50ea3cc6a5f",
-      "title": "全寮制の「夜間学習」ですらら活用　生徒の学力に寄り添い、自立的な学習者を育む ／秀明学園 秀明中学校",
-      "url": "https://ict-enews.net/2026/10/surala-20/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-10-09T00:20:06.000Z",
-      "summary": "【PR】 秀明学園 秀明中学校（埼玉県川越市）は、1978年に開校した中高一貫の全寮制学校。医進・特進コース、スーパーイングリッシュコース、総合進学コースの3コースがあり、将来は医 […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_ee8e8e7eb1d715b9",
-      "title": "母子モ、母子手帳アプリ「母子モ」が北海道札幌市で提供開始",
-      "url": "https://ict-enews.net/2026/10/09boshimo-3/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-10-09T00:15:30.000Z",
-      "summary": "母子モは7日、母子手帳アプリ「母子モ」が北海道札幌市にて導入され、「さっぽろ子育てアプリ」として10月26日から提供開始することを発表した。 札幌市では、「子ども・若者の権利を尊重 […]",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "教育ニュース",
-        "ICT",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_d942f3faeb05c280",
-      "title": "大学編入受験の生成AI利用率、2年で36%→97%に =大学編入総合研究所調べ=",
-      "url": "https://ict-enews.net/2026/10/09bear-bee/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-10-09T00:15:10.000Z",
-      "summary": "BearBeeは7日、大学編入予備校オンライン編入学院が運営する「大学編入総合研究所」が、2025～2027年度入学の大学編入試験の合格者224名を対象に実施した受験勉強での生成A […]",
-      "starred": false,
-      "category": "exam",
-      "tags": [
-        "教育ニュース",
-        "ICT",
-        "共通テスト",
-        "入試",
-        "生成AI",
-        "AI活用"
-      ],
-      "priority_score": 60
-    },
-    {
-      "id": "item_96fc44650fd548c6",
-      "title": "NEXER Groupと集団指導塾「心水塾」、「AI学習と対面指導、これからの学び」調査結果",
-      "url": "https://ict-enews.net/2026/10/09nexer-group/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-10-09T00:14:50.000Z",
-      "summary": "NEXER Groupは8日、集団指導塾『心水塾』と共同で、全国の男女500名を対象に「AI学習と対面指導、これからの学び」についてのアンケートをおこない、その結果を発表した。 ま […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_f58f67c5b2fa5e66",
-      "title": "グロービス経営大学院、日経ビジネスとAI活用の実態や組織課題を共同調査",
-      "url": "https://ict-enews.net/2026/10/09globis-2/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-10-09T00:14:30.000Z",
-      "summary": "グロービス経営大学院は7日、ビジネスメディア「日経ビジネス」と共同で、グロービス経営大学院の在校生・卒業生を対象に実施した、AI活用の実態や組織における阻害要因、AI時代のビジネス […]",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "教育ニュース",
-        "ICT",
-        "生成AI",
-        "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_07503567c261f742",
-      "title": "こども性暴力防止サポート協会、こども向け施設の従事者を対象に研修を実施",
-      "url": "https://ict-enews.net/2026/10/09sharaku-dbs/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-10-09T00:14:13.000Z",
-      "summary": "こども性暴力防止サポート協会は7日、大阪市内の一行政区より、こども向け施設の事業者を対象とした研修業務を受託し、9月に大阪市内で研修を実施したことを発表した。 放課後等デイサービス […]",
-      "starred": false,
-      "category": "admin",
-      "tags": [
-        "教育ニュース",
-        "ICT",
-        "行政",
-        "文科省"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_8a817fe0e9ee6c8f",
-      "title": "ヒューマンキャンパス高校、2027年4月「爬虫類専攻」新規開講",
-      "url": "https://ict-enews.net/2026/10/09hchs/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-10-09T00:13:51.000Z",
-      "summary": "佐藤学園ヒューマンキャンパス高等学校は8日、2027年4月に、トカゲやヘビ、カメなどの爬虫類が好きな気持ちを、生き物を深く理解する専門知識へと育てる「爬虫類専攻」を新規開講すると発 […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_11ba4fd60deb18c9",
-      "title": "大学パワーランキング、「私立大学の寄附金受入額ランキング」を発表",
-      "url": "https://ict-enews.net/2026/10/09ppcn-2/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-10-09T00:13:28.000Z",
-      "summary": "ポップコーンは7日、Webメディア「大学パワーランキング」にて『私立大学の寄附金受入額ランキング【2026年最新版】』を公開した。 文部科学省「2024年度 大学等における産学連携 […]",
-      "starred": false,
-      "category": "admin",
-      "tags": [
-        "教育ニュース",
-        "ICT",
-        "行政",
-        "文科省"
-      ],
-      "priority_score": 60
-    },
-    {
-      "id": "item_a1d56799bcef52a3",
-      "title": "学生団体による資金調達イベント「Giving Campaign 2026」16日から開幕",
-      "url": "https://ict-enews.net/2026/10/09alumnote/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-10-09T00:13:07.000Z",
-      "summary": "「次世代の教育に資本をまわす」をミッションに掲げるAlumnote(アルムノート)が開催する“学生による”資金調達イベント「Giving Campaign 2026」は、2026年 […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_97090c054fecd6f6",
-      "title": "河合塾、中高生対象OL学習プログラム「みらい探究プログラム K-SHIP」開催",
-      "url": "https://ict-enews.net/2026/10/09kawai-juku-2/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-10-09T00:12:45.000Z",
-      "summary": "河合塾は8日、11月から12月にかけて、全国の中3生・高1生・高2生を対象に、オンライン学習プログラム「みらい探究プログラム K-SHIP」を開催すると発表した。 今回は、理化学研 […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_347698b83a6d60dd",
-      "title": "近畿大学工業高専、中高生女子向けSTEM領域体験ツアー「Girls Meet STEM」開催",
-      "url": "https://ict-enews.net/2026/10/09kindai-5/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-10-09T00:12:26.000Z",
-      "summary": "近畿大学は、近畿大学工業高等専門学校が、山田進太郎D&I財団が主催する中高生女子向けSTEM（理系）領域のツアー型体験プログラム「Girls Meet STEM」に参画し、 […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_8f505e0530196f04",
-      "title": "日本数学検定協会、「すらら国際デジタル算数・数学コンテスト2026」に問題提供",
-      "url": "https://ict-enews.net/2026/10/09su-gaku/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-10-09T00:12:09.000Z",
-      "summary": "算数・数学の実用的な技能を測る、実用数学技能検定「数検」を実施・運営している日本数学検定協会は8日、すららネットが、インドネシア、スリランカ、フィリピン、エジプト、カンボジア、日本 […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_79872bdb71ea5f2a",
-      "title": "東京大学、“AI”をテーマに一般向け国際シンポジウム「東京フォーラム2026」11月開催",
-      "url": "https://ict-enews.net/2026/10/09u-tokyo-3/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-10-09T00:11:49.000Z",
-      "summary": "東京大学では、“AI”をテーマに一般向け国際シンポジウム「東京フォーラム2026」を11月20日・21日の2日間安田講堂で開催する。 東京フォーラムは、地球と人類社会が直面する課題 […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_e4febdfcf8477e68",
-      "title": "宝仙学園小学校、「秋の公開授業研究会」11月27日開催",
-      "url": "https://ict-enews.net/2026/10/09hosen/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-10-09T00:11:33.000Z",
-      "summary": "宝仙学園小学校（東京都中野区）は、「秋の公開授業研究会2026」を11月27日に開催する。 テーマは「2030年の教科教育―次期学習指導要領を見据えた、これからの授業デザイン―」。 […]",
-      "starred": false,
-      "category": "lesson",
-      "tags": [
-        "教育ニュース",
-        "ICT",
-        "授業実践",
-        "情報Ⅰ",
-        "行政",
-        "文科省"
-      ],
-      "priority_score": 60
-    },
-    {
-      "id": "item_b7e48fd54355df9b",
-      "title": "東京理科大学、「高校生のためのノーベル賞解説」19日開催",
-      "url": "https://ict-enews.net/2026/10/09tus/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-10-09T00:11:15.000Z",
-      "summary": "東京理科大学は、2026年4月、理学部第一部に「科学コミュニケーション学科」を新設した（神楽坂キャンパス／入学定員80名）。本学科は「科学をわかりやすく社会へ発信し、科学と社会の架 […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_f718ccc369e61851",
-      "title": "ネットラーニング、「教育現場の情報セキュリティ研修、何から始める？事例で学ぶ実践ノウハウ」29日開催",
-      "url": "https://ict-enews.net/2026/10/09netlearning-2/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-10-09T00:10:51.000Z",
-      "summary": "ネットラーニングは、オンラインウェビナー「教育現場の情報セキュリティ研修、何から始める？事例で学ぶ実践ノウハウ」を10月29日に開催する。 教育機関では、学生・教職員の個人情報や研 […]",
-      "starred": false,
-      "category": "security",
-      "tags": [
-        "教育ニュース",
-        "ICT",
-        "セキュリティ",
-        "情報モラル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_2062cac7630f378c",
-      "title": "「東京に必要な保育者は、東京で育てる」TOKYO保育人財フォーラム2026 23日開催",
-      "url": "https://ict-enews.net/2026/10/09tohoyo/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-10-09T00:10:35.000Z",
-      "summary": "東京都保育士養成連絡協議会とこども未来政策研究会・東京は、東京都新宿区にて「TOKYO保育人財フォーラム2026」を10月23日に開催する。 テーマは「東京に必要な保育者は、東京で […]",
-      "starred": false,
-      "category": "admin",
-      "tags": [
-        "教育ニュース",
-        "ICT",
-        "行政",
-        "文科省"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_edf11c0d823bb049",
-      "title": "工学系の学生団体を支援する「ミスミ学生ものづくり支援」2026年度公募開始",
-      "url": "https://ict-enews.net/2026/10/09misumi/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-10-09T00:10:18.000Z",
-      "summary": "ミスミグループ本社は、工学系のものづくりに挑戦する学生団体を支援する「ミスミ学生ものづくり支援」の2026年度公募を、10月21日から開始する。 同プログラムは、次世代のものづくり […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_2f8a22ad419d2c26",
-      "title": "Ji4pe、「患者・市民のための人材育成コース」がオンラインで2027年1月から開講",
-      "url": "https://ict-enews.net/2026/10/09ji4pe/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-10-09T00:10:02.000Z",
-      "summary": "医療開発基盤研究所（Ji4pe）は7日、国際認定PharmaTrain CoE機関として「患者・市民のための人材育成コース（医薬品開発のイントロコース）」を2027年1月23日に開 […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_23adb267ad154492",
-      "title": "高校2年生対象「Z会入試基礎力診断テスト×ナビオ解説授業」無料開催",
-      "url": "https://ict-enews.net/2026/10/09zkai-gr-5/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-10-09T00:09:48.000Z",
-      "summary": "Z会グループの栄光が運営する、大学受験塾「栄光ゼミナール大学受験ナビオ」は、高校2年生対象「入試基礎力診断テスト」を10月25日（日）・11月1日（日）に高田馬場校・明大前校で開催 […]",
-      "starred": false,
-      "category": "exam",
-      "tags": [
-        "教育ニュース",
-        "ICT",
-        "共通テスト",
-        "入試"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_ed277d24571032d0",
       "title": "Anthropic、Claudeへの“虐待”を利用ポリシーで禁止　影響工作の規定も集約",
       "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002149/",
@@ -1422,38 +1130,6 @@
       "priority_score": 70
     },
     {
-      "id": "item_212aea18b5a29977",
-      "title": "りそな、ファンドラップでNISA枠を使える「NISAオプション」",
-      "url": "https://www.watch.impress.co.jp/docs/news/2146849.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-10-08T10:30:00.000Z",
-      "summary": "りそな銀行と埼玉りそな銀行、関西みらい銀行、みなと銀行は、10月19日から、「りそなファンドラップ(投資一任契約)」においてNISAを利用できる「NISAオプション」の取り扱いを開始する。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_1a8c675d2318b14f",
-      "title": "ドコモ・ソフトバンクら携帯4社、海自沖縄基地隊と災害復旧協定　船舶で機材・要員輸送",
-      "url": "https://www.watch.impress.co.jp/docs/news/2146852.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-10-08T09:52:07.000Z",
-      "summary": "海上自衛隊沖縄基地隊とNTTドコモ、沖縄セルラー電話、ソフトバンク、楽天モバイルは8日、沖縄県内の災害時に通信サービスの早期復旧を図る細部連携協定を締結した。海上自衛隊の船舶などによる復旧機材や要員の輸送、活動拠点や電源機材の提供などで協力する。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_88f2ad284687d629",
       "title": "立ち話が“宝の山”に　8人の声を聞き分けられたAI文字起こし「Klang」の実力",
       "url": "https://www.itmedia.co.jp/news/article/2610/08/2000002130/",
@@ -1508,27 +1184,6 @@
         "情報モラル"
       ],
       "priority_score": 50
-    },
-    {
-      "id": "item_62c2d8177ddc7410",
-      "title": "「ChatGPT for Teens」は「容認できないリスク」と米非営利団体が警告　OpenAIは利用状況と新機能を発表",
-      "url": "https://www.itmedia.co.jp/news/article/2610/08/2000002125/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-10-08T04:00:45.000Z",
-      "summary": "米非営利団体Common Sense Mediaは、OpenAIの10代向け環境「ChatGPT for Teens」について、保護者通知などが機能せず安全基準を下回るとして「容認できないリスク」と評価した。一方OpenAIは同日、10代の学習利用実績や大学出願支援「College Planner」の導入計画を公表した。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用",
-        "行政",
-        "文科省",
-        "教育ニュース"
-      ],
-      "priority_score": 60
     },
     {
       "id": "item_90ec917dee49d94f",
