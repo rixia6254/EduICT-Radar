@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T15:10:50.897Z",
+  "generated_at": "2026-10-11T00:02:08.192Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-10-10T15:10:40.359Z",
+      "published_at": "2026-10-11T00:01:59.100Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-10-10T15:10:40.359Z",
+      "published_at": "2026-10-11T00:01:59.100Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-10-10T15:10:40.359Z",
+      "published_at": "2026-10-11T00:01:59.100Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,22 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_d7ce06a0cbe5a997",
+      "title": "宇都宮LRTが西側延伸　2036年3月開業目指す",
+      "url": "https://www.watch.impress.co.jp/docs/news/2147355.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-10-10T23:00:00.000Z",
+      "summary": "栃木県宇都宮の「芳賀・宇都宮LRT(ライトライン)」の西側延伸計画が決定した。2036年3月の運行開始を目指す。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_9e74bb9f18afc9ce",
@@ -1426,26 +1442,6 @@
         "デジタル",
         "校務DX",
         "GIGA"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_ffc33065ceeba96c",
-      "title": "IDCFクラウドの障害、データは「取り出しや復元が困難な見通し」",
-      "url": "https://www.watch.impress.co.jp/docs/news/2146931.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-10-08T12:49:50.000Z",
-      "summary": "IDCフロンティアは8日、クラウドサービス「IDCFクラウド」の一部システムに対する不正アクセスによる障害についての現状を第3報として発表した。対象である東日本リージョン1の一部に保管されている顧客データについては、「取り出しや復元が困難な見通し」としている。",
-      "starred": false,
-      "category": "dx",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "校務DX",
-        "GIGA",
-        "セキュリティ",
-        "情報モラル"
       ],
       "priority_score": 50
     },
