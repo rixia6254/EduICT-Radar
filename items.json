@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T08:29:50.589Z",
+  "generated_at": "2026-10-14T14:26:00.090Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-10-14T08:29:40.646Z",
+      "published_at": "2026-10-14T14:25:49.882Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-10-14T08:29:40.646Z",
+      "published_at": "2026-10-14T14:25:49.882Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-10-14T08:29:40.646Z",
+      "published_at": "2026-10-14T14:25:49.882Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,251 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_f43c7ac3358f036e",
+      "title": "IDCFクラウドの不正アクセス、一部データは復元可能に データ流出は「確認されず」",
+      "url": "https://www.watch.impress.co.jp/docs/news/2148186.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-10-14T14:16:32.000Z",
+      "summary": "IDCフロンティアは14日、クラウドサービス「IDCFクラウド」の一部システムに対する不正アクセスによる障害についての現状を第5報として発表した。対象である東日本リージョン1の一部に保管されている顧客データについては、「外部へのデータの流出はなかったと判断」しているほか、これまで、データの取り出しや復元は困難と見込んでいた、バックアップデータの一部においても安全性を確認し、復旧見通しとしている。",
+      "starred": false,
+      "category": "dx",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "校務DX",
+        "GIGA",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_2de71030ab142e27",
+      "title": "熊本のバス・市電・鉄道、タッチ決済で運賃半額",
+      "url": "https://www.watch.impress.co.jp/docs/news/2148090.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-10-14T11:00:00.000Z",
+      "summary": "九州産交バスや熊本電気鉄道、熊本市交通局など熊本県内の交通事業者7者は、クレジットカードなどのタッチ決済で対象路線の運賃を半額にする「熊本応援プロジェクト」を10月29日から開始する。終了日は未定で、予算上限に達し次第終了する。",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "行政",
+        "文科省"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_aa51c572124cce80",
+      "title": "デジハリ大、「Claude」を全学導入へ──国内初、“回数気にせず”使い放題に",
+      "url": "https://www.itmedia.co.jp/news/article/2610/14/2000002278/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-10-14T10:43:31.000Z",
+      "summary": "デジタルハリウッド大学は10月14日、米Anthropicの生成AI「Claude」を全学に導入し、11月から全学生・全教職員に提供すると発表した。Claudeの全学導入は国内の大学で初という。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_2ea0848d3c18f30f",
+      "title": "「IDCFクラウド」への不正アクセスについて調査の進捗を公開、外部へのデータ流出を裏付ける事実は確認されず　一部利用者のバックアップ取り出しも可能だと判明",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2148166.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-10-14T10:36:20.000Z",
+      "summary": "株式会社IDCフロンティアは10月14日、クラウドサービス「IDCFクラウド」が受けたランサムウェア攻撃について、現時点までの調査で判明した事実をまとめた第5報を発表した。",
+      "starred": false,
+      "category": "dx",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "校務DX",
+        "GIGA",
+        "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_4bc5222feea073a6",
+      "title": "EGセキュアソリューションズのホスト型WAF「SiteGuard Server Edition」に脆弱性、最新バージョンに更新を　当該の脆弱性はすでに悪用を確認",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2148151.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-10-14T10:11:20.000Z",
+      "summary": "EGセキュアソリューションズ株式会社は10月14日、ホスト型WAF「SiteGuard Server Edition」にOSコマンドインジェクションの脆弱性（CVE-2026-106931）が存在するとして、緊急情報を公開した。当該の脆弱性はすでに悪用が確認されており、同社は最新バージョンへのアップデートなどの対応を求めている。JPCERT/CCおよび脆弱性情報ポータルサイト「JVN」（Japan…",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_4fe16e17068b11ed",
+      "title": "【みおとあおい】共通テスト情報Ⅰ STEP 10｜n進数の一般式から、IPアドレスの難問へ。【無料💗】",
+      "url": "https://note.com/sanraku01/n/nefacf6019902",
+      "source_id": "note_joho1",
+      "source_name": "note（情報科教員）",
+      "published_at": "2026-10-14T10:11:20.000Z",
+      "summary": "続きをみる",
+      "starred": false,
+      "category": "exam",
+      "tags": [
+        "授業実践",
+        "情報Ⅰ",
+        "教材",
+        "共通テスト",
+        "入試"
+      ],
+      "priority_score": 70
+    },
+    {
+      "id": "item_05df956f177f03bd",
+      "title": "シャープ、排水不要の洗濯機　給排水設備なしで使える【CEATEC 2026】",
+      "url": "https://www.watch.impress.co.jp/docs/news/2148120.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-10-14T09:47:01.000Z",
+      "summary": "デジタルイノベーションの総合展示会「CEATEC 2026」が、10月16日まで幕張メッセにて開催されている。入場は無料で、会場参加やカンファレンス聴講などには事前予約が必要となる。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_4162ca12714f9579",
+      "title": "小型・電動の「除雪ドローン」が雪国の課題に対応。実機をエバーブルーテクノロジーズが展示【CEATEC 2026】",
+      "url": "https://internet.watch.impress.co.jp/docs/event/2148145.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-10-14T09:38:38.000Z",
+      "summary": "「CEATEC AWARD 2026」では、エバーブルーテクノロジーズ株式会社の「除雪ドローン」が「モビリティイノベーション賞」を受賞した。「CEATEC 2026」と併催のイベント「Japan Mobility Show Bizweek 2026」に同社が出展し、実機を展示している（ブース番号S-51）。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_0fcb212a277be4ac",
+      "title": "Anthropic共同創業者「サイバー攻撃、オープンモデル悪用の可能性」",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2610/14/2000002272/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-10-14T09:20:35.000Z",
+      "summary": "米Anthropicの共同創業者であるジャック・クラーク氏は、相次ぐ日本企業へのサイバー攻撃について、AIが使われている可能性もあるとの見方を示した。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_e83156ed74a4967f",
+      "title": "空間AI「TRAILS」、Wi-Fiやビーコン不要で高精度の屋内測位。空間AIカメラで手元作業の記録も【CEATEC 2026】",
+      "url": "https://internet.watch.impress.co.jp/docs/event/2148128.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-10-14T09:07:50.000Z",
+      "summary": "「CEATEC 2026」のzeteoh株式会社のブース（ホール4 ブース番号4H242）では、「CEATEC AWARD 2026」において「ネクストジェネレーション賞」を受賞した空間AI「TRAILS」を展示している。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_c50df2957a69a720",
+      "title": "キャッシュレスサービス「IDARE」で約13万件の情報漏えい　一部取引履歴も",
+      "url": "https://www.watch.impress.co.jp/docs/news/2148121.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-10-14T09:00:00.000Z",
+      "summary": "キャッシュレスサービス「IDARE」を展開するFivotは、第三者からの不正アクセスにより、利用者の個人情報が外部に漏えいしたと発表した。対象となるのは129,659名で、電話番号、メールアドレス、生年月日のほか、残高情報や取引履歴も含まれる。",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_a9e79662d828ffe5",
+      "title": "日立が「木造データセンター」展開　“鉄とコンクリ”から木材へ、“見た目がオシャレ”以外の価値は？",
+      "url": "https://www.itmedia.co.jp/business/articles/2610/14/news069.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-10-14T08:45:00.000Z",
+      "summary": "日立製作所が「木造データセンター」を販売する。あえて木造を使うことで、“見た目がオシャレ”以外の価値をどう引き出せるのか。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_c74033e1324b07b8",
+      "title": "サイゼリヤ値上げ　ミラノ風ドリアは320円に",
+      "url": "https://www.watch.impress.co.jp/docs/news/2148103.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-10-14T08:38:45.000Z",
+      "summary": "サイゼリヤは、10月29日からメニュー全般を値上げする。食材不足や原価上昇を受けたもの。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_44b44c53c697e928",
+      "title": "人や車の動きをリアルタイムに反映するデジタルツイン。東京科学大学の研究室が研究成果を展示【CEATEC 2026】",
+      "url": "https://internet.watch.impress.co.jp/docs/event/2148108.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-10-14T08:30:14.000Z",
+      "summary": "「CEATEC 2026」の「デジタル交通社会パビリオン」にある東京科学大学工学院 阪口・タン研究室のブース（ホール6 ブース番号6H001-11）では、道路状況をリアルタイムに仮想世界へと反映させる「スマートモビリティ・デジタルツイン」の研究成果を展示している。この研究は、交差点に設置したRSU（Road Side Unit）や車両、信号機、道路センサーなどで取得した情報を低遅延で収集し、リアル…",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_d0ea82f7cdc2e25b",
@@ -908,12 +1153,12 @@
     },
     {
       "id": "item_2d27a135652b7a1d",
-      "title": "ダンジョン飯の料理「マンドレイクの甘露煮」が試食できる。小型ウェアラブル嗅覚ディスプレイによる“匂いが出るVR”など、「CEATEC 2026」展示会場から【写真速報 Vol.2】【CEATEC 2026】",
+      "title": "ダンジョン飯の料理「マンドレイクの甘露煮」が試食できる。小型ウェアラブル嗅覚ディスプレイによる“匂いが出るVR”、新型IoT炊飯器なども……「CEATEC 2026」展示会場から【写真速報 Vol.2】【CEATEC 2026】",
       "url": "https://internet.watch.impress.co.jp/docs/event/2147826.html",
       "source_id": "internet_watch",
       "source_name": "INTERNET Watch",
       "published_at": "2026-10-13T21:05:00.000Z",
-      "summary": "最終更新 10月14日 6:05",
+      "summary": "最終更新 10月14日 19:10",
       "starred": false,
       "category": "tech",
       "tags": [
@@ -1005,6 +1250,25 @@
       "priority_score": 50
     },
     {
+      "id": "item_eb6c458a0cd8773f",
+      "title": "【みおとあおい】共通テスト情報Ⅰ STEP 9｜8桁の2進数と10進数は、足し算で行ったり来たり。【無料💗】",
+      "url": "https://note.com/sanraku01/n/n530067487142",
+      "source_id": "note_joho1",
+      "source_name": "note（情報科教員）",
+      "published_at": "2026-10-13T10:53:29.000Z",
+      "summary": "【みおとあおい】共通テスト情報Ⅰ STEP 9｜8桁の2進数と10進数は、足し算で行ったり来たり。【無料💗】 ――128・64・32・16・8・4・2・1を使いこなそう💗―― 続きをみる",
+      "starred": false,
+      "category": "exam",
+      "tags": [
+        "授業実践",
+        "情報Ⅰ",
+        "教材",
+        "共通テスト",
+        "入試"
+      ],
+      "priority_score": 70
+    },
+    {
       "id": "item_41f817071c585c01",
       "title": "相次ぐ情報漏えいの一因は「Androidアプリ」 NICTが「A2B攻撃」対策を公表",
       "url": "https://www.watch.impress.co.jp/docs/news/2147764.html",
@@ -1060,90 +1324,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_ae743de5360487e4",
-      "title": "富士通、ゴジラ襲来をシミュレーション　ゴジラにもなれる【CEATEC 2026】",
-      "url": "https://www.watch.impress.co.jp/docs/news/2147737.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-10-13T09:02:31.000Z",
-      "summary": "デジタルイノベーションの総合展示会「CEATEC 2026」が、10月16日まで幕張メッセにて開催されている。入場は無料で、会場参加やカンファレンス聴講などには事前予約が必要となる。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_d44500beb371c0cd",
-      "title": "三菱UFJカードの7%還元、アメックス拡大　対象店舗が同一に",
-      "url": "https://www.watch.impress.co.jp/docs/news/2147726.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-10-13T08:14:52.000Z",
-      "summary": "三菱UFJニコスは、「三菱UFJカード」の「ポイントアッププログラム」の7%還元サービスを改定し、12月16日からアメリカン・エキスプレスのカードの優遇対象店舗を拡大する。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_ceb9edd6067c5f97",
-      "title": "SB Intuitions、国産AI「Sarashina」を無料公開　チャットやAPIで6モデル",
-      "url": "https://www.watch.impress.co.jp/docs/news/2147706.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-10-13T08:00:00.000Z",
-      "summary": "ソフトバンク子会社のSB Intuitionsは13日、国産生成AI「Sarashina」を無料で利用できる「Sarashinaサービス」の無償ベータ版を提供開始した。6つのAIモデルを利用できるAPI機能と、Webブラウザ上でAIとの対話や翻訳ができるチャット機能を一般公開する。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "生成AI",
-        "AI活用"
-      ],
-      "priority_score": 60
-    },
-    {
-      "id": "item_3655ef23497bd2ed",
-      "title": "フジ・日テレ・TBS、\"テレビ業界のため\"の広告取引基盤で新会社",
-      "url": "https://www.watch.impress.co.jp/docs/news/2147714.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-10-13T07:42:15.000Z",
-      "summary": "フジテレビ・日本テレビ・TBSテレビが出資し、テレビ広告取引新会社アドリーチマックスを設立する。新会社は、日本テレビが開発してきたテレビ広告取引基盤「Ad Reach MAX プラットフォーム」(アドリーチマックス/AdRM-PF)の企画・開発・運営を担い、同社へ3社が出資する。事業開始は2027年2月を予定している。",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_70896debc6daae62",
-      "title": "Uber Eats日本10周年　グルメから配達インフラへ",
-      "url": "https://www.watch.impress.co.jp/docs/news/2147675.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-10-13T06:44:54.000Z",
-      "summary": "Uber Eats Japanは、日本でのサービス開始から10周年を迎え、これまでのデータの振り返りや今後の戦略を明らかにした。また楽天IDとの連携では、楽天ポイントが貯まるだけでなく10月から順次「使える」ようになることも発表された。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_98cf65da22dfaf11",
       "title": "新サービス「Gemini agent」は企業向け、「Gemini Enterprise」加入者は追加料金なし　日本提供時期は未定",
       "url": "https://www.itmedia.co.jp/aiplus/article/2610/13/2000002199/",
@@ -1158,41 +1338,6 @@
         "AI",
         "LLM",
         "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_0d1a82dd4dd7e98b",
-      "title": "公開アプリを解析してサーバーを攻撃する「A2B攻撃」、相次ぐ不正アクセスの原因の1つとしてNICTが注意喚起",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2147673.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-10-13T06:17:08.000Z",
-      "summary": "国立研究開発法人情報通信研究機構（NICT）脅威情報分析チームLETTICEは10月13日、国内で相次ぐ情報漏えい事案の原因の1つとして、公開アプリを解析して得た情報をもとに接続先のサーバーを狙う攻撃を特定し、「A2B攻撃」（App-to-Backend Attack）と名付けるとともに、その手法や対策について解説した。",
-      "starred": false,
-      "category": "security",
-      "tags": [
-        "インターネット",
-        "セキュリティ",
-        "情報モラル",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_187399b0b59f01e9",
-      "title": "「CEATEC 2026」展示会場がいろいろあって面白い。時刻が湧き出る蛇口、眼が休まるゲームセンター、ゴジラになりきるモーションキャプチャー体験……【写真速報 Vol.1】【CEATEC 2026】",
-      "url": "https://internet.watch.impress.co.jp/docs/event/2147605.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-10-13T04:26:12.000Z",
-      "summary": "最終更新 10月13日 21:40",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
       ],
       "priority_score": 50
     },
@@ -1249,22 +1394,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_70f5b799cf353660",
-      "title": "TP-LinkのWi-Fi7ルーターが限定セール中！　Amazonプライム感謝祭　10Gbps WAN/LAN対応の「Archer BE19000」は4万8600円",
-      "url": "https://internet.watch.impress.co.jp/docs/shopping/2147465.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-10-13T03:30:00.000Z",
-      "summary": "Amazon.co.jpでは10月16日からAmazonプライム会員向けのビッグセール「プライム感謝祭」を開催する。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_4e9657a484833a52",
       "title": "エージェント型AIがプロジェクトを切り盛りする日　その時、人は？",
       "url": "https://monoist.itmedia.co.jp/mn/articles/2610/13/news034.html",
@@ -1278,22 +1407,6 @@
         "生成AI",
         "AI",
         "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_e20ce004c6948268",
-      "title": "「CEATEC 2026」が開幕。幕張メッセで10月16日まで。821社／団体が出展【CEATEC 2026】",
-      "url": "https://internet.watch.impress.co.jp/docs/event/2147550.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-10-13T03:11:52.000Z",
-      "summary": "幕張メッセ（千葉市美浜区）で10月13日、デジタルイノベーションの総合展「CEATEC 2026」が開幕した。会期は10月16日までの4日間。事前登録制となっており、CEATEC公式サイトより来場登録することで無料で入場できる。主催は一般社団法人電子情報技術産業協会（JEITA）。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
       ],
       "priority_score": 50
     },
@@ -1312,22 +1425,6 @@
         "AI",
         "LLM",
         "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_ebce399573444f84",
-      "title": "安い！ 小さい!! なのに速い!? Wi-Fi 7ルーターの低価格帯激戦区にエレコムが投入した新モデルのスゴさを動画で解説【清水理史の「イニシャルB」チャンネル】",
-      "url": "https://internet.watch.impress.co.jp/docs/column/shimizumovie/2147322.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-10-13T03:00:00.000Z",
-      "summary": "Wi-Fi 7ルーターの最安値競争でTP-Linkとしのぎを削るエレコムから、新しい低価格帯Wi-Fi 7ルーターが登場!!",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
       ],
       "priority_score": 50
     },
@@ -1387,58 +1484,23 @@
       "priority_score": 60
     },
     {
-      "id": "item_c3e45ecb0e443dee",
-      "title": "Microsoft、第3世代AIチップ「Maia 300」を2027年に投入　GPU比で電力効率4割向上、自社サービスの主力推論基盤に",
-      "url": "https://www.itmedia.co.jp/news/article/2610/13/2000002200/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-10-13T00:24:59.000Z",
-      "summary": "Microsoftは、自社設計AIアクセラレータ「Maia 300」を発表した。TSMCの2nmプロセスを採用し、HBM4を288GB搭載。推論処理に特化し、GPU基盤比で電力効率を向上させて前世代比最大7倍の処理能力を実現した。数ギガワット規模で展開し、自社サービスの中核に据える。",
+      "id": "item_a7976375387c56c8",
+      "title": "【みおとあおい】共通テスト情報Ⅰ STEP 8｜2進数って、結局何なの？【無料💗】",
+      "url": "https://note.com/sanraku01/n/n6c20801e15df",
+      "source_id": "note_joho1",
+      "source_name": "note（情報科教員）",
+      "published_at": "2026-10-12T08:50:01.000Z",
+      "summary": "【みおとあおい】共通テスト情報Ⅰ STEP 8｜2進数って、結局何なの？【無料💗】 8・4・2・1の正体は、ただの足し算だった💗 続きをみる",
       "starred": false,
-      "category": "ai",
+      "category": "exam",
       "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_cc8aa1fef1f10630",
-      "title": "OpenAI幹部が明かす“AI暴走事故”の教訓　“安全運転”のカギは",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2610/13/2000002180/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-10-12T23:00:00.000Z",
-      "summary": "OpenAIのAIが起こした「Hugging Face」への侵入事案から約3カ月、OpenAI幹部のクリス・レヘイン氏にAI開発の安全対策の考え方などを聞いた。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_ee9df9df2cb30738",
-      "title": "Meta、同社最大のAIモデル「Muse Wonder」発表　記憶力と粘り強さを強化、AIエージェント「Muse」にも搭載へ",
-      "url": "https://www.itmedia.co.jp/news/article/2610/13/2000002197/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-10-12T22:06:29.000Z",
-      "summary": "Metaは、最大かつ最強と位置付ける新AIモデル「Muse Wonder」と上位モデル「Muse Wonde Full」を発表した。会話をまたいで記憶を保持する機能や粘り強くタスクを遂行する機能を備え、エージェント用途に最適化した。APIやコーディングツールで提供を始めたほか、個人向けAIエージェント「Muse」にも順次搭載していく。",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
+        "授業実践",
+        "情報Ⅰ",
         "教材",
-        "ツール"
+        "共通テスト",
+        "入試"
       ],
-      "priority_score": 50
+      "priority_score": 70
     },
     {
       "id": "item_de8575a3693c1949",
@@ -1461,6 +1523,44 @@
       "priority_score": 60
     },
     {
+      "id": "item_073c23edd761c99c",
+      "title": "【みおとあおい】共通テスト情報Ⅰ STEP 7｜2進数・16進数は、8・4・2・1で解く。【無料💗】",
+      "url": "https://note.com/sanraku01/n/n3a695572a0bd",
+      "source_id": "note_joho1",
+      "source_name": "note（情報科教員）",
+      "published_at": "2026-10-11T09:19:12.000Z",
+      "summary": "【みおとあおい】共通テスト情報Ⅰ｜2進数・16進数は、8・4・2・1で解く。 ―意味が分かれば、自分で作り直せる💗― 続きをみる",
+      "starred": false,
+      "category": "exam",
+      "tags": [
+        "授業実践",
+        "情報Ⅰ",
+        "教材",
+        "共通テスト",
+        "入試"
+      ],
+      "priority_score": 70
+    },
+    {
+      "id": "item_9e74bb9f18afc9ce",
+      "title": "【みおとあおい】共通テスト情報Ⅰ STEP 6｜2進数・16進数は、8・4・2・1で行ったり来たり。【無料💗】",
+      "url": "https://note.com/sanraku01/n/ne5e48a15919b",
+      "source_id": "note_joho1",
+      "source_name": "note（情報科教員）",
+      "published_at": "2026-10-10T08:46:51.000Z",
+      "summary": "続きをみる",
+      "starred": false,
+      "category": "exam",
+      "tags": [
+        "授業実践",
+        "情報Ⅰ",
+        "教材",
+        "共通テスト",
+        "入試"
+      ],
+      "priority_score": 70
+    },
+    {
       "id": "item_045ba508e57bf254",
       "title": "【無料】情報Ⅰの過去問6回分を一気に。解いた点数で、大学ガチャが回せるアプリ",
       "url": "https://note.com/mild_okapi4223/n/n4b8f81573082",
@@ -1480,6 +1580,82 @@
         "教育ニュース"
       ],
       "priority_score": 70
+    },
+    {
+      "id": "item_87f6d636b220dfb1",
+      "title": "【みおとあおい】共通テスト情報Ⅰ STEP 5｜2進数・16進数は、自分で作った変換表で解く。【無料💗】",
+      "url": "https://note.com/sanraku01/n/n4c21748b5c60",
+      "source_id": "note_joho1",
+      "source_name": "note（情報科教員）",
+      "published_at": "2026-10-09T11:37:49.000Z",
+      "summary": "【みおとあおい】共通テスト情報Ⅰ STEP 5｜2進数・16進数は、自分で作った変換表で解く。 0と1から始めよう。紙を外部メモリにする💗 続きをみる",
+      "starred": false,
+      "category": "exam",
+      "tags": [
+        "授業実践",
+        "情報Ⅰ",
+        "教材",
+        "共通テスト",
+        "入試"
+      ],
+      "priority_score": 70
+    },
+    {
+      "id": "item_ad71f97ba574ad50",
+      "title": "【みおとあおい】共通テスト情報Ⅰ STEP 4｜2進数・16進数で解く！カラーコード予想問題【無料💗】",
+      "url": "https://note.com/sanraku01/n/n0f41cb6ed78a",
+      "source_id": "note_joho1",
+      "source_name": "note（情報科教員）",
+      "published_at": "2026-10-08T11:58:23.000Z",
+      "summary": "続きをみる",
+      "starred": false,
+      "category": "exam",
+      "tags": [
+        "授業実践",
+        "情報Ⅰ",
+        "教材",
+        "共通テスト",
+        "入試"
+      ],
+      "priority_score": 70
+    },
+    {
+      "id": "item_90ec917dee49d94f",
+      "title": "【みおとあおい】情報Ⅰ STEP 3｜IPアドレスも、結局2進数だった。【無料💗】",
+      "url": "https://note.com/sanraku01/n/n6cafdc35ed6c",
+      "source_id": "note_joho1",
+      "source_name": "note（情報科教員）",
+      "published_at": "2026-10-07T08:33:30.000Z",
+      "summary": "続きをみる",
+      "starred": false,
+      "category": "exam",
+      "tags": [
+        "授業実践",
+        "情報Ⅰ",
+        "教材",
+        "共通テスト",
+        "入試"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_dcc979c3a94a579e",
+      "title": "【みおとあおい】情報Ⅰ STEP 2｜8桁の2進数も、4つずつに切ればいい。【無料💗】",
+      "url": "https://note.com/sanraku01/n/nf9b3e1d917fb",
+      "source_id": "note_joho1",
+      "source_name": "note（情報科教員）",
+      "published_at": "2026-10-06T08:39:08.000Z",
+      "summary": "【みおとあおい】情報Ⅰ STEP 2｜8桁の2進数も、4つずつに切ればいい。 ――パリティビットで、2進数・16進数をもう一度使う💗―― 続きをみる",
+      "starred": false,
+      "category": "exam",
+      "tags": [
+        "授業実践",
+        "情報Ⅰ",
+        "教材",
+        "共通テスト",
+        "入試"
+      ],
+      "priority_score": 60
     },
     {
       "id": "item_cf6fd82fbabb5dc5",
@@ -1514,6 +1690,25 @@
         "教材"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_3b7d2c8ace49df04",
+      "title": "【みおとあおい】情報Ⅰ STEP 1｜共通テストの2進数・16進数は、型で解く。【無料💗】",
+      "url": "https://note.com/sanraku01/n/n38601ce3f750",
+      "source_id": "note_joho1",
+      "source_name": "note（情報科教員）",
+      "published_at": "2026-10-05T11:41:41.000Z",
+      "summary": "【みおとあおい】情報Ⅰ STEP 1｜共通テストの2進数・16進数は、型で解く。 ―4つに切る。8・4・2・1を見る。終わり💗― 続きをみる",
+      "starred": false,
+      "category": "exam",
+      "tags": [
+        "授業実践",
+        "情報Ⅰ",
+        "教材",
+        "共通テスト",
+        "入試"
+      ],
+      "priority_score": 70
     },
     {
       "id": "item_3869cb44dd32d888",
@@ -1611,192 +1806,6 @@
         "情報Ⅰ",
         "教材",
         "教育ニュース"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_f92222e02f126870",
-      "title": "高校生70名に「情報I」を熱血指導！能開センターでの特別授業とBeEngineer梅田校の圧倒的熱量",
-      "url": "https://note.com/beengineer_fuji/n/ne735c78ad58e",
-      "source_id": "note_joho1",
-      "source_name": "note（情報科教員）",
-      "published_at": "2026-09-19T23:11:09.000Z",
-      "summary": "BeEngineer梅田校責任者の藤原圭吾です。 この週末、私は新卒から6年間お世話になった古巣である栃木県の「能開センター」に呼んでいただき、高校生向けの「共通テスト 情報I」特別対策授業の壇上に立ってまいりました。 続きをみる",
-      "starred": false,
-      "category": "exam",
-      "tags": [
-        "授業実践",
-        "情報Ⅰ",
-        "教材",
-        "共通テスト",
-        "入試",
-        "教育ニュース"
-      ],
-      "priority_score": 70
-    },
-    {
-      "id": "item_eb6f9000e760a473",
-      "title": "「GTP」って言ってない？ ── GPTを二度と間違えない覚え方【マンガ】",
-      "url": "https://note.com/plum_tree/n/n0b78b9149e7a",
-      "source_id": "note_joho1",
-      "source_name": "note（情報科教員）",
-      "published_at": "2026-09-19T15:50:43.000Z",
-      "summary": "パソコン部に所属する高校生のケンタさん。ある日、帰宅すると、お父さんが両手で顔を覆ってため息をついていました。心配になったケンタさんが声をかけます。 続きをみる",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "授業実践",
-        "情報Ⅰ",
-        "教材",
-        "教育ニュース"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_01e6f6fa4dde8106",
-      "title": "シフト作りの悩み、XORで解決 ── ベテランは「どちらか一方だけ」【英語会話・対訳つき】",
-      "url": "https://note.com/plum_tree/n/n49c2b71c581c",
-      "source_id": "note_joho1",
-      "source_name": "note（情報科教員）",
-      "published_at": "2026-09-18T15:04:54.000Z",
-      "summary": "ケンタさんのお母さんは、カフェを経営しています。今日は来月のシフト表とにらめっこ。ベテランのアヤさんとユミさんは頼りになるけれど、時給が高いので2人同時に入れると人件費がかさんでしまう。かといって、どちらも入っていない日は、新人だけで店が回るか心配……。困っているお母さんに、パソコン部のケンタさんが声をかけます。 続きをみる",
-      "starred": false,
-      "category": "lesson",
-      "tags": [
-        "授業実践",
-        "情報Ⅰ",
-        "教材"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_da8a94ef26228245",
-      "title": "ノートパソコンの「謎の箱」のひみつ ── ACアダプター【英語マンガ・対訳つき】",
-      "url": "https://note.com/plum_tree/n/n9ac35efbac1d",
-      "source_id": "note_joho1",
-      "source_name": "note（情報科教員）",
-      "published_at": "2026-09-13T10:09:22.000Z",
-      "summary": "パソコン部に所属する高校生のケンタさん。ある日、中学生の妹ミオさんが、自宅でノートパソコンを充電しようとしたところ、電源コードの途中についている黒い箱に気づきました。 【ケーブルの箱】「ねえケンタ、なんでこの充電ケーブルの途中に箱があるの？」 続きをみる",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "授業実践",
-        "情報Ⅰ",
-        "教材",
-        "教育ニュース"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_c472a4c6e18e953a",
-      "title": "学校の授業じゃ物足りない？中高生が自主的にハマるプログラミング教室",
-      "url": "https://note.com/beengineer_fuji/n/n3a1a4f180768",
-      "source_id": "note_joho1",
-      "source_name": "note（情報科教員）",
-      "published_at": "2026-09-09T01:39:20.000Z",
-      "summary": "BeEngineer梅田校責任者の藤原圭吾です。 「学校のプログラミング授業は座学や暗記ばかりで、実際にどう使うのか学べていない」 「共通テストの『情報Ⅰ』対策も見据えて、実践的なITスキルを早めに身につけさせたい」 続きをみる",
-      "starred": false,
-      "category": "exam",
-      "tags": [
-        "授業実践",
-        "情報Ⅰ",
-        "教材",
-        "共通テスト",
-        "入試",
-        "教育ニュース"
-      ],
-      "priority_score": 80
-    },
-    {
-      "id": "item_bd5fc4a02dd5185f",
-      "title": "英語の会話【身近なITのモヤモヤ】画面ではきれいだったのに、印刷すると色がくすむのはなぜ？（RGBとCMYK）",
-      "url": "https://note.com/plum_tree/n/nd7e4b50736f7",
-      "source_id": "note_joho1",
-      "source_name": "note（情報科教員）",
-      "published_at": "2026-09-07T04:51:51.000Z",
-      "summary": "高校生のケンは、ブログで見つけた美しい写真を自宅のプリンターで印刷してみましたが、PCディスプレイの画面で見たように鮮やかに刷れず首をかしげています。デザインに詳しい姉のアミに聞いてみると……。 続きをみる",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "授業実践",
-        "情報Ⅰ",
-        "教材",
-        "教育ニュース"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_4d22483f6d335d13",
-      "title": "2026年度　共通テスト追試　第1・2問",
-      "url": "https://note.com/infosaito/n/n102210a8842c",
-      "source_id": "note_joho1",
-      "source_name": "note（情報科教員）",
-      "published_at": "2026-09-07T01:30:11.000Z",
-      "summary": "今回は、2026年共通テスト「情報1」の追試験第1問の解説をしていきたいと思います。 まず問1です。こちらは知識を問うというより、いきなり作業をさせる問題が出てきました。知識を問うてきたこれまでの問題と傾向が少し変わってきていますが、難しく考える必要はありません。指示された通りに、コンピューターになったつもりで正確に処理していきましょう。 続きをみる",
-      "starred": false,
-      "category": "exam",
-      "tags": [
-        "授業実践",
-        "情報Ⅰ",
-        "教材",
-        "共通テスト",
-        "入試"
-      ],
-      "priority_score": 60
-    },
-    {
-      "id": "item_009240ff76008633",
-      "title": "中高生から本格プログラミングを学ぶべき理由とは？現役エンジニア責任者が語るIT教育のリアル",
-      "url": "https://note.com/beengineer_fuji/n/n7326bb94d642",
-      "source_id": "note_joho1",
-      "source_name": "note（情報科教員）",
-      "published_at": "2026-09-05T01:20:53.000Z",
-      "summary": "初めまして！BeEngineer梅田校で責任者を務めている藤原圭吾と申します。 普段は中高生に向けて、実践的なプログラミング指導と校舎の運営を行っています。 これまで現場で多くの子どもたちと接してきましたが、この度、より多くの中高生や保護者の方々に「プログラミングの本当の面白さ」をお伝えしたいと思い、noteでの情報発信をスタートすることにしました。 続きをみる",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "授業実践",
-        "情報Ⅰ",
-        "教材",
-        "教育ニュース"
-      ],
-      "priority_score": 60
-    },
-    {
-      "id": "item_c32d23dc8d8aa170",
-      "title": "【共通テスト英語リスニング風】ゼロ知識証明 ── AIボットに掲示板を乗っ取られないために",
-      "url": "https://note.com/plum_tree/n/nd17d4915a1dc",
-      "source_id": "note_joho1",
-      "source_name": "note（情報科教員）",
-      "published_at": "2026-09-03T13:08:33.000Z",
-      "summary": "大学でチェスクラブを運営するクロエ、ミサキ、リアムの3人が、クラブのホームページの管理について話しています。人間のユーザーになりすまして掲示板に侵入してくる自動プログラム（ボット）を防ぐ方法について、意見が分かれているようです。 続きをみる",
-      "starred": false,
-      "category": "exam",
-      "tags": [
-        "授業実践",
-        "情報Ⅰ",
-        "教材",
-        "共通テスト",
-        "入試"
-      ],
-      "priority_score": 60
-    },
-    {
-      "id": "item_bb12459e20a2700d",
-      "title": "知的財産権と個人情報保護",
-      "url": "https://note.com/infosaito02/n/n16ac2c53b0ee",
-      "source_id": "note_joho1",
-      "source_name": "note（情報科教員）",
-      "published_at": "2026-09-03T12:38:23.000Z",
-      "summary": "大量の用語の暗記が生じる鬱単元 「特許権、実用新案権、意匠権、商標権……」「著作権、著作者人格権、著作隣接権……」「個人識別符号、要配慮個人情報、プライバシー権……」 続きをみる",
-      "starred": false,
-      "category": "security",
-      "tags": [
-        "授業実践",
-        "情報Ⅰ",
-        "教材",
-        "セキュリティ",
-        "情報モラル"
       ],
       "priority_score": 50
     }
