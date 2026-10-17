@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-10-16T23:11:20.775Z",
-  "total": 83,
+  "generated_at": "2026-10-17T07:36:17.507Z",
+  "total": 103,
   "items": [
+    {
+      "id": "item_21f8651de3f2baea",
+      "title": "文部科学省ホームページトップはこちら",
+      "url": "https://www.mext.go.jp/",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-10-17T07:36:07.585Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
     {
       "id": "item_bd1951ae70f98dac",
       "title": "サイトマップはこちら",
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-10-16T23:11:11.086Z",
+      "published_at": "2026-10-17T07:36:07.585Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -25,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-10-16T23:11:11.086Z",
+      "published_at": "2026-10-17T07:36:07.585Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -38,22 +56,68 @@
       "priority_score": 60
     },
     {
-      "id": "item_21f8651de3f2baea",
-      "title": "文部科学省ホームページトップはこちら",
-      "url": "https://www.mext.go.jp/",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-10-16T23:11:11.085Z",
-      "summary": "",
+      "id": "item_bea48f0b9ace86d7",
+      "title": "世界初\"両面ソーラー\"充電の「Amazfit T-Rex Dual Solar」",
+      "url": "https://www.watch.impress.co.jp/docs/news/2148909.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-10-17T01:00:00.000Z",
+      "summary": "Zepp Healthは、スマートウォッチ「Amazfit T-Rex Dual Solar」を10月29日に発売する。価格は109,800円。10月16日から予約を受け付ける。",
       "starred": false,
-      "category": "admin",
+      "category": "tech",
       "tags": [
-        "行政",
-        "文科省",
-        "制度",
-        "教育ニュース"
+        "テクノロジー",
+        "デジタル"
       ],
-      "priority_score": 60
+      "priority_score": 50
+    },
+    {
+      "id": "item_642d58a652a5f491",
+      "title": "【いつモノコト】モバ充にCIO「SMARTCOBY SLIM II」を購入　Galaxy S26 Ultraのケース選びで苦戦",
+      "url": "https://www.watch.impress.co.jp/docs/series/itsmo/2146463.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-10-17T00:30:00.000Z",
+      "summary": "8月頃にGalaxy S26 Ultraを使い始めてから、外出時の充電用に薄型のマグネット式モバイルバッテリーが欲しくなりました。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_3f344ce67d08832e",
+      "title": "アマゾン「プライム感謝祭」開催中　iPhone Airなどから日用品まで",
+      "url": "https://www.watch.impress.co.jp/docs/news/2148911.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-10-17T00:00:00.000Z",
+      "summary": "Amazonのプライム会員限定セール「プライム感謝祭」が開催中です。秋を楽しむための商品をはじめ、人気ブランドや話題の商品、Amazon限定商品など、400万点以上を特別価格で販売します。期間は10月19日23時59分までですので、この週末に買い忘れがないよう、チェックしておきましょう。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_8974b9d5632bc303",
+      "title": "音声AI「Grok Voice 3.0」　応答1秒未満　テスラにも搭載",
+      "url": "https://www.watch.impress.co.jp/docs/news/2148932.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-10-16T23:30:00.000Z",
+      "summary": "xAI(SpaceXSI)は14日、音声対話AIモデル「Grok Voice 3.0」を発表し、開発者向けの「Grok Voice API」で提供開始した。利用料金は1分あたり0.08ドル(1時間あたり4.80ドル)で、従来モデルから据え置く。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_e5c4b16f80bc920b",
@@ -754,22 +818,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_0826cdb7889e5c3a",
-      "title": "未来の山車「ツナグルマ」CEATECに　EVアシストやLED搭載",
-      "url": "https://www.watch.impress.co.jp/docs/news/2148509.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-10-16T00:00:00.000Z",
-      "summary": "デジタルイノベーションの総合展示会「CEATEC 2026」が、10月16日まで幕張メッセにて開催されている。入場は無料で、会場参加やカンファレンス聴講などには事前予約が必要となる。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_5b5d90a578cba88c",
       "title": "日本のネット黎明期、未知の世界に挑んだ人々のノンフィクション「インターネットは空から降ってこない 社会をつなげ続けた30年と挑戦者たちからのエール」、インプレスが発売",
       "url": "https://internet.watch.impress.co.jp/docs/news/2148357.html",
@@ -786,18 +834,342 @@
       "priority_score": 50
     },
     {
-      "id": "item_93b31bc8d5c42043",
-      "title": "火星の衛星「フォボス」の砂を地球へ! 世界初を目指すJAXA「MMX」の採取作戦とは?",
-      "url": "https://www.watch.impress.co.jp/docs/topic/2148484.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-10-15T23:20:00.000Z",
-      "summary": "10月20日に種子島宇宙センターからH3ロケット10号機で打上げられる火星衛星探査計画「MMX」は、火星の衛星「フォボス」から表面の物質を地球へ持ち帰る、成功すれば世界初となるミッションです。日本にとっては「はやぶさ」「はやぶさ2」で培った小天体サンプルリターンの経験を火星圏へ広げるチャレンジでもあります。",
+      "id": "item_9426224942759807",
+      "title": "小中学生の8割以上が「友だち関係で悩んだ経験がある」と回答=ニフティキッズ調べ=",
+      "url": "https://ict-enews.net/2026/10/16nifty-7/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-10-15T23:18:30.000Z",
+      "summary": "ニフティは15日、同社が運営する子ども向けサイト「ニフティキッズ」で、「友だち・グループ」に関するアンケート調査を実施し、その結果をまとめたレポートを公開した。 本調査では、小中学 […]",
       "starred": false,
-      "category": "tech",
+      "category": "edu_news",
       "tags": [
-        "テクノロジー",
-        "デジタル"
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_ab9bdbed5d98d8bd",
+      "title": "スプリックス教育財団、日本を含む10カ国対象に「国際基礎学力調査2026」を実施",
+      "url": "https://ict-enews.net/2026/10/16sprix-foundation/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-10-15T23:18:07.000Z",
+      "summary": "スプリックス教育財団は14日、日本を含む10カ国の小中学生とその保護者・学校の先生を対象に4月から8月にかけて実施した「国際基礎学力調査2026」の速報サマリを公開した。 それによ […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_4a2f5932aa7263d1",
+      "title": "大学パワーランキング、「国家公務員総合職試験 合格者数の出身大学ランキング」発表",
+      "url": "https://ict-enews.net/2026/10/16ppcn/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-10-15T23:17:46.000Z",
+      "summary": "ポップコーンは14日、Webメディア「大学パワーランキング」で「国家公務員総合職試験 合格者数の出身大学ランキング【2026年最新版】」を公開した。 人事院が公表する「出身大学別合 […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_38033281a83e3707",
+      "title": "DHU、Anthropicの生成AIモデル「Claude」を国内大学初となる全学導入へ",
+      "url": "https://ict-enews.net/2026/10/16dhw-13/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-10-15T23:17:25.000Z",
+      "summary": "デジタルハリウッドは14日、米Anthropic PBCが開発・提供する生成AIモデル「Claude」を全学に導入し、全学生・全教職員が利用できる環境の提供を11月より開始すること […]",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "生成AI",
+        "AI活用"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_bc62b64cd64da5fa",
+      "title": "吉祥寺湧水中・高、2027年度中学校入試で実施する「表現創造入試」正式テーマ発表",
+      "url": "https://ict-enews.net/2026/10/16kichijoji-yusui/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-10-15T23:17:06.000Z",
+      "summary": "井之頭学園（東京都武蔵野市）が2027年4月に共学化・校名変更して開校する吉祥寺湧水中学校・高等学校（現・藤村女子中学・高等学校）は14日、2027年度中学校入試で実施する「表現創 […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_816d6af4a1a703e2",
+      "title": "東北大学とSolafune、AI搭載の人工衛星の開発と打上げを目指す",
+      "url": "https://ict-enews.net/2026/10/16solafune/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-10-15T23:16:44.000Z",
+      "summary": "東北大学グリーン未来創造機構スペースクロステック研究センター（東北大学SXT）とSolafuneは15日、2026年9月に包括連携協定を締結し、10月1日に「Solafune x […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_52d08174c9c1dffa",
+      "title": "全国大学生協連、学生の「読書マラソン」でスマホアプリ「BOOK MARRY」利用開始",
+      "url": "https://ict-enews.net/2026/10/16univcoop/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-10-15T23:16:23.000Z",
+      "summary": "全国大学生活協同組合連合会（全国大学生協連）は15日、学生の読書活動を応援する「読書マラソン」にて、スマホアプリ「BOOK MARRY（ブックマリー）」の利用を開始した。 9月末日 […]",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_1473874e7b811455",
+      "title": "通信制高校「第一学院高等学校」、WITHUS DAIICHICUP＜オンライン文化祭＞開催",
+      "url": "https://ict-enews.net/2026/10/16with-us/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-10-15T23:16:04.000Z",
+      "summary": "ウィザスが運営する通信制高校「第一学院高等学校」は、全国68キャンパスで「WITHUS DAIICHICUP＜オンライン文化祭＞」を開催する。 WITHUS DAIICHICUP＜ […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_eb58ed66c47b1229",
+      "title": "テクノホライゾン、高校生の企業訪問プログラムで「画像処理体験プログラム」実施",
+      "url": "https://ict-enews.net/2026/10/16technohorizon/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-10-15T23:15:44.000Z",
+      "summary": "テクノホライゾンは14日、名古屋経済大学市邨高等学校の生徒を対象に、高等学校とアスクネットが運営する企業訪問プログラムの一環として「画像処理体験プログラム」を7月3日に実施したこと […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_cbd8194a396c570c",
+      "title": "岡山理科大学、大連東軟信息学院とオンライン協働でロボットづくり競う",
+      "url": "https://ict-enews.net/2026/10/16kake/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-10-15T23:15:27.000Z",
+      "summary": "加計学園は14日、IT人材教育を中心とした中国有数の私立大学である大連東軟信息学院 知能・電子工学部と岡山理科大学情報理工学部の学生がオンラインで協働し、ロボット作りを競う国際ワー […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_f5913b37e42664f3",
+      "title": "岡山理科大学、「Girls Meet STEM」で「宇宙研究の舞台裏をのぞいてみよ」31日開催",
+      "url": "https://ict-enews.net/2026/10/16ous/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-10-15T23:15:08.000Z",
+      "summary": "岡山理科大学は、山田進太郎D&I財団が推進する中高生女子向けSTEM領域のツアー型体験プログラム「Girls Meet STEM」の一環として、10月31日に同学岡山キャン […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_fad3580b0771bad6",
+      "title": "親子で楽しめる科学のワークショップ「長野高専キッズサイエンス2026」31日開催",
+      "url": "https://ict-enews.net/2026/10/16nagano-nct-2/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-10-15T23:14:41.000Z",
+      "summary": "長野工業高等専門学校（長野高専）は、子どもや親子で楽しめる科学のワークショップ「長野高専キッズサイエンス2026」を10月31日に開催する。 本イベントは、自然や科学の不思議にふれ […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_437a97bab1223a75",
+      "title": "山形で教員として働く。「やまがた教員 IJU（移住）ターン個別相談会」11月都内で開催",
+      "url": "https://ict-enews.net/2026/10/16yamagata/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-10-15T23:14:21.000Z",
+      "summary": "山形県教育委員会は、山形県の学校で働くことに興味のある人を対象に、「やまがた教員 IJU（移住）ターン個別相談会」を東京都内で11月2日・3日に開催する。 山形県の教育環境や多様な […]",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "行政",
+        "文科省"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_0ebfa979214bc683",
+      "title": "「ユメカタリ 学生生成AIコンテスト2026」、東京・名古屋両大会グランプリが決定",
+      "url": "https://ict-enews.net/2026/10/16shinto-tsushin/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-10-15T23:14:00.000Z",
+      "summary": "新東通信は14日、愛知100選×学生の夢応援プロジェクト「ユメカタリ 学生生成AIコンテスト2026」を共同ピーアールと共催したことを発表した。 同コンテストは9月10日まで応募を […]",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "生成AI",
+        "AI活用"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_8b737cdc2d7aedbf",
+      "title": "eスポーツに特化したフリースクール「RE:VISIONフリースクール 聖蹟桜ヶ丘校」開校",
+      "url": "https://ict-enews.net/2026/10/16tao-st-4/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-10-15T23:13:41.000Z",
+      "summary": "タオは15日、eスポーツに特化したフリースクール「RE:VISIONフリースクール 聖蹟桜ヶ丘校」（運営： minato）が、東京都多摩市の聖蹟桜ヶ丘に開校し、同社が開発する教育・ […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_827b33477169a0f1",
+      "title": "ドリリー、デジタル学習ドリルアプリ「drilly」提供開始　1545問を無料公開",
+      "url": "https://ict-enews.net/2026/10/16drilly/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-10-15T23:13:19.000Z",
+      "summary": "ドリリーは15日、資格試験や大学受験の問題集（ドリル）をスマートフォン・タブレット・PCで学習できるデジタル学習ドリルアプリ「drilly（ドリリー）」の提供を開始した。 問題を解 […]",
+      "starred": false,
+      "category": "exam",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "共通テスト",
+        "入試",
+        "校務DX",
+        "GIGA",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_ebe4ca2b7e0d7f64",
+      "title": "DeNA、大学受験生向けの数学記述添削AIアプリ「SIRUS」提供開始",
+      "url": "https://ict-enews.net/2026/10/16dena/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-10-15T23:13:03.000Z",
+      "summary": "ディー・エヌ・エー（DeNA）は15日、一般入試本番まで残り数カ月となり、記述対策が本格化するこの時期に、大学受験生向けの数学記述添削AIアプリ「SIRUS（シルス）」の本格的な提 […]",
+      "starred": false,
+      "category": "exam",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "共通テスト",
+        "入試",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_71b025bc7e162cb7",
+      "title": "科研費申請支援サービス「ToraPlan」、PDF形式の研究計画調書の添削に対応",
+      "url": "https://ict-enews.net/2026/10/16toraplan/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-10-15T23:12:48.000Z",
+      "summary": "ToraPlanは14日、科研費（科学研究費助成事業）の研究計画調書の作成・添削を支援するサービス「ToraPlan」にて、PDF形式の研究計画調書のAI添削に対応したことを発表し […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_b15eb59f10de4a8f",
+      "title": "LINEヤフー、子育てのやるべきことをAIがサポートする「子育て」エージェント提供開始",
+      "url": "https://ict-enews.net/2026/10/16lycorp/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-10-15T23:12:31.000Z",
+      "summary": "LINEヤフーは14日、日常に寄り添い、だれでも簡単に使えるAIエージェント「Agent i」にて、「子育て」エージェントを提供開始した。 同エージェントは、出産を控えた方から18 […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_4bf0f2012ba93038",
+      "title": "英単語アプリ「ターゲットの友」、AIを活用した新機能「今日の5問MAX」が登場",
+      "url": "https://ict-enews.net/2026/10/16obunsha-12/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-10-15T23:11:54.000Z",
+      "summary": "旺文社は13日、英単語学習アプリ「ターゲットの友」（iOS・Android版）にてサブスクリプション型の新機能「今日の5問MAX」をリリースした。 同機能には、「ターゲットの友」に […]",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "教材",
+        "ツール"
       ],
       "priority_score": 50
     },
@@ -832,24 +1204,6 @@
         "生成AI",
         "AI",
         "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_472034573cdd7ed7",
-      "title": "情報漏えいは防げなくても、被害は減らせる　個人でできるセキュリティ対策",
-      "url": "https://www.watch.impress.co.jp/docs/topic/2148545.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-10-15T23:00:00.000Z",
-      "summary": "ここ最近、企業やサービスへの不正アクセスによる大規模な情報漏えいが立て続けに発生しています。流出する情報は氏名や住所、メールアドレスだけでなく、場合によってはログイン情報やクレジットカード情報などに及ぶことも。",
-      "starred": false,
-      "category": "security",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "セキュリティ",
-        "情報モラル"
       ],
       "priority_score": 50
     },
@@ -954,26 +1308,6 @@
         "行政",
         "文科省",
         "教育ニュース"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_daa65b32344692f3",
-      "title": "暗号資産取引「楽天ウォレット」アプリ刷新　ログインはパスキー必須",
-      "url": "https://www.watch.impress.co.jp/docs/news/2148485.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-10-15T11:00:00.000Z",
-      "summary": "楽天ウォレットは、暗号資産関連のアプリを統合・リニューアルした新アプリ「楽天ウォレット」の提供を開始した。Android版が先行して提供されており、iOS版は今後提供される。ログインはパスキー認証のみで、セキュリティも向上させた。",
-      "starred": false,
-      "category": "security",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "セキュリティ",
-        "情報モラル",
-        "教材",
-        "ツール"
       ],
       "priority_score": 50
     },
