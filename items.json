@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T08:36:23.976Z",
+  "generated_at": "2026-10-19T16:22:01.792Z",
   "total": 101,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-10-19T08:36:14.733Z",
+      "published_at": "2026-10-19T16:21:51.568Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-10-19T08:36:14.733Z",
+      "published_at": "2026-10-19T16:21:51.568Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-10-19T08:36:14.733Z",
+      "published_at": "2026-10-19T16:21:51.568Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -56,8 +56,96 @@
       "priority_score": 60
     },
     {
+      "id": "item_09d0aa3b991eb812",
+      "title": "「My Softbank」に不正アクセスの試み　Webを一時停止",
+      "url": "https://www.watch.impress.co.jp/docs/news/2149441.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-10-19T12:41:56.000Z",
+      "summary": "ソフトバンクは、利用者向け会員サイト「My SoftBank」の一部のシステムに対して、第三者による不正アクセスの試みがあったとし、17日午前8時から「My SoftBank」「My Y!mobile」「My Menu」のWebサイトを一時停止した。",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_5c9526e556273e5f",
+      "title": "ソフトバンク、「My SoftBank」「My Y!mobile」「My Menu」サイトを一時停止、不正アクセスの試行を受け　アプリ版は利用可能",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2149432.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-10-19T11:45:36.000Z",
+      "summary": "ソフトバンク株式会社は10月19日、会員サイト「My SoftBank」ほかを一時停止していると発表した。第三者による不正アクセスの試みが判明したことを受けたものだとしている。",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "情報モラル",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_a327a061258ccca2",
+      "title": "「ふるさとチョイス」がサービス一時停止　不正アクセスの疑いを検知",
+      "url": "https://www.watch.impress.co.jp/docs/news/2149387.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-10-19T09:45:32.000Z",
+      "summary": "ふるさと納税サイト「ふるさとチョイス」は、不正アクセスの疑いがある事象を検知したため、サービスを一時停止した。被害の拡大防止と安全確保を最優先とした措置で、現在、事実関係や影響範囲について調査を進めている。",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_861edbfa54535104",
+      "title": "自動運転ゴルフカート実現へ　楽天ら4社が実証実験",
+      "url": "https://www.watch.impress.co.jp/docs/news/2149347.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-10-19T08:42:53.000Z",
+      "summary": "楽天グループのゴルフ場予約サイト「楽天GORA(ゴーラ)」は19日、自動運転ゴルフカートのサービス化に向けた実証実験を開始した。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_48be5e7348580fb2",
+      "title": "ニフティ、回線申込・受付管理システムに不正アクセス。最大約54万件の個人情報漏えいの可能性",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2149373.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-10-19T08:42:22.000Z",
+      "summary": "ニフティ株式会社は10月19日、当社回線申込・受付管理システムに不正アクセスがあったとして情報を発表した。",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
       "id": "item_96006480d5f9d6fc",
-      "title": "【まもなく終了】アマゾン「プライム感謝祭」　日用品・家電・iPhoneなど人気商品",
+      "title": "アマゾン「プライム感謝祭」　日用品・家電・iPhoneなど人気商品",
       "url": "https://www.watch.impress.co.jp/docs/news/2149280.html",
       "source_id": "impress_watch",
       "source_name": "Impress Watch",
@@ -1226,86 +1314,6 @@
         "入試"
       ],
       "priority_score": 70
-    },
-    {
-      "id": "item_d420345b80310e7a",
-      "title": "【レビュー】「Surface Laptop Ultra」を試す 81万円のRTX Spark搭載機はMacBook Proを凌駕するか",
-      "url": "https://www.watch.impress.co.jp/docs/review/review/2148940.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-10-16T12:01:00.000Z",
-      "summary": "マイクロソフトの最新PCであり、本日10月16日から出荷が開始される「Surface Laptop Ultra」のレビューをお届けする。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_b9bfaa6734bd4090",
-      "title": "アマゾン、日比谷で「海外ハイテク家電祭り」　セール登場の最新家電を体験",
-      "url": "https://www.watch.impress.co.jp/docs/news/2148942.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-10-16T10:24:33.000Z",
-      "summary": "Amazonは、プライム会員限定のビッグセール「プライム感謝祭」に合わせ、海外家電・ガジェットの体験イベント「海外ハイテク家電祭り」を東京ミッドタウン日比谷にて18日までの3日間限定で開始した。開催時間は11時～20時で、入場無料。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_04d09dfcfab794c8",
-      "title": "発売直後でもう半額だと!!　Amazonプライム感謝祭で即ポチった最新Fire TV Stick 4Kと有線LAN化の意外な落とし穴 【テレワークグッズ・ミニレビュー 第170回】",
-      "url": "https://internet.watch.impress.co.jp/docs/column/teleworkgoods/2148580.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-10-16T09:00:00.000Z",
-      "summary": "Amazon.co.jpでは10月19日まで「プライム感謝祭」を開催している。最近は毎月のようにセールが行われるAmazonだが、やはりプライム会員限定のセールということで、いつも以上に目玉製品が目白押しで、ついつい物欲が爆発してしまう。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_ac93caa593826e74",
-      "title": "運用総額は950億円に迫る、ソニーグループのCVC投資戦略――医療ロボット、自動運転から“推し活”まで、共創を通じてアイデアを育てる【CEATEC 2026】",
-      "url": "https://internet.watch.impress.co.jp/docs/event/2148852.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-10-16T08:48:28.000Z",
-      "summary": "ソニーグループは、「CEATEC 2026」において「Where Ideas Grow Through Co-Creation」をテーマに出展した。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_df6c2767096ddb3a",
-      "title": "新幹線「のぞみ」指定席値上げ　東京-新大阪で700円 グリーン車用待合室も",
-      "url": "https://www.watch.impress.co.jp/docs/news/2148843.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-10-16T08:43:06.000Z",
-      "summary": "JR東海とJR西日本は16日、東海道・山陽新幹線において、「のぞみ」・「みずほ」号の普通車指定席とグリーン車の利用時の特急料金(指定席特急料金)、全列車のグリーン車の特別車両料金(グリーン料金)を値上げすると発表した。価格改定は指定席が2027年7月1日購入分から、グリーン料金は27年12月15日乗車分から。また、27年度中に導入予定の「Supreme Class Seat」についても併せて価格改…",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
     },
     {
       "id": "item_1777a15ce67ae38c",
