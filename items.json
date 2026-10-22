@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T08:24:12.800Z",
+  "generated_at": "2026-10-22T14:27:01.389Z",
   "total": 100,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-10-22T08:24:03.110Z",
+      "published_at": "2026-10-22T14:26:51.095Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-10-22T08:24:03.110Z",
+      "published_at": "2026-10-22T14:26:51.095Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-10-22T08:24:03.110Z",
+      "published_at": "2026-10-22T14:26:51.095Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,109 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_64ad84caed874d67",
+      "title": "カプコンのオンラインサービスで約1177万件のユーザー情報漏えい、パスワードの不正な変更も",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2150509.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-10-22T10:12:14.000Z",
+      "summary": "株式会社カプコンは10月22日、同社のオンライン会員サービス「CAPCOM ID」において不正アクセスが発生し、ユーザーの情報の一部が漏えいしたと発表した。",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_319f492c594de7ee",
+      "title": "「LINE AI予約」スタート　飲食店のAI電話予約を月1万円から",
+      "url": "https://www.watch.impress.co.jp/docs/news/2150496.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-10-22T10:10:49.000Z",
+      "summary": "LINEヤフーは、飲食店向けAI電話対応サービス「LINE AI予約」の正式提供を開始した。AIが24時間365日電話に応対し、予約受付や変更・キャンセル、店舗に関する問い合わせなどに対応する。料金は月額10,000円(税別）からで、初期費用は無料。初月は無料で利用できる。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_3fb21324a0544466",
+      "title": "ミズノ、「空飛ぶスーツ」のパイロット用ギア開発",
+      "url": "https://www.watch.impress.co.jp/docs/news/2150478.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-10-22T09:30:07.000Z",
+      "summary": "ミズノは、JAXA発スタートアップのemblemが開発する「ウェアラブル飛行装置」向けに、パイロットが着用する「あぶみ」とウエアを開発した。スポーツ用品の開発で培った技術を活用し、飛行中の体への負担軽減や作業時の動きやすさを追求した。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_2ea4004519a5c2be",
+      "title": "NTTソルマーレの「コミックシーモア」、不正アクセスで最大約420万件の情報流出を発表　安全性が確保された機能から段階的にサービス再開へ",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2150465.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-10-22T09:30:00.000Z",
+      "summary": "NTTソルマーレ株式会社は10月21日、電子書籍ストア「コミックシーモア」への不正アクセスに関して、原因究明などの対応状況、影響範囲、サービス再開に向けた取り組み、利用者への案内などの情報をまとめた第4報を公開した。",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_7f33180aa0334f31",
+      "title": "手のひらサイズの“宇宙AIデータセンター”？　JAXA後押しの国内新興が実現目指す　南極・高山での利用も視野",
+      "url": "https://www.itmedia.co.jp/news/article/2610/22/2000002510/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-10-22T09:00:00.000Z",
+      "summary": "宇宙で取得したデータをその場で小型のAIに処理させ、軽量化してから地上に下ろす──という仕組みの実現を目指す日本初ベンチャー、技術開発の進捗は。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_a24e7911e3379821",
+      "title": "「長い目で見れば防御側が有利」はなぜ？　守る側のAI活用法、本命は　Webセキュリティ専門家に聞く",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2610/22/2000002521/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-10-22T08:13:05.000Z",
+      "summary": "AIエージェントによるWebサイト攻撃を観測したビットフォレスト。同社のWAF開発責任者は「AIは新しい攻撃ジャンルを生んでいない」と語る。守る側のAI活用の本命と「防御側が有利」の理由を聞いた。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_5f191cabe063368a",
@@ -161,12 +264,12 @@
     },
     {
       "id": "item_798bdf700f2c4a58",
-      "title": "バルテック、「PHPの脆弱性を標的としたサイバー攻撃」によりサービス停止、情報流出の可能性",
+      "title": "バルテック、サイバー攻撃によりサービス停止、情報流出の可能性（記事訂正）",
       "url": "https://internet.watch.impress.co.jp/docs/news/2150396.html",
       "source_id": "internet_watch",
       "source_name": "INTERNET Watch",
       "published_at": "2026-10-22T06:28:33.000Z",
-      "summary": "法人向け電話サービスなどを手がける株式会社バルテックは10月22日、第三者からの不正アクセスを受けたとして同社が提供するサービスの一部を停止するとともに、利用者の個人情報流出の可能性を発表した。",
+      "summary": "【記事訂正：20時15分】",
       "starred": false,
       "category": "security",
       "tags": [
@@ -194,7 +297,7 @@
     },
     {
       "id": "item_848493053ef7bf05",
-      "title": "ソフトバンク、一時停止していた「My SoftBank」サイトを再開",
+      "title": "ソフトバンク、一時停止していた「My SoftBank」サイトを再開　追記：「My Y!mobile」「My Menu」も再開",
       "url": "https://internet.watch.impress.co.jp/docs/news/2150384.html",
       "source_id": "internet_watch",
       "source_name": "INTERNET Watch",
@@ -1163,26 +1266,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_37b0c29aaaedf6dd",
-      "title": "PHPの重大脆弱性、発見したのは「GPT-5.6Sol」　OpenAIが防御連携を呼びかけ",
-      "url": "https://www.watch.impress.co.jp/docs/news/2150172.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-10-21T21:00:00.000Z",
-      "summary": "Webで広く使われているスクリプト言語「PHP」における重大脆弱性問題で、21日23時のセキュリティアップデート公開前後で国内外の多くのインターネットサービスが停止した。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "生成AI",
-        "AI活用",
-        "セキュリティ",
-        "情報モラル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_32d6d0f8fc48502a",
       "title": "「Gemini Notebook」で名刺を文字起こしして管理！ PFUの小型スキャナー「ScanSnap iX110」活用【自宅Wi-Fiの“わからない”をスッキリ！】",
       "url": "https://internet.watch.impress.co.jp/docs/column/homewifi/2149233.html",
@@ -1235,24 +1318,6 @@
         "AI活用"
       ],
       "priority_score": 60
-    },
-    {
-      "id": "item_4380f9f74e070ac6",
-      "title": "国内大手サービスで緊急メンテやサービス停止　PHP脆弱性で対策",
-      "url": "https://www.watch.impress.co.jp/docs/news/2150159.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-10-21T13:05:41.000Z",
-      "summary": "Webで広く使われているスクリプト言語「PHP」において日本時間の21日23時から重大なセキュリティリリースが行なわれる。",
-      "starred": false,
-      "category": "security",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "セキュリティ",
-        "情報モラル"
-      ],
-      "priority_score": 50
     },
     {
       "id": "item_6086cfa9f2ee7a7c",
@@ -1386,43 +1451,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_ba02b30c6784add0",
-      "title": "OpenAIの常時稼働エージェント「dots」、日本のユーザー数は「世界2位」　「仕事の在り方を大きく変える可能性」と長?社長",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2610/21/2000002457/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-10-21T06:43:26.000Z",
-      "summary": "「日本が世界2位」――米OpenAIの日本法人OpenAI Japanの長?忠雄社長は、OpenAIの新たなAIエージェント機能「dots」のユーザー数についてこのように説明した。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_65ebbae22cf9db47",
-      "title": "不正アクセス急増は“SaaS離れ”を招くか？　露呈したもう1つの「SaaS is Dead」リスク",
-      "url": "https://www.itmedia.co.jp/news/article/2610/21/2000002451/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-10-21T06:00:00.000Z",
-      "summary": "不正アクセス急増に伴い再燃する「SaaS is Dead」を巡る議論。ただ、これまでとは少々事情が違うようだ。",
-      "starred": false,
-      "category": "security",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "セキュリティ",
-        "情報モラル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_248acd1bc74cb825",
       "title": "ふるさと納税サイト「ふるさとチョイス」に不正アクセス、寄附控除試算額を含む約445万件の個人情報が流出",
       "url": "https://internet.watch.impress.co.jp/docs/news/2150001.html",
@@ -1430,40 +1458,6 @@
       "source_name": "INTERNET Watch",
       "published_at": "2026-10-21T05:45:57.000Z",
       "summary": "株式会社トラストバンクは10月20日、ふるさと納税仲介サイト「ふるさとチョイス」において不正アクセスが発生し、会員登録している寄附者の個人情報が外部に流出したと発表した。",
-      "starred": false,
-      "category": "security",
-      "tags": [
-        "インターネット",
-        "セキュリティ",
-        "情報モラル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_ac81471b1426999c",
-      "title": "高輪ゲートウェイで10月23日まで開催中。AIのリスクや情報漏えい対策など、サイバーセキュリティに特化したセミナー／展示会「Security Days Fall 2026」",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2149814.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-10-21T05:02:42.000Z",
-      "summary": "サイバーセキュリティに特化したセミナー／展示会イベント「Security Days Fall 2026」が10月21日～23日、TAKANAWA GATEWAY Convention Center（東京都港区高輪2-21-2 THE LINKPILLAR 1 SOUTH B1F・B2F）で開催されている。参加費は無料で、イベント公式サイトから来場登録が必要。主催・運営は株式会社ナノオプト・メディア…",
-      "starred": false,
-      "category": "security",
-      "tags": [
-        "インターネット",
-        "セキュリティ",
-        "情報モラル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_473630d941279334",
-      "title": "NEC、委託先へのサイバー攻撃で顧客のシステム環境に障害、個人情報を含むファイル漏えいも",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2149941.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-10-21T04:40:33.000Z",
-      "summary": "日本電気株式会社（NEC）は10月20日、システム開発および保守業務を委託している企業がサイバー攻撃を受け、不正アクセスによる被害の発生や個人情報を含む情報の漏えいを確認したとして情報を公開した。",
       "starred": false,
       "category": "security",
       "tags": [
