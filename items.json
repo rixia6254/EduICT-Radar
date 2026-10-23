@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T08:20:20.517Z",
+  "generated_at": "2026-10-23T14:09:34.209Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-10-23T08:20:10.121Z",
+      "published_at": "2026-10-23T14:09:24.665Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-10-23T08:20:10.121Z",
+      "published_at": "2026-10-23T14:09:24.665Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-10-23T08:20:10.121Z",
+      "published_at": "2026-10-23T14:09:24.665Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,135 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_1f00aefea513dfdd",
+      "title": "「国立天文台エポスカード」発行開始 　カード利用で研究支援",
+      "url": "https://www.watch.impress.co.jp/docs/news/2150780.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-10-23T12:21:42.000Z",
+      "summary": "エポスカードは23日、新規入会と利用で国立天文台を支援できる「国立天文台エポスカード」の発行を開始した。特設Webサイトもしくはエポスアプリから申し込める。",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_3a996fc1a3dedc94",
+      "title": "「Claude」全機能がGoogle Cloudから利用可能に",
+      "url": "https://www.watch.impress.co.jp/docs/news/2150851.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-10-23T10:23:05.000Z",
+      "summary": "米Anthropic(アンソロピック)は22日(米国時間)、同社が管理・運用する形で、Google Cloud上で「Claude」の提供を開始した。主に法人を対象として「Claude」のプラットフォームの全機能が提供される。グローバルで利用可能。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "生成AI",
+        "AI活用",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_909cd43b09128759",
+      "title": "タイムズカー、免許証画像漏えいで見舞金3000円　約146万人",
+      "url": "https://www.watch.impress.co.jp/docs/news/2150850.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-10-23T09:53:14.000Z",
+      "summary": "パーク24は23日、タイムズカーのWebシステムへの不正アクセスによる情報漏えいの第5報を公表し、対象者に見舞金として3,000円相当の現金または金券を渡すと発表した。調査では、タイムズクラブのWebシステムへの不正アクセスも確認された。",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_974881dc42427db1",
+      "title": "佐川急便、不正アクセスの個人情報流出は最大5323万件",
+      "url": "https://www.watch.impress.co.jp/docs/news/2150818.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-10-23T08:44:53.000Z",
+      "summary": "佐川急便は23日、同社の「お荷物問い合わせサービス」への第三者による不正アクセスについて、個人情報の件数が最大約5,323万件になると発表した。なお、この件数は重複を含む。一方、サービス停止していた「インターネット貨物のお荷物問い合わせ」は、システムの点検と必要なセキュリティ対策を実施し、23日からサービスを再開している。",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_9813e85b2fa12955",
+      "title": "サイバー攻撃AIツール「ARTEX」とは　中国政府と連携する攻撃者も使用、各国で悪用確認",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2610/23/2000002552/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-10-23T08:37:57.000Z",
+      "summary": "中国語話者の開発者が「学習と研究目的」で公開したAI自律型侵入テストツール「ARTEX」。MicrosoftやCrowdStrikeが悪用例を報告し、日本企業約20社への攻撃にも使われた。作者は公開を停止したが、改変版が増殖している。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用",
+        "セキュリティ",
+        "情報モラル",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_b9438eb2b5d79ff8",
+      "title": "JR久留里線、久留里～上総亀山間の復旧断念　廃止まで代行輸送",
+      "url": "https://www.watch.impress.co.jp/docs/news/2150807.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-10-23T08:22:17.000Z",
+      "summary": "JR東日本は23日、台風25号の影響で運転を見合わせている久留里線の久留里～上総亀山間について、鉄道での復旧を断念すると発表した。2027年4月1日の廃止を予定しており、前日の3月31日まではバスなどによる代行輸送を続ける。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_e125c400ae6e634d",
+      "title": "佐川急便、「お荷物問い合わせサービス」への不正アクセスで最大5323万件の個人情報流出の可能性、サービスは再開",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2150814.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-10-23T08:15:21.000Z",
+      "summary": "佐川急便株式会社は10月23日、「お荷物問い合わせサービス」への不正アクセスによる情報流出の可能性と、同サービスの再開について発表した。",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_31dc9b981b016f26",
@@ -1103,38 +1232,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_319f492c594de7ee",
-      "title": "「LINE AI予約」スタート　飲食店のAI電話予約を月1万円から",
-      "url": "https://www.watch.impress.co.jp/docs/news/2150496.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-10-22T10:10:49.000Z",
-      "summary": "LINEヤフーは、飲食店向けAI電話対応サービス「LINE AI予約」の正式提供を開始した。AIが24時間365日電話に応対し、予約受付や変更・キャンセル、店舗に関する問い合わせなどに対応する。料金は月額10,000円(税別）からで、初期費用は無料。初月は無料で利用できる。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_3fb21324a0544466",
-      "title": "ミズノ、「空飛ぶスーツ」のパイロット用ギア開発",
-      "url": "https://www.watch.impress.co.jp/docs/news/2150478.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-10-22T09:30:07.000Z",
-      "summary": "ミズノは、JAXA発スタートアップのemblemが開発する「ウェアラブル飛行装置」向けに、パイロットが着用する「あぶみ」とウエアを開発した。スポーツ用品の開発で培った技術を活用し、飛行中の体への負担軽減や作業時の動きやすさを追求した。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_2ea4004519a5c2be",
       "title": "NTTソルマーレの「コミックシーモア」、不正アクセスで最大約420万件の情報流出を発表　安全性が確保された機能から段階的にサービス再開へ",
       "url": "https://internet.watch.impress.co.jp/docs/news/2150465.html",
@@ -1189,56 +1286,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_5f191cabe063368a",
-      "title": "ソニー、使い捨て内視鏡用CMOSセンサー　5m伝送とデジタル出力対応",
-      "url": "https://www.watch.impress.co.jp/docs/news/2150427.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-10-22T08:04:07.000Z",
-      "summary": "ソニーセミコンダクタソリューションズは22日、5mケーブルでのデータ伝送とデジタル出力に対応する医療用内視鏡向けCMOSイメージセンサー「IMX742」を発表した。2026年11月にサンプル出荷を開始する予定。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_65f73930587bdea9",
-      "title": "メルカリ、オンライン専用のJCBカード番号を発行",
-      "url": "https://www.watch.impress.co.jp/docs/news/2150424.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-10-22T07:45:08.000Z",
-      "summary": "メルペイは、オンラインショップで使えるJCBブランドのカード番号「オンライン決済用カード番号」の提供を開始した。「メルカリ」アプリから申込める。",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_4aa9ac2398fdc62a",
-      "title": "九州大学箱崎キャンパス跡地、新名称は「HAKOZAKI BLOCK」",
-      "url": "https://www.watch.impress.co.jp/docs/news/2150393.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-10-22T07:02:33.000Z",
-      "summary": "大和ハウス工業は22日、福岡市が推し進めている「FUKUOKA Smart EAST」の先行プロジェクト名称が「HAKOZAKI BLOCK」に決定したと発表した。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_a9964693ecad7b0c",
       "title": "大阪大学、委託先であるNECの個人情報漏えいについて発表、報告されていない協力会社と契約に基づかずファイルを共有",
       "url": "https://internet.watch.impress.co.jp/docs/news/2150389.html",
@@ -1280,22 +1327,6 @@
       "source_name": "INTERNET Watch",
       "published_at": "2026-10-22T06:05:00.000Z",
       "summary": "ソフトバンク株式会社は10月22日、一時停止していた「My SoftBank」のウェブサイト再開について発表した。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_ed31bee770eaf1bb",
-      "title": "インドの認証局eMudhraで秘密鍵の欠陥が明らかに。ユーザーができる対策はOSやブラウザーのアップデート",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2150339.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-10-22T04:36:47.000Z",
-      "summary": "インドの認証局（CA：Certificate Authority）であるeMudhraで、公開鍵暗号の証明書（中間証明書）の一部において極めて短い桁数の秘密鍵が使われ、容易に割り出される状態になっていたことが明らかになり、実際の秘密鍵も漏えいした。",
       "starred": false,
       "category": "tech",
       "tags": [
@@ -1411,23 +1442,6 @@
         "LLM",
         "教材",
         "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_4bb6c18bb148c7e8",
-      "title": "AIカメラで「最後の砦は人」を脱却、レンゴーとキリンビールの工場安全DX",
-      "url": "https://monoist.itmedia.co.jp/mn/articles/2610/22/news017.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-10-21T23:00:00.000Z",
-      "summary": "「ファクトリーイノベーションWeeK2026秋」において、特別講演「【工場の安全対策】AI／デジタルICTで従業員の安全を守るには」が行われ、レンゴーとキリンビールが登壇した。AIやIoT、ウェアラブル機器などを活用した安全対策に関する両社の講演を抜粋して紹介する。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
       ],
       "priority_score": 50
     },
