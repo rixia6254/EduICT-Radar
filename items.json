@@ -1,32 +1,14 @@
 {
-  "generated_at": "2026-10-23T14:09:34.209Z",
+  "generated_at": "2026-10-23T23:41:40.734Z",
   "total": 103,
   "items": [
-    {
-      "id": "item_21f8651de3f2baea",
-      "title": "文部科学省ホームページトップはこちら",
-      "url": "https://www.mext.go.jp/",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-10-23T14:09:24.665Z",
-      "summary": "",
-      "starred": false,
-      "category": "admin",
-      "tags": [
-        "行政",
-        "文科省",
-        "制度",
-        "教育ニュース"
-      ],
-      "priority_score": 60
-    },
     {
       "id": "item_bd1951ae70f98dac",
       "title": "サイトマップはこちら",
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-10-23T14:09:24.665Z",
+      "published_at": "2026-10-23T23:41:31.310Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +25,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-10-23T14:09:24.665Z",
+      "published_at": "2026-10-23T23:41:31.310Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +36,99 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_21f8651de3f2baea",
+      "title": "文部科学省ホームページトップはこちら",
+      "url": "https://www.mext.go.jp/",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-10-23T23:41:31.309Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_db52afd01bd4cf52",
+      "title": "ドコモ、8980円の「スマートウォッチ03」",
+      "url": "https://www.watch.impress.co.jp/docs/news/2150808.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-10-23T23:30:00.000Z",
+      "summary": "NTTドコモは、大画面化と電池の持ちを強化した「スマートウォッチ03」を11月25日に発売する。価格は8,980円。カラーはブラック、ベージュ、ラベンダー、さくらの4色。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_b7f7d3d18ed6b0bc",
+      "title": "「それは“FDE”ではない、ラベルの貼り替えだ」　結局、割高なベンダー依存から抜け出せない企業の共通点",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/24/news006.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-10-23T23:15:00.000Z",
+      "summary": "Gartnerは、FDE（Forward Deployed Engineering）によって構築されたエージェント型AIについて、2028年までに企業の7割が放棄するとの予測を発表した。どういうことか。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_fc0ee13838f0091f",
+      "title": "「Claude Mythos 5」、危害の兆候を顧みず実在の開発者を標的に──AnthropicとAISIが分析結果を公開",
+      "url": "https://www.itmedia.co.jp/news/article/2610/24/2000002564/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-10-23T22:28:08.000Z",
+      "summary": "Anthropicと英AI安全保障研究所AISIは、「Claude Mythos 5」がサイバー能力評価中に実在の開発者を標的とした事案の分析報告を公開した。GitHub経由で無許可の攻撃を行い偽身元で承認を迫った経緯を報告。実在の人物と認識しても攻撃を正当化して続行する傾向が確認され、評価手法の見直しが進む。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_3300af4cde94017c",
+      "title": "チームみらい安野貴博党首ら「サイバー攻撃から国民守る」緊急提言、デジ庁に提出　「AIにはAIを」",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2610/23/2000002563/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-10-23T13:56:59.000Z",
+      "summary": "チームみらいの安野貴博党首らは、AI活用による防御力強化や攻撃の実態把握、情報漏えい被害発生後の措置などをまとめた緊急提言をデジタル庁に提出した。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用",
+        "校務DX",
+        "GIGA",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_1f00aefea513dfdd",
@@ -1042,22 +1117,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_67508c9be7ecc6ee",
-      "title": "ジェットストリーム、ライトタッチインク多機能ペン 4&1にアルミグリップ",
-      "url": "https://www.watch.impress.co.jp/docs/news/2146489.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-10-22T23:00:00.000Z",
-      "summary": "三菱鉛筆は、JETSTREAM Lite touch ink(ジェットストリーム ライトタッチインク)搭載の多機能ペン 4&1から、アルミ製グリップを搭載したモデルを10月15日に発売する。価格は1,430円。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_783f4a07b97a2023",
       "title": "離れて暮らす親のスマホ操作を一句に「スマホリタイア川柳キャンペーン」、アイオーとチカクが開催　最高5万円分の「えらべるPay」プレゼント。フォロー＆リポストでも参加可能",
       "url": "https://internet.watch.impress.co.jp/docs/news/2150513.html",
@@ -1387,61 +1446,6 @@
         "生成AI",
         "AI",
         "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_a102d9972b4314f1",
-      "title": "Anthropic版常時稼働エージェント「Claude Duet」発表　Opus 5.5ベースで設計　Pro／Maxプランで提供",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2610/22/2000002490/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-10-22T01:43:38.000Z",
-      "summary": "Anthropicは常時稼働エージェント「Claude Duet」のリサーチプレビューを公開した。「Claude Opus 5.5」をベースに設計し、タスクの優先度などの判断力に優れるという。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_9c358a9f2b9839a6",
-      "title": "Google Cloudに「Astra」含むOpenAIのモデルが追加　「主要3社のクローズドモデル使える唯一のハイパースケーラー」に",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2610/22/2000002487/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-10-21T23:59:39.000Z",
-      "summary": "Google CloudのModel GardenにOpenAIの「GPT-6 Astra」「GPT-6.1 Sol」「GPT-6 Luna」が追加された。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_f54ff6c62fa62a73",
-      "title": "AIで“ゴジラになって”街破壊　富士通が体験型展示　「体操の採点システム」活用",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2610/22/2000002364/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-10-21T23:00:00.000Z",
-      "summary": "AIで“ゴジラになって”街を破壊する――富士通が「CEATEC 2026」で公開した体験型展示「GODZILLA in Motion」の狙いとは。",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "教材",
-        "ツール"
       ],
       "priority_score": 50
     },
