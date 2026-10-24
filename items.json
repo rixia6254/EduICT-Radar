@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-10-23T23:41:40.734Z",
+  "generated_at": "2026-10-24T07:57:26.721Z",
   "total": 103,
   "items": [
+    {
+      "id": "item_21f8651de3f2baea",
+      "title": "文部科学省ホームページトップはこちら",
+      "url": "https://www.mext.go.jp/",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-10-24T07:57:16.648Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
     {
       "id": "item_bd1951ae70f98dac",
       "title": "サイトマップはこちら",
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-10-23T23:41:31.310Z",
+      "published_at": "2026-10-24T07:57:16.648Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -25,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-10-23T23:41:31.310Z",
+      "published_at": "2026-10-24T07:57:16.648Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -38,20 +56,72 @@
       "priority_score": 60
     },
     {
-      "id": "item_21f8651de3f2baea",
-      "title": "文部科学省ホームページトップはこちら",
-      "url": "https://www.mext.go.jp/",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-10-23T23:41:31.309Z",
-      "summary": "",
+      "id": "item_f03a9f19c844768f",
+      "title": "不正アクセスを受けたGMOに金銭要求　政府に「能動的サイバー防御」要請",
+      "url": "https://www.watch.impress.co.jp/docs/news/2150944.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-10-24T07:42:06.000Z",
+      "summary": "GMOインターネットは、「お名前.comデスクトップクラウド」に対するサイバー攻撃により、サービスへの不正なアクセスと情報流出とともに、利用者のFX口座などにおける不正な取引の報告を受けたことについて、24日時点での続報を発表した。不正取引についての補償を行なうとともに、政府に「能動的サイバー防御」の適用に向けた要請を行なったという。",
       "starred": false,
-      "category": "admin",
+      "category": "dx",
       "tags": [
-        "行政",
-        "文科省",
-        "制度",
-        "教育ニュース"
+        "テクノロジー",
+        "デジタル",
+        "校務DX",
+        "GIGA",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_7de3e6651597f8e3",
+      "title": "ガーミン、ゴルフのフォームデータを記録するGPSウォッチ「Approach S72」",
+      "url": "https://www.watch.impress.co.jp/docs/news/2149742.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-10-24T01:00:00.000Z",
+      "summary": "ガーミンジャパンは、ゴルフ向けGPSウォッチ「Approach S72」を発表した。47mm径と43mm径のサイズを用意しており、価格はどちらも128,000円。発売時期は47mm径が10月22日、43mm径が11月上旬。カラーは47mm径がBlackとFog Gray、43mm径がPebble GrayとFrench Gray。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_02f72b493687c2b6",
+      "title": "【いつモノコト】もうすぐ50歳 「エムット」でNISAをはじめた",
+      "url": "https://www.watch.impress.co.jp/docs/series/itsmo/2149231.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-10-24T00:20:00.000Z",
+      "summary": "自分の年齢が50歳に近づき、生活習慣病や“五十肩”の発症で通院することになるなど「人生の折り返し地点はとうに過ぎた」と痛感させられることが増えています。若くない自分の年齢を自覚させられるようになり「老後のための蓄えって……」と漠然とした不安も一層大きくなってきました。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_ebedfec7aaffcde5",
+      "title": "Spotify、「低品質なAI楽曲」への対策　5千万曲をおすすめから排除",
+      "url": "https://www.watch.impress.co.jp/docs/news/2150839.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-10-24T00:00:00.000Z",
+      "summary": "Spotifyは、AIを活用したスパムやスロップ(低品質の生成AIコンテンツ)への対策など、アーティストとリスナーを保護する取り組みの進捗を公開した。2026年だけで5,000万曲以上のスパム・スロップをレコメンドから排除したほか、AIで生成されたアーティストの識別や、AI利用の開示機能などを導入している。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "生成AI",
+        "AI活用"
       ],
       "priority_score": 60
     },
@@ -666,24 +736,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_42fdd6159cdfc8f0",
-      "title": "MetaのパーソナルAIエージェント「Muse」、日本でスタート",
-      "url": "https://www.watch.impress.co.jp/docs/news/2150567.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-10-23T01:23:24.000Z",
-      "summary": "Metaは23日、パーソナルAIエージェント「Muse」の日本での提供を開始した。9月に北米でスタートし、1カ月で1,000万以上のダウンロードを達成したMuseだが、北米以外で初の提供地域が日本となった。AndroidとiOSアプリ、muse.aiから利用可能で、本格的に活用する場合はMetaのサブスクリプションプラン(2,799円/月～)も用意されている。",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_491e948640728e3d",
       "title": "タイピング練習は速さから始めなくてよい 子どもが迷わず指を動かし、考えることに集中するために",
       "url": "https://ict-enews.net/2026/10/23qlgarage/",
@@ -698,38 +750,6 @@
         "ICT",
         "生成AI",
         "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_dc38bf6c0c2a4d5a",
-      "title": "「予防的サービス停止」は日本に定着するのか? PHP脆弱性問題が起こした変化",
-      "url": "https://www.watch.impress.co.jp/docs/topic/2150549.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-10-23T00:13:19.000Z",
-      "summary": "Webサイトやサーバー構築で一般的に使われているスクリプト言語「PHP」に重大な脆弱性が発見された。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_ea6236c2f9b8d5cf",
-      "title": "デジタルペンで「手書き日記」と認知機能の関係を検証　三菱鉛筆",
-      "url": "https://www.watch.impress.co.jp/docs/news/2150440.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-10-23T00:00:00.000Z",
-      "summary": "三菱鉛筆は、デジタルペンを用いた手書き日記と認知機能との関係性を検証する実証実験を開始する。エーザイと野村総合研究所の協力のもと、筆記データと脳の健康度を組み合わせて分析し、「書く」ことの新たな可能性を探る。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
       ],
       "priority_score": 50
     },
@@ -1060,22 +1080,6 @@
       "tags": [
         "教育ニュース",
         "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_5a0a3606c9c75088",
-      "title": "「18歳です」は通用しない?　SNSの「AI年齢推定」 は子どもを本当に守れるのか",
-      "url": "https://www.watch.impress.co.jp/docs/topic/2150456.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-10-22T23:20:00.000Z",
-      "summary": "16歳未満のSNS利用を禁じたオーストラリアを筆頭に、子どものSNS利用を年齢で制限する動きが世界へ広がっています。EU(欧州連合)の欧州委員会も2026年9月、「EU子ども法案(EU KIDS Act)」を発表しました。EU全域で13歳未満のSNS利用を禁止し、自分のアカウントを作れる最低年齢を15歳とする内容です。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
       ],
       "priority_score": 50
     },
