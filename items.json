@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T09:43:57.001Z",
+  "generated_at": "2026-10-30T15:45:02.284Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-10-30T09:43:46.151Z",
+      "published_at": "2026-10-30T15:44:52.958Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-10-30T09:43:46.151Z",
+      "published_at": "2026-10-30T15:44:52.958Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-10-30T09:43:46.151Z",
+      "published_at": "2026-10-30T15:44:52.958Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,59 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_5b896996c611eae9",
+      "title": "東京メトロ「QR乗車券」導入へ　磁気乗車券は29年度末終了",
+      "url": "https://www.watch.impress.co.jp/docs/news/2152808.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-10-30T13:21:48.000Z",
+      "summary": "東京メトロは30日、2028年度中に順次、QRコードを使った紙のきっぷ(QR乗車券)を導入すると発表した。QR乗車券は券売機などで購入可能とし、現在の磁気乗車券は2029年度末を目処に発売を終了する。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_07603024f5b2d8b4",
+      "title": "キオクシア中間決算「過去最高」連呼　純利益2.2兆円、初の配当実施　AI需要で「成長さらに加速」",
+      "url": "https://www.itmedia.co.jp/business/articles/2610/30/news090.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-10-30T12:45:00.000Z",
+      "summary": "キオクシアHDは、2027年3月期の中間決算を発表した。純利益は2.2兆円。第2四半期の3カ月だけで前年通期の売り上げを上回った。好決算を受けて上場後初となる配当を実施する。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_c20c96a152ed8e3c",
+      "title": "無印良品、「MUJIアプリ」で個人情報漏えい　2726万件",
+      "url": "https://www.watch.impress.co.jp/docs/news/2152778.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-10-30T10:09:10.000Z",
+      "summary": "「無印良品」を運営する良品計画は30日、公式アプリ「MUJIアプリ」において、利用者の情報の一部が外部に流出した可能性があると発表した。件数は最大約2,726万件。",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "セキュリティ",
+        "情報モラル",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_22d92d2a821341a4",
@@ -1220,24 +1273,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_f4a7f3d8a9f4e2eb",
-      "title": "ドコモSMTBネット銀行、法人向けAIエージェント　振込や資金繰り支援",
-      "url": "https://www.watch.impress.co.jp/docs/news/2152365.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-10-29T09:50:16.000Z",
-      "summary": "ドコモSMTBネット銀行は、法人向けアプリで利用できるAIエージェント「NEOBANK ai BIZ」のベータテストを開始した。同社が案内する一部の法人顧客が対象で、法人アプリのホーム画面下部から応募できる。",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_29349960d407aabe",
       "title": "ChatGPTのPro・Businessプランで「API利用」可能に　月最大500ドル分",
       "url": "https://www.itmedia.co.jp/aiplus/article/2610/29/2000002728/",
@@ -1254,24 +1289,6 @@
         "AI活用"
       ],
       "priority_score": 60
-    },
-    {
-      "id": "item_3f2395fe814e48f6",
-      "title": "グッスマ、不正アクセスでカード情報漏えいの可能性　2800名",
-      "url": "https://www.watch.impress.co.jp/docs/news/2152347.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-10-29T08:41:10.000Z",
-      "summary": "グッドスマイルカンパニーは、公式ショップへの不正アクセスによる情報漏えいについて第3報を発表した。不正プログラムが設置され、クレジットカード決済時の情報が盗み取られた可能性などについて報告されている。",
-      "starred": false,
-      "category": "security",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "セキュリティ",
-        "情報モラル"
-      ],
-      "priority_score": 50
     },
     {
       "id": "item_3b84421ef535118c",
@@ -1435,23 +1452,6 @@
       "source_name": "ITmedia AI+",
       "published_at": "2026-10-29T01:05:00.000Z",
       "summary": "半導体試験装置メーカー大手のアドバンテストは、AIブームによる半導体需要を追い風に、2026年度の通期業績予想を売上高1兆8630円に上方修正した。「メガサイクル」に突入した半導体市場を支えるものは何か。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_b7f40e1dce3dd04e",
-      "title": "AIエージェントは「増やせば賢くなる」のか　Metaとハーバード大の研究が示す“分業の条件”",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2610/29/2000002632/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-10-28T23:00:00.000Z",
-      "summary": "AIエージェントは増やせば増やすほど賢くなるのか。米Metaや米ハーバード大学などの研究者による論文を基に、AI同士の分業が力を発揮する条件や、分業を企業に取り入れる際のポイントなどを解説する。",
       "starred": false,
       "category": "ai",
       "tags": [
