@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T00:31:05.776Z",
+  "generated_at": "2026-10-30T09:43:57.001Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-10-30T00:30:57.119Z",
+      "published_at": "2026-10-30T09:43:46.151Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-10-30T00:30:57.119Z",
+      "published_at": "2026-10-30T09:43:46.151Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-10-30T00:30:57.119Z",
+      "published_at": "2026-10-30T09:43:46.151Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -52,6 +52,586 @@
         "文科省",
         "制度",
         "教育ニュース"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_22d92d2a821341a4",
+      "title": "外務省に不正アクセス、約3600件の個人情報が漏えいの可能性",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2152757.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-10-30T09:24:37.000Z",
+      "summary": "外務省は10月30日、同省が運営する外部とのやり取りが可能なネットワークが不正アクセスを受け、同ネットワーク上で取り扱っていた個人情報を含むメールなどの一部が漏えいした可能性があるとして、情報を発表した。",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_4cef64540d5b7ef8",
+      "title": "トヨタとウェイモ、27年に国内で自動運転タクシー",
+      "url": "https://www.watch.impress.co.jp/docs/news/2152732.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-10-30T09:05:41.000Z",
+      "summary": "トヨタ自動車とWaymo(ウェイモ)は、日本で自動運転タクシーの試験を2027年に開始すると発表した。両社が25年4月に発表した自動運転分野の協業を「次の段階へ進める」ものとしている。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_80048fb62e5dd5ee",
+      "title": "“でぶねこ”の重み公開　1兆パラメータのAIモデル「Mistral Large 4」（Le Chonk）がダウンロード可能に",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2610/30/2000002762/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-10-30T08:46:58.000Z",
+      "summary": "AI開発企業の仏Mistral AIは、AIモデル「Mistral Large 4」（通称Le Chonk）の重みをHugging Faceで公開した。コーディングやサイバーセキュリティ分野で高い性能を示すという。",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_0961dbe73afacad3",
+      "title": "Gemini Notebook、無料で数百冊の教科書にアクセス可能に　米国・インドの出版社提供　日本でも利用可",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2610/30/2000002760/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-10-30T08:17:55.000Z",
+      "summary": "Googleは、米国とインドのプロバイダーが提供する数百冊の教科書に「Gemini Notebook」内で無料でアクセスできるようになったと発表した。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_34cf61eaf82a9289",
+      "title": "bitFlyer、重要取引にパスキー認証を導入",
+      "url": "https://www.watch.impress.co.jp/docs/news/2152617.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-10-30T08:00:00.000Z",
+      "summary": "bitFlyerは29日、暗号資産取引サービス「bitFlyer」において、パスキー認証を導入したと発表した。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_dd2dc10971dbc1cc",
+      "title": "東芝テック、セルフレジで商品券が使えるPOS連動システム",
+      "url": "https://www.watch.impress.co.jp/docs/news/2152687.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-10-30T07:29:58.000Z",
+      "summary": "東芝テックは30日、POSレジと商品券読み取り装置を連動させる「商品券連動サブシステム」を発売した。価格は店舗サーバーが48,000円、POSライセンスが15,600円。スーパーマーケット、ドラッグストア、ホームセンターなどを主な販売ターゲットとし、5年間で2,000ライセンスの販売を予定している。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_00e87b0498e149eb",
+      "title": "放置してても勝手に育つ!!　たった半畳の家庭菜園でお手軽に30玉以上のタマネギを育てる方法【はんじょう農場その3】【空いた時間でなにしてる？】",
+      "url": "https://internet.watch.impress.co.jp/docs/column/hobbytime/2152695.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-10-30T07:23:04.000Z",
+      "summary": "10年前に建てた一軒家の庭先に設けたわずか半畳ほどの畑、その名も「はんじょう農場」。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_1ea9cfbf9d427db8",
+      "title": "松屋フーズ、不正アクセスにより公式アプリの利用者の情報約238万件が漏えい　アプリ・ウェブサイトを停止中",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2152679.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-10-30T06:46:14.000Z",
+      "summary": "株式会社松屋フーズホールディングスは10月30日、松屋公式アプリ（松弁ネット、モバイルオーダー、松弁デリバリー）管理システムに対する第三者からの不正アクセスを受け、利用者の個人情報が漏えいしたと発表した。",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "情報モラル",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_93fbf2bdf6abff39",
+      "title": "暗号資産のバイナンスに不正アクセス　約9900億円の影響",
+      "url": "https://www.watch.impress.co.jp/docs/news/2152662.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-10-30T06:45:07.000Z",
+      "summary": "暗号資産取引所大手のBinance(バイナンス)は30日、不正アクセスと見られるセキュリティ問題による不正な取引や出金が確認されたとして、一部サービスを一時停止した。推定される被害総額は約63億ドル(約9,900億円)。すでにブロックチェーンパートナーと連携して影響を受けた資産の凍結を進めており、30日の11時時点ではオンチェーン上で約30億ドルを凍結した。",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_f0cb0897569e663a",
+      "title": "Geminiで生成したPDFやスライドを「チャット上で直接編集」可能に　個人プランとGoogle Workspaceで試してみた",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2610/30/2000002757/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-10-30T06:31:36.000Z",
+      "summary": "Geminiとのチャット内で直接、PDFやスライドなどを生成、プレビュー、編集できるようになった。ITmedia AI＋編集部の環境で同機能を試した結果をお届けする。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用",
+        "校務DX",
+        "GIGA"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_d2649f4595ae9d08",
+      "title": "無印良品、「MUJIアプリ」の利用者情報最大約2726万件が不正アクセスにより流出の可能性",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2152666.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-10-30T06:22:04.000Z",
+      "summary": "良品計画株式会社は10月30日、無印良品の公式アプリ「MUJIアプリ」において、利用者の情報の一部が外部に流出した可能性があることを確認したとして、情報を公開した。",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "情報モラル",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_281aaad326908344",
+      "title": "ファミマ駐車場に楽天モバイルの移動型ショップ「気軽に相談」",
+      "url": "https://www.watch.impress.co.jp/docs/news/2152648.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-10-30T06:21:30.000Z",
+      "summary": "ファミリーマートと楽天モバイルは、一部のファミリーマート店舗の駐車場に楽天モバイルの移動型ショップを出店する取組み「楽天モバイル キャラバンカー出店 in ファミリーマート」を実施する。東京都内2店舗、和歌山県内2店舗の合計4店舗が対象で、期間は11月28日までの約1カ月間。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_f92c0da2bd203552",
+      "title": "OpenAI、AIの不正行動を検知する監視体制を強化　暴走前に介入",
+      "url": "https://www.watch.impress.co.jp/docs/news/2152609.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-10-30T06:03:39.000Z",
+      "summary": "OpenAIは29日、AIモデルによる不正な行動や意図しない動作を検知する監視システムを拡充したと発表した。AIエージェントの推論や操作、外部システムへの影響を多層的に監視し、問題が深刻化する前に人間が介入できる体制を整えた。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "生成AI",
+        "AI活用"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_2c050041d556a62c",
+      "title": "エンジニアに必要な「術」とは――AI時代こそ、基礎と現場と人に学ぼう　11月19日～27日に開催のイベント「Internet Week 2026」の狙いについて聞いた",
+      "url": "https://internet.watch.impress.co.jp/docs/interview/2152627.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-10-30T05:55:00.000Z",
+      "summary": "30回目を迎える「Internet Week 2026」のテーマは、「AI時代を生き抜く術（すべ）を学べ」。今回はプログラムを「ベーシック」「最新動向」「実践」の3カテゴリに分け、参加者が自分の経験や関心に合わせて学べる構成となっている。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_d1e137e9f61cf63e",
+      "title": "松屋、不正アクセスで238万件の個人情報漏えい",
+      "url": "https://www.watch.impress.co.jp/docs/news/2152625.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-10-30T05:02:42.000Z",
+      "summary": "松屋フーズホールディングスは30日、「松屋公式アプリ」の管理システムに対する第三者からの不正アクセスにより、約238万件の個人情報が漏えいしたと発表した。",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "セキュリティ",
+        "情報モラル",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_e218e2c249745c38",
+      "title": "dバリューパスに新特典　Uber割引やLUUPのクーポンなど",
+      "url": "https://www.watch.impress.co.jp/docs/news/2152578.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-10-30T04:20:00.000Z",
+      "summary": "NTTドコモは30日、「dバリューパス」の新たな特典として、配車サービス「Uber」およびデリバリーサービス「Uber Eats」の割引が受けられるギフトカードと、電動キックボードシェア「LUUP」のクーポンを追加すると発表した。合わせて、既存の「デイリーチャンス」では、抽選で当たるクーポンの当選本数を拡充する。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_3762a8c927e1ebb1",
+      "title": "V NEOBANKの後継サービス「NEOBANK CASH」が27年3月スタート",
+      "url": "https://www.watch.impress.co.jp/docs/news/2152567.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-10-30T03:48:07.000Z",
+      "summary": "ドコモSMTBネット銀行は、「V NEOBANK」の後継サービスとなる「NEOBANK CASH」を2027年3月29日より開始する。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_648d85b465d57d39",
+      "title": "シャオミ、7980円の「Smart Band 11」 約15.6g・21日使える",
+      "url": "https://www.watch.impress.co.jp/docs/news/2152573.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-10-30T03:43:05.000Z",
+      "summary": "シャオミ・ジャパンは、スマートバンド「Xiaomi Smart Band 11」を11月4日に発売する。価格は通常モデルが7,980円、セラミックエディションが10,800円。11月12日までの早割キャンペーンでは、それぞれ6,980円、9,980円で販売する。Xiaomi公式サイトでは10月30日から先行購入が可能。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_d0c67682a1354fb9",
+      "title": "東京と台北を「17ミリ秒」で結ぶIOWN　アンリツCTOが語るデータセンター相互接続と日本の勝機",
+      "url": "https://www.itmedia.co.jp/business/articles/2610/30/news038.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-10-30T03:30:00.000Z",
+      "summary": "アンリツ（神奈川県厚木市）の計測事業グループCTO（最高技術責任者）、ジョナサン・ボリル氏に日本の光通信技術が再び世界を制する可能性について聞いた。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_0dec33602030071b",
+      "title": "「Gemini Notebook」、数百冊の教科書を無料で利用可能に",
+      "url": "https://www.watch.impress.co.jp/docs/news/2152548.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-10-30T03:16:06.000Z",
+      "summary": "Googleは29日、「Gemini Notebook」で、数百冊の教科書を無料で利用できるようにした。米国とインドの出版社・教材提供元による教科書を追加し、内容についてAIに質問したり、学習ガイドや練習問題を作成したりできる。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "生成AI",
+        "AI活用",
+        "教材",
+        "ツール",
+        "教育ニュース"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_ddedbfdcf1921363",
+      "title": "2026年度の情報漏えい被害、2.6億人を超える",
+      "url": "https://www.watch.impress.co.jp/docs/news/2152535.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-10-30T03:04:34.000Z",
+      "summary": "個人情報保護委員会は28日、2026年4月1日から10月16日までに漏えいした個人データの件数を報告した。延べ人数は約2億6,000万人にのぼる。",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_948b2a647276a572",
+      "title": "Meta Ray-Banで向かいの席から撮影→指の動きからスマホのパスワードを解読する盗み見攻撃",
+      "url": "https://www.itmedia.co.jp/news/article/2610/30/2000002684/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-10-30T03:00:00.000Z",
+      "summary": "イスラエルのテルアビブ大学に所属する研究者らが発表した論文「Watch and Crack: Password Inference from Smart-Glasses Video」は、スマートグラスで撮影された指の動きから、パスワードを解読する手法を実証した研究報告だ。",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_de48508162bb00aa",
+      "title": "なぜ「半導体の供給はデータセンター優先」に見えるのか　AIブームの実像、東京エレクトロン デバイス幹部が明かす",
+      "url": "https://www.itmedia.co.jp/business/articles/2610/30/news064.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-10-30T03:00:00.000Z",
+      "summary": "AIブームの中、半導体の供給不足が叫ばれている。「データセンターに優先的に供給されている」という見方もあるが、東京エレクトロン デバイス幹部はそれを否定する。AIブームの実像とは。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_2cb143e879e7fe22",
+      "title": "ChatGPT Pro 100／500プランの利用上限を「倍」に　Pro 200プランの「半減」は撤回　経緯まとめ",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2610/30/2000002738/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-10-30T02:34:51.000Z",
+      "summary": "OpenAIのプロダクト責任者ティボー・ソティオ氏（通称Tibo）は全てのProおよびBusiness Premiumプランの利用制限を倍にすると発表した。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_1468e5f43fba0914",
+      "title": "「リカバリー用USBメモリ」が消える？ Windows 11、クラウドからのリカバリー機能が追加に【やじうまWatch】",
+      "url": "https://internet.watch.impress.co.jp/docs/yajiuma/2152507.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-10-30T02:32:03.000Z",
+      "summary": "Windows 11で、クラウドからのリカバリー機能が利用可能となったことが明らかになった。",
+      "starred": false,
+      "category": "dx",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "校務DX",
+        "GIGA"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_0033acfa03d16339",
+      "title": "ECサイトの「当日配送」、世界各国に比べて日本ではニーズがあまりないことが調査で判明【やじうまWatch】",
+      "url": "https://internet.watch.impress.co.jp/docs/yajiuma/2152501.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-10-30T02:31:17.000Z",
+      "summary": "AmazonをはじめとするECサイトの「当日配送」は、世界各国に比べて日本ではあまり必要とされていないということが明らかになった。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_689cbb8485f487e9",
+      "title": "Edifierのポータブル＆ゲーミングスピーカーがAmazonでセール中　最大15時間のバッテリー駆動が可能な「ES20」は4552円に",
+      "url": "https://internet.watch.impress.co.jp/docs/shopping/2152455.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-10-30T02:30:00.000Z",
+      "summary": "Amazon.co.jpのEdifierストアページでは同社のBluetooth対応ポータブルおよびゲーミングスピーカーがセール中だ。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_bc6f0d6b08bc10b0",
+      "title": "国産LLM「Sarashina」に初の「思考モデル」　ツール呼び出しやWeb検索性能が向上　APIで提供",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2610/30/2000002743/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-10-30T02:11:54.000Z",
+      "summary": "ソフトバンク傘下のAI開発企業であるSB Intuitionsは、AIモデル「Sarashina3.2 mini thinking」を発表した。同社がフルスクラッチで開発する「Sarashina」シリーズ初の「思考モデル」（回答の精度を高めるため、出力に時間をかけるモデル）となる。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_e302826e45f23d06",
+      "title": "Gemini、チャット上でPDF/ドキュメントの作成・編集に対応 全画面で修正も",
+      "url": "https://www.watch.impress.co.jp/docs/news/2152497.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-10-30T01:55:59.000Z",
+      "summary": "Googleは29日(現地時間)、GeminiアプリでドキュメントやPDF、プレゼンテーション、スプレッドシートを直接作成・編集可能とした。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "生成AI",
+        "AI活用",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_36d2934bb40380be",
+      "title": "ロジクール製マウス・トラックボールとマウスパッドのセットがAmazonで安い！　フラッグシップマウス「MX MASTER 4 MX2400」マウスパッドが1万9400円",
+      "url": "https://internet.watch.impress.co.jp/docs/shopping/2152454.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-10-30T01:30:00.000Z",
+      "summary": "Amazon.co.jpのロジクールストアページでは現在、ハイエンドマウス・トラックボールとマウスパッドのセットがセール中だ。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_3fa4b55aeb48b3f1",
+      "title": "KAYOU+初のカートリッジ式万年筆「Leron」",
+      "url": "https://www.watch.impress.co.jp/docs/news/2151115.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-10-30T01:00:00.000Z",
+      "summary": "KAYOUは文房具ブランド「KAYOU+(カーユプラス)」よりカートリッジ式万年筆「Leron(レロン)」を25日に発売した。価格は3,300円。カラーはアーバンホワイトとモノブラック。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_df53d6e4fb25ce09",
+      "title": "「Web担当者Forum」「ネットショップ担当者フォーラム」がマーケターやEC担当者向けの無料セミナーイベントを11月5日・6日に開催　サントリーホールディングス、NTT西日本、LIXIL、めちゃコミックなどが登壇",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2152467.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-10-30T01:00:00.000Z",
+      "summary": "株式会社インプレスは、ウェブ担当者やSEO担当者、マーケター向けの無料セミナーイベント「Web担当者Forum ミーティング 2026 秋」を11月5日・6日に開催する。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_4dbd873543c4de84",
+      "title": "MetaMoJi、教育AI「SHUUSAI（シュウサイ）」を発表 2027年3月より「MetaMoJi ClassRoom 3」へ標準搭載",
+      "url": "https://ict-enews.net/2026/10/23metamoji-5/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-10-30T00:30:19.000Z",
+      "summary": "MetaMoJiは10月22日、次期学習指導要領を見据えた文教事業戦略として新たな教育AI「SHUUSAI（シュウサイ）」を開発し、その一部機能を標準搭載したリアルタイム学習支援サ […]",
+      "starred": false,
+      "category": "lesson",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "授業実践",
+        "情報Ⅰ",
+        "行政",
+        "文科省"
       ],
       "priority_score": 60
     },
@@ -376,22 +956,6 @@
         "ICT",
         "共通テスト",
         "入試"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_cd5a32325e1c6968",
-      "title": "サンワダイレクト、最大40Wの高出力とマグネットマイクの「ポータブル拡声器」発売",
-      "url": "https://ict-enews.net/2026/10/30sanwa-4/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-10-30T00:23:05.000Z",
-      "summary": "サンワサプライは28日、最大40Wの高出力と服にピタッと固定できるマグネット式超小型ワイヤレスマイクが特徴の「ポータブル拡声器（400-SP132）」を直販サイト「サンワダイレクト […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
       ],
       "priority_score": 50
     },
@@ -727,22 +1291,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_accd58bdc04fcd2e",
-      "title": "東武鉄道、「TJライナー」も顔認証改札に対応",
-      "url": "https://www.watch.impress.co.jp/docs/news/2152322.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-10-29T08:06:14.000Z",
-      "summary": "東武鉄道は、東上線の座席指定制有料列車「TJライナー」において、顔認証のみで乗車できる生体認証サービスを11月5日より開始する。対象となるのは、東上線池袋駅発(下り方面行き)のTJライナー。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_5b6d00407dbfb907",
       "title": "ASUS、Wi-Fi 8ゲーミングルーター「ROG Rapture GT-BN98」を10月30日発売",
       "url": "https://internet.watch.impress.co.jp/docs/news/2152340.html",
@@ -778,70 +1326,6 @@
       "priority_score": 60
     },
     {
-      "id": "item_693625b3706935e9",
-      "title": "95g以下のXRグラス「XREAL AURA」、11月2日発売",
-      "url": "https://www.watch.impress.co.jp/docs/news/2152300.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-10-29T06:56:29.000Z",
-      "summary": "GoogleとXREALは28日(米国時間)、Android XR搭載XRグラス「XREAL AURA」を米国、カナダ、韓国で発売した。日本では11月2日に発売し、価格は12GB/256GBモデルが229,800円、16GB/512GBモデルが269,800円。出荷は11月中旬から開始する。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_5828940c29e362a2",
-      "title": "セブン、弁当ラベルをバイオマス素材に切り替え　千葉で実証テスト",
-      "url": "https://www.watch.impress.co.jp/docs/news/2152263.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-10-29T06:32:33.000Z",
-      "summary": "セブン-イレブン・ジャパンは29日、自社製品に用いるラベルをバイオマス由来の原料を用いた素材に切り替え、一部店舗で実証テストを開始すると発表した。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_ee86a351b69978a5",
-      "title": "デバイス集中管理の「Echo Show 16」や新フォトフレーム　Alexa+新デバイス",
-      "url": "https://www.watch.impress.co.jp/docs/news/2152204.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-10-29T05:30:00.000Z",
-      "summary": "Amazonは28日(米国時間)、Echoデバイスの新製品を多数発表した。日本でもスマートクロック「Echo Time」やスピーカー「Echo Dot」を発売するが、米国では、「Echo Show 16」やフォトフレームなどの新製品も展開する。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_ea2a8072372efbe6",
-      "title": "貝印、ペットボトルキャップを使った「ニュースタンダードツメキリ」",
-      "url": "https://www.watch.impress.co.jp/docs/news/2152250.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-10-29T05:03:47.000Z",
-      "summary": "貝印は、岐阜県関市で回収したペットボトルキャップの再生材を使った「ニュースタンダードツメキリ」を製作。9月27日に開催された「環境フェアせき2026」で、市民に80個を配布した。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_0543843fcd7d088e",
       "title": "「CEATEC 2026」の展示がいろいろ興味深かった。来年も期待！【フォトレポート 総集編】【CEATEC 2026】",
       "url": "https://internet.watch.impress.co.jp/docs/event/2150421.html",
@@ -854,56 +1338,6 @@
       "tags": [
         "インターネット",
         "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_9b8dccadf8102bbf",
-      "title": "Yahoo!ショッピング、AI商品比較が進化　条件別にランキング",
-      "url": "https://www.watch.impress.co.jp/docs/news/2152234.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-10-29T04:26:35.000Z",
-      "summary": "LINEヤフーは、「Yahoo!ショッピング」で、AIが商品を比較して商品選びをサポートする「AIベスト提案」の提供を順次開始した。従来の「AIおまかせ比較」を刷新し、「価格の安さ」「配送の早さ」「評価の高さ」など、重視する条件に応じて商品をランキング形式で提案する。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_4a9983ed8f0cf47b",
-      "title": "JAL、委託先の予約システムに不正アクセス　一部はパスポート番号も",
-      "url": "https://www.watch.impress.co.jp/docs/news/2152199.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-10-29T03:35:18.000Z",
-      "summary": "日本航空(JAL)は、旅客サービスシステムの委託先に不正アクセスがあり、利用者の予約情報の一部が外部に漏えいしたと発表した。対象は約92,000人。",
-      "starred": false,
-      "category": "security",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "セキュリティ",
-        "情報モラル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_5898f2430aed0e43",
-      "title": "マリノアシティ福岡跡地に九州最大級の三井アウトレット　27年4月開業",
-      "url": "https://www.watch.impress.co.jp/docs/news/2152200.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-10-29T03:27:34.000Z",
-      "summary": "三井不動産と福岡地所は、福岡市西区の「マリノアシティ福岡」跡地で開発中の商業施設名を「三井アウトレットパーク 福岡マリノア」とし、2027年4月に開業する。九州最大の店舗数となる約220店舗を予定し、飲食・食物販を中心とした41店舗を先行発表した。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
       ],
       "priority_score": 50
     },
@@ -958,38 +1392,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_b0276fbf9a8a14f3",
-      "title": "日本はまだ先？ Amazon、自宅の3Dマップを作成するAlexaの新機能を海外で発表【やじうまWatch】",
-      "url": "https://internet.watch.impress.co.jp/docs/yajiuma/2152139.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-10-29T02:38:01.000Z",
-      "summary": "Amazonが、自宅の3Dマップを作成するAlexaの機能「Home Map」を海外で発表した。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_a61f253f776717b7",
-      "title": "GMKtecのミニPCがAmazonでセール中、Intel Celeron N5095搭載モデルが3万2298円など　Ryzen 5 3500U搭載のミニPC「GMKtec G10」は4万3998円",
-      "url": "https://internet.watch.impress.co.jp/docs/shopping/2152082.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-10-29T02:30:00.000Z",
-      "summary": "Amazon.co.jpのGMKtecストアページでは現在、同社のミニPCがタイムセール中だ。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_1a0f500961630054",
       "title": "「高度なAIスキル」だけではもう食えない？　IT人材が答えた「これからの必須スキル」",
       "url": "https://kn.itmedia.co.jp/kn/article/2610/29/2000002688/",
@@ -1003,42 +1405,6 @@
         "生成AI",
         "AI",
         "LLM",
-        "セキュリティ",
-        "情報モラル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_57de7472d98c2691",
-      "title": "Nakamichi（ナカミチサウンド）のワイヤレスイヤホンがAmazonでセール中、最安は1980円！　ENCノイズリダクション通話対応の「TW018ENC PLUS」は3480円",
-      "url": "https://internet.watch.impress.co.jp/docs/shopping/2152080.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-10-29T01:30:00.000Z",
-      "summary": "Amazon.co.jpのNakamichi（ナカミチサウンド）ストアページでは現在、同社の完全ワイヤレスイヤホンがセール価格で販売中だ。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_6107e5f314e273c9",
-      "title": "Google最強モデル「Gemini 4 Carbon」　サイバー防御などに順次提供",
-      "url": "https://www.watch.impress.co.jp/docs/news/2152097.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-10-29T01:13:13.000Z",
-      "summary": "Googleは28日(米国時間)、次世代のフロンティアモデルとなる「Gemini 4 Carbon」を発表した。最先端のサイバーセキュリティと長期的計画・実行(Long Horizon Capabilities)に優れた「Google最強のモデル(our strongest model)」としている。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "生成AI",
-        "AI活用",
         "セキュリティ",
         "情報モラル"
       ],
@@ -1079,70 +1445,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_8062271ae6a719ed",
-      "title": "ファミマ、11月11日は買い物全額還元のチャンス　メロンパン40円も",
-      "url": "https://www.watch.impress.co.jp/docs/news/2151994.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-10-29T01:00:00.000Z",
-      "summary": "ファミリーマートは、11月1日から11日まで、全国約16,500店舗で「45周年ファミペイ大感謝祭」を開催する。11月11日には、111円以上の買い物で購入金額相当のポイントが当たるキャンペーンを実施。また、お茶やパン、日用品の100円引きクーポンも配信する。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_832adeb7458cd9f3",
-      "title": "タッチ操作とOLEDディスプレイの新「MacBook Pro」  499800円から",
-      "url": "https://www.watch.impress.co.jp/docs/news/2152083.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-10-29T00:28:40.000Z",
-      "summary": "アップルは28日(米国時間)、有機ELディスプレイとタッチ操作に対応した「MacBook Pro」を発表した。10月29日から予約を開始し、11月6日から発売する。価格は、M5 Proチップ搭載モデルの14インチが499,800円から、16インチが599,800円から。M5 Max搭載モデルは14インチが769,800円から、16インチが829,800円から。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_21e0bdca74ab95f0",
-      "title": "足底のヒーターで温める「どこでも床暖スリッパ」、サンコーが発売",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2151457.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-10-28T23:30:00.000Z",
-      "summary": "サンコー株式会社は10月26日、ヒーター内蔵のコードレス電気スリッパ「どこでも床暖スリッパ」（SRPP26S）を発売した。公式オンラインストア「THANKO」での販売価格は4980円。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_7c7a603be8ec8e58",
-      "title": "スターリンク V3は何がすごい?　1機1Tbps・巨大化と低軌道化で変わる衛星通信サービス",
-      "url": "https://www.watch.impress.co.jp/docs/topic/2150444.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-10-28T23:20:00.000Z",
-      "summary": "2026年9月28日、SpaceXの大型宇宙輸送システム「Starship」は14回目の飛行で初めて地球周回軌道に到達し、次世代通信衛星「Starlink V3」26機を軌道上に放出しました。SpaceXはV3を従来のStarlink衛星より大幅に大型化し、1機あたり最大1Tbpsのダウンリンク能力を持たせました。さらに運用高度もより低い330～370km級へ移していく計画です。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_b7f40e1dce3dd04e",
       "title": "AIエージェントは「増やせば賢くなる」のか　Metaとハーバード大の研究が示す“分業の条件”",
       "url": "https://www.itmedia.co.jp/aiplus/article/2610/29/2000002632/",
@@ -1156,259 +1458,6 @@
         "生成AI",
         "AI",
         "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_9cf213aaac0b35b7",
-      "title": "KDDI傘下、社内のAI活用事例113件を無料公開　「Gemini Notebook」で稟議データのチェック支援も",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2610/29/2000002685/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-10-28T23:00:00.000Z",
-      "summary": "KDDIグループのKDDIアイレットが、社内のAI活用事例113件をまとめた特設サイトを無料で公開している。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_eb66b909c6895580",
-      "title": "製造業のAIネイティブ化の道筋は？　将来のAIの役割から「逆算」で診断するサービスが登場",
-      "url": "https://www.itmedia.co.jp/enterprise/articles/2610/29/news011.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-10-28T23:00:00.000Z",
-      "summary": "AI活用を個人タスクの効率化にとどまらず、価値創出の仕組みをAI中心に再設計する「AIネイティブ企業」が現れ始めた。製造業はどのような姿を目指し、何から取り組むべきか。将来のAIの役割から「逆算」して各社の道筋を描く診断サービスとは。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_fdec030ad0c1c96f",
-      "title": "ガーミン、Venu 4に24時間の転倒検知 初心者向けランニングプランも",
-      "url": "https://www.watch.impress.co.jp/docs/news/2151937.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-10-28T23:00:00.000Z",
-      "summary": "ガーミンは、「Venu 4」「vívoactive 6」などの対象デバイス向けに、安全機能やトレーニング機能を強化するソフトウェアアップデートを実施した。対応機種は機能によって異なる。",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_1f6e6e6a0eaa855c",
-      "title": "VPNがあるのは外から分かるので狙われる。パッチ当てはもう自動化するしかない――日本ハッカー協会・杉浦隆幸代表理事が語る、AI時代のランサムウェア対処策【Security Days Fall 2026】",
-      "url": "https://internet.watch.impress.co.jp/docs/event/2151590.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-10-28T22:55:00.000Z",
-      "summary": "AIの進化は、来るところまで来てしまったようだ。サイバー攻撃への応用である。24時間365日、AIは休まず働き続け、脆弱性を発見する。そこを突く攻撃ツールの生成にもAIが威力を発揮してしまっている。",
-      "starred": false,
-      "category": "security",
-      "tags": [
-        "インターネット",
-        "セキュリティ",
-        "情報モラル",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_fada3d63cdd55f6f",
-      "title": "「IDCFクラウド」が不正アクセスの調査結果公開、データ流出は「ありませんでした」　原因はオープンソースソフトウェアの脆弱性、段階的に提供再開の見通し",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2151956.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-10-28T22:30:00.000Z",
-      "summary": "株式会社IDCフロンティアは10月27日、クラウドサービス「IDCFクラウド」が受けたランサムウェア攻撃について、一連の調査結果および今後の対応をまとめた第7報を発表した。",
-      "starred": false,
-      "category": "dx",
-      "tags": [
-        "インターネット",
-        "セキュリティ",
-        "校務DX",
-        "GIGA",
-        "情報モラル",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_34dfefe86d574a9c",
-      "title": "Google、「Gemini 4 Carbon」発表　「Argon」公開から2週間、サイバー防御能力などを強化",
-      "url": "https://www.itmedia.co.jp/news/article/2610/29/2000002690/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-10-28T22:13:47.000Z",
-      "summary": "Googleは、フロンティアAIモデル「Gemini 4 Carbon」を発表した。サイバーセキュリティや長時間に及ぶ自律作業能力を強化し、ベンチマーク首位を獲得。ハルシネーションや不正操作への耐性も向上させた。まず一部のサイバー防御組織に限定提供し、順次公開範囲を広げる方針だ。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用",
-        "セキュリティ",
-        "情報モラル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_ac89b48a63572d5f",
-      "title": "20年前は“門前払い”？　デル社長が語る、日本企業の今昔　「IT後進国」から抜け出せたのか",
-      "url": "https://www.itmedia.co.jp/business/articles/2610/29/news023.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-10-28T22:00:00.000Z",
-      "summary": "日本企業は、IT導入で「遅れている」と言われがちだった。しかし、AIの登場で状況が変わっている。デル・テクノロジーズ社長が、その実態を語った。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_57ae4a0c7c0b10de",
-      "title": "月末に「600行の承認作業」が集中……「紙とハンコ」「現金手渡し」の経費申請を変えた、老舗メーカーの経理DX",
-      "url": "https://www.itmedia.co.jp/business/articles/2610/29/news033.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-10-28T22:00:00.000Z",
-      "summary": "属人化しがちな経理業務。創業90年超のメーカーは、欠員をきっかけにIT導入を決断し、今では経費申請の約9割をAIが承認している。同社の“堅実な取り組み”に迫る。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_080947bb4f122276",
-      "title": "被害が拡大する「ニセ警察詐欺」の手口を体験し、対策を学べる無料ゲーム「騙される30秒前」　Classroom Adventureらが警察庁の協力のもと開発",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2152012.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-10-28T22:00:00.000Z",
-      "summary": "株式会社Classroom Adventure、日本貸金業協会、中央大学文学部心理学専攻有賀敦紀研究室は10月28日、警察官を名乗る詐欺「ニセ警察詐欺」を疑似体験できる無料のブラウザーゲーム「騙される30秒前」を公開した。警察庁の協力のもと制作され、スマートフォン、タブレット、PCのウェブブラウザーから、無料で遊ぶことができる。",
-      "starred": false,
-      "category": "dx",
-      "tags": [
-        "インターネット",
-        "セキュリティ",
-        "校務DX",
-        "GIGA"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_cf98509b358b9357",
-      "title": "AI導入から成果創出へ　デル・テクノロジーズ新社長が示す日本市場の事業戦略",
-      "url": "https://monoist.itmedia.co.jp/mn/articles/2610/29/news032.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-10-28T21:30:00.000Z",
-      "summary": "デル・テクノロジーズは、2026年8月に代表取締役社長に就任したジョン・ロボトム氏の記者会見を開催した。ロボトム氏は、日本企業のAI活用が導入段階から成果創出へと移行しつつあるとの認識を示し、AIインフラやデータ基盤の整備、人材育成、パートナーとの共創を通じて、日本企業のAI活用を支援する方針を明らかにした。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_4189f0145f2338d2",
-      "title": "IPA、「SCS評価制度」の詳しい資料をまとめて公開。評価基準・自己評価・第三者評価に関するガイド",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2151920.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-10-28T21:30:00.000Z",
-      "summary": "独立行政法人情報処理推進機構（IPA）は10月28日、サプライチェーン強化に向けたセキュリティ対策評価制度（SCS評価制度）★3および★4の評価制度や自己評価、第三者評価のための解説資料を公開した。いずれもIPAのウェブサイトからPDFファイルをダウンロードできる。",
-      "starred": false,
-      "category": "security",
-      "tags": [
-        "インターネット",
-        "セキュリティ",
-        "情報モラル",
-        "行政",
-        "文科省"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_360303608f50880c",
-      "title": "「Gemini Notebook」で名刺を文字起こしして管理！ PFUの小型スキャナー「ScanSnap iX110」活用（後編）【自宅Wi-Fiの“わからない”をスッキリ！】",
-      "url": "https://internet.watch.impress.co.jp/docs/column/homewifi/2151171.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-10-28T21:00:00.000Z",
-      "summary": "バッテリー内蔵でどこでも使えるハンディ型のドキュメントスキャナー「ScanSnap iX110」の活用を、第297回から実践している。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "インターネット",
-        "セキュリティ",
-        "生成AI",
-        "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_9c0c51a7246149d6",
-      "title": "比べて分かったAC電源モデルとの意外な違い!! ソーラー給電で自動追尾、デュアルレンズのネットワークカメラ「Tapo C675D KIT」を検証[Sponsored]",
-      "url": "https://internet.watch.impress.co.jp/docs/topic/special/2144943.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-10-28T21:00:00.000Z",
-      "summary": "筆者は2024年12月に川崎市から岐阜の山奥に移住した。都心とは違ってこちらはクマが出た、イノシシが出た、なんていう話は日常茶飯事。筆者宅もイノシシの被害にあってすでにTP-Linkのネットワークカメラ2台（Tapo C520WSとC510W）を設置している。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_0cdca7cbb41f5e57",
-      "title": "アマゾンからスマートクロック「Echo Time」登場　睡眠を検知し、優しく起こす",
-      "url": "https://www.watch.impress.co.jp/docs/news/2151988.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-10-28T15:01:00.000Z",
-      "summary": "アマゾンは、「Echo」シリーズの新モデルとしてスマートクロック「Echo Time」とスマートスピーカー「Echo Dot」を10月29日から発売する。価格はEcho Timeが35,980円、Echo Dotが17,980円。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
       ],
       "priority_score": 50
     },
@@ -1451,45 +1500,6 @@
         "教育ニュース"
       ],
       "priority_score": 70
-    },
-    {
-      "id": "item_a43faf25fb779129",
-      "title": "「ダウンロードフォルダでAIを使わないで」――セキュリティ企業が注意喚起　エージェントが攻撃者の指示に従いマルウェアインストールの恐れ",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2610/28/2000002671/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-10-28T08:13:58.000Z",
-      "summary": "イスラエルのセキュリティ企業によれば、悪意のある「AGENTS.md」が仕込まれたダウンロードフォルダでコーディングエージェントを起動すると、エージェントがマルウェアをインストールしたり、アカウント乗っ取りを支援したりする恐れがある。",
-      "starred": false,
-      "category": "security",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "セキュリティ",
-        "情報モラル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_96c3b5f556d83a7f",
-      "title": "「禁止」するだけでは防げない？　パナソニックグループで約33万人分の個人情報が外部生成AIに",
-      "url": "https://www.itmedia.co.jp/enterprise/articles/2610/28/news060.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-10-28T06:30:00.000Z",
-      "summary": "パナソニックグループで、従業員や元従業員とその家族約33万人分の個人情報が、社内で利用を禁止している外部の生成AIサービスにアップロードされた。同グループは、データについて「今後二次利用されない」と説明する。その根拠は何か。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用",
-        "セキュリティ",
-        "情報モラル"
-      ],
-      "priority_score": 60
     },
     {
       "id": "item_d5c9696ffd75bcb9",
