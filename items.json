@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T00:16:33.783Z",
+  "generated_at": "2026-10-31T09:23:32.261Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-10-31T00:16:23.335Z",
+      "published_at": "2026-10-31T09:23:21.799Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-10-31T00:16:23.335Z",
+      "published_at": "2026-10-31T09:23:21.799Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-10-31T00:16:23.335Z",
+      "published_at": "2026-10-31T09:23:21.799Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,76 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_5d71226e2e7f4795",
+      "title": "Claude、有料プラン名称を変更　「Max 20x」から「Ultra」で5時間制限撤廃",
+      "url": "https://www.watch.impress.co.jp/docs/news/2152823.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-10-31T01:40:00.000Z",
+      "summary": "Anthropic(アンソロピック)は31日、AIサービス「Claudeの有料プランの名称を変更した。従来の「Max 5x」は「Max」に、「Max 20x」を「Ultra」に変更する。月額料金は変わらず、Maxが100ドル、Ultraが200ドル。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "生成AI",
+        "AI活用"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_7960bc77b5735ab8",
+      "title": "ゼロハリ、伝統のアタッシェケースを小型バッグに",
+      "url": "https://www.watch.impress.co.jp/docs/news/2152631.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-10-31T01:00:00.000Z",
+      "summary": "ゼロハリバートンは、ブランドを象徴するアルミアタッシェケースをコンパクトに再構築したクロスボディバッグ「ZH-Compact Sling(ZH コンパクトスリング)」を発売した。価格はブラックが49,500円、ヘアラインシルバーが55,000円。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_f3a3d7efbe52a9bf",
+      "title": "【小寺信良のくらしDX】青切符導入から半年、自転車の取り締まりと利用者の意識はどう変わった?",
+      "url": "https://www.watch.impress.co.jp/docs/series/kodera/2152190.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-10-31T00:20:00.000Z",
+      "summary": "今年の4月1日から、改正道路交通法が施行された。すでにお忘れのかたも多いと思うので、ポイントをおさらいしておく。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_215b225fe49d8847",
+      "title": "AIの「費用対効果が分からない」問題、解決へ？　Claude Enterprise搭載の「3つの新機能」",
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2610/31/news009.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-10-31T00:00:00.000Z",
+      "summary": "AI導入が進む中で、IT部門は費用対効果を厳しく問われる局面に入っている。Anthropicが企業向けプラン「Claude Enterprise」に追加した新機能は、その説明材料になるか。利用状況の可視化から予算の配分まで、3つの機能の中身とは。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用",
+        "行政",
+        "文科省"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_87837985ebff0b3a",
@@ -1066,22 +1136,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_68cb83bdcf8fb0eb",
-      "title": "【レビュー】走っている場所を教えられる　ガーミン「fēnix 9 Pro inReach」が便利&安心！",
-      "url": "https://www.watch.impress.co.jp/docs/review/review/2151166.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-10-30T00:22:06.000Z",
-      "summary": "ほとんど毎年恒例となっている、ガーミンのスマートウォッチの新製品発表。2026年の今年は、一部機種で衛星通信にも対応した「fēnix 9」シリーズが登場しました。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_0bb77d4e07534b89",
       "title": "SAPとNTT、ソブリンクラウドとSAP Business AIの機能提供に向けて連携",
       "url": "https://internet.watch.impress.co.jp/docs/news/2152433.html",
@@ -1136,22 +1190,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_7f829089c3d39570",
-      "title": "YouTube、日本のGDPに5100億円の貢献　8.5万人の雇用を支える",
-      "url": "https://www.watch.impress.co.jp/docs/news/2152337.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-10-29T23:00:00.000Z",
-      "summary": "YouTubeは29日、日本における影響を調査したレポート「YouTube Impact Report 2025」を公開した。2025年、日本のGDPに5,100億円以上の貢献をもたらし、国内で85,000人以上のフルタイム換算雇用を支えたという。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_ec10072cbb1a015c",
       "title": "TrendAI、損保ジャパンのサイバー保険契約者向けにIT資産管理・脆弱性管理サービス提供　アタックサーフェスマネジメント（ASM）「SOMPO Cyber Risk Scan」",
       "url": "https://internet.watch.impress.co.jp/docs/news/2152315.html",
@@ -1165,22 +1203,6 @@
         "インターネット",
         "セキュリティ",
         "情報モラル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_f8d5ebf7a7613768",
-      "title": "デリバリー大手のドアダッシュ、食材配達のインスタカートを買収",
-      "url": "https://www.watch.impress.co.jp/docs/news/2152442.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-10-29T22:30:00.000Z",
-      "summary": "米国のデリバリー大手「DoorDash」は、食料品配達大手の「Instacart」を買収すると発表した。総額は約170億ドル(約2兆6,800億円)。Instacartの評価額は1株あたり65ドルで、これは10月22日のInstacartの終値に対して26％のプレミアムに相当する。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
       ],
       "priority_score": 50
     },
@@ -1440,25 +1462,6 @@
       "tags": [
         "インターネット",
         "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_1a0f500961630054",
-      "title": "「高度なAIスキル」だけではもう食えない？　IT人材が答えた「これからの必須スキル」",
-      "url": "https://kn.itmedia.co.jp/kn/article/2610/29/2000002688/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-10-29T01:57:42.000Z",
-      "summary": "2027年度以降、IT国家試験の大幅な刷新が予定されている。企業のIT現場はこの変化をどう見ているのか。読者調査から、制度刷新への期待と懸念、資格取得意向の変化、AI・セキュリティなど今後重視されるスキルを探る。",
-      "starred": false,
-      "category": "security",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "セキュリティ",
-        "情報モラル"
       ],
       "priority_score": 50
     },
