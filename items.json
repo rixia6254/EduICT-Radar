@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T23:52:55.867Z",
+  "generated_at": "2026-11-01T10:13:09.598Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-10-31T23:52:45.725Z",
+      "published_at": "2026-11-01T10:12:59.565Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-10-31T23:52:45.725Z",
+      "published_at": "2026-11-01T10:12:59.565Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-10-31T23:52:45.725Z",
+      "published_at": "2026-11-01T10:12:59.565Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,60 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_c16fd168c5b4e46a",
+      "title": "カシオ、リングウォッチに“チープカシオ”デザイン",
+      "url": "https://www.watch.impress.co.jp/docs/news/2152258.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-11-01T01:00:00.000Z",
+      "summary": "カシオ計算機は、指輪型のデジタルウォッチ「CASIO RING WATCH」の新作として、定番モデル「A168」の機能とデザインを指輪サイズで再現した「CRW-002」2機種を11月に発売する。電池駆動のクオーツ式時計で、価格はシルバーの「CRW-002D-1AJR」が19,800円、ゴールドの「CRW-002G-9AJR」が22,000円。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_775c03d8e7d5c668",
+      "title": "AI学習の可否をrobots.txtで指定 Google、MS、OpenAIらが共通仕様を27年導入",
+      "url": "https://www.watch.impress.co.jp/docs/news/2152852.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-11-01T00:00:00.000Z",
+      "summary": "OpenAIやGoogle、Microsoft、Anthropicは、Webサイトの運営者がrobots.txtを使って、AIの学習可否などを指定可能にする共通仕様の策定を進めると発表した。2027年の導入を目指す。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "生成AI",
+        "AI活用",
+        "教育ニュース"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_e013fc7f7df408bb",
+      "title": "AI学習への利用拒否をrobots.txtで一括指定へ　OpenAIやGoogleなどが対応表明",
+      "url": "https://www.itmedia.co.jp/news/article/2611/01/2000002776/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-10-31T23:31:07.000Z",
+      "summary": "OpenAI、Google、Microsoftは、Webサイト運営者がAI学習へのコンテンツ利用に関する意向を一括で指定できる共通の仕組みへの対応を発表した。Anthropicも担当者が個人名義で実装を表明している。robots.txtに共通トークンを記述するだけで、AI各社のAIクローラーを一元管理できるようになる。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用",
+        "教育ニュース"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_5d71226e2e7f4795",
@@ -724,26 +778,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_e302826e45f23d06",
-      "title": "Gemini、チャット上でPDF/ドキュメントの作成・編集に対応 全画面で修正も",
-      "url": "https://www.watch.impress.co.jp/docs/news/2152497.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-10-30T01:55:59.000Z",
-      "summary": "Googleは29日(現地時間)、GeminiアプリでドキュメントやPDF、プレゼンテーション、スプレッドシートを直接作成・編集可能とした。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "生成AI",
-        "AI活用",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_36d2934bb40380be",
       "title": "ロジクール製マウス・トラックボールとマウスパッドのセットがAmazonで安い！　フラッグシップマウス「MX MASTER 4 MX2400」マウスパッドが1万9400円",
       "url": "https://internet.watch.impress.co.jp/docs/shopping/2152454.html",
@@ -756,22 +790,6 @@
       "tags": [
         "インターネット",
         "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_3fa4b55aeb48b3f1",
-      "title": "KAYOU+初のカートリッジ式万年筆「Leron」",
-      "url": "https://www.watch.impress.co.jp/docs/news/2151115.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-10-30T01:00:00.000Z",
-      "summary": "KAYOUは文房具ブランド「KAYOU+(カーユプラス)」よりカートリッジ式万年筆「Leron(レロン)」を25日に発売した。価格は3,300円。カラーはアーバンホワイトとモノブラック。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
       ],
       "priority_score": 50
     },
@@ -1423,23 +1441,6 @@
       "source_name": "ITmedia AI+",
       "published_at": "2026-10-29T03:00:00.000Z",
       "summary": "米プリンストン大学に所属する研究者らが4月に発表した論文「Commercial Persuasion in AI-Mediated Conversations」は、オンラインショッピングなどにおける対話型AIによる説得が消費者の選択をどれほど操作できるかを検証した研究報告だ。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_d9bdc43e90a91127",
-      "title": "AIが人間に“闇バイト”を発注？　AIが物理的労働を買う求人サイト「RentAHuman」の実態",
-      "url": "https://www.itmedia.co.jp/news/article/2610/29/2000002679/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-10-29T03:00:00.000Z",
-      "summary": "独立研究者のPulak MehtaさんとAryan Deshkumarさんが発表した論文「Security Risks of AI Agents Hiring Humans: An Empirical Marketplace Study」は、2026年2月に開設した、AIエージェントが人間を雇うことを目的に設計された人材雇用マーケットプレース「RentAHuman」の求人情報を分析し、悪用されてい…",
       "starred": false,
       "category": "ai",
       "tags": [
