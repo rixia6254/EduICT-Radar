@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-11-02T10:41:57.380Z",
-  "total": 83,
+  "generated_at": "2026-11-02T19:22:15.911Z",
+  "total": 103,
   "items": [
+    {
+      "id": "item_21f8651de3f2baea",
+      "title": "文部科学省ホームページトップはこちら",
+      "url": "https://www.mext.go.jp/",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-11-02T19:22:06.007Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
     {
       "id": "item_bd1951ae70f98dac",
       "title": "サイトマップはこちら",
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-11-02T10:41:47.358Z",
+      "published_at": "2026-11-02T19:22:06.007Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -25,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-11-02T10:41:47.358Z",
+      "published_at": "2026-11-02T19:22:06.007Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -38,22 +56,99 @@
       "priority_score": 60
     },
     {
-      "id": "item_21f8651de3f2baea",
-      "title": "文部科学省ホームページトップはこちら",
-      "url": "https://www.mext.go.jp/",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-11-02T10:41:47.357Z",
-      "summary": "",
+      "id": "item_923996e3450a40a8",
+      "title": "【2027年度入試】共通テスト 情報I 第4問（データの活用）の解き方｜相関・散布図・箱ひげ図・回帰直線・外れ値（例題つき）",
+      "url": "https://note.com/open_yak4980/n/n0089551f5677",
+      "source_id": "note_joho1",
+      "source_name": "note（情報科教員）",
+      "published_at": "2026-11-02T17:01:28.000Z",
+      "summary": "共通テスト「情報I」の第4問（データの活用）について、題材ごとに、何を聞かれるか、考え方と手順、例題（答えと途中計算つき）、よくある間違いをまとめました。例題はこの記事のために作った小さなデータで、答えは Python で計算して確かめてあります。 この記事は大学入試センターとは関係ありません。共通テストの形式は2026年度実施のものです（試験時間 60 分・100 点・大問 4 題・マーク数 6…",
       "starred": false,
-      "category": "admin",
+      "category": "exam",
       "tags": [
-        "行政",
-        "文科省",
-        "制度",
-        "教育ニュース"
+        "授業実践",
+        "情報Ⅰ",
+        "教材",
+        "共通テスト",
+        "入試",
+        "ツール"
       ],
-      "priority_score": 60
+      "priority_score": 80
+    },
+    {
+      "id": "item_27aa648d4ee39ca7",
+      "title": "【2027年度入試】共通テスト 情報I 第2問の解き方｜情報デザイン・ネットワーク・モデル化とシミュレーション（例題つき）",
+      "url": "https://note.com/open_yak4980/n/n89d06d91c901",
+      "source_id": "note_joho1",
+      "source_name": "note（情報科教員）",
+      "published_at": "2026-11-02T16:59:12.000Z",
+      "summary": "共通テスト「情報I」の第2問で出やすい題材を並べました。題材ごとに、何を聞かれるか、考え方と手順、例題 1 問（答えと途中の考え方つき）、よくある間違いの順に書いています。例題はこの記事のために作った問題で、計算とシミュレーションの答えは Python で確かめてあります。 この記事は大学入試センターとは関係ありません。共通テストの形式は2026年度実施のものです（試験時間 60 分・100 点・…",
+      "starred": false,
+      "category": "exam",
+      "tags": [
+        "授業実践",
+        "情報Ⅰ",
+        "教材",
+        "共通テスト",
+        "入試",
+        "ツール"
+      ],
+      "priority_score": 80
+    },
+    {
+      "id": "item_1c25e669bab5eb96",
+      "title": "【2027年度入試】共通テスト 情報I 第3問（プログラミング）の解き方｜プログラムの読み方とトレース表のつくり方",
+      "url": "https://note.com/open_yak4980/n/nffce517f64d0",
+      "source_id": "note_joho1",
+      "source_name": "note（情報科教員）",
+      "published_at": "2026-11-02T16:50:04.000Z",
+      "summary": "共通テスト「情報I」の第3問（プログラミング）について、プログラムの読み方、空欄補充の解き方、トレース表（変数の値を 1 行ずつ書いていく表）の作り方をまとめました。後半では、無料で配布している予想問題 第1集の第3問から二分探索のプログラムを 1 つ取り上げ、実際にトレースしながら空欄を埋めます。 この記事は大学入試センターとは関係ありません。共通テストの形式は2026年度実施のものです（試験時…",
+      "starred": false,
+      "category": "exam",
+      "tags": [
+        "授業実践",
+        "情報Ⅰ",
+        "教材",
+        "共通テスト",
+        "入試"
+      ],
+      "priority_score": 90
+    },
+    {
+      "id": "item_115d994bd7948a66",
+      "title": "【2027年度入試】共通テスト 情報I 第1問で出る計算まとめ｜2進数・2の補数・データ量・論理回路・誤り検出（例題つき）",
+      "url": "https://note.com/open_yak4980/n/n47dae4177d78",
+      "source_id": "note_joho1",
+      "source_name": "note（情報科教員）",
+      "published_at": "2026-11-02T16:48:21.000Z",
+      "summary": "共通テスト「情報I」で、手を動かして計算する問題の単元を並べました。単元ごとに、何を聞かれるか、公式と手順、例題 1 問（答えと途中式つき）、よくある間違いの順に書いています。例題はこの記事のために作った問題で、答えは Python で計算して確かめてあります。 この記事は大学入試センターとは関係ありません。共通テストの形式は2026年度実施のものです（試験時間 60 分・100 点・大問 4 題…",
+      "starred": false,
+      "category": "exam",
+      "tags": [
+        "授業実践",
+        "情報Ⅰ",
+        "教材",
+        "共通テスト",
+        "入試",
+        "ツール"
+      ],
+      "priority_score": 80
+    },
+    {
+      "id": "item_835a64f08f590ad2",
+      "title": "「GMOトラスト・ログイン」で2492社・4万5030人の情報漏えい、設定不備でファイルが公開領域に",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2153245.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-11-02T11:06:08.000Z",
+      "summary": "GMOグローバルサイン株式会社は10月30日、ID管理・シングルサインオンサービス「GMOトラスト・ログイン」における情報漏えいについて、外部専門機関による調査結果を公表した。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_0015471a181a6068",
@@ -408,6 +503,342 @@
       "tags": [
         "インターネット",
         "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_93742a1c3a7e1e44",
+      "title": "こども家庭庁、11月5日開催「保育士養成課程等検討会（第6回）」YouTube Live配信",
+      "url": "https://ict-enews.net/2026/11/02cfa/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-11-02T01:26:44.000Z",
+      "summary": "こども家庭庁は、保育士養成課程等検討会（第6回）を、11月5日に開催する。 2023年4月に施行されたこども基本法や同年12月に閣議決定された「こども大綱」「はじめの100か月の育 […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_59176ccd464dff35",
+      "title": "子育て世代、子どもの個人情報漏えいが「とても不安」約7割 =コズレ調べ=",
+      "url": "https://ict-enews.net/2026/11/02cozre/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-11-02T01:26:31.000Z",
+      "summary": "コズレは10月29日、子育て情報メディア「コズレマガジン」が実施した、「子育て世帯の個人情報意識調査2026」の結果をまとめ、レポートを公開した。 それによると、直近1カ月に国内の […]",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_ab9eca9aea417324",
+      "title": "AI時代の学び方、基礎知識は「生成AI」=SMBCビジネスセミナー「みんなの研修」調べ=",
+      "url": "https://ict-enews.net/2026/11/02smbc-consulting/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-11-02T01:25:53.000Z",
+      "summary": "SMBCコンサルティングは10月29日、SMBCビジネスセミナー「みんなの研修」の受講者を対象に、仕事に必要な知識・スキルの学び方や生成AIの利用状況などを尋ねるアンケート調査を実 […]",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "生成AI",
+        "AI活用"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_c6c856b7936a18e6",
+      "title": "ZEN大学、2027年度4月入学の出願者数が1000名を突破",
+      "url": "https://ict-enews.net/2026/11/02zen-4/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-11-02T01:25:25.000Z",
+      "summary": "ZEN大学は10月30日、2027年度4月入学生の出願者数が、受付開始日から約1カ月となる10月7日時点で1000名を超えたことを発表した。 出願者のうち高校生（高等専門学校生含む […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_38ba6b7ceada63fc",
+      "title": "SAK University、2027年4月入学を希望者対象、パスウェイ利用型 特別選考・総合型選抜の出願受付開始",
+      "url": "https://ict-enews.net/2026/11/02sak-university/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-11-02T01:25:02.000Z",
+      "summary": "英国国立エセックス大学（University of Essex）公認の国際教育提携校 SAK University 東京イノベーションキャンパス（SAK University）は、 […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_5ac5e154078cf2a4",
+      "title": "日本数学検定協会、サイバー大学との連携協力に関する協定を締結",
+      "url": "https://ict-enews.net/2026/11/02su-gaku-2/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-11-02T01:24:51.000Z",
+      "summary": "日本数学検定協会は10月30日、サイバー大学との連携協力に関する協定を締結したと発表した。 同協定にもとづき、数学力向上を基盤とした、DX人材、地域人材及び産業人材の育成等を通じて […]",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_a0b9c883e7fdd2a8",
+      "title": "次世代教育ネットワーキング機構、中高生の国際的な探究大会「Global Link Singapore 2026」実施報告",
+      "url": "https://ict-enews.net/2026/11/02edunet/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-11-02T01:24:38.000Z",
+      "summary": "次世代教育ネットワーキング機構は10月29日、「Global Link Singapore 2026」の実施報告を公開した。 同機構が主催する中高生の国際的な探究発表大会「Glob […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_31d7152a144ef374",
+      "title": "init、「WebTerm Learn」で教員向けの「チーム」機能を拡充　教育機関は無償",
+      "url": "https://ict-enews.net/2026/11/02init/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-11-02T01:24:25.000Z",
+      "summary": "initは10月29日、ブラウザで Linux コマンドや Git を学べる学習サイト「WebTerm Learn」で、教員が授業を組み立て、生徒の学習状況を確かめるための「チーム […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_17436a8ebeaa4ff2",
+      "title": "ポリグロッツ、「英語を教える人」のためのセミナー「英語教育＜ここから＞ゼミ」1月11日開催",
+      "url": "https://ict-enews.net/2026/11/02polyglots-6/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-11-02T01:24:12.000Z",
+      "summary": "ポリグロッツは、2027年1月11日、「英語を教える人」のためのセミナー「英語教育＜ここから＞ゼミ」第8回をリアル開催する。 慶應義塾大学名誉教授田中茂範氏とAI英語学習アプリ「レ […]",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_1a32cbb6537d084d",
+      "title": "ヒューマンアカデミー、11月3日開催の「探究フェス2026 東北」に協力",
+      "url": "https://ict-enews.net/2026/11/02athuman-4/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-11-02T01:23:59.000Z",
+      "summary": "ヒューマンアカデミーの児童教育事業「ヒューマンアカデミージュニア」は10月29日、未来創生STREAM教育総合研究所（RISE）が主催する地域密着型の探究成果発表イベント「探究フェ […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_67bde63e85b3f9f9",
+      "title": "EDE、データ利活用に関する謎解きゲーム形式のワークショップ12月9日開催",
+      "url": "https://ict-enews.net/2026/11/02ede/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-11-02T01:23:48.000Z",
+      "summary": "エビデンス駆動型教育研究協議会（EDE）は、「教育データ活用をもっと自由に、もっと安全に ― 謎解き × 教育データ活用ワークショップ」を12月9日に開催する。 教育データ(スタデ […]",
+      "starred": false,
+      "category": "lesson",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "授業実践",
+        "情報Ⅰ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_984c54c2ce8f58a0",
+      "title": "法政大学、学生の社会的起業支援プログラム 「チェンジメーカーズラボ in 多摩（たまらぼ）」最終報告会 14日開催",
+      "url": "https://ict-enews.net/2026/11/02hosei/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-11-02T01:23:36.000Z",
+      "summary": "法政大学ソーシャル・イノベーションセンター（SIC）は、社会的起業を目指す学生を支援するプログラム「チェンジメーカーズラボ in 多摩（たまらぼ）」最終報告会“DEMO DAY”を […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_a781b8c0cd19c989",
+      "title": "SAK University、特別講演「先人から学び、その先へ ― 修士課程に進むべきか？」開催",
+      "url": "https://ict-enews.net/2026/11/02sak-university-2/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-11-02T01:23:26.000Z",
+      "summary": "英国国立エセックス大学公認の国際教育提携校 SAK University 東京イノベーションキャンパスは、世界30か国以上で学生・大学教職員を支援してきたイギリスの教育者Berni […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_81363a3776572ea9",
+      "title": "Tokyo Forum 2026「変革をもたらすテクノロジーとしてのAI：人間・知・文明」開催",
+      "url": "https://ict-enews.net/2026/11/02tokyoforum/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-11-02T01:23:15.000Z",
+      "summary": "東京フォーラム広報事務局は、東京大学と崔鍾賢学術院が共催のTokyo Forum 2026「変革をもたらすテクノロジーとしてのAI：人間・知・文明」を11月20日（金）・21日（土 […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_693898408971373e",
+      "title": "AI 英語学習アプリ「EiDrill」、AI 英会話・英作文の添削・TOEICL&R 対策を1つのアプリで提供",
+      "url": "https://ict-enews.net/2026/11/02eidrill/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-11-02T01:22:48.000Z",
+      "summary": "またたびは10月29日、社会人向けの英語学習サービス「EiDrill（エイドリル）」を、iPhone・Android のアプリとWebで提供していると発表した。 仕事や旅行で使える […]",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_7f0075728c0adfb4",
+      "title": "パーソル、保険・金融業界向けデータサイエンス人材育成支援の事例公開",
+      "url": "https://ict-enews.net/2026/11/02persol-innovation-2/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-11-02T01:22:37.000Z",
+      "summary": "パーソルグループのパーソルイノベーション・ビルスピカンパニーが運営する、実践型のオーダーメイド研修でDX人材を育成する「ビルスピアカデミー（旧：TECH PLAY Academy） […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_e9d300ca1d49de61",
+      "title": "オーディーエス、デジタルホワイトボード/電子黒板「ViewBoard IFP51シリーズ」取り扱い開始",
+      "url": "https://ict-enews.net/2026/11/02ods-2/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-11-02T01:22:23.000Z",
+      "summary": "オーディーエスは10月29日、世界各国で導入実績を持つViewSonicのGoogle EDLA認証対応デジタルホワイトボード「ViewBoard IFP51シリーズ」の取り扱いを […]",
+      "starred": false,
+      "category": "dx",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "校務DX",
+        "GIGA"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_0240b46c5b7dd592",
+      "title": "京進、「数学オリンピック対策講座2026」無料動画配信中",
+      "url": "https://ict-enews.net/2026/11/02kyoshin/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-11-02T01:22:04.000Z",
+      "summary": "京進は、10月16日～11月14日の期間中、「数学オリンピック対策講座2026」を動画配信（無料）で開講している。 講座の対象は、高難度の数学問題に挑戦したい高校1年生・2年生で、 […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_196601a565225cf4",
+      "title": "ISC2、AIセキュリティ認定資格のパイロット試験概要を公開",
+      "url": "https://ict-enews.net/2026/11/02isc2/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-11-02T01:21:54.000Z",
+      "summary": "ISC2（米バージニア州）は10月30日、AIセキュリティ認定資格のパイロット試験の概要を公開した。 これにより、サイバーセキュリティ専門家、雇用主、世界のサイバーセキュリティコミ […]",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "教育ニュース",
+        "ICT",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_0e9e85ffe2a7ef67",
+      "title": "ブリタニカ・ジャパン、ブリタニカの2つの百科事典データベースが27年春に大幅リニューアル",
+      "url": "https://ict-enews.net/2026/11/02britannica-2/",
+      "source_id": "ict_edu_news",
+      "source_name": "ICT教育ニュース",
+      "published_at": "2026-11-02T01:21:44.000Z",
+      "summary": "ブリタニカ・ジャパンは、小中学校向け「ブリタニカ・スクールエディション」と、高校・大学で活用される「ブリタニカ・オンライン・ジャパン」を、2027年春にリニューアルすると発表した。 […]",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "教育ニュース",
+        "ICT"
       ],
       "priority_score": 50
     },
@@ -1009,25 +1440,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_1ea9cfbf9d427db8",
-      "title": "松屋フーズ、不正アクセスにより公式アプリの利用者の情報約238万件が漏えい　アプリ・ウェブサイトを停止中",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2152679.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-10-30T06:46:14.000Z",
-      "summary": "株式会社松屋フーズホールディングスは10月30日、松屋公式アプリ（松弁ネット、モバイルオーダー、松弁デリバリー）管理システムに対する第三者からの不正アクセスを受け、利用者の個人情報が漏えいしたと発表した。",
-      "starred": false,
-      "category": "security",
-      "tags": [
-        "インターネット",
-        "セキュリティ",
-        "情報モラル",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_f0cb0897569e663a",
       "title": "Geminiで生成したPDFやスライドを「チャット上で直接編集」可能に　個人プランとGoogle Workspaceで試してみた",
       "url": "https://www.itmedia.co.jp/aiplus/article/2610/30/2000002757/",
@@ -1402,81 +1814,6 @@
         "共通テスト",
         "入試",
         "教育ニュース"
-      ],
-      "priority_score": 60
-    },
-    {
-      "id": "item_045ba508e57bf254",
-      "title": "【無料】情報Ⅰの過去問6回分を一気に。解いた点数で、大学ガチャが回せるアプリ",
-      "url": "https://note.com/mild_okapi4223/n/n4b8f81573082",
-      "source_id": "note_joho1",
-      "source_name": "note（情報科教員）",
-      "published_at": "2026-10-09T14:33:53.000Z",
-      "summary": "共通テスト「情報Ⅰ」の過去問と試作問題を、全部まとめて解けるアプリを作りました。全部に解説がついていて、完全無料。しかも、いい点を取ると大学バッジのガチャが回せます。 無料アプリ「情報1 高校の共通テスト対策」 続きをみる",
-      "starred": false,
-      "category": "exam",
-      "tags": [
-        "授業実践",
-        "情報Ⅰ",
-        "教材",
-        "共通テスト",
-        "入試",
-        "ツール",
-        "教育ニュース"
-      ],
-      "priority_score": 70
-    },
-    {
-      "id": "item_cf6fd82fbabb5dc5",
-      "title": "「チャッピー」で解決!? ── 愛称でも「GPT」から逃れられない理由【マンガ】",
-      "url": "https://note.com/plum_tree/n/n927425e3a8da",
-      "source_id": "note_joho1",
-      "source_name": "note（情報科教員）",
-      "published_at": "2026-10-05T16:16:11.000Z",
-      "summary": "「GPTのTは、トランスフォーマーのT」 前回、ケンタさんに教わった覚え方で、もう二度と「GTP」とは言わないはずだったお父さん。ところが、どうやらまだ不安が残っているようで……。 この記事は「『GTP』って言ってない？ ── GPTを二度と間違えない覚え方」の続編です。単独でもお楽しみいただけます。 続きをみる",
-      "starred": false,
-      "category": "lesson",
-      "tags": [
-        "授業実践",
-        "情報Ⅰ",
-        "教材"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_c97df0b16fc9ce8e",
-      "title": "情報1 プログラミングまとめ　随時更新",
-      "url": "https://note.com/no_pain_no_game/n/n4683606d1396",
-      "source_id": "note_joho1",
-      "source_name": "note（情報科教員）",
-      "published_at": "2026-10-05T13:25:13.000Z",
-      "summary": "本記事について 続きをみる",
-      "starred": false,
-      "category": "lesson",
-      "tags": [
-        "授業実践",
-        "情報Ⅰ",
-        "教材"
-      ],
-      "priority_score": 60
-    },
-    {
-      "id": "item_3869cb44dd32d888",
-      "title": "情報Ⅰが苦手でも大丈夫。毎日5問から始める無料対策アプリ",
-      "url": "https://note.com/mild_okapi4223/n/nf56d7e14ff00",
-      "source_id": "note_joho1",
-      "source_name": "note（情報科教員）",
-      "published_at": "2026-10-04T11:01:23.000Z",
-      "summary": "SkyDataLab 開発ノート 情報Ⅰが苦手でも大丈夫。 毎日5問から始める無料対策アプリ 続きをみる",
-      "starred": false,
-      "category": "exam",
-      "tags": [
-        "授業実践",
-        "情報Ⅰ",
-        "教材",
-        "共通テスト",
-        "入試",
-        "ツール"
       ],
       "priority_score": 60
     }
