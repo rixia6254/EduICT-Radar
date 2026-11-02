@@ -1,32 +1,14 @@
 {
-  "generated_at": "2026-11-01T15:55:14.245Z",
-  "total": 103,
+  "generated_at": "2026-11-02T00:04:20.629Z",
+  "total": 83,
   "items": [
-    {
-      "id": "item_21f8651de3f2baea",
-      "title": "文部科学省ホームページトップはこちら",
-      "url": "https://www.mext.go.jp/",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-11-01T15:55:05.259Z",
-      "summary": "",
-      "starred": false,
-      "category": "admin",
-      "tags": [
-        "行政",
-        "文科省",
-        "制度",
-        "教育ニュース"
-      ],
-      "priority_score": 60
-    },
     {
       "id": "item_bd1951ae70f98dac",
       "title": "サイトマップはこちら",
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-11-01T15:55:05.259Z",
+      "published_at": "2026-11-02T00:04:10.378Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +25,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-11-01T15:55:05.259Z",
+      "published_at": "2026-11-02T00:04:10.378Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +36,270 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_21f8651de3f2baea",
+      "title": "文部科学省ホームページトップはこちら",
+      "url": "https://www.mext.go.jp/",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-11-02T00:04:10.377Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_8b36edf0206a6fbb",
+      "title": "【西田宗千佳のイマトミライ】「プロ向け」という価値　新MacBook Pro発表から見たアップルの戦略",
+      "url": "https://www.watch.impress.co.jp/docs/series/nishida/2152910.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-11-01T23:20:00.000Z",
+      "summary": "筆者は先週、ロサンゼルスを訪れていた。目的は、アップルの新製品発表イベントの取材だ。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_ea86c5166a1fa52e",
+      "title": "\"推せるAI”の魅力 便利だけじゃない「Meta Muse」の楽しさについて語ろう",
+      "url": "https://www.watch.impress.co.jp/docs/watchplus/2152749.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-11-01T23:00:00.000Z",
+      "summary": "Impress Watchシリーズの会員限定記事です。記事を全文読むには会員登録をお願いします(無料)。登録はこちらから。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_d1ed7a38df3596ac",
+      "title": "充電状況を確認できる画面付き、最大140W出力・4ポートのAC充電器「ACDC-PD132140BK」、エレコムが発売",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2152544.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-11-01T23:00:00.000Z",
+      "summary": "エレコム株式会社は、充電状況を確認できるディスプレイを搭載した4ポートのAC充電器「ACDC-PD132140BK」を10月下旬に発売する。市場想定価格は1万2980円。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_d2ba8f2bea7b7aed",
+      "title": "国家サイバー統括室が「サイバー対応特設サイト」、相談窓口や関係機関の情報・SNSアカウントまとめ公開",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2152499.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-11-01T22:30:00.000Z",
+      "summary": "国家サイバー統括室（NCO）は10月30日、サイバーセキュリティに関する関係機関の相談窓口、各種発表や注意喚起などをまとめた「サイバー対応特設サイト」を公開した。",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_7bd80b61071ae40e",
+      "title": "Anthropic、「Claude」の「Max 20x」を「Ultra」に名称変更　月200ドルで5時間ごとの利用制限を撤廃",
+      "url": "https://www.itmedia.co.jp/news/article/2611/02/2000002777/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-11-01T22:00:23.000Z",
+      "summary": "Anthropicは、「Claude」の個人向け有料プランの名称を変更し、月額100ドルの「Max 5x」を「Max」に、月額200ドルの「Max 20x」を「Ultra」にした。料金は据え置き。Ultraでは確認済みアカウントを対象に、5時間ごとの利用制限を撤廃した。週ごとの制限は変わらない。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_0507285002955099",
+      "title": "「保安検査の長い列」と「人手不足」をどう解消する？　フランクフルト空港におけるAI時代の空港DX",
+      "url": "https://www.itmedia.co.jp/business/articles/2611/02/news003.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-11-01T22:00:00.000Z",
+      "summary": "4月に開業したフランクフルト空港の第3ターミナル。IT技術やAIを導入し、顧客体験の向上や業務効率化を行っている。どのような技術を導入し、「止まらない空港」を実現しようとしているのか？",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_a804ba7113701aa1",
+      "title": "キオクシア「設備投資を急がねば……」　2027年分は完売、メモリ供給追い付くか",
+      "url": "https://www.itmedia.co.jp/business/articles/2611/02/news031.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-11-01T22:00:00.000Z",
+      "summary": "半導体メモリ大手のキオクシアは、2027年の生産能力が全て“完売”だと明かした。AIブームによる旺盛なメモリ需要に答えるため、年5000億円弱を投じて新工場を建設する。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_8f8c63f404fe1fb9",
+      "title": "その日、メルカリは「業務を止めた」――上司と部下が対立も、AI利用率100％をかなえたCAIOの奮闘記",
+      "url": "https://www.itmedia.co.jp/business/articles/2611/02/news032.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-11-01T22:00:00.000Z",
+      "summary": "AIツールの利用率100％を達成したメルカリ。しかし「AIエージェント構築に時間を割きたい部下と、それを止めたい上司」など一筋縄ではいかなかった。試行錯誤の裏側をCAIOが語る。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_b65e87f40d31789d",
+      "title": "オラクルの機能がChatGPTで利用可能に　複数システムをまたぐ業務をAIで自動化",
+      "url": "https://kn.itmedia.co.jp/kn/article/2611/02/2000002740/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-11-01T22:00:00.000Z",
+      "summary": "オラクルがOpenAIとの協業を拡大し、ChatGPTやCodex、AI技術を活用し、業務の効率化・実行からソフトウェアの脆弱性の検出、アプリケーション開発まで幅広く支援する。小規模企業には年間1万2000ドル分のクラウド利用枠を含むプランを提供する。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用",
+        "校務DX",
+        "GIGA",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_b2e438a1a1cd5125",
+      "title": "「既知の脆弱性を対策すれば、AIが大きな脅威とは言いがたい」「個人情報漏えいの被害は何年も続く」、森井名誉教授が語るサイバー攻撃の現状　GMOへの攻撃は「直接顧客の個人情報を人質に取るランサムウェアの新形態」",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2152904.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-11-01T21:45:00.000Z",
+      "summary": "神戸大学名誉教授であり、神戸市サイバー攻撃対策アドバイザーなどを務める森井昌克氏は、「昨今の相次ぐサイバー攻撃による情報漏えいは、AIが次々と脆弱性を発見したり、AIによる攻撃が増えたりしていることだけが原因ではない」とし、「AIは脅威ではあるが、脆弱性にしっかりと対処ができれば、大きな脅威になるとは言いがたい」との考えを示した。",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_bdc67344dfbd9b66",
+      "title": "IPA、2027年度に開始する「プロフェッショナルデジタルスキル試験（仮称）」の「データ・AI領域」サンプル問題を公開",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2152759.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-11-01T21:30:00.000Z",
+      "summary": "独立行政法人情報処理推進機構（IPA）は10月30日、2027年度から開始を予定する「プロフェッショナルデジタルスキル試験（仮称）」における「データ・AI領域」のサンプル問題を公開した。",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "行政",
+        "文科省"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_fa5ba3d16c1873b6",
+      "title": "NII、NTT東西ら5者、IOWN APNで柏～神戸間の長距離データ転送を実証、最大約775Gbpsを記録",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2152725.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-11-01T21:30:00.000Z",
+      "summary": "大学共同利用機関法人情報・システム研究機構国立情報学研究所（NII）、理化学研究所、東京大学、NTT東日本株式会社、NTT西日本株式会社の5者は10月30日、IOWN APN（All-Photonics Network）を活用し、長距離通信においても既存のアプリケーションで800Gbps回線を有効活用できることを実証したと発表した。",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_541270fc5fb29ad3",
+      "title": "【本日11月2日 20時配信】NEC Atermに新型登場!? 10ギガ回線にも最適なauひかりプラス向けWi-Fiルーターの実力をライブで語ります!!【清水理史の「イニシャルB」チャンネル】",
+      "url": "https://internet.watch.impress.co.jp/docs/column/shimizumovie/2152773.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-11-01T21:00:00.000Z",
+      "summary": "NECプラットフォームズの新型ハイブリッドWi-Fi 7ルーターが登場!!",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_2c15a772cdddd118",
+      "title": "“光の開通前も5Gでつながる”だけじゃない！　圧倒的な熱量で作り込まれたKDDIのハイブリッドホームルーター「Aterm HY01」【イニシャルB】",
+      "url": "https://internet.watch.impress.co.jp/docs/column/shimizu/2147783.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-11-01T21:00:00.000Z",
+      "summary": "KDDIから登場した「auひかりプラス」は、光回線と5Gのモバイル通信を組み合わせることで、光回線の工事を待たずに5Gでインターネットを利用可能にするサービスだ。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_c16fd168c5b4e46a",
@@ -615,45 +861,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_0dec33602030071b",
-      "title": "「Gemini Notebook」、数百冊の教科書を無料で利用可能に",
-      "url": "https://www.watch.impress.co.jp/docs/news/2152548.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-10-30T03:16:06.000Z",
-      "summary": "Googleは29日、「Gemini Notebook」で、数百冊の教科書を無料で利用できるようにした。米国とインドの出版社・教材提供元による教科書を追加し、内容についてAIに質問したり、学習ガイドや練習問題を作成したりできる。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "生成AI",
-        "AI活用",
-        "教材",
-        "ツール",
-        "教育ニュース"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_ddedbfdcf1921363",
-      "title": "2026年度の情報漏えい被害、2.6億人を超える",
-      "url": "https://www.watch.impress.co.jp/docs/news/2152535.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-10-30T03:04:34.000Z",
-      "summary": "個人情報保護委員会は28日、2026年4月1日から10月16日までに漏えいした個人データの件数を報告した。延べ人数は約2億6,000万人にのぼる。",
-      "starred": false,
-      "category": "security",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "セキュリティ",
-        "情報モラル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_948b2a647276a572",
       "title": "Meta Ray-Banで向かいの席から撮影→指の動きからスマホのパスワードを解読する盗み見攻撃",
       "url": "https://www.itmedia.co.jp/news/article/2610/30/2000002684/",
@@ -810,350 +1017,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_4dbd873543c4de84",
-      "title": "MetaMoJi、教育AI「SHUUSAI（シュウサイ）」を発表 2027年3月より「MetaMoJi ClassRoom 3」へ標準搭載",
-      "url": "https://ict-enews.net/2026/10/23metamoji-5/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-10-30T00:30:19.000Z",
-      "summary": "MetaMoJiは10月22日、次期学習指導要領を見据えた文教事業戦略として新たな教育AI「SHUUSAI（シュウサイ）」を開発し、その一部機能を標準搭載したリアルタイム学習支援サ […]",
-      "starred": false,
-      "category": "lesson",
-      "tags": [
-        "教育ニュース",
-        "ICT",
-        "授業実践",
-        "情報Ⅰ",
-        "行政",
-        "文科省"
-      ],
-      "priority_score": 60
-    },
-    {
-      "id": "item_f464f9ec6b2cb346",
-      "title": "転勤のない企業は「志望度が上がる」との回答が8割超=学情調べ=",
-      "url": "https://ict-enews.net/2026/10/30gakujo-9/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-10-30T00:29:42.000Z",
-      "summary": "学情は29日、2028年3月卒業（修了）予定の大学生・大学院生を対象に、「転勤」と「勤務地」についてインターネットアンケートを実施し、その結果を発表した。 就職活動において、転勤の […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_5ac6a74715db97c0",
-      "title": "金沢工業大学、四足歩行ロボット「Unitree Go2」を活用した巡回ロボットの研究開発",
-      "url": "https://ict-enews.net/2026/10/30kanazawa-it-5/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-10-30T00:29:20.000Z",
-      "summary": "金沢工業大学は28日、同学情報工学科・中沢実研究室が、金沢機工およびAIロボットシステムズと共同で、フィジカルAI時代を見据えたロボティクス分野の研究開発として、Unitree R […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_6a37ddb4fc0da1e6",
-      "title": "ライフイズテック、法政大学 田中研究室と「キャリア軸就活」を考える学生ピッチイベント実施",
-      "url": "https://ict-enews.net/2026/10/30life-is-tech-6/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-10-30T00:29:01.000Z",
-      "summary": "ライフイズテックは、法政大学キャリアデザイン学部 田中研究室との連携プロジェクトとして、就活スマートアプリ「JRNY（ジャーニー）」を活用し、「キャリア軸」を中心とした就活のあり方 […]",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "教育ニュース",
-        "ICT",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_3f168b209eb6d6e7",
-      "title": "Co-Innovation University （CoIU）と福岡市が連携協定を締結",
-      "url": "https://ict-enews.net/2026/10/30co-innovation-university/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-10-30T00:28:41.000Z",
-      "summary": "CoIU（岐阜県飛騨市）が運営する、2026年4月に開学したCo-Innovation University（コー・イノベーション大学、CoIU）は28日、福岡市と、連携協定を締結 […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_203f9eb13ad6950b",
-      "title": "RCIJ、資格認定講座「認定RCベーシック」「認定RCアドバイザー」を全面的に刷新",
-      "url": "https://ict-enews.net/2026/10/30rcij/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-10-30T00:28:26.000Z",
-      "summary": "日本リスクコミュニケーション協会（RCIJ）は29日、資格認定講座「認定RCベーシック」および「認定RCアドバイザー」の全16講座のカリキュラムを全面的に刷新し、提供開始した。 サ […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_90425094a6a47901",
-      "title": "C&R社、「IT基礎・AI活用Web/SNSマーケ（オンライン）科」の受講生募集",
-      "url": "https://ict-enews.net/2026/10/30cri-3/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-10-30T00:28:09.000Z",
-      "summary": "クリーク・アンド・リバー社（C&R社）は28日、東京都から委託された2027年1月開講の離職者等再就職訓練において、「IT基礎・AI活用Web/SNSマーケ（オンライン）科 […]",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "教育ニュース",
-        "ICT",
-        "生成AI",
-        "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_2680c7aafe20d626",
-      "title": "小中学生向け体験型イベント「STREAM FEST. 2026 in 新潟」11月7日開催",
-      "url": "https://ict-enews.net/2026/10/30academix/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-10-30T00:27:52.000Z",
-      "summary": "Academixは、11月7日に開志専門職大学 紫竹山キャンパス（新潟市中央区）で開催される小中学生向け体験型イベント「STREAM FEST. 2026 in 新潟」（主催：ST […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_4e6ca36f50802e49",
-      "title": "高校教師と東進ハイスクール講師による「AIと、これからの学び。」12月長崎で開催",
-      "url": "https://ict-enews.net/2026/10/30sasebo-english-teachers-society/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-10-30T00:27:34.000Z",
-      "summary": "佐世保英語教育研究会の後援で、東進ハイスクールの講師安河内哲也氏と長崎県立長崎北高等学校教員の上村洸貴氏によるセミナー「AIと、これからの学び。」が12月12日に長崎で開催される。 […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_aea882cd322d33d8",
-      "title": "立正大学、オープンアカデミー「『好き』から始まる仕事」セガと連携し11月12日開催",
-      "url": "https://ict-enews.net/2026/10/30ris-3/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-10-30T00:27:16.000Z",
-      "summary": "立正大学は、セガとのコラボレーション企画として、第3回 立正大学オープンアカデミー「『好き』から始まる仕事 ― ゲームの魅力を届けるということ ―」を11月12日に開催する。 セガ […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_3c73ab222f2cfb7a",
-      "title": "毎日エデュケーション、留学希望者のためのオンライン韓国留学説明会 11月開催",
-      "url": "https://ict-enews.net/2026/10/30myedu/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-10-30T00:27:00.000Z",
-      "summary": "毎日エデュケーションは、韓国留学希望者のためのオンライン韓国留学説明会を11月3日～8日に開催する。 韓国留学はK-POPやK-Beautyの流行と政府の大胆な政策を背景に、今や世 […]",
-      "starred": false,
-      "category": "admin",
-      "tags": [
-        "教育ニュース",
-        "ICT",
-        "行政",
-        "文科省"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_e7c7da9cbc1d4df2",
-      "title": "ユニファ、保育・教育施設向けICTサービス「ルクミー」が保育博2026に出展",
-      "url": "https://ict-enews.net/2026/10/30unifa-e/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-10-30T00:26:45.000Z",
-      "summary": "ユニファは、同社が提供する保育園・幼稚園・こども園向け保育総合ICTサービス「ルクミー」が、11月19日・20日の2日間で開催される「保育博2026」に出展する発表した。 通算7回 […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_6acca1b7030f0336",
-      "title": "takeforest、中学1年生240人がAIで「身の回りの課題解決アプリ」開発に挑戦",
-      "url": "https://ict-enews.net/2026/10/30takeforest/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-10-30T00:26:18.000Z",
-      "summary": "takeforestは29日、立命館中学校（京都府長岡京市）において、中学1年生を対象としたAI活用によるアプリ開発体験講座を2026年度も実施すると発表した。 本講座は同校の探究 […]",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "教育ニュース",
-        "ICT",
-        "生成AI",
-        "AI活用",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_2cb8c0658e6afebd",
-      "title": "アンドドット、札幌市職員460人が参加した生成AI研修に茨木代表が登壇",
-      "url": "https://ict-enews.net/2026/10/30and-dot/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-10-30T00:25:56.000Z",
-      "summary": "アンドドットは29日、同社の茨木 雄太 代表取締役が、札幌市未来技術活用プロジェクトが主催した、札幌市職員向けの「生成AIリテラシー研修」に講師として登壇したと発表した。 本研修に […]",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "教育ニュース",
-        "ICT",
-        "生成AI",
-        "AI活用"
-      ],
-      "priority_score": 60
-    },
-    {
-      "id": "item_6946a698d7ecfbe7",
-      "title": "ビズアップ総研、実践的な学びを拡充！e-JINZAI「AI・DX研修」リニューアル第2弾",
-      "url": "https://ict-enews.net/2026/10/30bmc-net-3/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-10-30T00:24:54.000Z",
-      "summary": "総合型研修サービスを提供するビズアップ総研は29日、WEB研修システム「e-JINZAI」における「AI・DX研修」のリニューアル第2弾として、学習体系の再編と新規5講座の追加を行 […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_c6ace3fad169c60d",
-      "title": "マスマスター、保護者向けアプリ「さんすうフレンズほごしゃ」提供開始",
-      "url": "https://ict-enews.net/2026/10/30math-master/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-10-30T00:24:32.000Z",
-      "summary": "マスマスター (Math Master Inc.) は29日、小学生向け計算学習アプリ「さんすうフレンズ」の保護者向けアプリ「さんすうフレンズほごしゃ」を提供開始したと発表した。 […]",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "教育ニュース",
-        "ICT",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_6f07e01e826288cf",
-      "title": "ベネッセ、オンライン学習プラットフォーム「Udemy Business」でアセスメント機能を拡充",
-      "url": "https://ict-enews.net/2026/10/30benesse-10/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-10-30T00:24:07.000Z",
-      "summary": "ベネッセコーポレーションは29日、日本で展開するAI搭載のスキル開発プラットフォーム「Udemy Business」にて、新たなアセスメント機能の提供開始を発表した。 経済産業省・ […]",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "教育ニュース",
-        "ICT",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_bb7bea59f9a1c893",
-      "title": "ワークスアイディ、「Copilot / Copilot Studio 伴走支援サービス」の特設サイト公開",
-      "url": "https://ict-enews.net/2026/10/30worksid/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-10-30T00:23:52.000Z",
-      "summary": "ワークスアイディは28日、「Copilot / Copilot Studio 伴走支援サービス」の特設サイトを公開した。 同サイトでは、従業員がCopilotを使いこなすための「社 […]",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "教育ニュース",
-        "ICT",
-        "生成AI",
-        "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_021fd27a00dfb0a7",
-      "title": "マウスコンピューター、ダイレクトショップ全店およびG-Tune : Garage 大阪で限定セール開催",
-      "url": "https://ict-enews.net/2026/10/30mouse4/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-10-30T00:23:38.000Z",
-      "summary": "マウスコンピューターは30日、「ゲーミング祭」をマウスコンピューターダイレクトショップおよびG-Tune：Garageにて店舗限定セールを開催する。 人気のオンラインゲームから最新 […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_d94f665195af7a34",
-      "title": "マナビライト、教えた経験ゼロで大学受験塾のオーナーに「講師ゼロ」のオーナー募集",
-      "url": "https://ict-enews.net/2026/10/30alikano/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-10-30T00:23:20.000Z",
-      "summary": "アリカノが運営する大学受験向けオンライン個別指導サービス「マナビライト」は28日、授業は本部の先生が担う「講師ゼロ」の加盟校で、各市区町村の“1校目”のオーナー募集を発表した。 「 […]",
-      "starred": false,
-      "category": "exam",
-      "tags": [
-        "教育ニュース",
-        "ICT",
-        "共通テスト",
-        "入試"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_0bb77d4e07534b89",
       "title": "SAPとNTT、ソブリンクラウドとSAP Business AIの機能提供に向けて連携",
       "url": "https://internet.watch.impress.co.jp/docs/news/2152433.html",
@@ -1244,92 +1107,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_48bd8aea3949a3b0",
-      "title": "物理ソルバーからMODSIM、AIへ　SIMULIAが描く次世代の設計／シミュレーション",
-      "url": "https://monoist.itmedia.co.jp/mn/articles/2610/30/news004.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-10-29T22:00:00.000Z",
-      "summary": "ダッソー・システムズは「SIMULIA Community Conference Japan 2026」を開催した。基調講演では、SIMULIAブランドの戦略を支える物理ソルバー、MODSIM、AIの3層構造を紹介。エンジニアと協働するAI「バーチャルコンパニオン」や生成型設計、NVIDIAとの協業などを通じて、設計／シミュレーションの将来像を示した。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_4b8795183b6f9c99",
-      "title": "バックアップだけでなく検証付きの「確信復旧」へ、「QNAP World Tour 2026」で最新のソリューションを紹介",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2152399.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-10-29T22:00:00.000Z",
-      "summary": "QNAP株式会社は10月28日、同社のバックアップやストレージに関する最新の製品・技術・ソリューションを紹介する「QNAP World Tour 2026」を開催した。会場では、セッションに加え、同社製品とパートナー各社のソリューションを組み合わせた展示が行われていた。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_4ca9a94f59ca3ea8",
-      "title": "KDDI、リスクの診断と対処を効率化する「AI脆弱性管理ソリューション」の提供を開始",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2152201.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-10-29T21:30:00.000Z",
-      "summary": "KDDI株式会社は10月28日、企業システムやネットワーク機器、ソフトウエアに潜むセキュリティリスク診断を効率化する「AI脆弱性管理ソリューション」の提供を開始した。",
-      "starred": false,
-      "category": "security",
-      "tags": [
-        "インターネット",
-        "セキュリティ",
-        "情報モラル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_7014c65918a7a6de",
-      "title": "見積書100枚超をどうさばく？　「半日仕事」を約30分にした建設会社のAI活用",
-      "url": "https://kn.itmedia.co.jp/kn/article/2610/30/2000002725/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-10-29T21:00:00.000Z",
-      "summary": "協力会社ごとに書式が異なる見積書の転記作業に、建設現場は多くの時間を費やしてきた。沖縄県の福地組はAI文書処理サービスを活用し、見積書1枚当たりの処理時間を10?15分から約1分に短縮した。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_e262821222c2a590",
-      "title": "981gの軽さにRyzen AIのパワー、さらにコスパも。マウスコンピューターの新モデル「mouse X2」は“ちょうどいい”を極めた優等生モバイルPCだった[Sponsored]",
-      "url": "https://internet.watch.impress.co.jp/docs/topic/special/2149773.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-10-29T21:00:00.000Z",
-      "summary": "マウスコンピューターの一般向けノートPCシリーズの中で、特に携帯性を重視したモデルが「mouse X」シリーズ。そのmouse Xシリーズの最新モデルが「mouse X2-A7A01CB-A / コスモブルー（Copilot+ PC）」だ。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "インターネット",
-        "セキュリティ",
-        "生成AI",
-        "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_4a07fb7b8ae69d28",
       "title": "今もっとも教育業界を揺るがしてる男？野楼さぎを検証してみよう",
       "url": "https://note.com/asuparahikugus/n/n83a90fe6c447",
@@ -1344,125 +1121,6 @@
         "情報Ⅰ",
         "教材",
         "教育ニュース"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_29349960d407aabe",
-      "title": "ChatGPTのPro・Businessプランで「API利用」可能に　月最大500ドル分",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2610/29/2000002728/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-10-29T08:46:39.000Z",
-      "summary": "米OpenAIは「ChatGPT」のProおよびBusinessプランに、同社のAPIを利用できる特典を追加すると発表した。月最大500ドル分（約7万9000円、1ドル158円換算）の利用枠を付与する。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 60
-    },
-    {
-      "id": "item_3b84421ef535118c",
-      "title": "「グッドスマイルカンパニー公式ショップ」、決済ページの改ざんでクレジットカード情報を含む個人情報が漏えいの可能性",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2152332.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-10-29T08:08:41.000Z",
-      "summary": "グッドスマイルカンパニーは10月29日、同社の公式通販サイト「グッドスマイルカンパニー公式ショップ」にて、同月23日に発表した不正アクセスにより利用者の個人情報およびクレジットカード情報が漏えいした可能性があることを発表した。",
-      "starred": false,
-      "category": "security",
-      "tags": [
-        "インターネット",
-        "セキュリティ",
-        "情報モラル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_5b6d00407dbfb907",
-      "title": "ASUS、Wi-Fi 8ゲーミングルーター「ROG Rapture GT-BN98」を10月30日発売",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2152340.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-10-29T07:55:25.000Z",
-      "summary": "ASUS JAPAN株式会社（ASUS）は、Wi-Fi 8ゲーミングルーター「ROG Rapture GT-BN98」の販売を、Amazon.co.jpで10月30日から開始すると発表した。同社では、世界初のWi-Fi 8対応ゲーミングルーターであるとしている。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_3ca4625a3c1a96f2",
-      "title": "今、最も使われているプログラミング言語は？　AIコーディングでPython超えて急成長",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2610/29/2000002719/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-10-29T07:16:51.000Z",
-      "summary": "Githubは年次レポート「GitHub Octoverse 2026」を公開。開発者が多いプログラミング言語のランキングが発表された。",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 60
-    },
-    {
-      "id": "item_0543843fcd7d088e",
-      "title": "「CEATEC 2026」の展示がいろいろ興味深かった。来年も期待！【フォトレポート 総集編】【CEATEC 2026】",
-      "url": "https://internet.watch.impress.co.jp/docs/event/2150421.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-10-29T04:31:15.000Z",
-      "summary": "10月13日～16日に幕張メッセで開催された電子情報技術の総合展「CEATEC 2026」。INTERNET Watchでは会期中、展示会場からの速報を逐次、フォトレポートとしてお届けしたが、今回、それらを総集編としてまとめた。会場に行けなかった人はもちろん、CEATECというイベントを知らなかった人もぜひ、この記事を読んで同イベントに興味を持っていただければ幸いだ。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_a11c8c21785f3cc6",
-      "title": "AIチャットが勧める広告商品、選択率が約3倍に　こっそり他商品けなし誘導　米研究者らが検証",
-      "url": "https://www.itmedia.co.jp/news/article/2610/29/2000002680/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-10-29T03:00:00.000Z",
-      "summary": "米プリンストン大学に所属する研究者らが4月に発表した論文「Commercial Persuasion in AI-Mediated Conversations」は、オンラインショッピングなどにおける対話型AIによる説得が消費者の選択をどれほど操作できるかを検証した研究報告だ。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_3e2360090850daac",
-      "title": "MicrosoftがEdgeからの移行を妨げるために用いている10のダークパターンが暴露される【やじうまWatch】",
-      "url": "https://internet.watch.impress.co.jp/docs/yajiuma/2152146.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-10-29T02:39:12.000Z",
-      "summary": "MicrosoftがユーザーにEdgeからの移行を妨げるために用いている10種類のダークパターンが、外部団体のレポートで明らかになった。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
       ],
       "priority_score": 50
     },
