@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T10:37:35.184Z",
+  "generated_at": "2026-11-04T16:59:13.570Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-11-04T10:37:25.324Z",
+      "published_at": "2026-11-04T16:59:03.132Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-11-04T10:37:25.324Z",
+      "published_at": "2026-11-04T16:59:03.132Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-11-04T10:37:25.324Z",
+      "published_at": "2026-11-04T16:59:03.132Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,40 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_8a42d3b773ec88fa",
+      "title": "e-Taxが緊急メンテナンス 　不審な通信を検知",
+      "url": "https://www.watch.impress.co.jp/docs/news/2153747.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-11-04T14:29:43.000Z",
+      "summary": "国税庁は4日、国税電子申告・納税システム「e-Tax」において不審な通信を検知したとして、緊急メンテナンスに入った。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_997b193ec8ed5db3",
+      "title": "無印良品、ネットストアなども情報漏えい　一部カード情報も",
+      "url": "https://www.watch.impress.co.jp/docs/news/2153690.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-11-04T10:30:20.000Z",
+      "summary": "「無印良品」を運営する良品計画は4日、公式アプリ「MUJIアプリ」における利用者情報漏えいの続報を発表した。「無印良品ネットストア」利用者も含まれることや、メールアドレス、生年月日のほか、一部の利用者では住所、電話番号が含まれていることがわかったという。",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_919c7f8d17cc360b",
@@ -1355,38 +1389,6 @@
       "tags": [
         "インターネット",
         "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_0015471a181a6068",
-      "title": "初のAndroid XRグラス「XREAL AURA」日本上陸　ARグラス「1 Pro+」も",
-      "url": "https://www.watch.impress.co.jp/docs/news/2153232.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-11-02T10:33:22.000Z",
-      "summary": "XREALは11月2日、Android XR搭載XRグラス「XREAL AURA」の国内一般予約受付を開始した。価格は12GB/256GBモデルが229,800円、16GB/512GBモデルが269,800円。出荷は11月下旬から開始する。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_077788cf8bae08ac",
-      "title": "フジHDとSBIグループがIP・コンテンツ領域で戦略　「リアルメディア」新会社",
-      "url": "https://www.watch.impress.co.jp/docs/news/2153202.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-11-02T09:00:00.000Z",
-      "summary": "SBIホールディングスとSBIネオメディアホールディングス、フジ・メディア・ホールディングス(FMH)は2日、メディア・コンテンツ領域における新たな価値創造と企業価値向上を図ることを目的として、資本業務提携契約を締結した。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
       ],
       "priority_score": 50
     },
