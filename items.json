@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T10:30:09.348Z",
+  "generated_at": "2026-11-05T17:14:55.971Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-11-05T10:29:54.298Z",
+      "published_at": "2026-11-05T17:14:44.058Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-11-05T10:29:54.298Z",
+      "published_at": "2026-11-05T17:14:44.058Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-11-05T10:29:54.298Z",
+      "published_at": "2026-11-05T17:14:44.058Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,60 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_31b22aff6800e086",
+      "title": "総務省消防庁「安否情報システム」に不正アクセス、サービス停止中",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2154132.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-11-05T12:31:02.000Z",
+      "summary": "総務省消防庁は11月5日、同庁が運用する「武力攻撃事態等における安否情報収集・提供システム」（安否情報システム）に不正アクセスを受けたとして、情報を発表した。",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "情報モラル",
+        "行政",
+        "文科省"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_5a2b5e9c115ebfb0",
+      "title": "NTTドコモ、自社サーバーに不正アクセス。最大約30万件の利用者の情報流出",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2154115.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-11-05T11:27:51.000Z",
+      "summary": "株式会社NTTドコモは11月5日、不正アクセスにより利用者の情報最大約30万件が流出したと発表した。同社では同日未明より、ドコモオンラインショップおよびMy docomoの緊急メンテナンスを実施していた。",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_87ad8087be15da4a",
+      "title": "ドコモ、不正アクセスで最大30万件の情報漏えい　My docomoとオンラインショップ",
+      "url": "https://www.watch.impress.co.jp/docs/news/2154107.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-11-05T11:15:05.000Z",
+      "summary": "NTTドコモは5日、「ドコモオンラインショップ」と会員サービス「My docomo」において、外部から不正なアクセスが行なわれ、一部の会員情報が流出したと発表した。対象件数は最大約30万件。",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_c7fb96599970eb03",
@@ -68,6 +122,26 @@
       "tags": [
         "テクノロジー",
         "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_d0213254ed9c8c63",
+      "title": "GPT-6モデルはAstra、Sol、それともLuna？　OpenAIが教える、Codex爆速開発の鉄則",
+      "url": "https://kn.itmedia.co.jp/kn/article/2611/05/2000002770/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-11-05T10:02:02.000Z",
+      "summary": "AIエージェントの導入を検討する企業とって大きな懸念となるのがトークン消費に伴うAPI利用コストだろう。高性能な最上位モデルを全工程で走らせれば予算を圧迫し、安価なモデルを一律で選定すれば修正ループが増えて手戻りが発生する。限られた予算枠の中で開発スピードと品質を両立させるためにはどうしたらいいのか。OpenAI Japanの石田修平氏が解説する。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用",
+        "行政",
+        "文科省"
       ],
       "priority_score": 50
     },
@@ -955,26 +1029,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_d0213254ed9c8c63",
-      "title": "GPT-6モデルはAstra、Sol、それともLuna？　OpenAIが教える、Codex爆速開発の鉄則",
-      "url": "https://kn.itmedia.co.jp/kn/article/2611/05/2000002770/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-11-04T22:00:00.000Z",
-      "summary": "AIエージェントの導入を検討する企業とって大きな懸念となるのがトークン消費に伴うAPI利用コストだろう。高性能な最上位モデルを全工程で走らせれば予算を圧迫し、安価なモデルを一律で選定すれば修正ループが増えて手戻りが発生する。限られた予算枠の中で開発スピードと品質を両立させるためにはどうしたらいいのか。OpenAI Japanの石田修平氏が解説する。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用",
-        "行政",
-        "文科省"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_0968e902719005e5",
       "title": "予算止める側だったのに「増額」進言　現場の「伸びそう」応援する“CFOの右腕”設置、MIXIに何が起きた？",
       "url": "https://www.itmedia.co.jp/business/articles/2611/05/news025.html",
@@ -1147,24 +1201,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_997b193ec8ed5db3",
-      "title": "無印良品、ネットストアなども情報漏えい　一部カード情報も",
-      "url": "https://www.watch.impress.co.jp/docs/news/2153690.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-11-04T10:30:20.000Z",
-      "summary": "「無印良品」を運営する良品計画は4日、公式アプリ「MUJIアプリ」における利用者情報漏えいの続報を発表した。「無印良品ネットストア」利用者も含まれることや、メールアドレス、生年月日のほか、一部の利用者では住所、電話番号が含まれていることがわかったという。",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_919c7f8d17cc360b",
       "title": "国産AI開発のNoetra、テックブログ開設　「開発現場での試行錯誤や工夫」も発信",
       "url": "https://www.itmedia.co.jp/aiplus/article/2611/04/2000002886/",
@@ -1319,22 +1355,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_8c971fb8bfac9ae8",
-      "title": "エレコム製のWi-Fiルーターが6680円から！　AmazonスマイルSale　2.5Gbps対応で最大5764＋688MbpsのW-Fi 7ルーター「WRC-W702-B」は1万7400円",
-      "url": "https://internet.watch.impress.co.jp/docs/shopping/2153338.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-11-04T01:30:00.000Z",
-      "summary": "Amazon.co.jpでは11月12日までの期間限定でビッグセール「スマイルSale」を実施中だ。その一環として、タイムセールコーナーでは現在、エレコム製のWi-Fiルーターがセール価格で販売されている。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_336558a465e8cc33",
       "title": "Claudeプラン名変更で容量半減？→公式が否定　「元々、Max 20xの週次制限はProの10倍」",
       "url": "https://www.itmedia.co.jp/aiplus/article/2611/04/2000002862/",
@@ -1349,23 +1369,6 @@
         "AI",
         "LLM",
         "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_42d0728600c5cdea",
-      "title": "セガ フェイブの「ALL. Net」に不正アクセス、「太鼓の達人」「チュウニズム」などのアーケードゲームに影響　Aimeを使ったプレイやオンライン機能を停止、再開時期は未定",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2153346.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-11-04T01:21:43.000Z",
-      "summary": "株式会社セガ フェイブは11月2日、アーケードゲームのネットワークサービス「ALL.Net」および「Aime」に関係するサーバーの一部が、第三者による不正アクセスを受けたとして情報を公開した。調査および安全性の確認のため、11月1日15時から関連する各種サービスを停止している。",
-      "starred": false,
-      "category": "security",
-      "tags": [
-        "インターネット",
-        "セキュリティ",
-        "情報モラル"
       ],
       "priority_score": 50
     },
