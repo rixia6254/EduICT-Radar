@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T16:59:13.570Z",
+  "generated_at": "2026-11-05T01:12:54.506Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-11-04T16:59:03.132Z",
+      "published_at": "2026-11-05T01:12:45.206Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-11-04T16:59:03.132Z",
+      "published_at": "2026-11-05T01:12:45.206Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-11-04T16:59:03.132Z",
+      "published_at": "2026-11-05T01:12:45.206Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,320 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_d93332af7bbe3f02",
+      "title": "YouTubeがSNSに進化する？ 最新アプリのソースコードから未発表のソーシャル機能が見つかり話題に【やじうまWatch】",
+      "url": "https://internet.watch.impress.co.jp/docs/yajiuma/2153771.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-11-05T01:01:44.000Z",
+      "summary": "YouTubeアプリのソースコードから、SNSのような未発表の機能が見つかり話題になっている。",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_2012f5d2e945efaf",
+      "title": "国税庁、「年末調整控除申告書の作成用ソフト（年調ソフト）」パソコン版の廃止を明言し波紋【やじうまWatch】",
+      "url": "https://internet.watch.impress.co.jp/docs/yajiuma/2153770.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-11-05T00:58:10.000Z",
+      "summary": "国税庁が、「年末調整控除申告書作成用ソフトウェア（年調ソフト）」のパソコン版を今年限りで廃止することを明言し、SNSを中心に波紋を呼んでいる。",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_b1f21859f6a653b6",
+      "title": "設計図面や熟練技術者のノウハウをAIで活用、リコーと川崎重工が連携",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2611/05/news011.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-11-05T00:00:00.000Z",
+      "summary": "リコーと川崎重工業は、AIを活用した設計業務の知識資産活用に向け、戦略的パートナーシップを構築した。設計文書や図面に蓄積された知識に加え、熟練技術者の経験やノウハウなどの暗黙知をAIで整理／可視化し、技術継承と設計業務の生産性向上を目指す。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_ff37d19927f0b531",
+      "title": "AIアプリ開発のReplit、日本に拠点開設　SMFLがライセンス提供や研修",
+      "url": "https://www.watch.impress.co.jp/docs/news/2153684.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-11-05T00:00:00.000Z",
+      "summary": "米Replit(レプリット)は、日本に拠点を開設し、企業向けAI開発サービスの展開を強化する。同社は9月に欧州市場向けのロンドン拠点を開設しており、日本を足掛かりにアジア市場での事業拡大を目指す。",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_e3206502b70548e2",
+      "title": "不要な書類を段ボール箱ごと溶解処分 個人で使えるヤマト「ECOBox」を試した【ミニレビュー】",
+      "url": "https://www.watch.impress.co.jp/docs/review/minireview/2152241.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-11-04T23:20:00.000Z",
+      "summary": "ヤマト運輸から、個人向けの書類溶解サービス「ECOBox」が登場しました。個人情報が含まれる文書など不要な書類を専用の段ボール箱に詰めて送ることで、専用の工場で箱ごと溶解処分してくれるサービスです。同社では「機密文書リサイクルサービス」と称しています。",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_97888d0ad5c4e06c",
+      "title": "ホンダ初のハイエンド電動MTB「Honda RN0」 カーボンフレームで約24kg",
+      "url": "https://www.watch.impress.co.jp/docs/news/2153654.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-11-04T23:00:00.000Z",
+      "summary": "ホンダは、同社初のハイエンド電動アシストマウンテンバイク(e-MTB)「Honda RN0」を、イタリア・ミラノで開催中の「EICMA 2026」で世界初公開した。ドイツのe-MTBメーカー「ROTWILD」と共同開発したモデルで、車体重量は約24kg。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_98472265128e37ad",
+      "title": "「しろちゃん」の表情で充電状況がわかるディスプレイ付きUSBケーブル、エレコムが発売",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2153663.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-11-04T22:30:00.000Z",
+      "summary": "エレコム株式会社は、コネクタ部のディスプレイに映るしろちゃんの表情で充電状況がわかる、USB Type-Cケーブル「しろちゃんディスプレイケーブル」を10月下旬に発売した。市場想定価格は、長さ1mの「MPA-CCECDF10」が1980円、2mの「MPA-CCECDF20」が2080円。本体カラーはブラック、ホワイト。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_3a3dbcf29faae319",
+      "title": "「トイレ」に凝ったらAI需要で大躍進――TOTO、利益の7割かせぐ「半導体」ビジネスの正体",
+      "url": "https://www.itmedia.co.jp/business/articles/2611/05/news018.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-11-04T22:00:00.000Z",
+      "summary": "“トイレの会社”として知られるTOTOが、半導体ビジネスで化けている。半導体製造装置に使う材料が、営業利益の7割をかせぐまでに成長している。急成長の裏側を社長が語った。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_d0213254ed9c8c63",
+      "title": "GPT-6モデルはAstra、Sol、それともLuna？　OpenAIが教える、Codex爆速開発の鉄則",
+      "url": "https://kn.itmedia.co.jp/kn/article/2611/05/2000002770/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-11-04T22:00:00.000Z",
+      "summary": "AIエージェントの導入を検討する企業とって大きな懸念となるのがトークン消費に伴うAPI利用コストだろう。高性能な最上位モデルを全工程で走らせれば予算を圧迫し、安価なモデルを一律で選定すれば修正ループが増えて手戻りが発生する。限られた予算枠の中で開発スピードと品質を両立させるためにはどうしたらいいのか。OpenAI Japanの石田修平氏が解説する。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用",
+        "行政",
+        "文科省"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_0968e902719005e5",
+      "title": "予算止める側だったのに「増額」進言　現場の「伸びそう」応援する“CFOの右腕”設置、MIXIに何が起きた？",
+      "url": "https://www.itmedia.co.jp/business/articles/2611/05/news025.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-11-04T22:00:00.000Z",
+      "summary": "MIXIが財務経理の改革に注力している。経営企画から「CFOの右腕」を切り出し、予算配分について進言。芽がある事業への予算増額を実現した。改革の裏側をCFOが語る。",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "行政",
+        "文科省"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_c18064facf76dbd5",
+      "title": "深刻な「中国依存」を脱せるか　老舗問屋が動いた「空気を使った肥料づくり」とAI農業とは？",
+      "url": "https://www.itmedia.co.jp/business/articles/2611/05/news019.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-11-04T22:00:00.000Z",
+      "summary": "中国が輸出の蛇口を少し締めるだけで、日本の田畑からみずみずしい作物が消え失せかねない──。化学肥料原料のほぼ全量を海外に握られた日本の農業。この食料安全保障の急所に立ち向かうのは、売上高500億円を誇る「100年続く資材問屋」だ。湯気立つ牛ふんにプラズマを当てて空気から肥料を錬成し、熟練農家の「30年の眼」をAIに移植する。裏方の商人が自らリスクを取り、輸入依存を打破する勝算に迫る。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_77f740d222cdb5b4",
+      "title": "インプレスのセキュリティ関連書籍、9タイトルを全文無料公開。期間限定　本日発売「1週間でサイバーセキュリティの基礎が学べる本」も。11月9日まで",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2153651.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-11-04T22:00:00.000Z",
+      "summary": "株式会社インプレスは11月5日、セキュリティ関連書籍9タイトルを、直販サイト「インプレスブックス」の特設ページにて全文無料公開した。期間は11月9日まで。",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_ab7b66b0db6431b8",
+      "title": "「IPv6は知っている」から「IPv6でサイトを公開できた」へ。設計から公開まで自分の手で体験する「AWS IPv6対応サイト構築ハンズオン」開催　オンラインで受講可能～「Internet Week 2026」で",
+      "url": "https://internet.watch.impress.co.jp/docs/interview/2153296.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-11-04T21:55:00.000Z",
+      "summary": "自社のウェブサイトのIPv6対応に興味はあるけれど、何から始めればよいか分からない。AWSで試してみたいけれど、一人で設定を進められるか不安――そんな人に向けた「Internet Week 2026」のハンズオンプログラムが「H1 AWS IPv6対応サイト構築ハンズオン -クラウド上のIP設計と管理-」（11月19日 13:00～17:00 オンライン開催）だ。",
+      "starred": false,
+      "category": "dx",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "校務DX",
+        "GIGA"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_eef425cce49d3128",
+      "title": "NTT、企業の経営トップが集まるサイバーセキュリティコミュニティ「Security Trust Forum」を発足",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2153659.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-11-04T21:30:00.000Z",
+      "summary": "NTT株式会社、株式会社NTTデータ、NTTドコモビジネス株式会社、NTTセキュリティ・ジャパン株式会社は11月2日、企業経営者がサイバーセキュリティを経営課題として議論し、学びあうコミュニティ「Security Trust Forum」（STF）を発足した。招待制・有償会員制で、NTTセキュリティ・ジャパン株式会社が事務局を担う。",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_5cfcbf9184b110cc",
+      "title": "Google、130万台以上のセットトップボックスの悪用に使われていた「XCPE」バックドアをテイクダウン　大規模なボットネット・レジデンシャルプロキシネットワークを無力化",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2153757.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-11-04T21:15:00.000Z",
+      "summary": "Googleは11月4日、警察庁らのパートナーと連携し、130万台以上のセットトップボックスをボットネットに組み込んでいた「XCPE」バックドアのテイクダウン（無力化）を実施したと発表した。あわせて、関連するC2（Command and Control）ドメインをテイクダウンし、1000万台以上の感染デバイスへのアクセスを遮断できたと推測しているという。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_fc4e6932b512a203",
+      "title": "日本語に対応したiPhoneの「Siri AI」で名刺を文字起こし！ PFUの小型スキャナー「ScanSnap iX110」活用【自宅Wi-Fiの“わからない”をスッキリ！】",
+      "url": "https://internet.watch.impress.co.jp/docs/column/homewifi/2153078.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-11-04T21:00:00.000Z",
+      "summary": "バッテリー内蔵でどこでも使えるハンディ型のドキュメントスキャナー「ScanSnap iX110」の活用を、第297回から実践している。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "インターネット",
+        "セキュリティ"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_4891b50a108524bc",
+      "title": "配送プラットフォーム「ピックゴー」に不正アクセス、導入法人の顧客と配送ドライバーの情報が流出の可能性　7NOW、出前館が影響を発表",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2153737.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-11-04T20:50:00.000Z",
+      "summary": "CBcloud株式会社は、同社の配送プラットフォーム「ピックゴー」が不正アクセスを受け、導入法人および利用者と、パートナードライバーの情報が流出した可能性があると発表した。",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "情報モラル",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_5059cd1d0868f1ae",
+      "title": "OSSは「プルリクエストを送る」から「自分用に直す」へ？　AI時代のメンテナーがPR受付を閉じると宣言した理由",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/05/news004.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-11-04T20:00:00.000Z",
+      "summary": "AIが生成するプルリクエストの増加を受け、あるOSS開発者が「今後公開するコードではPRの受付をやめ、改変は自由にする」と宣言した。変更を上流に送るのではなく、各自が自分用にカスタマイズする「リミックスモデル」の中身と、その賛否を整理する。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_8a42d3b773ec88fa",
@@ -1003,41 +1317,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_1589abcd2139202e",
-      "title": "LANケーブルを2分岐する小型スイッチングハブ「LAN-GIGAC302MG」、サンワサプライが発売",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2153167.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-11-03T23:00:00.000Z",
-      "summary": "サンワサプライ株式会社は11月2日、1本のLANケーブルを2分岐させられる3ポートのスイッチングハブ「LAN-GIGAC302MG」を発売した。市場想定価格5280円。",
-      "starred": false,
-      "category": "dx",
-      "tags": [
-        "インターネット",
-        "セキュリティ",
-        "校務DX",
-        "GIGA"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_d61771e392dff084",
-      "title": "「思い出すと震える」悪夢のランサムウェア攻撃、被害からの回復、そしてセキュリティ企業の立ち上げへ――その生々しい経緯をCyber Governance Labの達城利元社長が語る【Security Days Fall 2026】",
-      "url": "https://internet.watch.impress.co.jp/docs/event/2152285.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-11-03T22:55:00.000Z",
-      "summary": "ランサムウェアの脅威は日本でも日増しに高まっていると、多くの方が感じているだろう。報道も多い。しかし現実感をともなっているだろうか？ 攻撃は深夜だったのか、それとも退勤間際の夕刻なのか。何日、営業できなくなったのか。そして、被害額は実際いくらだったのか。",
-      "starred": false,
-      "category": "security",
-      "tags": [
-        "インターネット",
-        "セキュリティ",
-        "情報モラル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_1fa33305399ab5d2",
       "title": "Google、学校の生徒向けAI機能を原則オフへ　「AIなしのGoogle検索」は選べず批判も",
       "url": "https://www.itmedia.co.jp/news/article/2611/04/2000002849/",
@@ -1055,23 +1334,6 @@
         "教育ニュース"
       ],
       "priority_score": 60
-    },
-    {
-      "id": "item_568b32136f1714e0",
-      "title": "ライフカード「Vプリカ」で個人情報漏えいの可能性、委託先のGMOペイメントゲートウェイで「不正ユーザーによる行為」",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2153282.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-11-03T22:15:00.000Z",
-      "summary": "ライフカード株式会社は11月2日、Visaプリペイドサービス「Vプリカ」における個人情報漏えいの可能性について情報を発表した。",
-      "starred": false,
-      "category": "security",
-      "tags": [
-        "インターネット",
-        "セキュリティ",
-        "情報モラル"
-      ],
-      "priority_score": 50
     },
     {
       "id": "item_13113fac688f3b43",
@@ -1092,77 +1354,6 @@
       "priority_score": 60
     },
     {
-      "id": "item_8ffa07a09e3d8f81",
-      "title": "アンソロピック、7～9月の売上は170億ドル(2.7兆円)　「劇的な加速」がリスクに",
-      "url": "https://www.watch.impress.co.jp/docs/news/2153309.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-11-03T22:00:00.000Z",
-      "summary": "Anthropic(アンソロピック)は2日(米国時間)、新規株式公開(IPO)に向けて、米国証券取引委員会(SEC)に提出した、登録届出書(日本における目論見書)を更新した。新たに2026年第3四半期(7～9月期)の業績や、将来のモデルが、「AIによるAI研究の加速」のしきい値にまもなく到達する可能性があるなどと記載している。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "生成AI",
-        "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_83e52ce28582f2b7",
-      "title": "社内にある機器の脆弱性や“シャドーIT”を可視化するASMサービス「Mitokude .local」　定期的な監視で、IT資産管理・脆弱性管理を万全に",
-      "url": "https://internet.watch.impress.co.jp/docs/review/2150967.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-11-03T22:00:00.000Z",
-      "summary": "不正アクセス事例が多発する中、法人のセキュリティは、まず自社のネットワーク構成や保有する機器およびソフトウェアを把握し、それらのソフトウェアバージョンも把握したうえで、判明した脆弱性に適時対処することが求められる。「IT資産管理」「脆弱性管理」と呼ばれる取り組みだ。",
-      "starred": false,
-      "category": "security",
-      "tags": [
-        "インターネット",
-        "セキュリティ",
-        "情報モラル",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_5fe0dbc7214de4f0",
-      "title": "「CVE」「CVSS」とは：脆弱性を識別する共通の番号と深刻度を示すスコア【今週のキーワード】",
-      "url": "https://internet.watch.impress.co.jp/docs/column/keyword/2150817.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-11-03T22:00:00.000Z",
-      "summary": "ソフトウェアやネットワーク機器などの脆弱性を伝えるニュースでは、「CVE」で始まる番号や、「CVSS」のスコアが掲載されている。CVE番号は個別の脆弱性を識別するための共通の番号で、CVSSは脆弱性の深刻度を評価する仕組みだ。",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "インターネット",
-        "セキュリティ",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_b6bf067d971db44f",
-      "title": "「JAXA Earth API」で地球観測データを容易に取得可能。QGIS用プラグインもあるので地図上への可視化も簡単にできる【地図と位置情報】",
-      "url": "https://internet.watch.impress.co.jp/docs/column/chizu3/2152304.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-11-03T21:55:00.000Z",
-      "summary": "オープンソースのGIS（地理情報システム）ソリューションを提供する株式会社MIERUNEは、位置情報技術をテーマとしたプライベートカンファレンス「MIERUNE MEETUP 2026 in Tokyo」を10月23日に都内にて開催した。この中から、宇宙航空研究開発機構（JAXA）による発表と、MIERUNEが10月14日にオープンソースで公開したQGIS用のAIエージェント「Mapsuke」につ…",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_abd962de833c975a",
       "title": "東北大とアイシンがSTT-MRAM搭載AIチップを開発、16nmプロセスでは世界初",
       "url": "https://monoist.itmedia.co.jp/mn/articles/2611/04/news046.html",
@@ -1176,23 +1367,6 @@
         "生成AI",
         "AI",
         "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_b8ae2a89030cf307",
-      "title": "ロードサービス向け業務システムを手がけるプレステージ・コアソリューション、不正アクセスで最大550万件の情報漏えい　ソニー損保、ENEOSカーリースなどの事業者に影響",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2153279.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-11-03T21:30:00.000Z",
-      "summary": "株式会社プレステージ・インターナショナルは11月2日、同社グループの業務システムが不正アクセスを受け、個人情報が外部に持ち出されたことを確認したとして、情報を発表した。",
-      "starred": false,
-      "category": "security",
-      "tags": [
-        "インターネット",
-        "セキュリティ",
-        "情報モラル"
       ],
       "priority_score": 50
     },
@@ -1213,54 +1387,6 @@
         "AI活用"
       ],
       "priority_score": 60
-    },
-    {
-      "id": "item_9dad676c1e11f27b",
-      "title": "Scale-up Network（5）UALinkのレイヤー構造と、「Flit」単位の通信によるMemory Semantics【ネット新技術】",
-      "url": "https://internet.watch.impress.co.jp/docs/column/nettech/2150157.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-11-03T21:00:00.000Z",
-      "summary": "引き続きScale-upの話。今回はUALinkをもう少し細かく見ていく。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_7a0e956d6b36a105",
-      "title": "【いつモノコト】イヤーカフ型でも低音しっかり　夜の散歩が楽しくなる「Comfo Bass Pro」",
-      "url": "https://www.watch.impress.co.jp/docs/series/itsmo/2149720.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-11-03T00:30:00.000Z",
-      "summary": "筆者は夜に散歩をするのが日課になっていて、歩いているあいだに音楽やポッドキャストを聴きたいと思うようになりました。ただ、耳をふさぐイヤフォンだと周りの音が聞こえにくく、夜道ではどうしても気になります。そこで候補に挙がったのが耳の穴をふさがないイヤーカフ型です。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_84a6456dd53e9401",
-      "title": "JCB、「枯山水」デザインのゴールド/プラチナカード",
-      "url": "https://www.watch.impress.co.jp/docs/news/2153186.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-11-02T23:30:00.000Z",
-      "summary": "JCBは2日、個人向けクレジットカード「JCBゴールド」(年会費11,000円)および「JCBプラチナ」(同27,500円)に数量限定デザイン「枯山水」を追加し、発行を開始した。在庫限りで発行を終了する。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
     },
     {
       "id": "item_80f7f08b76a31330",
@@ -1375,130 +1501,6 @@
         "ツール"
       ],
       "priority_score": 80
-    },
-    {
-      "id": "item_835a64f08f590ad2",
-      "title": "「GMOトラスト・ログイン」で2492社・4万5030人の情報漏えい、設定不備でファイルが公開領域に",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2153245.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-11-02T11:06:08.000Z",
-      "summary": "GMOグローバルサイン株式会社は10月30日、ID管理・シングルサインオンサービス「GMOトラスト・ログイン」における情報漏えいについて、外部専門機関による調査結果を公表した。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_35951d27b45fc82e",
-      "title": "富士通とNECのCFOが語る、2026年下期以降の「ITサービス需要動向」",
-      "url": "https://www.itmedia.co.jp/enterprise/articles/2611/02/news053.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-11-02T06:00:00.000Z",
-      "summary": "サイバー攻撃への緊急対応、膨らむAIコスト、部材の高騰といった不安要素が重なる中、ITサービス需要はどうなるのか。富士通とNECの受注状況と決算会見での発言から今後の需要動向を探る。",
-      "starred": false,
-      "category": "security",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "セキュリティ",
-        "情報モラル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_27822c439f16249b",
-      "title": "キオクシア、2桁成長に“急ブレーキ”？　Q3「売上収益1％増」、決算説明会で幹部らが語ったこと",
-      "url": "https://www.itmedia.co.jp/business/articles/2611/02/news048.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-11-02T03:00:00.000Z",
-      "summary": "キオクシアHDは、2027年3月期Q3の見通しを「売上収益が2兆5000億円」と発表した。しかし前期比1.0％増にとどまっており、2桁成長からの転換について投資家から質問が上がった。質疑応答の内容を紹介する。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_7cd53b5648e9f6fa",
-      "title": "ChatGPTの「Chat」と「Work」統合へ　利用制限はCodexと共通化",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2611/02/2000002781/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-11-02T01:50:32.000Z",
-      "summary": "OpenAIはChatGPT Workのエージェント機能をChatGPTに統合する予定とし、CodexとChatGPTで有料プランの利用量制限が共通化されると発表した。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 60
-    },
-    {
-      "id": "item_54ee0e82dbafa121",
-      "title": "建設現場の「古い図面」問題　紙とデジタルのズレが招く「手戻り」と「工事遅延」、日本HPはどう解消した？",
-      "url": "https://www.itmedia.co.jp/business/articles/2611/02/news006.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-11-02T01:00:00.000Z",
-      "summary": "急速なデジタル化が進む建築・建設業界。一方で、現場が参照しているのは、依然として紙やPDFの図面が中心。デジタルと紙、オフィスと現場で異なる媒体で情報が参照されていると、最新の図面の共有が遅れ、手戻りや施工ミス、工事の遅延などにつながりかねない。この課題を日本HPの新サービスはどう解消するのか。",
-      "starred": false,
-      "category": "dx",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "校務DX",
-        "GIGA"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_7bd80b61071ae40e",
-      "title": "Anthropic、「Claude」の「Max 20x」を「Ultra」に名称変更　月200ドルで5時間ごとの利用制限を撤廃",
-      "url": "https://www.itmedia.co.jp/news/article/2611/02/2000002777/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-11-01T22:00:23.000Z",
-      "summary": "Anthropicは、「Claude」の個人向け有料プランの名称を変更し、月額100ドルの「Max 5x」を「Max」に、月額200ドルの「Max 20x」を「Ultra」にした。料金は据え置き。Ultraでは確認済みアカウントを対象に、5時間ごとの利用制限を撤廃した。週ごとの制限は変わらない。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_0507285002955099",
-      "title": "「保安検査の長い列」と「人手不足」をどう解消する？　フランクフルト空港におけるAI時代の空港DX",
-      "url": "https://www.itmedia.co.jp/business/articles/2611/02/news003.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-11-01T22:00:00.000Z",
-      "summary": "4月に開業したフランクフルト空港の第3ターミナル。IT技術やAIを導入し、顧客体験の向上や業務効率化を行っている。どのような技術を導入し、「止まらない空港」を実現しようとしているのか？",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
     },
     {
       "id": "item_4a07fb7b8ae69d28",
