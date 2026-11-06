@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T10:32:08.356Z",
+  "generated_at": "2026-11-06T16:40:18.706Z",
   "total": 102,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-11-06T10:31:58.318Z",
+      "published_at": "2026-11-06T16:40:08.621Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-11-06T10:31:58.318Z",
+      "published_at": "2026-11-06T16:40:08.621Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-11-06T10:31:58.318Z",
+      "published_at": "2026-11-06T16:40:08.621Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,40 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_8f48e282ba0871c2",
+      "title": "東京駅・羽田空港が18分 「羽田空港アクセス線」工事でシールドマシン稼働へ",
+      "url": "https://www.watch.impress.co.jp/docs/news/2154495.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-11-06T11:31:40.000Z",
+      "summary": "JR東日本は6日、建設中の新線「羽田空港アクセス線(仮称)」のシールドトンネル工事を報道関係者に公開した。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_1faf32d54eb15361",
+      "title": "ドコモ不正アクセス、「料金プラン」などの情報も流出 「重く受け止めている」",
+      "url": "https://www.watch.impress.co.jp/docs/news/2154508.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-11-06T10:36:34.000Z",
+      "summary": "NTTドコモは6日、「ドコモオンラインショップ」と会員サービス「My docomo」において、外部から不正なアクセスが行なわれ、一部の会員情報が流出した問題について会見し、謝罪した。",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_e72719c9aef7a093",
@@ -1334,38 +1368,6 @@
         "AI活用",
         "行政",
         "文科省"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_c5ec9f572f820fda",
-      "title": "楽天証券、1500万口座突破　7カ月で100万口座増",
-      "url": "https://www.watch.impress.co.jp/docs/news/2154069.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-11-05T09:40:48.000Z",
-      "summary": "楽天証券は2日、証券総合口座数が11月に1,500万口座を突破したと発表した。4月に1,400万口座に到達してから約7カ月で100万口座増加した。同社によると、国内証券会社単体の口座数としては最多(開示情報ベース)という。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_e1a2179a18cc02ea",
-      "title": "MUFG「エムット」、Google Health連携で日常＋金融サービスへ進化",
-      "url": "https://www.watch.impress.co.jp/docs/news/2154001.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-11-05T09:30:00.000Z",
-      "summary": "三菱UFJフィナンシャル・グループ(MUFG)と三菱UFJ銀行、マネーツリーは、総合金融サービス「エムット」と日常をつなぐ新たなサービスとして、資産管理サービス「Moneytree」とGoogle Healthを連携した「金融×ウェルネス」機能を提供する。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
       ],
       "priority_score": 50
     },
