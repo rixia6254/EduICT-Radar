@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T16:40:18.706Z",
+  "generated_at": "2026-11-07T00:31:48.863Z",
   "total": 102,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-11-06T16:40:08.621Z",
+      "published_at": "2026-11-07T00:31:38.626Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-11-06T16:40:08.621Z",
+      "published_at": "2026-11-07T00:31:38.626Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-11-06T16:40:08.621Z",
+      "published_at": "2026-11-07T00:31:38.626Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,110 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_33c8118dc6b22334",
+      "title": "【いつモノコト】ワークマンの新リカバリーウェアを着てみた　温度調節が快適",
+      "url": "https://www.watch.impress.co.jp/docs/series/itsmo/2153603.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-11-07T00:30:00.000Z",
+      "summary": "ワークマンからリカバリーウェア第2弾として7月に発売された「メディヒールコスモス」を、この秋からのパジャマとして採用してみました。オンラインストアでは在庫がなかったので、東京・杉並区の実店舗に赴き購入しました。各2,900円、上下セットで5,800円でした。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_0b82db64e6ddbb6b",
+      "title": "リストラします。会社のMacBookは引き続き使えます",
+      "url": "https://www.watch.impress.co.jp/docs/topic/watchplus/2154253.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-11-07T00:00:00.000Z",
+      "summary": "Impress Watchニュースレターに掲載した記事です。ニュースレターは無料で、毎週編集部員が会員向けのコラムなどをお送りしています。登録はこちらから。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_3e8a51407d0ce52f",
+      "title": "政府、「サイバーセキュリティ緊急対策パッケージ」策定　予備費から100億円",
+      "url": "https://www.watch.impress.co.jp/docs/news/2154548.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-11-06T23:00:00.000Z",
+      "summary": "止まる気配のないサイバー攻撃による情報漏えいなどの問題を受けて、政府は一丸となって取り組むために早期の対策となる施策を「サイバーセキュリティ緊急対策パッケージ」として取りまとめた。",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_a59863d544d6379b",
+      "title": "AI面接を導入したのに、応募者情報は手入力？　採用現場の「二度手間」を解消へ",
+      "url": "https://kn.itmedia.co.jp/kn/article/2611/07/2000002951/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-11-06T22:00:00.000Z",
+      "summary": "AI面接の導入で面接業務を効率化できても、応募者情報の登録や選考結果の転記など、採用担当者の手作業は残りがちだ。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_1b583c6ffe448bc0",
+      "title": "「ChatGPTの回答にリンクがない＝見られていない」　実は違うAIの情報収集",
+      "url": "https://kn.itmedia.co.jp/kn/article/2611/07/2000002948/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-11-06T22:00:00.000Z",
+      "summary": "ChatGPTやClaudeなどの生成AIに自社サイトが引用されていない場合、AIに情報を参照されていないと考えがちだ。だが、回答に表示されるリンクだけでは、AIがどのWebサイトを参考にしたのか分からない。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 70
+    },
+    {
+      "id": "item_0e2e75b830332d19",
+      "title": "AIで営業は効率化した、でもなぜ売れない？　成果を出す人が大切にしていること",
+      "url": "https://kn.itmedia.co.jp/kn/article/2611/07/2000002945/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-11-06T22:00:00.000Z",
+      "summary": "AIで提案書の作成や情報収集は効率化できても、それだけで営業成績は上がるのか。AIを導入した営業現場で今、問われているのは、ツールを使いこなす力だけではない。",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_8f48e282ba0871c2",
@@ -1065,22 +1169,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_becafc9fd85a63e8",
-      "title": "東横線菊名駅に「エトモ菊名」が12月4日開業",
-      "url": "https://www.watch.impress.co.jp/docs/news/2154041.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-11-05T23:00:00.000Z",
-      "summary": "東急は、東急東横線菊名駅に商業施設「エトモ菊名」を12月4日に開業する。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_ff8b653aa6966fb2",
       "title": "Akamai、AI推論サービス「Akamai Inference」とAIエージェント実行環境「Akamai Agent Sandbox」の提供を開始",
       "url": "https://internet.watch.impress.co.jp/docs/news/2153917.html",
@@ -1318,40 +1406,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_87ad8087be15da4a",
-      "title": "ドコモ、不正アクセスで最大30万件の情報漏えい　My docomoとオンラインショップ",
-      "url": "https://www.watch.impress.co.jp/docs/news/2154107.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-11-05T11:15:05.000Z",
-      "summary": "NTTドコモは5日、「ドコモオンラインショップ」と会員サービス「My docomo」において、外部から不正なアクセスが行なわれ、一部の会員情報が流出したと発表した。対象件数は最大約30万件。",
-      "starred": false,
-      "category": "security",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "セキュリティ",
-        "情報モラル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_c7fb96599970eb03",
-      "title": "新Kindle出揃う　「価格勝負」から「薄くて上質・カラフル」に",
-      "url": "https://www.watch.impress.co.jp/docs/news/2154084.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-11-05T10:15:41.000Z",
-      "summary": "Amazonは、10月1日に発表した電子書籍リーダーのKindleシリーズについて、国内で報道関係者向けに実機を公開した。容量やシグニチャーエディションなどの仕様の違いで合計6製品をラインナップしており、2製品はすでに発売済み。4製品は11月11日に発売される。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_d0213254ed9c8c63",
       "title": "GPT-6モデルはAstra、Sol、それともLuna？　OpenAIが教える、Codex爆速開発の鉄則",
       "url": "https://kn.itmedia.co.jp/kn/article/2611/05/2000002770/",
@@ -1406,59 +1460,6 @@
         "AI",
         "LLM",
         "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_d03b5b04dc551ca2",
-      "title": "フジテレビ、全ドラマでAI活用できる体制へ　2027年10月めど　「救命病棟２４時」で先行導入",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2611/05/2000002903/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-11-05T04:05:02.000Z",
-      "summary": "フジテレビジョンは、2027年10月をめどに、同社が制作する全ドラマでAIを活用できる体制を整えると発表した。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_bd8104a354fdc9f7",
-      "title": "OpenAI、「Images 2.6」発表　生成速度50％向上、GIFアニメの生成も可能に",
-      "url": "https://www.itmedia.co.jp/news/article/2611/05/2000002894/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-11-05T01:59:38.000Z",
-      "summary": "OpenAIは、画像生成AIの新版「ChatGPT Images 2.6」を発表した。画像生成速度の向上や編集精度の改善に加え、新たにGIFアニメーション作成機能や、保存した写真を別チャットで再利用できる機能を追加した。開発者向けには2種類のAPIモデルを提供し、電子透かし技術の導入など安全対策も強化している。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 70
-    },
-    {
-      "id": "item_f5bc2b5e4ba21176",
-      "title": "AI生成画像の「99％を検出」するChrome拡張機能が登場　米スタートアップ",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2611/05/2000002892/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-11-05T00:58:31.000Z",
-      "summary": "",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
       ],
       "priority_score": 50
     },
