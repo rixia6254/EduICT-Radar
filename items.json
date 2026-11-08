@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-11-07T15:34:31.243Z",
+  "generated_at": "2026-11-08T00:06:25.339Z",
   "total": 102,
   "items": [
+    {
+      "id": "item_5a2c7864b68dcd43",
+      "title": "過去の文部科学省ホームページ（※国立国会図書館ホームページへリンク）",
+      "url": "https://warp.ndl.go.jp/waid/3475",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-11-08T00:06:14.524Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
     {
       "id": "item_21f8651de3f2baea",
       "title": "文部科学省ホームページトップはこちら",
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-11-07T15:34:21.143Z",
+      "published_at": "2026-11-08T00:06:14.523Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +44,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-11-07T15:34:21.143Z",
+      "published_at": "2026-11-08T00:06:14.523Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -38,22 +56,21 @@
       "priority_score": 50
     },
     {
-      "id": "item_5a2c7864b68dcd43",
-      "title": "過去の文部科学省ホームページ（※国立国会図書館ホームページへリンク）",
-      "url": "https://warp.ndl.go.jp/waid/3475",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-11-07T15:34:21.143Z",
-      "summary": "",
+      "id": "item_25d7eec55dada5cc",
+      "title": "【図解あり】マルチエージェント設計「15のパターン」　GitHub、Google、Siemensの知見を一気に整理",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/08/news001.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-11-07T23:00:00.000Z",
+      "summary": "AIエージェントの一般化に伴い、複数のAIエージェントを連携させるマルチエージェントシステムが注目されています。GitHub、Google、Siemensが紹介した15のデザインパターンを、設計上の課題や具体的な活用場面とともに解説します。",
       "starred": false,
-      "category": "admin",
+      "category": "ai",
       "tags": [
-        "行政",
-        "文科省",
-        "制度",
-        "教育ニュース"
+        "生成AI",
+        "AI",
+        "LLM"
       ],
-      "priority_score": 60
+      "priority_score": 50
     },
     {
       "id": "item_2c986c44c790212b",
@@ -1457,24 +1474,6 @@
         "共通テスト",
         "入試",
         "教育ニュース"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_339b88a5c119f66d",
-      "title": "「世界最高水準」の性能うたう翻訳LLMをオープン化、PFN　0.8?31Bの4サイズ　オンデバイスにも対応",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2611/05/2000002900/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-11-05T04:24:50.000Z",
-      "summary": "Preferred Networksは、翻訳特化型LLM「PLaMo 3 Translate」をオープンウェイトで公開した。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
       ],
       "priority_score": 50
     },
