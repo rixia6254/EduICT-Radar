@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-11-10T10:51:40.860Z",
+  "generated_at": "2026-11-10T16:55:16.851Z",
   "total": 103,
   "items": [
+    {
+      "id": "item_21f8651de3f2baea",
+      "title": "文部科学省ホームページトップはこちら",
+      "url": "https://www.mext.go.jp/",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-11-10T16:55:07.248Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
     {
       "id": "item_bd1951ae70f98dac",
       "title": "サイトマップはこちら",
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-11-10T10:51:31.056Z",
+      "published_at": "2026-11-10T16:55:07.248Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -25,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-11-10T10:51:31.056Z",
+      "published_at": "2026-11-10T16:55:07.248Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -38,22 +56,84 @@
       "priority_score": 60
     },
     {
-      "id": "item_21f8651de3f2baea",
-      "title": "文部科学省ホームページトップはこちら",
-      "url": "https://www.mext.go.jp/",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-11-10T10:51:31.055Z",
-      "summary": "",
+      "id": "item_d4c44701b7b842c0",
+      "title": "ボタン1つで冷温切り替え！？ ── 迷ったら「状態遷移図」で整理しよう【英語会話・対訳つき】",
+      "url": "https://note.com/plum_tree/n/nea76e35cc9dd",
+      "source_id": "note_joho1",
+      "source_name": "note（情報科教員）",
+      "published_at": "2026-11-10T15:01:28.000Z",
+      "summary": "パソコン部の部室で、充電式カイロを握って温まっているカナさん。冬だけでなく夏も使える優れものですが、ボタンが1つしかないため、操作方法がすんなり理解できずケンタさんは大混乱！ そこへ山田先生がやってきて……。 続きをみる",
       "starred": false,
-      "category": "admin",
+      "category": "edu_news",
       "tags": [
-        "行政",
-        "文科省",
-        "制度",
+        "授業実践",
+        "情報Ⅰ",
+        "教材",
         "教育ニュース"
       ],
-      "priority_score": 60
+      "priority_score": 50
+    },
+    {
+      "id": "item_af4d8ede5462d799",
+      "title": "アドビ、Creative CloudにAIエージェント拡充　複数アプリを横断して制作支援",
+      "url": "https://www.watch.impress.co.jp/docs/news/2155285.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-11-10T14:02:00.000Z",
+      "summary": "アドビは、クリエイター向けイベント「Adobe MAX」で、Creative Cloudの新機能を発表した。各アプリへのAIアシスタントの搭載を拡大するほか、外部のAIエージェントからアドビのツールを利用する「Adobe Creative Cloud MCP」のプレビューを公開。PhotoshopやPremiereなどの編集機能も強化する。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "生成AI",
+        "AI活用",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_02c62eca897d79e0",
+      "title": "アドビとグーグルが提携拡大　Geminiで画像・PDF編集　GmailからAcrobat",
+      "url": "https://www.watch.impress.co.jp/docs/news/2155258.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-11-10T14:01:00.000Z",
+      "summary": "アドビとグーグルは10日(米国時間)、戦略的提携の拡大を発表した。Google WorkspaceのGmailやGoogleドライブから「Adobe Acrobat」を直接利用できるようにするほか、GoogleのAI「Gemini」からアドビの画像編集やPDF編集などの機能を利用可能にする。さらに、Google 検索の「AIモード」にもアドビの制作ツールを導入する。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "生成AI",
+        "AI活用",
+        "校務DX",
+        "GIGA",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_a7e5cf00b2828934",
+      "title": "アドビ、Fireflyに新デザインツール　画像・3D・動画制作を強化",
+      "url": "https://www.watch.impress.co.jp/docs/news/2155159.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-11-10T14:00:00.000Z",
+      "summary": "アドビは、クリエイティブAIスタジオ「Adobe Firefly」の機能拡充を発表した。画像やアニメーション、3Dなどを1つのカンバスで扱う「Firefly デザイン」や、制作ワークフローを構築する「Firefly グラフ」をパブリックベータ版として提供する。動画・画像エディターやAIアシスタントも強化する。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "生成AI",
+        "AI活用",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_d795b59e41214d51",
@@ -1068,56 +1148,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_cbc5e8d4a2903da1",
-      "title": "PFN、金融特化の小規模AI「PLaMo 3.0 Fin」　GPU1枚から動作",
-      "url": "https://www.watch.impress.co.jp/docs/news/2154924.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-11-10T00:00:00.000Z",
-      "summary": "Preferred Networks(PFN)は、金融機関での実務利用を想定した金融特化型の小規模言語モデル「PLaMo 3.0 Fin」を、Hugging Faceでオープンウェイトモデルとして公開した。クラウドの閉域環境やオンプレミス環境への導入に対応し、商用利用も可能。",
-      "starred": false,
-      "category": "dx",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "校務DX",
-        "GIGA"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_d897c0e872e591af",
-      "title": "500円で行列スキップ　“怒られ“から“あり“に進化した飲食店ファストパス「SuiSui」",
-      "url": "https://www.watch.impress.co.jp/docs/topic/2154224.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-11-09T23:20:00.000Z",
-      "summary": "追加料金を支払うことで行列をスキップし、優先的に入店できる飲食店向けファストパス「SuiSui(スイスイ)」。2023年10月にサービスを開始し、みそかつの「矢場とん」やラーメンの「つじ田」など、全国100店舗以上に導入されています。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_84bc9e2434cf0d25",
-      "title": "グーグル、AIモード検索でレストラン予約に対応　ぐるなび、一休など",
-      "url": "https://www.watch.impress.co.jp/docs/news/2154915.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-11-09T23:00:00.000Z",
-      "summary": "Googleは6日、Google 検索のAIモード検索において、レストラン予約検索機能を発表した。「ぐるなび」、「一休」などと連携し、AIモード検索で空席情報などをリストアップできるようになり、今後数週間で順次展開していく。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_bddabee67d6d3c34",
       "title": "エレコム、ケーブルを接続するだけで使えるCATVインターネット向けWi-Fi 6ルーター「WRC-X3000GS4-BC」発売",
       "url": "https://internet.watch.impress.co.jp/docs/news/2153974.html",
@@ -1814,26 +1844,6 @@
         "教育ニュース"
       ],
       "priority_score": 70
-    },
-    {
-      "id": "item_c43374478c3cd9e7",
-      "title": "文科省が発表した「情報＆AI教育」2030年から学校が変わります｜元SEママが今伝えたいこと",
-      "url": "https://note.com/pgm_sen/n/n474ccbe0bc6b",
-      "source_id": "note_joho1",
-      "source_name": "note（情報科教員）",
-      "published_at": "2026-10-15T14:25:45.000Z",
-      "summary": "この連載を初めて読む方は、まず第1回の自己紹介からどうぞ👇 続きをみる",
-      "starred": false,
-      "category": "admin",
-      "tags": [
-        "授業実践",
-        "情報Ⅰ",
-        "教材",
-        "行政",
-        "文科省",
-        "教育ニュース"
-      ],
-      "priority_score": 50
     }
   ],
   "clips": []
