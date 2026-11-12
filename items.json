@@ -1,32 +1,14 @@
 {
-  "generated_at": "2026-11-12T10:45:18.549Z",
+  "generated_at": "2026-11-12T17:29:21.479Z",
   "total": 103,
   "items": [
-    {
-      "id": "item_21f8651de3f2baea",
-      "title": "文部科学省ホームページトップはこちら",
-      "url": "https://www.mext.go.jp/",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-11-12T10:45:04.350Z",
-      "summary": "",
-      "starred": false,
-      "category": "admin",
-      "tags": [
-        "行政",
-        "文科省",
-        "制度",
-        "教育ニュース"
-      ],
-      "priority_score": 60
-    },
     {
       "id": "item_bd1951ae70f98dac",
       "title": "サイトマップはこちら",
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-11-12T10:45:04.350Z",
+      "published_at": "2026-11-12T17:29:12.049Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +25,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-11-12T10:45:04.350Z",
+      "published_at": "2026-11-12T17:29:12.049Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +36,56 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_21f8651de3f2baea",
+      "title": "文部科学省ホームページトップはこちら",
+      "url": "https://www.mext.go.jp/",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-11-12T17:29:12.048Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_3563bff115920c1e",
+      "title": "NVIDIA、ジェンスン・フアンCEOが退任",
+      "url": "https://www.watch.impress.co.jp/docs/news/2156074.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-11-12T14:10:24.000Z",
+      "summary": "NVIDIAは12日(米国時間）、創業者で社長・CEOのジェンスン・フアン氏が辞任すると発表した。即時の辞任となり、コレット・クレスCFOが、暫定CEOを務めることに合意した。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_f9c1721a30d6f811",
+      "title": "すかいらーくHD、博多ラーメンの「Shin-Shin」を買収　世界展開へ",
+      "url": "https://www.watch.impress.co.jp/docs/news/2156043.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-11-12T11:00:00.000Z",
+      "summary": "すかいらーくホールディングスは12日、博多ラーメンの「Shin-Shin」を買収すると発表した。全株式を取得し、Shin-Shinはすかいらーくグループ入りする。買収額は120億円。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_ad51591fe3470c32",
@@ -72,6 +104,24 @@
       "priority_score": 50
     },
     {
+      "id": "item_69799559458d7dc4",
+      "title": "CarPlayでGeminiが利用可能に　運転中にメール確認やAIと会話",
+      "url": "https://www.watch.impress.co.jp/docs/news/2155992.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-11-12T09:15:00.000Z",
+      "summary": "グーグルは11日(米国時間)、Appleの車載システム「CarPlay」において、AIアシスタント「Gemini」の提供を開始した。運転中でも音声でGemini Liveと対話し、メールの確認や予定の把握、アイデア出しなどができる。iOS向けGeminiのユーザーを対象に、世界で順次展開する。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "生成AI",
+        "AI活用"
+      ],
+      "priority_score": 50
+    },
+    {
       "id": "item_f037db149a44679d",
       "title": "スマートニュース、12月15日に東証グロース上場へ",
       "url": "https://www.watch.impress.co.jp/docs/news/2156003.html",
@@ -86,24 +136,6 @@
         "デジタル",
         "教材",
         "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_69799559458d7dc4",
-      "title": "CarPlayでGeminiが利用可能に　運転中にメール確認やAIと会話",
-      "url": "https://www.watch.impress.co.jp/docs/news/2155992.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-11-12T09:00:00.000Z",
-      "summary": "グーグルは11日(米国時間)、Appleの車載システム「CarPlay」において、AIアシスタント「Gemini」の提供を開始した。運転中でも音声でGemini Liveと対話し、メールの確認や予定の把握、アイデア出しなどができる。iOS向けGeminiのユーザーを対象に、世界で順次展開する。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "生成AI",
-        "AI活用"
       ],
       "priority_score": 50
     },
@@ -983,22 +1015,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_06e1761c4e500723",
-      "title": "【いつモノコト】頭全体をすっぽり覆う心地よさ。温熱×サウンドの「Relaxonic Cover」で癒される",
-      "url": "https://www.watch.impress.co.jp/docs/series/itsmo/2153049.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-11-11T23:40:00.000Z",
-      "summary": "毎日パソコンやスマートフォンに向かい続けていると、どうしても目や頭が重く感じてしまう瞬間がありますよね。そんな日々の疲れをリフレッシュするために、JT発の社内ベンチャーから発売中のアイマスク「Relaxonic Cover」を実際に購入して試してみました。価格はAmazonで27,500円です。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_6c41371046ca0323",
       "title": "バッファロー、10GbE向け有線LANアダプター「LUA-U3-C10G」発売　USB 3.2 Gen 2×2接続時に約9.4Gbps",
       "url": "https://internet.watch.impress.co.jp/docs/news/2155639.html",
@@ -1011,22 +1027,6 @@
       "tags": [
         "インターネット",
         "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_5fec26ed68560e30",
-      "title": "グーグル純正の紛失防止タグ「Google Pixel Tag」を試した【ミニレビュー】",
-      "url": "https://www.watch.impress.co.jp/docs/review/minireview/2155334.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-11-11T23:20:00.000Z",
-      "summary": "Googleは、同社初の紛失防止タグ(トラッカータグ)「Google Pixel Tag」を11月12日から発売開始しました。価格は単品が5,010円、4つセットが16,940円です。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
       ],
       "priority_score": 50
     },
