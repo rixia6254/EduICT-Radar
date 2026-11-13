@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T10:41:18.752Z",
+  "generated_at": "2026-11-13T17:03:43.841Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-11-13T10:41:08.844Z",
+      "published_at": "2026-11-13T17:03:33.451Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-11-13T10:41:08.844Z",
+      "published_at": "2026-11-13T17:03:33.451Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-11-13T10:41:08.844Z",
+      "published_at": "2026-11-13T17:03:33.451Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,57 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_4922c8e723197497",
+      "title": "マネックス証券、口座開設システムに不正アクセス 一部は本人確認書類画像も",
+      "url": "https://www.watch.impress.co.jp/docs/news/2156455.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-11-13T12:28:23.000Z",
+      "summary": "マネックス証券は13日、外部委託先が運営・管理する口座開設システムにおいて、第三者による不正アクセスが発生し、個人情報の漏えいが発生した可能性があると発表した。",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_a7c716fc171ff562",
+      "title": "マネックス証券の口座開設システムに不正アクセス、最大約113万件のメールアドレス・1592件の本人確認書類画像が漏えいのおそれ",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2156446.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-11-13T11:45:31.000Z",
+      "summary": "マネックス証券株式会社は11月13日、外部委託先の口座開設システムが不正アクセスの試みを検知してアクセスを遮断したが、調査の結果、顧客の個人情報の一部が漏えいしたおそれがあるとして、情報を発表した。",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_f41d12c79f5e99b9",
+      "title": "三越伊勢丹HD、新宿に「世界的ホテル」 32年開業目指す",
+      "url": "https://www.watch.impress.co.jp/docs/news/2156421.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-11-13T11:30:00.000Z",
+      "summary": "三越伊勢丹ホールディングスは、ホテル開発に参入する。13日の決算説明会の中で公表したもので、明治通り沿い、マルイメンの裏手にあたる新宿5丁目の一角を再開発し、ホテルブランドと協力して、新宿に新たなホテルを展開する。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_e824e415aad0d064",
@@ -972,22 +1023,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_9cde5e51838b0fb0",
-      "title": "新宿駅直結「明治安田新宿ビル」商業エリアが11月28日開業　21店舗",
-      "url": "https://www.watch.impress.co.jp/docs/news/2155982.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-11-12T22:30:00.000Z",
-      "summary": "明治安田生命保険は、8月31日に竣工した新宿駅直結の「明治安田新宿ビル」の商業エリアを、11月28日に開業する。飲食店を中心とした21店舗が出店する。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_343204786a4c2d22",
       "title": "データサイエンス人材育成のための無料オンライン講座「“わかる・使える”統計解析プログラミング」、総務省が受講者募集　2027年1月〜3月実施。データサイエンスの基礎からPythonを用いた実践的な演習まで",
       "url": "https://internet.watch.impress.co.jp/docs/news/2155846.html",
@@ -1167,22 +1202,6 @@
         "文科省"
       ],
       "priority_score": 60
-    },
-    {
-      "id": "item_3563bff115920c1e",
-      "title": "NVIDIA、ジェンスン・フアンCEOが退任",
-      "url": "https://www.watch.impress.co.jp/docs/news/2156074.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-11-12T14:10:24.000Z",
-      "summary": "NVIDIAは12日(米国時間)、創業者で社長・CEOのジェンスン・フアン氏が辞任すると発表した。即時の辞任となり、コレット・クレスCFOが、暫定CEOを務めることに合意した。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
     },
     {
       "id": "item_497e736064234567",
@@ -1420,22 +1439,6 @@
         "AI",
         "LLM",
         "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_7fd6fa04b3c0bc63",
-      "title": "Jackeryのポータブル電源＋ソーラーパネルがお買い得！　Amazon スマイルSale　100Wソーラーパネルセットの「Jackery ポータブル電源 1000 New」は8万3930円から",
-      "url": "https://internet.watch.impress.co.jp/docs/shopping/2155722.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-11-12T01:30:00.000Z",
-      "summary": "Amazon.co.jpで開催中のビッグセール「スマイルSale」も本日が最終日。Jackeryストアページでは同社のポータブル電源とソーラーパネルがセール中だ。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "インターネット",
-        "セキュリティ"
       ],
       "priority_score": 50
     },
