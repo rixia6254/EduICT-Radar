@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T09:55:02.723Z",
+  "generated_at": "2026-11-14T15:41:18.189Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-11-14T09:54:52.777Z",
+      "published_at": "2026-11-14T15:41:07.986Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-11-14T09:54:52.777Z",
+      "published_at": "2026-11-14T15:41:07.986Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-11-14T09:54:52.777Z",
+      "published_at": "2026-11-14T15:41:07.986Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -56,13 +56,33 @@
       "priority_score": 60
     },
     {
+      "id": "item_72b26624d0f7867d",
+      "title": "【追記あり】M365障害、ChatGPT／Claudeのコネクタにも影響　「ほとんどのリクエストで動作しない」",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2611/13/2000003164/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-11-14T11:35:45.000Z",
+      "summary": "「Microsoft 365」の複数サービスで障害が発生しており、OpenAIの「ChatGPT」とAnthropicの「Claude」のMicrosoft 365コネクタも正常に動作していないと両社が報告している。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用",
+        "校務DX",
+        "GIGA"
+      ],
+      "priority_score": 60
+    },
+    {
       "id": "item_1cc91704fcf04469",
-      "title": "Microsoft 365、接続障害からおおむね回復　後日詳細を報告へ",
+      "title": "Microsoft 365、接続障害から回復　後日詳細を報告へ",
       "url": "https://www.watch.impress.co.jp/docs/news/2156470.html",
       "source_id": "impress_watch",
       "source_name": "Impress Watch",
       "published_at": "2026-11-14T02:02:13.000Z",
-      "summary": "Microsoftは14日、Microsoft 365の多くのサービスで接続障害が発生した問題について多くの地域で回復したと告知した。",
+      "summary": "Microsoftは14日、Microsoft 365の多くのサービスで接続障害が発生した問題について全ての地域で回復したと告知した。",
       "starred": false,
       "category": "dx",
       "tags": [
@@ -689,26 +709,6 @@
       "tags": [
         "教育ニュース",
         "ICT"
-      ],
-      "priority_score": 60
-    },
-    {
-      "id": "item_72b26624d0f7867d",
-      "title": "M365障害、ChatGPT／Claudeのコネクタにも影響　「ほとんどのリクエストで動作しない」",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2611/13/2000003164/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-11-13T00:08:39.000Z",
-      "summary": "「Microsoft 365」の複数サービスで障害が発生しており、OpenAIの「ChatGPT」とAnthropicの「Claude」のMicrosoft 365コネクタも正常に動作していないと両社が報告している。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用",
-        "校務DX",
-        "GIGA"
       ],
       "priority_score": 60
     },
