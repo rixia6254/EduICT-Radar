@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T01:09:14.853Z",
+  "generated_at": "2026-11-14T09:55:02.723Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-11-14T01:09:05.487Z",
+      "published_at": "2026-11-14T09:54:52.777Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-11-14T01:09:05.487Z",
+      "published_at": "2026-11-14T09:54:52.777Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-11-14T01:09:05.487Z",
+      "published_at": "2026-11-14T09:54:52.777Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,40 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_1cc91704fcf04469",
+      "title": "Microsoft 365、接続障害からおおむね回復　後日詳細を報告へ",
+      "url": "https://www.watch.impress.co.jp/docs/news/2156470.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-11-14T02:02:13.000Z",
+      "summary": "Microsoftは14日、Microsoft 365の多くのサービスで接続障害が発生した問題について多くの地域で回復したと告知した。",
+      "starred": false,
+      "category": "dx",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "校務DX",
+        "GIGA"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_0f8ee35f6dce2555",
+      "title": "シチズン アテッサ、スター・ウォーズ「デス・スター」をデザイン",
+      "url": "https://www.watch.impress.co.jp/docs/news/2156290.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-11-14T01:18:36.000Z",
+      "summary": "シチズン時計は、シチズン アテッサの新作として、「スター・ウォーズ」に登場する「デス・スター」をモチーフにした限定モデル(BY1004-50E)を12月3日に発売する。電波ソーラーの腕時計で、価格は203,500円。数量は世界限定1,500本。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_680779d5670a05fd",
@@ -443,26 +477,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_9c635bf4cb71fa94",
-      "title": "グーグル、作業・実行のための主力モデル「Gemini 4 Hydrogen」",
-      "url": "https://www.watch.impress.co.jp/docs/news/2156136.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-11-13T02:01:10.000Z",
-      "summary": "Googleは12日(米国時間)、スピーディに作業を担う主力AIモデル「Gemini 4 Hydrogen」を発表した。日常的なコーディングやエージェント型ワークフローに必要な速度と効率性を備えた最新の大規模言語モデル(LLM)となり、Google AI StudioとGemini API、Gemini for business、Geminiアプリ、Google 検索から利用できる。コーディングエ…",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "生成AI",
-        "AI活用",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_cafc64b2a663a6f4",
       "title": "iPhone Duo購入者の30％、返品可能期間中に返品した？ 海外メディアが衝撃的なデータを公開【やじうまWatch】",
       "url": "https://internet.watch.impress.co.jp/docs/yajiuma/2156142.html",
@@ -559,22 +573,6 @@
       "tags": [
         "インターネット",
         "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_3d8ade1ec6da57ef",
-      "title": "シチズン カンパノラ、12年ぶり機械式「スモールセコンド メカニカル」",
-      "url": "https://www.watch.impress.co.jp/docs/news/2155237.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-11-13T01:00:00.000Z",
-      "summary": "シチズン時計は、宇宙や星がテーマのブランド「CAMPANOLA」(カンパノラ)の新作として、12年ぶりという新型の機械式ムーブメントを搭載する「スモールセコンド メカニカル」2機種を12月3日に発売する。価格は825,000円。それぞれ数量限定。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
       ],
       "priority_score": 50
     },
