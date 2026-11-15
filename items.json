@@ -1,32 +1,14 @@
 {
-  "generated_at": "2026-11-14T15:41:18.189Z",
-  "total": 103,
+  "generated_at": "2026-11-15T00:35:17.301Z",
+  "total": 83,
   "items": [
-    {
-      "id": "item_21f8651de3f2baea",
-      "title": "文部科学省ホームページトップはこちら",
-      "url": "https://www.mext.go.jp/",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-11-14T15:41:07.986Z",
-      "summary": "",
-      "starred": false,
-      "category": "admin",
-      "tags": [
-        "行政",
-        "文科省",
-        "制度",
-        "教育ニュース"
-      ],
-      "priority_score": 60
-    },
     {
       "id": "item_bd1951ae70f98dac",
       "title": "サイトマップはこちら",
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-11-14T15:41:07.986Z",
+      "published_at": "2026-11-15T00:35:07.027Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +25,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-11-14T15:41:07.986Z",
+      "published_at": "2026-11-15T00:35:07.027Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +36,42 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_21f8651de3f2baea",
+      "title": "文部科学省ホームページトップはこちら",
+      "url": "https://www.mext.go.jp/",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-11-15T00:35:07.026Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_61fa4aeaa60b52d7",
+      "title": "Googleウォレット、スマートロックのデジタルキーを追加可能に",
+      "url": "https://www.watch.impress.co.jp/docs/news/2156391.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-11-14T23:30:00.000Z",
+      "summary": "Googleは11月11日(米国時間)、スマートロックのデジタルキーをGoogle HomeアプリからGoogleウォレットに追加できる機能を提供開始した。現在はパブリックプレビュー向けに展開しており、今後数週間で全ユーザーが利用できるようになる見込み。",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_72b26624d0f7867d",
@@ -461,26 +479,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_9e5edddf7d976465",
-      "title": "宝くじ公式サイトに不正アクセス 4436アカウントに被害",
-      "url": "https://www.watch.impress.co.jp/docs/news/2156159.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-11-13T02:38:19.000Z",
-      "summary": "宝くじ公式サイトおよび公式アプリは、第三者による不正アクセスの発覚を受けて、11月5日に停止した。13日の8時からサービスを再開しているが、ログインにはパスワードの再設定が必要となっている。宝くじを販売する全国の都道府県と指定都市は13日、今回の不正アクセスに関する影響範囲を発表した。不正なログインの被害を受けた利用者のアカウント数は4,436。このうち4,133名についてはパスワードの変更も行な…",
-      "starred": false,
-      "category": "security",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "セキュリティ",
-        "情報モラル",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_51027def8869ea52",
       "title": "バッファローの半固体モバイルバッテリーが安い！　Amazonタイムセール　容量5000mAh、最大20W出力対応で3380円",
       "url": "https://internet.watch.impress.co.jp/docs/shopping/2156097.html",
@@ -593,350 +591,6 @@
       "tags": [
         "インターネット",
         "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_f4611e63da5f66bc",
-      "title": "「授業中の解説」69％がデジタル教材、生徒自身の「復習・宿題」74％が紙教材 =マナリンク調べ=",
-      "url": "https://ict-enews.net/2026/11/13noschool/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-11-13T00:10:36.000Z",
-      "summary": "NoSchoolは11日、オンライン家庭教師のマッチングプラットフォーム「マナリンク」に登録する全講師を対象に「オンライン授業における教材実態調査」を実施し、100名から得た回答結 […]",
-      "starred": false,
-      "category": "lesson",
-      "tags": [
-        "教育ニュース",
-        "ICT",
-        "授業実践",
-        "情報Ⅰ",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_d8246d3d787d702f",
-      "title": "「教育費のピーク」を知る親は100人に1人 =金融教育スクール「FEラボ」調べ=",
-      "url": "https://ict-enews.net/2026/11/13fe-labo/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-11-13T00:10:17.000Z",
-      "summary": "トラストが運営する金融教育スクール「FEラボ」は12日、一番上の子どもが小学生以下の30代・40代の男女201名を対象に、「子育てと将来の教育費に関する実態調査」を実施しその結果を […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_14df8483cd50fd0b",
-      "title": "28卒SPI受検者の約8割が「SPIが原因で落選」を経験 =Noah’s ark調べ=",
-      "url": "https://ict-enews.net/2026/11/13noahs-ark/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-11-13T00:10:03.000Z",
-      "summary": "Noah’s arkは11日、2028年卒の大学生・大学院生を対象に実施した、SPI（総合適性検査）に関する独自調査の結果を発表した。 それによると、2028年卒の大学 […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_9263fbe540aa86e6",
-      "title": "子どもの権利やセーフガーディングを学ぶ「Everybeingコモンズ」再始動",
-      "url": "https://ict-enews.net/2026/11/13everybeing/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-11-13T00:09:39.000Z",
-      "summary": "Everybeingは12日、子どもの権利やセーフガーディングに関心を持つ人が学び、実践や悩みを共有するコミュニティ「Everybeingコモンズ」を11月1日から再始動したと発表 […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_f11519e8fe2d4dcb",
-      "title": "桜美林大学、近畿大学、NTTグループの4者共同でAIカメラ等による実証実験",
-      "url": "https://ict-enews.net/2026/11/13kindai-3/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-11-13T00:09:23.000Z",
-      "summary": "NTTアーバンソリューションズ総合研究所、NTTファシリティーズ、桜美林大学および近畿大学は11日、近畿大学東大阪キャンパス内の「アカデミックシアター」ならびに隣接する「THE C […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_e62847c580520bde",
-      "title": "うみのこてらす、3カ月間無料のオンライン伴走プログラム「たね」始動",
-      "url": "https://ict-enews.net/2026/11/13uminokoterasu/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-11-13T00:09:08.000Z",
-      "summary": "うみのこてらすは11日、行き渋りや不登校などの小中高生を対象とした、3カ月間のオンライン伴走プログラム「たね」を2027年1月より開始することを発表した。 同プログラムは、専属メン […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_e8fa626006d37e77",
-      "title": "Springin’ ClassroomがWebブラウザに対応 小中学校と教委に来年3月末まで無料提供",
-      "url": "https://ict-enews.net/2026/11/13shikumi/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-11-13T00:08:53.000Z",
-      "summary": "しくみデザインは12日、教育機関向け創作・プログラミングサービス「Springin’ Classroom（スプリンギン クラスルーム）」のWebブラウザ対応を開始すると […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 60
-    },
-    {
-      "id": "item_7648b3805fe591e9",
-      "title": "「中高生 Ruby プログラミングコンテスト 2026」の最終審査会進出者12組が決定",
-      "url": "https://ict-enews.net/2026/11/13ruby-procon/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-11-13T00:08:29.000Z",
-      "summary": "「中高生Rubyプログラミングコンテスト 2026」は、今年で16回目を迎え、全国の中高 生がRuby言語 (Ruby on Rails、 mrubyも含む )で作成した作品を広く […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 60
-    },
-    {
-      "id": "item_0b5f44077c18df53",
-      "title": "TAC、AI・DX関連講座を網羅的に集約・案内する「AI・DX特設サイト」新設",
-      "url": "https://ict-enews.net/2026/11/13tac-11/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-11-13T00:08:12.000Z",
-      "summary": "TACは12日、企業のDX推進およびビジネスパーソンのリスキリング（学び直し）需要の急速な高まりを受け、AI・DX関連講座を網羅的に集約・案内する「AI・DX特設サイト」を新設した […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_7a7204be113a1db3",
-      "title": "Google for Education、「Googleで実現する教育向けセキュリティセミナー」27日開催",
-      "url": "https://ict-enews.net/2026/11/13google-for-education-4/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-11-13T00:07:46.000Z",
-      "summary": "Google for Educationは、「Google で実現する教育向けセキュリティ セミナー 〜今すぐできる基本とこれからの対策〜」を、11 月 27 日に開催する。 昨今 […]",
-      "starred": false,
-      "category": "security",
-      "tags": [
-        "教育ニュース",
-        "ICT",
-        "セキュリティ",
-        "情報モラル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_6aa882b632ee6b5a",
-      "title": "子どもの発達科学研究所、「いじめ問題への法的対応を弁護士が解説」12月14日開催",
-      "url": "https://ict-enews.net/2026/11/13kohatsu/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-11-13T00:07:31.000Z",
-      "summary": "子どもの発達科学研究所は、「いじめ問題への法的な対応」をテーマにした無料オンラインセミナー・相談会を12月14日に開催する。 弁護士で文部科学省スクールロイヤー配置アドバイザーでも […]",
-      "starred": false,
-      "category": "admin",
-      "tags": [
-        "教育ニュース",
-        "ICT",
-        "行政",
-        "文科省"
-      ],
-      "priority_score": 60
-    },
-    {
-      "id": "item_093e4817fde18616",
-      "title": "学研ビジネスブレインズ、「生成AIを『安全に活用する』組織のつくり方」26日開催",
-      "url": "https://ict-enews.net/2026/11/13gakken-bb/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-11-13T00:07:15.000Z",
-      "summary": "学研ビジネスブレインズは、生成AIの社内活用やルールづくりに取り組む企業のAI/DX推進担当者・人事担当者に向けた無料オンラインセミナー「生成AIを『安全に活用する』組織のつくり方 […]",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "教育ニュース",
-        "ICT",
-        "生成AI",
-        "AI活用"
-      ],
-      "priority_score": 60
-    },
-    {
-      "id": "item_0438fd85421cb5be",
-      "title": "教育と探求社、「探究学習で、生徒に何が起きているのか」東大との共同研究の結果から",
-      "url": "https://ict-enews.net/2026/11/13eduq-2/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-11-13T00:06:48.000Z",
-      "summary": "教育と探求社は、東京大学大学院教育学研究科附属 学校教育高度化・効果検証センター(CASEER)との共同調査の結果をもとに、中学・高校の管理職、教務主任、探究の推進担当の教員を対象 […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_a00f51ee791fe1b9",
-      "title": "AI型教材「キュビナ」、コニカミノルタジャパンの学習eポータル「tomoLinks」と名簿連携",
-      "url": "https://ict-enews.net/2026/11/13compass-4/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-11-13T00:06:13.000Z",
-      "summary": "COMPASSは12日、提供するAI型教材「キュビナ」が、コニカミノルタジャパンが提供する学習eポータル「tomoLinks」の「名簿連携」「SSO（シングルサインオン）」機能に対 […]",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "教育ニュース",
-        "ICT",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_459f6254a5d61654",
-      "title": "WIT、研修後に“使える手順書”が手元に残る学校職員向けAI研修の新プログラム",
-      "url": "https://ict-enews.net/2026/11/13wit/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-11-13T00:05:52.000Z",
-      "summary": "WITは12日、大学・短大・専門学校・高校の職員を対象に、自校の業務を題材に「AI業務活用手順書」と「校内AI運用ルール」を研修の中で作成する伴走型「AI・DXリスキリング研修」を […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_09c08eaff1378b8c",
-      "title": "学研スタディエ、小学生～高校生対象「双方向オンライン英検講座」開講",
-      "url": "https://ict-enews.net/2026/11/13gakken-33/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-11-13T00:05:37.000Z",
-      "summary": "学研ホールディングスのグループ会社である学研スタディエは、「進学塾サインワン」「サインワン個別スクール」「あすなろ学院」「オンライン個別指導パレット」などにて、英検合格を目指す小学 […]",
-      "starred": false,
-      "category": "edu_news",
-      "tags": [
-        "教育ニュース",
-        "ICT"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_8c61a4dae4e2b1ad",
-      "title": "登録学生の9割が早慶以上、審査制ハイクラス新卒採用プラットフォーム「Percify就活」リリース",
-      "url": "https://ict-enews.net/2026/11/13percify/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-11-13T00:05:19.000Z",
-      "summary": "Percifyは11日、審査制ハイクラス新卒採用プラットフォーム「Percify就活」の提供を開始した。 難関大の学生を採用したい企業は、出会う前から選考に進むまでの間に、「 会い […]",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "教育ニュース",
-        "ICT",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_40f3586d3aa21ef1",
-      "title": "プロシーズ、生成AI利用時のリスクと判断学ぶ「AIコンプライアンス講座」提供開始",
-      "url": "https://ict-enews.net/2026/11/13pro-seeds-4/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-11-13T00:04:35.000Z",
-      "summary": "プロシーズは11日、企業の新入社員研修や内定者研修におけるAIリテラシー・コンプライアンス教育を支援するため、新たなeラーニング教材「AIコンプライアンス講座」の提供を開始した。 […]",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "教育ニュース",
-        "ICT",
-        "生成AI",
-        "AI活用",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 60
-    },
-    {
-      "id": "item_60ae4d97ff0a9b8e",
-      "title": "paiza、100万会員突破記念生成AIへの指示力を試す新感覚ゲーム無料公開",
-      "url": "https://ict-enews.net/2026/11/13paiza-2/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-11-13T00:04:09.000Z",
-      "summary": "paizaは11日、IT人材向け学習・研修・就活・転職プラットフォーム「paiza」の登録会員数100万人突破を記念し、楽しみながら生成AIのプロンプトスキルを測定・ランキング化で […]",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "教育ニュース",
-        "ICT",
-        "生成AI",
-        "AI活用",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 60
-    },
-    {
-      "id": "item_741cec7fea44b047",
-      "title": "アプティグローバル、法人向け日本語学習管理システム「Nihongo UGuru」販売開始",
-      "url": "https://ict-enews.net/2026/11/13upty-global/",
-      "source_id": "ict_edu_news",
-      "source_name": "ICT教育ニュース",
-      "published_at": "2026-11-13T00:03:54.000Z",
-      "summary": "アプティグローバルは11日、法人向けに、日本語学習管理システム「Nihongo UGuru（にほんごウグル）」を販売開始した。 外国人材向けに日本語教育事業を行う会社が開発・運営す […]",
-      "starred": false,
-      "category": "dx",
-      "tags": [
-        "教育ニュース",
-        "ICT",
-        "校務DX",
-        "GIGA"
       ],
       "priority_score": 50
     },
