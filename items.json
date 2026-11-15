@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T10:30:54.254Z",
+  "generated_at": "2026-11-15T16:11:48.544Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-11-15T10:30:44.449Z",
+      "published_at": "2026-11-15T16:11:39.055Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-11-15T10:30:44.449Z",
+      "published_at": "2026-11-15T16:11:39.055Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-11-15T10:30:44.449Z",
+      "published_at": "2026-11-15T16:11:39.055Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,24 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_3bf3fab707b3b8f5",
+      "title": "X、投稿できる画像数を最大20枚まで拡大",
+      "url": "https://www.watch.impress.co.jp/docs/news/2156511.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-11-15T11:30:00.000Z",
+      "summary": "Xは13日、Xのプラットフォーム上で投稿できる画像を20枚に拡大した。",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_4c60d8e8c427f14d",
@@ -476,24 +494,6 @@
         "LLM",
         "AI活用",
         "教育ニュース"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_7e113a4c44d18750",
-      "title": "ClaudeがGoogle Meetに参加　議事録や資料作成、質問回答も",
-      "url": "https://www.watch.impress.co.jp/docs/news/2156161.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-11-13T02:48:09.000Z",
-      "summary": "Anthropicは12日(米国時間)、「Claude」がビデオ会議に参加し、議事録の作成や質問への回答、資料の共同編集などを行なう「Claude Meetings」のベータ版を提供開始した。ClaudeのTeamプランとEnterpriseプランが対象で、現在はGoogle Meetに対応する。他のビデオ会議サービスへの対応も予定している。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "生成AI",
-        "AI活用"
       ],
       "priority_score": 50
     },
