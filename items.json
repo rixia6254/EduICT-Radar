@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T10:46:58.900Z",
+  "generated_at": "2026-11-16T19:27:36.031Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-11-16T10:46:48.508Z",
+      "published_at": "2026-11-16T19:27:27.399Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-11-16T10:46:48.508Z",
+      "published_at": "2026-11-16T19:27:27.399Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-11-16T10:46:48.508Z",
+      "published_at": "2026-11-16T19:27:27.399Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,74 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_d6da3599dc7eb2c2",
+      "title": "グーグル、人間が介入しないAIによる脆弱性攻撃を確認　攻撃はより高速に",
+      "url": "https://www.watch.impress.co.jp/docs/news/2156870.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-11-16T15:01:00.000Z",
+      "summary": "Google Cloudは16日、サイバーセキュリティの調査チーム「Google Threat Intelligence Group：Google脅威インテリジェンス(GTIG)」による最新の調査結果を発表した。攻撃者がAIエージェントを使用し、人間が一切関与せずに、セキュリティパッチからエクスプロイトを作成する事例を初めて観測するなど、AIによる攻撃領域が拡大している。",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_5d8356474b928aee",
+      "title": "カフェの仕事で頭がパンク！？ （前編）── コンピューターに学ぶ、仕事の順番【英語会話・対訳つき】",
+      "url": "https://note.com/plum_tree/n/na804000b0277",
+      "source_id": "note_joho1",
+      "source_name": "note（情報科教員）",
+      "published_at": "2026-11-16T14:09:08.000Z",
+      "summary": "パソコン部に所属する高校生のケンタさん。お母さんが切り盛りするカフェで、ベテランのアヤさんが急病、ユミさんも都合がつかず、大学生のアルバイトさんは実験が長引いて遅刻…と、こんな日に限って重なるものです。一人で店に立つお母さんからSOSを受けて、学校帰りに駆けつけると、注文伝票や仕込み、洗い物の山を前に、お母さんが頭を抱えていて……。 ※この記事は「シフト作りの悩み、XORで解決 ── ベテランは「…",
+      "starred": false,
+      "category": "edu_news",
+      "tags": [
+        "授業実践",
+        "情報Ⅰ",
+        "教材",
+        "教育ニュース"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_fa5003a179ff5c30",
+      "title": "CHARGESPOT、PC充電・Wi-Fiに対応　トレカ販売も",
+      "url": "https://www.watch.impress.co.jp/docs/news/2156859.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-11-16T11:10:40.000Z",
+      "summary": "モバイルバッテリーシェア「CHARGESPOT」を運営するINFORICHは16日、今後の事業構想や戦略を紹介する事業戦略発表会「INFORICH Conference 2026 CHARGE BEYOND」を開催した。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_77ae0b415fd96e4b",
+      "title": "ダイエー、「KOHYO」を「フードスタイル」に　第1号は大阪・江坂店",
+      "url": "https://www.watch.impress.co.jp/docs/news/2156855.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-11-16T10:42:19.000Z",
+      "summary": "ダイエーは、「KOHYO」屋号を「フードスタイル」へ刷新する取り組みとして、「フードスタイル江坂店」を11月14日にオープンした。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_bf9a6fa5cc079916",
@@ -1298,54 +1366,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_0f8ee35f6dce2555",
-      "title": "シチズン アテッサ、スター・ウォーズ「デス・スター」をデザイン",
-      "url": "https://www.watch.impress.co.jp/docs/news/2156290.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-11-14T01:18:36.000Z",
-      "summary": "シチズン時計は、シチズン アテッサの新作として、「スター・ウォーズ」に登場する「デス・スター」をモチーフにした限定モデル(BY1004-50E)を12月3日に発売する。電波ソーラーの腕時計で、価格は203,500円。数量は世界限定1,500本。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_680779d5670a05fd",
-      "title": "【いつモノコト】飲み物が冷めない幸せ スマホも充電できる「MugWarmer 2」",
-      "url": "https://www.watch.impress.co.jp/docs/series/itsmo/2155210.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-11-14T00:30:00.000Z",
-      "summary": "涼しい、いや肌寒いと感じる日が増えてきました。こういう気候になってくると出番が増えるのが温かい飲み物です。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_86f8b6d4cba68b31",
-      "title": "アクアパーク×サンリオ リトルツインスターズ アクアリウムを見てきた!",
-      "url": "https://www.watch.impress.co.jp/docs/news/2156416.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-11-14T00:00:00.000Z",
-      "summary": "東京・品川駅すぐの水族館「マクセル アクアパーク品川」で、サンリオキャラクター「リトルツインスターズ(キキ&ララ)」とのコラボイベント「LittleTwinStars AQUARIUM」が11月13日から始まりました。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_6da3451cbd879101",
       "title": "NVIDIAをつくった男、ジェンスン・フアン　“デニーズの皿洗い“から“AI時代の主役“へ、激動の半生",
       "url": "https://www.itmedia.co.jp/business/articles/2611/14/news008.html",
@@ -1780,23 +1800,6 @@
         "情報Ⅰ",
         "教材",
         "教育ニュース"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_7c0f9e375456c698",
-      "title": "パパのボイスレコーダー（前編）── どれで録る？ 録音モードと録音時間【英語会話・対訳つき】",
-      "url": "https://note.com/plum_tree/n/n43115581d70f",
-      "source_id": "note_joho1",
-      "source_name": "note（情報科教員）",
-      "published_at": "2026-10-20T12:07:51.000Z",
-      "summary": "吹奏楽部の練習を録音するため、パパのボイスレコーダーを借りようとしたミオさん。会社の会議を録音していた、あのボイスレコーダーです。さっそく録音ボタンを押そうとしますが、パパから「録音モード」についてアドバイスを受けて……。 ※この記事は「『GTP』って言ってない？── GPTを二度と間違えない覚え方」の続編です。単独でもお楽しみいただけます。 続きをみる",
-      "starred": false,
-      "category": "lesson",
-      "tags": [
-        "授業実践",
-        "情報Ⅰ",
-        "教材"
       ],
       "priority_score": 50
     }
