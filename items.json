@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T11:17:09.157Z",
+  "generated_at": "2026-11-19T18:07:18.265Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-11-19T11:17:00.150Z",
+      "published_at": "2026-11-19T18:07:08.033Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-11-19T11:17:00.150Z",
+      "published_at": "2026-11-19T18:07:08.033Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-11-19T11:17:00.150Z",
+      "published_at": "2026-11-19T18:07:08.033Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,22 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_2eee5cc1cdb17ece",
+      "title": "JR東日本、長野県の19駅にSuica拡大　27年秋以降",
+      "url": "https://www.watch.impress.co.jp/docs/news/2157934.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-11-19T11:20:00.000Z",
+      "summary": "JR東日本は19日、長野県内の4路線19駅で交通系ICカード「Suica」を新たに利用可能にすると発表した。2027年秋以降のサービス開始を予定しており、対象駅には簡易Suica改札機を整備する。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_a0bfa455a0c5e18d",
@@ -1218,22 +1234,6 @@
         "情報モラル",
         "教材",
         "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_5ab479fa7c6eaf2a",
-      "title": "楽天証券、投資信託の出庫手数料を無料化",
-      "url": "https://www.watch.impress.co.jp/docs/news/2157569.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-11-18T08:35:10.000Z",
-      "summary": "楽天証券は18日、他の金融機関へ投資信託を移管する際の出庫手数料を無料化した。従来は1銘柄あたり3,300円(税込)の事務手続料がかかっていた。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
       ],
       "priority_score": 50
     },
