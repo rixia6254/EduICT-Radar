@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-11-21T01:54:04.901Z",
+  "generated_at": "2026-11-21T10:45:34.138Z",
   "total": 103,
   "items": [
+    {
+      "id": "item_21f8651de3f2baea",
+      "title": "文部科学省ホームページトップはこちら",
+      "url": "https://www.mext.go.jp/",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-11-21T10:45:24.247Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
     {
       "id": "item_bd1951ae70f98dac",
       "title": "サイトマップはこちら",
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-11-21T01:53:55.472Z",
+      "published_at": "2026-11-21T10:45:24.247Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -25,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-11-21T01:53:55.472Z",
+      "published_at": "2026-11-21T10:45:24.247Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -38,20 +56,36 @@
       "priority_score": 60
     },
     {
-      "id": "item_21f8651de3f2baea",
-      "title": "文部科学省ホームページトップはこちら",
-      "url": "https://www.mext.go.jp/",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-11-21T01:53:55.471Z",
-      "summary": "",
+      "id": "item_36f3b12458095e38",
+      "title": "動画配信の「Apple TV」が月額600円に 6カ月間50%OFFキャンペーン",
+      "url": "https://www.watch.impress.co.jp/docs/news/2158432.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-11-21T10:08:07.000Z",
+      "summary": "アップルは、動画配信サービス「Apple TV」の新規登録者と、対象となる再登録者向けに、月額600円で6カ月間サービスを利用できるキャンペーンを開始した。キャンペーン期間は11月30日23時50分まで。",
       "starred": false,
-      "category": "admin",
+      "category": "tech",
       "tags": [
-        "行政",
-        "文科省",
-        "制度",
-        "教育ニュース"
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_773523f9e12d10f6",
+      "title": "企業はAIをどう選ぶようになった？　ChatGPT、Copilot、Geminiの勢力図",
+      "url": "https://kn.itmedia.co.jp/kn/article/2611/21/2000003385/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-11-21T05:22:15.000Z",
+      "summary": "企業が業務で利用するAIサービスの顔ぶれが変わりつつある。従来のように個別のAIサービスを選ぶだけでなく、既存の業務環境に組み込まれたAIを利用する動きも広がっているようだ。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
       ],
       "priority_score": 60
     },
@@ -740,22 +774,6 @@
       "tags": [
         "インターネット",
         "セキュリティ"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_afe8939b5439c18b",
-      "title": "dカードプリペイド、27年9月にサービス終了",
-      "url": "https://www.watch.impress.co.jp/docs/news/2158082.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-11-20T01:46:37.000Z",
-      "summary": "NTTドコモ・フィナンシャルグループ(ドコモFG)は、三井住友カードと提携して発行する「dカード プリペイド」の提供を、2027年9月30日をもって終了する。これに伴い、新規発行を26年12月20日、ポイント進呈とチャージを27年2月28日をもって終了する。残高は27年9月30日まで利用できる。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
       ],
       "priority_score": 50
     },
@@ -1457,23 +1475,6 @@
         "セキュリティ",
         "教材",
         "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_d0e4f4299687c403",
-      "title": "ファミマが「AIロボット」本格導入へ　飲料補充に活用、作業時間の約7割を削減",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2611/19/2000003329/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-11-19T04:27:35.000Z",
-      "summary": "",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
       ],
       "priority_score": 50
     },
