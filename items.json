@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T10:52:51.667Z",
+  "generated_at": "2026-11-22T17:00:25.614Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-11-22T10:52:42.850Z",
+      "published_at": "2026-11-22T17:00:15.958Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-11-22T10:52:42.850Z",
+      "published_at": "2026-11-22T17:00:15.958Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-11-22T10:52:42.850Z",
+      "published_at": "2026-11-22T17:00:15.958Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,43 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_f6c5286f020f5abf",
+      "title": "基本情報の知識は通用する？共通テスト「情報Ⅰ」を2年分解いてみた",
+      "url": "https://note.com/matsushima99aj/n/n0772fbe840f3",
+      "source_id": "note_joho1",
+      "source_name": "note（情報科教員）",
+      "published_at": "2026-11-22T14:37:34.000Z",
+      "summary": "こんにちは、まつしまです。 2日前に基本情報技術者試験を受験してきました。結果は科目A795点、科目B685点で合格見込みです(両科目とも600点以上が合格基準)。勉強した内容を覚えているうちに、共通テストの「情報Ⅰ」にも挑戦してみようと思い、2年分解いてみました。 私はセンター試験の世代で、高校で情報を勉強したのは高1の定期テスト前くらいです。大学でもパソコンをほとんど使わないまま卒業しました。…",
+      "starred": false,
+      "category": "exam",
+      "tags": [
+        "授業実践",
+        "情報Ⅰ",
+        "教材",
+        "共通テスト",
+        "入試",
+        "教育ニュース"
+      ],
+      "priority_score": 70
+    },
+    {
+      "id": "item_6adf04de73f14972",
+      "title": "カフェの仕事で頭がパンク！？ （中編）── 到着順と「デュアルコア」の威力【英語会話・対訳つき】",
+      "url": "https://note.com/plum_tree/n/n2740b75bcc9c",
+      "source_id": "note_joho1",
+      "source_name": "note（情報科教員）",
+      "published_at": "2026-11-22T12:29:40.000Z",
+      "summary": "「すぐ終わる仕事」と「待ち時間の活用」で調子を取り戻したお母さん。今度は届いた注文を「到着順（FCFS）」でせっせとさばいていきます。そこへ、実験が長引いて遅刻していた大学生アルバイト・リクさんが駆けつけて……。 ※この記事は「カフェの仕事で頭がパンク！？ （前編）── コンピューターに学ぶ、仕事の順番」の続編です。単独でもお楽しみいただけます。 続きをみる",
+      "starred": false,
+      "category": "lesson",
+      "tags": [
+        "授業実践",
+        "情報Ⅰ",
+        "教材"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_740858978adcbdc7",
@@ -1754,43 +1791,6 @@
         "教育ニュース"
       ],
       "priority_score": 80
-    },
-    {
-      "id": "item_dd69b430eeb823a9",
-      "title": "共通テストのプログラム問題、授業で「トレース」を練習させるときの3つのコツ",
-      "url": "https://note.com/joho1_print/n/n47e350ad335d",
-      "source_id": "note_joho1",
-      "source_name": "note（情報科教員）",
-      "published_at": "2026-10-28T09:02:56.000Z",
-      "summary": "高校「情報Ⅰ」の共通テストでは、共通テスト用プログラム表記で書かれたプログラムを読み、変数の値がどう変わるかを追う問題が出ます。 生徒が苦手にしやすいこの「トレース」を、授業で練習させるときのコツを3つまとめました。 ■ 1. 表に「実行した行」と「変わった変数」だけを書かせる 全部の変数を毎行書かせると、表がすぐ埋まって生徒が嫌になります。 「その行で値が変わった変数だけを書く」と決めると、どこ…",
-      "starred": false,
-      "category": "exam",
-      "tags": [
-        "授業実践",
-        "情報Ⅰ",
-        "教材",
-        "共通テスト",
-        "入試",
-        "教育ニュース"
-      ],
-      "priority_score": 70
-    },
-    {
-      "id": "item_d5c9696ffd75bcb9",
-      "title": "パパのボイスレコーダー（後編）── 44.1kHzってなに？【英語会話・対訳つき】",
-      "url": "https://note.com/plum_tree/n/n2199333a80b7",
-      "source_id": "note_joho1",
-      "source_name": "note（情報科教員）",
-      "published_at": "2026-10-26T13:32:32.000Z",
-      "summary": "パパのボイスレコーダーの画面を見ていたミオさん。「MP3」は 320, 192, 64 kbps と「kbps」なのに、どうして「PCM」だけ 44.1「kHz」と単位が違うのかと疑問に思い、お兄ちゃんのケンタさんに尋ねています。そこへパパもやってきて……。 ※この記事は「パパのボイスレコーダー（前編）── どれで録る？ 録音モードと録音時間」の続編です。単独でもお楽しみいただけます。 続きをみる",
-      "starred": false,
-      "category": "lesson",
-      "tags": [
-        "授業実践",
-        "情報Ⅰ",
-        "教材"
-      ],
-      "priority_score": 50
     }
   ],
   "clips": []
