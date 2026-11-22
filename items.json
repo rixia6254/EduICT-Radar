@@ -1,32 +1,14 @@
 {
-  "generated_at": "2026-11-21T16:42:08.711Z",
+  "generated_at": "2026-11-22T00:49:33.827Z",
   "total": 103,
   "items": [
-    {
-      "id": "item_21f8651de3f2baea",
-      "title": "文部科学省ホームページトップはこちら",
-      "url": "https://www.mext.go.jp/",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-11-21T16:41:58.506Z",
-      "summary": "",
-      "starred": false,
-      "category": "admin",
-      "tags": [
-        "行政",
-        "文科省",
-        "制度",
-        "教育ニュース"
-      ],
-      "priority_score": 60
-    },
     {
       "id": "item_bd1951ae70f98dac",
       "title": "サイトマップはこちら",
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-11-21T16:41:58.506Z",
+      "published_at": "2026-11-22T00:49:24.617Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +25,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-11-21T16:41:58.506Z",
+      "published_at": "2026-11-22T00:49:24.617Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +36,94 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_21f8651de3f2baea",
+      "title": "文部科学省ホームページトップはこちら",
+      "url": "https://www.mext.go.jp/",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-11-22T00:49:24.616Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_3cd56350c6eed0ae",
+      "title": "沖縄・首里城正殿、11月23日公開　火災から復元",
+      "url": "https://www.watch.impress.co.jp/docs/news/2157861.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-11-22T00:00:00.000Z",
+      "summary": "沖縄・首里城公園内の「首里城正殿」が、火災後の復元工事を経て、11月23日から一般公開される。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_f926ecae9cfe13a8",
+      "title": "PORTER、オリジナル杢キャンバス生地のトート「COAL」",
+      "url": "https://www.watch.impress.co.jp/docs/news/2158332.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-11-21T23:30:00.000Z",
+      "summary": "PORTERは、独特のコシ感を持つオリジナル杢キャンバス生地を使用した2WAYトートバッグ「COAL(コール)」を発売した。2サイズをラインアップし、価格はスタンダードが57,200円、Lが62,700円。カラーはキャメルとマルーン。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_4c3c98b70ba36bc0",
+      "title": "Anthropicの数学者、「Claude」と共同で「リーマン予想」を証明したと主張　Leanコミュニティが「正しい」と認定",
+      "url": "https://www.itmedia.co.jp/news/article/2611/22/2000003388/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-11-21T23:21:31.000Z",
+      "summary": "Anthropicの数学者レベント・アルポーゲ氏は、「Claude」と共同で未解決問題「リーマン予想」の証明を発見したと発表した。証明支援系「Lean」で記述された1700万行の形式証明を公開しており、Leanコミュニティは複数の検証を経て「証明は正しい」と認定する共同声明を出した。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_8f34b6f5a9cd107b",
+      "title": "AIに必要なのは知識か、企業独自の判断基準か？　管理職調査で見えたAI活用の盲点",
+      "url": "https://kn.itmedia.co.jp/kn/article/2611/22/2000003384/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-11-21T21:00:00.000Z",
+      "summary": "管理職を対象とした勤務先でのAI活用に関する調査では、半数以上が利用されなくなったAIツールや用途があると回答した。背景には、企業独自の判断基準に関わる課題があるようだ。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_7f95cef4be1f55ec",
@@ -609,40 +679,6 @@
       "tags": [
         "テクノロジー",
         "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_74cdabb4fc9a0a09",
-      "title": "グーグル、「宇宙でAI」大型打ち上げでブルーオリジンと提携",
-      "url": "https://www.watch.impress.co.jp/docs/news/2158139.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-11-20T03:39:11.000Z",
-      "summary": "Googleは、地球の軌道上で太陽光発電とAIインフラの拡張を行なう計画「プロジェクト・サンキャッチャー」の最初の大型打ち上げについて、Blue Origin(ブルーオリジン)と提携したと発表した。2029年第1四半期を目標に、ブルーオリジンの大型ロケット「New Glenn」(ニューグレン)によって専用で打ち上げられる。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_e01bfc4e27b9bee3",
-      "title": "湘南美容クリニックなどのSBC、不正アクセスで約162万人の情報漏えい",
-      "url": "https://www.watch.impress.co.jp/docs/news/2158127.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-11-20T03:16:10.000Z",
-      "summary": "湘南美容クリニックなどを展開するSBCメディカルグループは19日、一部データベースが第三者によるサイバー攻撃を受け、顧客の個人情報が不正に取得される被害が発生したと発表した。また、利用していた外部の予約サービス「トリビュー」においても、予約客の個人情報が不正に取得されたことを確認したという。",
-      "starred": false,
-      "category": "security",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "セキュリティ",
-        "情報モラル"
       ],
       "priority_score": 50
     },
@@ -1405,26 +1441,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_bfa96841994d4d2c",
-      "title": "さよなら「Claude Code」　人気AIに愛想を尽かしたエンジニアの意外な移行先：906th Lap",
-      "url": "https://kn.itmedia.co.jp/kn/article/2611/20/2000003337/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-11-19T21:00:00.000Z",
-      "summary": "多くのエンジニアに支持されるコーディングAI「Claude Code」。長年愛用してきたエンジニアが、ある日、あえて無名のコーディングAIへの乗り換えを決めた。使い慣れた人気ツールに別れを告げるほどの問題とは何だったのか。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_0593cb895d700866",
       "title": "-40～75℃の過酷な環境に対応した5ポートの産業用ハブ「LAN-GIGAFA505」、サンワサプライが発売",
       "url": "https://internet.watch.impress.co.jp/docs/news/2157862.html",
@@ -1441,24 +1457,6 @@
         "GIGA"
       ],
       "priority_score": 50
-    },
-    {
-      "id": "item_71413a2a0bd70df8",
-      "title": "「GLM-5.3-Flash」「DeepSeek-V4.1-Flash-1017」が月3000リクエストまで無料　さくらのAI推論基盤で提供",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2611/19/2000003339/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-11-19T07:45:14.000Z",
-      "summary": "さくらインターネットが、生成AI向け推論API基盤「さくらのAI Engine」で、AIモデル「GLM-5.3-Flash」および「DeepSeek-V4.1-Flash-1017」の試験提供を始めた。1カ月あたり3000リクエストまで無料で使える。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用"
-      ],
-      "priority_score": 60
     },
     {
       "id": "item_920bcf5eddfd4565",
