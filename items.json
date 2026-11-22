@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-11-22T00:49:33.827Z",
+  "generated_at": "2026-11-22T10:52:51.667Z",
   "total": 103,
   "items": [
+    {
+      "id": "item_21f8651de3f2baea",
+      "title": "文部科学省ホームページトップはこちら",
+      "url": "https://www.mext.go.jp/",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-11-22T10:52:42.850Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
     {
       "id": "item_bd1951ae70f98dac",
       "title": "サイトマップはこちら",
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-11-22T00:49:24.617Z",
+      "published_at": "2026-11-22T10:52:42.850Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -25,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-11-22T00:49:24.617Z",
+      "published_at": "2026-11-22T10:52:42.850Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -38,22 +56,20 @@
       "priority_score": 60
     },
     {
-      "id": "item_21f8651de3f2baea",
-      "title": "文部科学省ホームページトップはこちら",
-      "url": "https://www.mext.go.jp/",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-11-22T00:49:24.616Z",
-      "summary": "",
+      "id": "item_740858978adcbdc7",
+      "title": "何枚も撮りたくなる小型カメラ「instax Pal 2」　エフェクトも豊富【ミニレビュー】",
+      "url": "https://www.watch.impress.co.jp/docs/review/minireview/2156000.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-11-22T01:00:00.000Z",
+      "summary": "富士フイルムから、手のひらサイズカメラ「instax Pal 2」が発売されました。価格は25,300円です。2023年10月に発売した「instax Pal」の後継モデルで、デザインを刷新し、天面モニターやファインダー、ダイヤル、レバーを搭載。見た目だけでなく、使い心地もカメラらしくなりました。",
       "starred": false,
-      "category": "admin",
+      "category": "tech",
       "tags": [
-        "行政",
-        "文科省",
-        "制度",
-        "教育ニュース"
+        "テクノロジー",
+        "デジタル"
       ],
-      "priority_score": 60
+      "priority_score": 50
     },
     {
       "id": "item_3cd56350c6eed0ae",
@@ -663,22 +679,6 @@
         "AI活用",
         "教材",
         "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_be8f2015782dbe2f",
-      "title": "セブン、夜の自分時間を充実させるスイーツ「21時にアイス」",
-      "url": "https://www.watch.impress.co.jp/docs/news/2158168.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-11-20T03:57:34.000Z",
-      "summary": "セブン‐イレブン・ジャパンは、夜のおうち時間を充実させることをコンセプトとした冬季限定スイーツを12月1日から順次発売する。「21時にアイス チョコクッキー/贅沢いちご」(462円)、「クリームまみれのカスタードシュー」(429円)、「セブンプレミアム ゴールド 金の生チョコレート 至福のひととき/とろけるくちどけ」(537円)などがある。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
       ],
       "priority_score": 50
     },
