@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T17:00:25.614Z",
+  "generated_at": "2026-11-23T01:17:03.748Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-11-22T17:00:15.958Z",
+      "published_at": "2026-11-23T01:16:53.712Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-11-22T17:00:15.958Z",
+      "published_at": "2026-11-23T01:16:53.712Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-11-22T17:00:15.958Z",
+      "published_at": "2026-11-23T01:16:53.712Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,62 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_fe226dfa38c52cca",
+      "title": "Rokid、75gのARグラス「Rokid Max 2」を本格展開 69800円",
+      "url": "https://www.watch.impress.co.jp/docs/news/2153983.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-11-23T00:00:00.000Z",
+      "summary": "Rokidは、ARグラス「Rokid Max 2」の日本市場での本格展開を開始した。2025年6月からAmazonで発売していた製品で、新たに公式オンラインストアでも販売を開始した。価格は69,800円。カラーはNight BlackとDawn Silverの2色を用意する。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_4e29334a0a6bdc7a",
+      "title": "OpenAIのチーフサイエンティスト、AI開発に業界共通の「上限」を提案　指標は「パープレキシティ」",
+      "url": "https://www.itmedia.co.jp/news/article/2611/23/2000003394/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-11-22T22:49:18.000Z",
+      "summary": "OpenAIのチーフサイエンティストが、AIの予測精度を示す「パープレキシティ」を共通指標とし、開発の上限を業界で設けるよう提案する論考を公開した。GPT-3.5以降の社内モデルの推移も開示し、早ければ2027年にも事前学習が急加速する恐れがあるとして、監視技術が追いつくまでの歯止めを訴えている。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用",
+        "教育ニュース"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_45c93804bbc6d2cd",
+      "title": "メルカリの情報流出、AI委託先で何が起きた？　確認された2つの攻撃",
+      "url": "https://kn.itmedia.co.jp/kn/article/2611/23/2000003393/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-11-22T21:00:00.000Z",
+      "summary": "メルカリグループが業務で利用する「Notion AI」で、チャット記録の一部が外部に流出した可能性があることが公表された。AI処理を委託企業では、外部クラウド事業者への侵害や認証情報の窃取、サービスの脆弱性を悪用した不正アクセスが確認された。",
+      "starred": false,
+      "category": "dx",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "校務DX",
+        "GIGA",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_f6c5286f020f5abf",
@@ -696,26 +752,6 @@
         "LLM",
         "セキュリティ",
         "情報モラル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_71c5df0cde16b816",
-      "title": "Mac版Geminiに「Computer use」　PC作業をAIが代行",
-      "url": "https://www.watch.impress.co.jp/docs/news/2158164.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-11-20T04:15:00.000Z",
-      "summary": "Googleは19日(米国時間)、Mac版Geminiアプリに、AIがPCを操作して作業を自動実行する「Computer use」機能を追加した。米国で提供を順次開始し、日本での提供は未定。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "生成AI",
-        "AI活用",
-        "教材",
-        "ツール"
       ],
       "priority_score": 50
     },
@@ -1408,40 +1444,6 @@
         "AI",
         "LLM",
         "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_01d711d57a42f826",
-      "title": "SlackやTeamsで情シス問い合わせを自動化　Salesforceの新AI「Paige」とは",
-      "url": "https://kn.itmedia.co.jp/kn/article/2611/20/2000003331/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-11-19T22:00:00.000Z",
-      "summary": "セールスフォース・ジャパンは、実務対応済みのAIエージェント「Piper」「Fin」「Paige」の国内提供を開始すると発表した。一からの構築は不要で、PaigeはSlackやTeamsでの社内問い合わせ対応を自動化する。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_19ae14b0535a23d0",
-      "title": "AI需要で「シェア0→50％」急成長　半導体設計のアーム社が仕掛ける“新ビジネス“の正体は？",
-      "url": "https://www.itmedia.co.jp/business/articles/2611/20/news041.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-11-19T22:00:00.000Z",
-      "summary": "「AI半導体といえばNVIDIA」という状況が変わるかもしれない。CPU開発を手掛ける英アームが存在感を高めている。AI需要をどう取り込もうというのか。同社の戦略を、Arm日本法人の横山崇幸社長が語った。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
       ],
       "priority_score": 50
     },
