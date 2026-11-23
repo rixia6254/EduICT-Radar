@@ -1,32 +1,14 @@
 {
-  "generated_at": "2026-11-23T11:58:26.146Z",
+  "generated_at": "2026-11-23T21:05:20.317Z",
   "total": 103,
   "items": [
-    {
-      "id": "item_5a2c7864b68dcd43",
-      "title": "過去の文部科学省ホームページ（※国立国会図書館ホームページへリンク）",
-      "url": "https://warp.ndl.go.jp/waid/3475",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-11-23T11:58:16.949Z",
-      "summary": "",
-      "starred": false,
-      "category": "admin",
-      "tags": [
-        "行政",
-        "文科省",
-        "制度",
-        "教育ニュース"
-      ],
-      "priority_score": 60
-    },
     {
       "id": "item_21f8651de3f2baea",
       "title": "文部科学省ホームページトップはこちら",
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-11-23T11:58:16.948Z",
+      "published_at": "2026-11-23T21:05:10.287Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -44,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-11-23T11:58:16.948Z",
+      "published_at": "2026-11-23T21:05:10.287Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -52,6 +34,74 @@
         "行政",
         "文科省",
         "制度"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_5a2c7864b68dcd43",
+      "title": "過去の文部科学省ホームページ（※国立国会図書館ホームページへリンク）",
+      "url": "https://warp.ndl.go.jp/waid/3475",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-11-23T21:05:10.287Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
+    {
+      "id": "item_f2666b7e8766308c",
+      "title": "月額1000円台のVPSで“自分専用AIテスト環境”を作れる！　さくらのVPS＋さくらのAI Engine＋OpenCodeでゲーム開発に挑戦【イニシャルB【特別編】】[Sponsored]",
+      "url": "https://internet.watch.impress.co.jp/docs/topic/shimizu_sp/2126965.html",
+      "source_id": "internet_watch",
+      "source_name": "INTERNET Watch",
+      "published_at": "2026-11-23T21:00:00.000Z",
+      "summary": "「OpenCode」や「OpenClaw」などの話題のAIエージェントを試してみたいが、手元に動かす環境がない……。自分のPCにインストールするのは避けたいが、かといって専用PCを買う予算もない。そんなときに便利なのがVPS（仮想専用サーバー）だ。",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "インターネット",
+        "セキュリティ",
+        "行政",
+        "文科省"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_a203095c20a9b651",
+      "title": "NVIDIA、ジェンスン・フアン氏がCEO復帰 「安全保障上のリスクはない」",
+      "url": "https://www.watch.impress.co.jp/docs/news/2158554.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-11-23T16:07:39.000Z",
+      "summary": "NVIDIAは23日(米国時間)、ジェンスン・フアン氏がCEOに復帰すると発表した。取締役会は、フアン氏との協議と会合を経て、満場一致で同氏の復帰を決定した。また、決定に至る過程で、取締役会は米国政府高官からの意見も聴取。その意見に基づき、フアン氏の復帰が国家安全保障上のリスクをもたらさないと判断したという。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_585a31a573fc5ce8",
+      "title": "アマゾン、セールで忙しいドライバーに「ありがとう」で500円の追加報酬",
+      "url": "https://www.watch.impress.co.jp/docs/news/2158540.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-11-23T12:28:24.000Z",
+      "summary": "Amazonは、配達ドライバーに感謝の気持ちを伝える「ドライバーさんにありがとうキャンペーン」を11月16日から開始した。27日に先行セールが始まる「Amazon ブラックフライデー」のショッピングシーズンにあわせた施策で、12月31日まで実施する。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
       ],
       "priority_score": 50
     },
@@ -697,42 +747,6 @@
         "デジタル",
         "生成AI",
         "AI活用"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_992c9e4ec7af5d7a",
-      "title": "Gemini API、必要なツールのみを取得可能に　トークン消費を削減",
-      "url": "https://www.watch.impress.co.jp/docs/news/2158217.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-11-20T06:08:53.000Z",
-      "summary": "Googleは19日(米国時間)、Gemini APIのInteractions APIで、AIエージェントが必要なツールのみを取得する新機能「Tool Retrieval」のプレビュー提供を開始した。入力トークン数の削減とツール選択精度の維持を図る。対応モデルはGemini 3.6以降。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
-        "生成AI",
-        "AI活用",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_7cf60d3642da92fa",
-      "title": "ドンキ新業態「ロビン・フッド」、都市型「亀戸店」と関東最大「朝霞泉水店」",
-      "url": "https://www.watch.impress.co.jp/docs/news/2158200.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-11-20T05:13:54.000Z",
-      "summary": "パン・パシフィック・インターナショナルホールディングス(PPIH)は、食品強化型の新業態「ロビン・フッド」の都市型コンパクト店舗「亀戸店」を12月8日、埼玉県初で関東最大級となる「朝霞泉水店」を12月15日にオープンする。それぞれ「Olympic 亀戸店」「Olympic 朝霞泉水店」の業態転換店舗となる。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
       ],
       "priority_score": 50
     },
@@ -1512,23 +1526,6 @@
         "セキュリティ",
         "教材",
         "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_ddae13c257b26979",
-      "title": "本当に？ 日本で最も使われているパスワードは「pass1111」であるとの調査結果【やじうまWatch】",
-      "url": "https://internet.watch.impress.co.jp/docs/yajiuma/2157754.html",
-      "source_id": "internet_watch",
-      "source_name": "INTERNET Watch",
-      "published_at": "2026-11-19T02:57:21.000Z",
-      "summary": "日本で最も使われているパスワードは「pass1111」であるとの調査結果が波紋を呼んでいる。",
-      "starred": false,
-      "category": "security",
-      "tags": [
-        "インターネット",
-        "セキュリティ",
-        "情報モラル"
       ],
       "priority_score": 50
     },
