@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T05:04:52.930Z",
+  "generated_at": "2026-11-24T13:24:03.448Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-11-24T05:04:43.302Z",
+      "published_at": "2026-11-24T13:23:53.428Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-11-24T05:04:43.302Z",
+      "published_at": "2026-11-24T13:23:53.428Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-11-24T05:04:43.302Z",
+      "published_at": "2026-11-24T13:23:53.428Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,190 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_07fc876dd6a7e7fc",
+      "title": "「GetBackers」AI利用の告知映像で謝罪　「作者への説明と確認が十分でなかった」　ボイスコミック制作巡り",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2611/24/2000003424/",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-11-24T10:51:37.000Z",
+      "summary": "マンガ「GetBackers -奪還屋-」のボイスコミック公式X（@reclaim_00）は、11月18日に投稿した告知映像について、誤解や混乱を招いたとして謝罪した。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_081347d797233ead",
+      "title": "京王、最大1108万件の個人情報漏えいの可能性　一部マイナカードの写しも",
+      "url": "https://www.watch.impress.co.jp/docs/news/2158875.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-11-24T10:19:47.000Z",
+      "summary": "京王電鉄は24日、9月26日に発生したランサムウェア攻撃による、個人情報漏えいについての調査結果を発表した。最大約1,108万人分の個人情報の漏えい可能性があるとしており、このうち従業員や退職者など約12,000人分の氏名や人事情報などの漏えいが確認された。",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_737ce40e701fbe90",
+      "title": "日本郵政、大雪被災者に通帳なしで20万円まで払戻し　保険料の猶予も",
+      "url": "https://www.watch.impress.co.jp/docs/news/2158849.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-11-24T09:39:58.000Z",
+      "summary": "日本郵政グループは24日、11月20日からの大雪で被災した人を対象に、貯金の払戻しや保険料の払込猶予などの非常取扱いを開始した。対象地域は、災害救助法が適用された福島県耶麻郡北塩原村と猪苗代町。今後、適用地域が追加された場合も同様に対応する。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_3072713bcd2cdd73",
+      "title": "都営新宿線「岩本町駅」が急行停車駅に　秋葉原との乗換駅",
+      "url": "https://www.watch.impress.co.jp/docs/news/2158833.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-11-24T09:15:48.000Z",
+      "summary": "都営地下鉄新宿線の急行が、3月13日から「岩本町駅」に停車するようになる。岩本町駅はJR等の秋葉原駅との乗換駅となっている。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_4733cc2831bb6224",
+      "title": "タワレコに不正アクセスで1021万件漏えい　77万件は住所も",
+      "url": "https://www.watch.impress.co.jp/docs/news/2158821.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-11-24T09:03:52.000Z",
+      "summary": "タワーレコードは21日、ECサイト「タワーレコード オンライン」に外部から不正アクセスがあり、個人情報が流出したと発表した。対象はタワーレコードメンバーズ登録を行なったユーザーで、件数は約1,021万件。クレジットカード情報は含まれていないという。",
+      "starred": false,
+      "category": "security",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "セキュリティ",
+        "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_90040fc67921facd",
+      "title": "渋谷ヒカリエ裏にバスターミナル擁する38階建て複合施設",
+      "url": "https://www.watch.impress.co.jp/docs/news/2158810.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-11-24T08:46:33.000Z",
+      "summary": "渋谷二丁目西地区市街地再開発組合、東京建物、UR都市機構は、渋谷二丁目西地区第一種市街地再開発事業において、11月24日付で東京都知事より権利変換計画の認可を受けたと発表した。5階建て、38階建ての複合施設開発を、2029年に本体工事着工、2035年に竣工の計画で進められる。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_1613adbafff2fcbc",
+      "title": "地図からロッカー指定で荷物受取　日本郵便などが実証",
+      "url": "https://www.watch.impress.co.jp/docs/news/2158798.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-11-24T08:15:49.000Z",
+      "summary": "日本郵便、JPデジタル、GMOメイクショップは24日、「ビジネスデジタルアドレス」を活用し、ECサイト上の地図から荷物の受取場所を選択できる実証事業を本格的に開始した。自宅以外で荷物を受け取る選択肢を広げ、利便性や導入・運用上の課題を検証する。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_7980630b2a9747b1",
+      "title": "アンソロピックはなぜ、OpenAIを差し置いて「史上最大IPO」できたのか　“事業展開のうまさ“を識者が語る",
+      "url": "https://www.itmedia.co.jp/business/articles/2611/24/news035.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-11-24T08:00:00.000Z",
+      "summary": "Anthropicが上場して「史上最大のIPO」を成し遂げた。「AIによる人類滅亡リスク」を警告していた同社。ビジネス面の強みはどこにあるのか、識者に聞いた。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM",
+        "AI活用"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_042ed568c3585519",
+      "title": "明治が市乳製造にAI計画立案を導入、稼働直数を最大約17％削減へ",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2611/24/news059.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-11-24T07:00:00.000Z",
+      "summary": "ALGO ARTISは、明治の愛知工場における市乳製品の製造工程に計画DXソリューション「OPTIUM」を試験導入した。AIによる稼働計画の自動立案により、一部工程で最大約17％の稼働直数削減を確認した。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_f3727727347caff5",
+      "title": "「トライアル西友」を核店舗とするショッピングセンター「マチノマ小手指」",
+      "url": "https://www.watch.impress.co.jp/docs/news/2158735.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-11-24T06:00:00.000Z",
+      "summary": "三菱商事都市開発と長谷工コーポレーションは、埼玉県所沢市小手指町一丁目にて開発を進めていたNSC(近隣型ショッピングセンター)「マチノマ小手指」が11月24日に竣工したと発表した。核テナントは「トライアル西友小手指店」で12月4日に開業する。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_4be937435efca821",
+      "title": "Wi-Fiルーター、自身で購入が56.1%　シェアはバッファロー、満足度はNEC",
+      "url": "https://www.watch.impress.co.jp/docs/news/2158722.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-11-24T05:12:15.000Z",
+      "summary": "MMD研究所は24日、「2026年Wi-Fiルーターのシェア・満足度調査」の結果を発表した。自身で購入して利用しているWi-Fiルーターのメーカーはバッファローが37.7%で最多。総合満足度はNECが57.8%で首位となった。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_a260ea3e56098216",
@@ -106,6 +290,23 @@
         "AI活用",
         "セキュリティ",
         "情報モラル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_96b7ecb728c5530f",
+      "title": "「ノーコード」の次は何か？　AIを組み込むkintoneの“新しい呼び名”を考える",
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2611/24/news045.html",
+      "source_id": "itmedia_ai",
+      "source_name": "ITmedia AI+",
+      "published_at": "2026-11-24T04:20:00.000Z",
+      "summary": "AI時代の業務システムは、どのような姿になるのか。人とAIが役割を分担して働く時代に業務システムの中枢を担うのは何か。サイボウズ「kintone」の進化を見ながら考察する。",
+      "starred": false,
+      "category": "ai",
+      "tags": [
+        "生成AI",
+        "AI",
+        "LLM"
       ],
       "priority_score": 50
     },
@@ -1074,54 +1275,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_740858978adcbdc7",
-      "title": "何枚も撮りたくなる小型カメラ「instax Pal 2」　エフェクトも豊富【ミニレビュー】",
-      "url": "https://www.watch.impress.co.jp/docs/review/minireview/2156000.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-11-22T01:00:00.000Z",
-      "summary": "富士フイルムから、手のひらサイズカメラ「instax Pal 2」が発売されました。価格は25,300円です。2023年10月に発売した「instax Pal」の後継モデルで、デザインを刷新し、天面モニターやファインダー、ダイヤル、レバーを搭載。見た目だけでなく、使い心地もカメラらしくなりました。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_3cd56350c6eed0ae",
-      "title": "沖縄・首里城正殿、11月23日公開　火災から復元",
-      "url": "https://www.watch.impress.co.jp/docs/news/2157861.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-11-22T00:00:00.000Z",
-      "summary": "沖縄・首里城公園内の「首里城正殿」が、火災後の復元工事を経て、11月23日から一般公開される。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_f926ecae9cfe13a8",
-      "title": "PORTER、オリジナル杢キャンバス生地のトート「COAL」",
-      "url": "https://www.watch.impress.co.jp/docs/news/2158332.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-11-21T23:30:00.000Z",
-      "summary": "PORTERは、独特のコシ感を持つオリジナル杢キャンバス生地を使用した2WAYトートバッグ「COAL(コール)」を発売した。2サイズをラインアップし、価格はスタンダードが57,200円、Lが62,700円。カラーはキャメルとマルーン。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_4c3c98b70ba36bc0",
       "title": "Anthropicの数学者、「Claude」と共同で「リーマン予想」を証明したと主張　Leanコミュニティが「正しい」と認定",
       "url": "https://www.itmedia.co.jp/news/article/2611/22/2000003388/",
@@ -1160,38 +1313,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_7f95cef4be1f55ec",
-      "title": "ゴッホ「星月夜」だけじゃない! オルセー美術館「いまを生きる歓び」展で名画再発見",
-      "url": "https://www.watch.impress.co.jp/docs/news/2158335.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-11-21T11:00:00.000Z",
-      "summary": "東京・上野の東京都美術館にて、特別展「東京都美術館開館100周年記念 オルセー美術館所蔵 いまを生きる歓び」が開幕した。会期は2027年3月28日(日)まで。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_36f3b12458095e38",
-      "title": "動画配信の「Apple TV」が月額600円に 6カ月間50%OFFキャンペーン",
-      "url": "https://www.watch.impress.co.jp/docs/news/2158432.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-11-21T10:08:07.000Z",
-      "summary": "アップルは、動画配信サービス「Apple TV」の新規登録者と、対象となる再登録者向けに、月額600円で6カ月間サービスを利用できるキャンペーンを開始した。キャンペーン期間は11月30日23時50分まで。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_773523f9e12d10f6",
       "title": "企業はAIをどう選ぶようになった？　ChatGPT、Copilot、Geminiの勢力図",
       "url": "https://kn.itmedia.co.jp/kn/article/2611/21/2000003385/",
@@ -1208,71 +1329,6 @@
         "AI活用"
       ],
       "priority_score": 60
-    },
-    {
-      "id": "item_709a57e4ec591b40",
-      "title": "G-SHOCK、ブラック×グレーのスタイリッシュなモノトーン4機種",
-      "url": "https://www.watch.impress.co.jp/docs/news/2156849.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-11-21T01:00:00.000Z",
-      "summary": "カシオ計算機は、G-SHOCKの新作として、ブラック×グレーのモノトーンカラーを採用した4機種を11月に発売した。電池駆動のクオーツ式腕時計で、価格は15,950円～28,050円。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_90af71e6d6030735",
-      "title": "【いつモノコト】G-SHOCKの新型「2500シリーズ」に一目惚れ! ホワイトを購入した",
-      "url": "https://www.watch.impress.co.jp/docs/series/itsmo/2157277.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-11-21T00:30:00.000Z",
-      "summary": "カシオから新型のG-SHOCK「2500シリーズ」が登場しました。G-SHOCKの伝統的な角形フェイスにアナログ文字板というこれまでに無いスタイルに惹かれ、予約購入をした次第です。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_940f3485a280ea5a",
-      "title": "AIで成果を出す企業ほど「人を増やす」？　“通説”を否定する調査結果をIDCが発表",
-      "url": "https://www.itmedia.co.jp/enterprise/articles/2611/21/news003.html",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-11-21T00:00:00.000Z",
-      "summary": "「AIが普及すれば企業の人員は減る」という通説と食い違う調査結果を、IDCが発表した。AI投資で高いROIを得ている組織ほど、今後の増員を見込む割合が高い。AIで成果を出す企業が人員を増やすのはなぜか。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_2655ee95efdd2304",
-      "title": "一番無難じゃないキャラが優勝　Suica「B案」とAI時代の愛されかた",
-      "url": "https://www.watch.impress.co.jp/docs/topic/watchplus/2157644.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-11-21T00:00:00.000Z",
-      "summary": "Impress Watchニュースレターに掲載した記事です。ニュースレターは無料で、毎週編集部員が会員向けのコラムなどをお送りしています。登録はこちらから。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
     },
     {
       "id": "item_2327cd8d711a9228",
@@ -1387,23 +1443,6 @@
       "priority_score": 50
     },
     {
-      "id": "item_ff5143b3f2f394b1",
-      "title": "京大がAI依存チェックリスト公開　「当てはまるものあれば、しばらくAI触らないで」",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2611/20/2000003378/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-11-20T10:13:44.000Z",
-      "summary": "京都大学の学生相談部門は「AIに悩みを相談する際に気をつけて欲しいこと」と題した文書を公開した。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_b94f26ae2fdebc9c",
       "title": "プレイド、「KARTE」不正アクセスの調査結果を公表、2027年1月中旬の段階的な再開を目指す　契約が終了した企業の情報も漏えいの対象に",
       "url": "https://internet.watch.impress.co.jp/docs/news/2158284.html",
@@ -1419,43 +1458,6 @@
         "情報モラル",
         "教材",
         "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_2a9c9f823f07a838",
-      "title": "Antigravityを他社AIから操作すると「垢BAN」？　注意点をGoogle Cloud日本法人に聞いた",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2611/20/2000003353/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-11-20T08:04:35.000Z",
-      "summary": "「Google Antigravity」を他社のAIツールを介して利用すると規約違反でアカウント停止の可能性があるとXなどで話題になっている。Google Cloud日本法人への取材や公開されている規約などを基に状況と対応を整理する。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM",
-        "AI活用",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_0b3d5a07d90c196f",
-      "title": "「Muse」専用メアド、無料で作成可能に　AIが送受信を代理",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2611/20/2000003372/",
-      "source_id": "itmedia_ai",
-      "source_name": "ITmedia AI+",
-      "published_at": "2026-11-20T07:52:48.000Z",
-      "summary": "米Metaは、AIエージェント「Muse」専用のメールアドレスについて、無料ユーザーを含む全ユーザーが取得できるようになったと発表した。",
-      "starred": false,
-      "category": "ai",
-      "tags": [
-        "生成AI",
-        "AI",
-        "LLM"
       ],
       "priority_score": 50
     },
