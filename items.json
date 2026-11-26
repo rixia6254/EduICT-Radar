@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-11-26T12:01:07.663Z",
+  "generated_at": "2026-11-26T18:55:14.086Z",
   "total": 103,
   "items": [
+    {
+      "id": "item_21f8651de3f2baea",
+      "title": "文部科学省ホームページトップはこちら",
+      "url": "https://www.mext.go.jp/",
+      "source_id": "mext",
+      "source_name": "文部科学省",
+      "published_at": "2026-11-26T18:55:04.213Z",
+      "summary": "",
+      "starred": false,
+      "category": "admin",
+      "tags": [
+        "行政",
+        "文科省",
+        "制度",
+        "教育ニュース"
+      ],
+      "priority_score": 60
+    },
     {
       "id": "item_bd1951ae70f98dac",
       "title": "サイトマップはこちら",
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-11-26T12:00:57.038Z",
+      "published_at": "2026-11-26T18:55:04.213Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -25,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-11-26T12:00:57.038Z",
+      "published_at": "2026-11-26T18:55:04.213Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -38,22 +56,38 @@
       "priority_score": 60
     },
     {
-      "id": "item_21f8651de3f2baea",
-      "title": "文部科学省ホームページトップはこちら",
-      "url": "https://www.mext.go.jp/",
-      "source_id": "mext",
-      "source_name": "文部科学省",
-      "published_at": "2026-11-26T12:00:57.037Z",
-      "summary": "",
+      "id": "item_33de1f9d7b3e7f29",
+      "title": "アマゾンブラックフライデー開始 iPhone Airなど過去最大規模の11日間",
+      "url": "https://www.watch.impress.co.jp/docs/news/2159709.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-11-26T15:01:00.000Z",
+      "summary": "Amazonの大規模セール「Amazon ブラックフライデー」がスタートしました。先行セールが11月27日0時からスタートしており、11月30日～12月7日の本セールと合わせ合計11日間の開催です。",
       "starred": false,
-      "category": "admin",
+      "category": "tech",
       "tags": [
-        "行政",
-        "文科省",
-        "制度",
-        "教育ニュース"
+        "テクノロジー",
+        "デジタル"
       ],
-      "priority_score": 60
+      "priority_score": 50
+    },
+    {
+      "id": "item_232d7fd195e15d41",
+      "title": "同期忘れをなくすAIレコーダ決定版「Notta Memo Pro」が25%OFFに　文字起こし月30時間増量[Sponsored]",
+      "url": "https://www.watch.impress.co.jp/docs/topic/special/2155610.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-11-26T15:00:00.000Z",
+      "summary": "会議や商談の録音から文字起こし、要約までを任せられるAIボイスレコーダ。議事録作成などの手間を減らせる、便利なビジネスツールとして深く浸透しつつあります。",
+      "starred": false,
+      "category": "tools",
+      "tags": [
+        "テクノロジー",
+        "デジタル",
+        "教材",
+        "ツール"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_ab176bf3d7e8c2b7",
@@ -1199,40 +1233,6 @@
         "セキュリティ",
         "生成AI",
         "AI活用",
-        "教材",
-        "ツール"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_08351ac31ef69b85",
-      "title": "アレクサから玄関ドア施錠、シャッター開閉も YKK APがMatter対応",
-      "url": "https://www.watch.impress.co.jp/docs/news/2159251.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-11-25T10:24:37.000Z",
-      "summary": "YKK APは、電気錠の玄関ドアや電動シャッターを、スマートホームの規格「Matter」(マター)に対応させるための中継器「スマートホームハブ」を12月25日に発売する。参考価格は1台 49,000円(税別、工事費別)。新築向けのほかリフォーム用の販売も行なう。玄関ドアとシャッターのMatter対応は業界初としている。2027年度の売上目標は1.8億円。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
-      "id": "item_ef098192c537cc74",
-      "title": "タクシーアプリ「GO」、成田空港で大型ワゴン指定可能に　最大5名",
-      "url": "https://www.watch.impress.co.jp/docs/news/2159218.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-11-25T09:53:34.000Z",
-      "summary": "GOは25日、タクシーアプリ「GO」の「大型ワゴン」指定を成田国際空港と成田市内の一部で開始した。首都圏では初の導入で、成田空港から東京都内への移動にも利用できる。タクシー事業者7社が順次対応する。",
-      "starred": false,
-      "category": "tools",
-      "tags": [
-        "テクノロジー",
-        "デジタル",
         "教材",
         "ツール"
       ],
