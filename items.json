@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T03:00:47.807Z",
+  "generated_at": "2026-11-28T11:28:00.164Z",
   "total": 103,
   "items": [
     {
@@ -8,7 +8,7 @@
       "url": "https://www.mext.go.jp/",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-11-28T03:00:37.666Z",
+      "published_at": "2026-11-28T11:27:51.691Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -26,7 +26,7 @@
       "url": "https://www.mext.go.jp/sitemap/sitemap.htm",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-11-28T03:00:37.666Z",
+      "published_at": "2026-11-28T11:27:51.691Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -43,7 +43,7 @@
       "url": "https://warp.ndl.go.jp/waid/3475",
       "source_id": "mext",
       "source_name": "文部科学省",
-      "published_at": "2026-11-28T03:00:37.666Z",
+      "published_at": "2026-11-28T11:27:51.691Z",
       "summary": "",
       "starred": false,
       "category": "admin",
@@ -54,6 +54,39 @@
         "教育ニュース"
       ],
       "priority_score": 60
+    },
+    {
+      "id": "item_a7c4e37ccb837e48",
+      "title": "Amazonブラックフライデーのオススメは?　注目商品を編集部がセレクト",
+      "url": "https://www.watch.impress.co.jp/docs/news/2160168.html",
+      "source_id": "impress_watch",
+      "source_name": "Impress Watch",
+      "published_at": "2026-11-28T09:30:00.000Z",
+      "summary": "Amazonの大型セール「Amazon ブラックフライデー」が11月30日から12月7日まで開催されます。期間は8日間ですが、27日から「先行セール」が開始されており、実質11日間のセールとなります。",
+      "starred": false,
+      "category": "tech",
+      "tags": [
+        "テクノロジー",
+        "デジタル"
+      ],
+      "priority_score": 50
+    },
+    {
+      "id": "item_2b1a842f26f6037e",
+      "title": "カフェのベテランに学ぶ仕事術（アヤ編）── 「先読み」と分岐予測【英語会話・対訳つき】",
+      "url": "https://note.com/plum_tree/n/n77de1beebba4",
+      "source_id": "note_joho1",
+      "source_name": "note（情報科教員）",
+      "published_at": "2026-11-28T05:39:43.000Z",
+      "summary": "本日のカフェのベテラン枠はアヤさん。何かと先回りして動くアヤさんの姿を見たケンタさんは、CPUの高速化技術「分岐予測」の気配を感じ取って……。 ※この記事は「シフト作りの悩み、XORで解決」の続編です。単独でもお楽しみいただけます。 続きをみる",
+      "starred": false,
+      "category": "lesson",
+      "tags": [
+        "授業実践",
+        "情報Ⅰ",
+        "教材"
+      ],
+      "priority_score": 50
     },
     {
       "id": "item_863530e01b8e66ec",
@@ -961,22 +994,6 @@
       "priority_score": 60
     },
     {
-      "id": "item_48e525a1e11499b6",
-      "title": "XRグラスの最適解「VITURE Beast」が7万円台に　買うならブラックフライデー[Sponsored]",
-      "url": "https://www.watch.impress.co.jp/docs/topic/special/2157222.html",
-      "source_id": "impress_watch",
-      "source_name": "Impress Watch",
-      "published_at": "2026-11-26T23:00:00.000Z",
-      "summary": "XRグラスを使えば、目の前に大画面が広がり、PCの作業領域を広げたり、映画やゲームを迫力ある映像で楽しんだりできます。そんな大画面体験を、映像の美しさから使い勝手まで徹底的に追求したのが、VITUREのフラッグシップモデル「VITURE Beast XRグラス」です。",
-      "starred": false,
-      "category": "tech",
-      "tags": [
-        "テクノロジー",
-        "デジタル"
-      ],
-      "priority_score": 50
-    },
-    {
       "id": "item_f28ac110dfbcd217",
       "title": "エレコム、高速USB 10Gbps対応でUSB PDとHDMI出力を搭載するドッキングステーション2モデル発売",
       "url": "https://internet.watch.impress.co.jp/docs/news/2159421.html",
@@ -1768,26 +1785,6 @@
         "入試"
       ],
       "priority_score": 90
-    },
-    {
-      "id": "item_115d994bd7948a66",
-      "title": "【2027年度入試】共通テスト 情報I 第1問で出る計算まとめ｜2進数・2の補数・データ量・論理回路・誤り検出（例題つき）",
-      "url": "https://note.com/open_yak4980/n/n47dae4177d78",
-      "source_id": "note_joho1",
-      "source_name": "note（情報科教員）",
-      "published_at": "2026-11-02T16:48:21.000Z",
-      "summary": "共通テスト「情報I」で、手を動かして計算する問題の単元を並べました。単元ごとに、何を聞かれるか、公式と手順、例題 1 問（答えと途中式つき）、よくある間違いの順に書いています。例題はこの記事のために作った問題で、答えは Python で計算して確かめてあります。 この記事は大学入試センターとは関係ありません。共通テストの形式は2026年度実施のものです（試験時間 60 分・100 点・大問 4 題…",
-      "starred": false,
-      "category": "exam",
-      "tags": [
-        "授業実践",
-        "情報Ⅰ",
-        "教材",
-        "共通テスト",
-        "入試",
-        "ツール"
-      ],
-      "priority_score": 80
     }
   ],
   "clips": []
